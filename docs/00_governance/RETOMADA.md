@@ -40,11 +40,13 @@ Resumo não apaga nem substitui fonte. Ver `MEMORY_HANDOFF_PROTOCOL.md`.
 
 A fundação de Grandes Bestas foi capturada e normalizada, porém permanece `HYPOTHESIS`.
 
-O Notion possui Lore Registry, Decision Log, Source Library, Research & Open Questions, Entity Atlas, Master Timeline, guia de leitura, intake da Bíblia v0.1, contrato de sync, Command Center e intake crítico da conversa Meta AI.
+O Notion possui Lore Registry, Decision Log, Source Library, Research & Open Questions, Entity Atlas, Master Timeline, guia de leitura, intake da Bíblia v0.1, contrato de sync, Command Center, intake crítico da conversa Meta AI e laboratório metafísico de Luz/Vínculo/renascimento.
 
 O PDF `Ideias bagunçadas (1).pdf` foi incorporado como Source Record `BW-SRC-2026-08-19-METAAI-BRAINSTORM`, com transcrição de alta fidelidade segmentada em três partes e hash do original.
 
-### Correntes causais
+A resposta autoral seguinte sobre longevidade/Luz/renascimento foi incorporada como `BW-SRC-2026-08-19-LONGEVITY-LIGHT-REBIRTH`, com turno verbatim, intake crítico e módulo semântico HYPOTHESIS.
+
+### Correntes causais consolidadas para estudo
 
 **Biológica/relacional:** Grande Espécie → Grande Besta → Reconhecimento → Vínculo → Bênção → Eco.
 
@@ -53,6 +55,8 @@ O PDF `Ideias bagunçadas (1).pdf` foi incorporado como Source Record `BW-SRC-20
 **Histórica:** Cinza Longa → Primeiros Acordos → Guardiões → apropriação → Crime Fundador → ordem dinástica → declínio.
 
 **Disruptiva:** População Selvagem → Reconhecimento fora do monopólio → Bênção Selvagem → crise de legitimidade.
+
+**Metafísica em estudo:** Vínculo → ancoragem ressonante recíproca? → longevidade / preservação da Luz / reconstituição.
 
 ## Fila P0 original
 
@@ -64,11 +68,11 @@ O PDF `Ideias bagunçadas (1).pdf` foi incorporado como Source Record `BW-SRC-20
 - BW-Q-ECO-006 — Declínio: causalidade composta.
 - BW-Q-HIS-007 — Crime Fundador: forma histórica concreta.
 
-## Novos gates do intake Meta AI
+## Gates Meta AI — BW-Q-013 a BW-Q-022
 
-- BW-Q-013 — longevidade e consequências demográficas/políticas — P0;
-- BW-Q-014 — persistência após a morte — P0;
-- BW-Q-015 — retorno/ressurreição — P1;
+- BW-Q-013 — longevidade e consequências demográficas/políticas — **P0**;
+- BW-Q-014 — persistência após a morte / Luz — **P0**;
+- BW-Q-015 — retorno, reconstituição e reencarnação — **P0** após nova direção autoral;
 - BW-Q-016 — ameaça comum original — P1;
 - BW-Q-017 — marcialidade transversal sem homogeneização — P1;
 - BW-Q-018 — mistura de Ecos/casamento — P1;
@@ -76,6 +80,13 @@ O PDF `Ideias bagunçadas (1).pdf` foi incorporado como Source Record `BW-SRC-20
 - BW-Q-020 — arquitetura linguística — P2;
 - BW-Q-021 — falha estrutural do protagonista — P1;
 - BW-Q-022 — diferenciação visual da futura Dinastia do Dragão — P1.
+
+## Gates da onda Luz/Vínculo — BW-Q-023 a BW-Q-026
+
+- BW-Q-023 — propriedades/compatibilidade/economia do sangue vital — **P0**;
+- BW-Q-024 — duração e limites da ancoragem da Luz — **P0**;
+- BW-Q-025 — condição cosmológica excepcional do mundo — P1;
+- BW-Q-026 — repetibilidade da reconstituição sem reset tático — **P0**.
 
 Não expandir dezenas de Casas, nomes ou espécies antes de resolver o núcleo que pode invalidá-los.
 
@@ -94,16 +105,36 @@ Não expandir dezenas de Casas, nomes ou espécies antes de resolver o núcleo q
 - raw 03: `docs/08_sources/conversations/2026-08-19-metaai-brainstorm-raw-part-03-pages-13-18.txt`;
 - intake: `docs/06_research/2026-08-19-metaai-brainstorm-critical-intake.md`.
 
+### Longevidade / Luz / renascimento
+
+- fonte autoral: `docs/08_sources/conversations/2026-08-19-author-longevity-light-rebirth-verbatim.md`;
+- intake crítico: `docs/06_research/2026-08-19-longevity-light-rebirth-critical-intake.md`;
+- módulo semântico: `docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md`.
+
 Nenhuma fonte é cânone por existir.
 
-## Regras recuperadas deste intake
+## Direções recuperadas da onda Luz/Vínculo
+
+- Eco pode alongar moderadamente a vida e transmitir fenótipos/aptidões de modo variável;
+- Vínculo é o principal candidato à longevidade excepcional;
+- fertilidade prolonga, mas cai fortemente e mais cedo que a vida funcional, sobretudo em mulheres;
+- existe intuição autoral forte de uma **Luz** que preserva consciência/memória/identidade;
+- parceiro vinculado pode potencialmente ancorar a Luz do morto;
+- a Luz pode recusar a ancoragem e retornar à Grande Consciência;
+- coerção pode fraturar/destruir a Luz;
+- reconstituição vinculada pode envolver grande transferência de sangue/material vital + casulo/receptáculo + dormência próxima de um ano, ainda provisória;
+- preço preferido: vulnerabilidade, tempo, recursos e risco, não contador de anos de vida;
+- se ambos morrem, a via normal recíproca desaparece;
+- reencarnação pela Grande Consciência deve ser separada de reconstituição;
+- sangue vital abriu risco sistêmico de exploração, mercado e biopoder;
+- cosmologia especial é pista de pesquisa, não decisão alienígena/FBI/Suméria.
+
+## Regras recuperadas dos intakes anteriores
 
 - não transformar pergunta do autor em decisão automática;
 - Ancião = idade, não tier/divindade;
 - Dinastia controla acesso, não espécie;
 - Eco continua variável;
-- números de longevidade permanecem abertos;
-- pós-vida/retorno permanecem abertos;
 - nomes da Meta são source-history;
 - “uma Anciã + sub-bestas por Dinastia” não substitui população/Santuário;
 - marcialidade merece desenvolvimento como pilar cultural, sem sistema universal de níveis;
@@ -125,6 +156,14 @@ Nenhuma fonte é cânone por existir.
 
 ## Próxima interação recomendada
 
-Usar entrevista autoral guiada, uma decisão por bloco, com alternativas + consequências + opção `nenhuma / não sei / outra`.
+Continuar entrevista autoral guiada **dentro do mesmo bloco metafísico** antes de saltar para ameaça comum.
 
-Começar por longevidade e pós-vida antes de fechar nomes, Dinastias ou antagonista.
+Ordem imediata:
+
+1. definir diferenças entre **Luz / assinatura ressonante / Ressonância / Grande Consciência**;
+2. decidir janela/consciência da Luz ancorada;
+3. decidir reconstituição versus reencarnação e repetibilidade;
+4. decidir sangue vital e compatibilidade;
+5. só então quantificar faixas de longevidade/fertilidade.
+
+Cada pergunta deve oferecer alternativas + consequências + opção `nenhuma / não sei / outra`.
