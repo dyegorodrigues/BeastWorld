@@ -9,9 +9,7 @@
 - visibilidade: **private**;
 - base `main`: `8b0b54691fac646d0874fe51c98d6b5d7821eb92`;
 - branch ativa do bootstrap: `agent/worldbuilding-os-bootstrap`;
-- PR #2: **open + draft + unmerged + mergeable**;
-- reviews: 0;
-- review threads: 0;
+- PR #2: **open + draft + unmerged**;
 - nenhum workflow/status check configurado neste bootstrap.
 
 O repo esteve temporariamente público durante a sessão de 19/08; o autor corrigiu a visibilidade para private antes de qualquer ingestão sensível posterior. O incidente permanece documentado.
@@ -27,153 +25,146 @@ Princípio: **compactar para recuperar, nunca compactar para apagar nuance**.
 
 ## Marco anterior — brainstorm Meta AI
 
-Foi incorporado o PDF de 18 páginas `Ideias bagunçadas (1).pdf` com:
-
-- hash do original;
-- transcrição raw em 3 partes;
-- source record;
-- intake crítico;
-- Character Lab;
-- Visual Development;
-- perguntas BW-Q-013 a BW-Q-022.
+Foi incorporado o PDF de 18 páginas `Ideias bagunçadas (1).pdf` com hash, transcrição raw em 3 partes, source record, intake crítico, Character Lab, Visual Development e perguntas BW-Q-013 a BW-Q-022.
 
 Regra: fala do autor = fonte primária de intenção; resposta Meta = proposta secundária. Nomes/números Meta não são cânone.
 
-## NOVO MARCO — longevidade, Luz e renascimento
+## Marco — longevidade, Luz e renascimento
 
-Fonte autoral integral:
+Fontes principais:
 
-`docs/08_sources/conversations/2026-08-19-author-longevity-light-rebirth-verbatim.md`
+- `docs/08_sources/conversations/2026-08-19-author-longevity-light-rebirth-verbatim.md`;
+- `docs/06_research/2026-08-19-longevity-light-rebirth-critical-intake.md`;
+- `docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md`.
 
-Intake crítico:
+Direções fortes:
 
-`docs/06_research/2026-08-19-longevity-light-rebirth-critical-intake.md`
+1. Eco pode prolongar moderadamente a vida e carregar fenótipos/aptidões variáveis.
+2. Vínculo é o principal candidato à longevidade excepcional.
+3. Existe uma continuidade individual provisoriamente chamada **Luz**.
+4. Após morte, a Luz pode permanecer voluntariamente ancorada no parceiro vinculado.
+5. Forçar permanência pode danificar/destruir a Luz.
+6. Reconstituição vinculada e reencarnação pela Grande Consciência são mecanismos diferentes.
+7. Sangue/material vital + casulo + dormência/vulnerabilidade são hipótese de reconstituição.
+8. Se ambos morrem, a via recíproca normal desaparece.
+9. Sangue vital precisa ser separado em sangue comum / sangue alterado / oferta ressonante.
+10. Distribuição de longevidade deve ser long-tail, não número universal.
 
-Módulo semântico:
-
-`docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md`
-
-### Direções autorais fortes
-
-1. **Eco** pode prolongar moderadamente a vida e carregar fenótipos/aptidões acima da média de forma variável.
-2. **Vínculo** é o principal determinante da longevidade excepcional.
-3. Fertilidade tende a durar mais que em humanos comuns, mas cai brutalmente com idade; em média o declínio feminino é muito mais severo; esterilidade existe em ambos os sexos.
-4. Existe uma continuidade individual provisoriamente chamada **Luz** — consciência + memória + identidade/existência do indivíduo.
-5. Após morte de um parceiro vinculado, a Luz pode potencialmente permanecer ancorada no sobrevivente.
-6. Essa permanência é voluntária. A Besta/humano pode recusar e retornar à Grande Consciência.
-7. Forçar a permanência pode danificar/destruir a Luz.
-8. Um parceiro sobrevivente pode tentar **reconstituição** do morto por enorme transferência de sangue/material vital + formação de receptáculo/casulo + dormência/coma de aproximadamente um ano como duração provisória.
-9. O preço imaginado pelo autor não é perda permanente de essência vital: é vulnerabilidade, tempo, gasto metabólico, dependência e risco de interrupção.
-10. Se ambos morrem, a via normal de ancoragem recíproca desaparece; ambos retornam à Grande Consciência. Recuperação posterior, se existir, é outro mecanismo e deve ser excepcional.
-11. A Grande Consciência pode permitir **reencarnação** distinta da reconstituição — inicialmente imaginada para Bestas retornando desde filhote, com parte da consciência/memória preservada.
-12. Humanos podem vir a acessar algo semelhante mais tarde na saga, especialmente em perda narrativa de alto impacto, mas isso não está definido.
-13. O autor abriu hipótese de cosmologia especial do mundo e citou tabuinhas sumérias, alienígenas e um suposto arquivo FBI/Matrix como referências a pesquisar — **inspiração, não evidência aceita**.
-14. O autor abriu mecanismo de **sangue vital**: Vinculado/Abençoado pode doar sangue a cônjuge/família/filhos; doador enfraquece mas recupera volume; Besta pode doar sangue vital ao humano; propriedades e limites ainda não definidos.
-15. Existe hipótese de alimentação/predação ajudando recuperação e talvez absorção de algo além de nutrientes; isso permanece aberto e não deve virar sistema universal de “absorver poder” sem auditoria.
-16. A distribuição de longevidade deve ser **long-tail**: grande variação, com casos extraordinários muito acima da média em vez de número universal.
-
-## Hipótese arquitetural mais promissora
+Hipótese arquitetural:
 
 > **O Vínculo cria ancoragem ressonante recíproca entre duas Luzes vivas. A mesma arquitetura pode explicar longevidade, preservação temporária após morte e reconstituição.**
 
-Possível cadeia:
+## NOVO MARCO — metafísica, intenção, cosmologia e polo infernal
 
-```text
-Reconhecimento → Vínculo → Bênção
-                     ↓
-          ancoragem ressonante recíproca
-             ↙             ↓             ↘
-     longevidade     Luz após morte    reconstituição
-```
+### Fonte autoral integral
 
-Isso ainda é HYPOTHESIS, mas é preferível a criar uma magia independente para cada fenômeno.
+`docs/08_sources/conversations/2026-08-19-author-metaphysics-intention-governance-verbatim.md`
 
-## Dois retornos que NÃO devem ser confundidos
+### Intake crítico
 
-### Reconstituição vinculada
+`docs/06_research/2026-08-19-metaphysics-intention-cosmology-critical-intake.md`
 
-- um parceiro morre;
-- o outro vive;
-- Luz aceita ancoragem;
-- sobrevivente forma receptáculo por sacrifício biológico;
-- longa dormência/vulnerabilidade;
-- indivíduo retorna como continuidade forte do mesmo ser.
+### Fronteira ciência × ficção
 
-### Reencarnação pela Grande Consciência
+`docs/06_research/2026-08-19-physics-metaphysics-boundary-note.md`
 
-- Luz já retornou ao substrato universal;
-- inicia novo ciclo corporal;
-- pode voltar desde filhote;
-- memória/consciência podem ser apenas parciais;
-- identidade jurídica/metafísica “é a mesma pessoa?” permanece aberta.
+### Módulo semântico
 
-## Axioma-candidato
+`docs/02_lore/mythology/RESONANCE_COSMOLOGY_HYPOTHESIS.md`
 
-A nova fala reforça uma coerência com a Bênção:
+### Direções autorais novas/fortalecidas
 
-> **Ressonância profunda estabiliza aquilo que é oferecido/aceito; coerção tende a produzir instabilidade ou ruptura.**
+1. **Metafísica é estrutural**, não decoração religiosa. O autor quer intenção, vontade, vibração/Ressonância, Luz e Grande Consciência participando realmente da causalidade do mundo.
+2. Separar **Luz** de **Ressonância** foi aceito. Nomenclaturas finais continuam abertas.
+3. A mesma **Luz** em outro corpo é o mesmo indivíduo em Author Truth de trabalho, não clone; traumas, memória e personalidade podem reorganizar-se sem trocar a existência fundamental.
+4. `Grande Consciência` transcende a percepção dimensional normal; não está decidido se é Deus, campo, inteligência coletiva, planeta/universo ou combinação.
+5. Intenção/vontade deve importar causalmente. Hipótese de síntese: **intenção coerente inclina estados ressonantes possíveis; não cria qualquer coisa do nada**.
+6. Consentimento continua central: sangue/ancoragem/comunicação oferecidos funcionam de forma qualitativamente diferente de coerção. Sangue tomado pode ser inerte e talvez tóxico.
+7. Comunicação da Luz ancorada: preferência autoral B+D — estado normal onírico/emocional, com comunicação mais precisa rara em situações extremas.
+8. Comunicação com Luzes já reintegradas à Grande Consciência deve existir para alguns vivos, mas ser rara, limitada e não-onisciente.
+9. Janela de ancoragem: direção C — semanas/poucos meses para maioria, variação pequena por espécie, degradação posterior; números não fechados.
+10. Repetibilidade da reconstituição: B+C+D — sem contador de vidas; risco/cicatrizes/instabilidade acumulam e o limite emerge do sistema.
+11. Reconstituição pode depender fortemente do **habitat correto** e talvez ser acelerada de forma limitada por condições naturais/externas.
+12. Grandes Espécies precisam de alimento, mas algumas podem usar recursos ambientais específicos para recuperação — geotermia, gradientes químicos, pressão etc. — sem virar classes elementais universais.
+13. **Vínculo pode beneficiar cognitivamente a Besta**, aumentando interpretação de intenção humana, sagacidade, aprendizagem e estratégia sem transformá-la numa mente humana.
+14. Sociedades de longevos precisam de mecanismos de rotação de poder. O autor sugeriu limite cultural próximo de 50 anos e precedente de governante abandonado pela própria Besta — número/história ainda hipotéticos.
+15. Fertilidade: proteção somática > germinativa; mulheres declinam antes/mais forte; homens também declinam; números de 100/150 anos e percentuais são exemplos, não regras. Exceção específica para “sangue de dragão” foi sugerida e imediatamente retirada.
+16. A hipótese de Hollows/Ocos foi aceita como **uma** manifestação possível, não toda a ameaça.
+17. Surgiu placeholder `Inferno` para um polo corruptivo antagônico à Grande Consciência. Não é nome/cosmologia fechados. O autor imagina assimetria: integração/equilíbrio versus absorção/destruição/expansão.
+18. Luz pode ser corrompida, impedida de reintegração, absorvida ou destruída; corrupção pode ser voluntariamente aceita em alguns casos. Uso de energia corruptiva sem corrupção automática foi mencionado como possibilidade.
+19. Um arco menor de submundo pode envolver sequestro de crianças/pessoas e experiências com sangue/reconstituição coerciva, potencialmente unindo famílias rivais.
+20. Um trecho da fala autoral foi perdido em copy/paste. **Não reconstruir como se soubéssemos o texto.** Tentar recuperar por gatilhos associativos futuramente.
+
+## Fronteira científica obrigatória
+
+Pesquisa desta onda confirmou:
+
+- física moderna trabalha legitimamente com partículas, campos, ondas, energia e frequência;
+- `E = hν` é uma relação física real para quanta como fótons;
+- isso NÃO prova “matéria é apenas frequência”, manifestação mental, telepatia quântica ou intenção controlando matéria;
+- literatura de intenção/RNG é controversa; meta-análise de 380 estudos encontrou efeito minúsculo/heterogêneo compatível com viés de publicação;
+- BeastWorld pode adotar explicitamente uma **lei ficcional adicional** de acoplamento consciência↔substrato ressonante sem alegar que nosso universo já demonstrou isso.
+
+Regra editorial: ciência real inspira linguagem; lei ressonante é Author Truth ficcional.
+
+## Novos decision gates — BW-Q-027 a BW-Q-034
+
+### P0
+- BW-Q-027 — intenção como variável causal da Ressonância;
+- BW-Q-028 — Grande Consciência × polo corruptivo;
+- BW-Q-031 — curva de fertilidade longeva;
+- BW-Q-034 — habitat/aceleração da reconstituição.
+
+### P1
+- BW-Q-029 — comunicação com mortos/Grande Consciência;
+- BW-Q-030 — governo e rotação de poder de longevos;
+- BW-Q-032 — ecologia energética das Grandes Espécies;
+- BW-Q-033 — benefício cognitivo do Vínculo para a Besta.
+
+Continuam também P0 anteriores: Ressonância, Bênção, Eco, prova de Reconhecimento, Santuários, Declínio, Crime Fundador, longevidade, Luz, retorno, sangue vital, ancoragem e repetibilidade.
+
+## Axioma-candidato fortalecido
+
+> **Ressonância profunda estabiliza melhor aquilo que é oferecido/aceito do que aquilo que é tomado/coagido.**
 
 Relacionar a:
 
 > **Sangue tomado é apenas sangue. Sangue oferecido muda sangue.**
 
-Não promover sem testar coerção indireta, fraude, incapacidade, abuso e exceções.
+Não promover antes de testar fraude, coerção indireta, incapacidade, abuso, corrupção e Bênção Artificial.
 
-## Sangue vital — risco sistêmico
+## Hollows/Ocos — status
 
-Se sangue de Vinculados transfere poder facilmente, o mundo gera automaticamente:
+Hipótese de IA bem recebida e ampliada pelo autor:
 
-- mercado negro;
-- escravidão/captura de Abençoados;
-- bancos de sangue dinásticos;
-- doping militar;
-- medicina exclusiva;
-- cultos;
-- assassinato por colheita;
-- política de compatibilidade.
-
-Direção de teste: distinguir **sangue comum**, **sangue fisiologicamente alterado pela Bênção** e **oferta vital em estado ressonante**. O terceiro pode ter efeito maior sem reproduzir Vínculo/Bênção.
-
-## Novas perguntas a formalizar
-
-- **BW-Q-023:** propriedades, compatibilidade e economia do sangue vital;
-- **BW-Q-024:** duração/limite da ancoragem da Luz após morte;
-- **BW-Q-025:** condição cosmológica especial do mundo;
-- **BW-Q-026:** repetibilidade da reconstituição sem transformar morte em reset tático.
-
-## Protagonista / visual continuam válidos como Character Lab
-
-- personagem-ímã;
-- justiça sem suavidade;
-- regime social magnético;
-- regime de ameaça frio e cirúrgico;
-- sexualidade seletiva e politicamente explorável;
-- talento + disciplina;
-- falha precisa nascer das virtudes.
+- um Oco pode ser uma continuidade/Luz fraturada ou corpo reconstruído sem integração completa;
+- não é necessariamente espécie;
+- é apenas uma classe possível de manifestação corrupta;
+- `Hollow`, `Oco`, `Inferno` e demais nomes continuam placeholders;
+- ameaça maior deve possuir outras criaturas/processos e não ser reduzida aos Ocos.
 
 ## Não fazer ainda
 
-- não nomear definitivamente Luz/Grande Consciência;
-- não transformar “Grande Mãe” em deusa criadora sem decidir Author Truth;
-- não afirmar origem alienígena;
-- não usar FBI/Suméria como prova sem verificar fonte primária;
-- não fixar um ano como constante universal antes de testar escala;
-- não tornar toda morte reversível;
-- não transformar sangue em poção universal;
-- não tornar todas as Grandes Espécies hematófagas;
-- não aceitar absorção de “poder de vítimas” como regra geral sem consequências;
-- não promover qualquer hipótese apenas porque ganhou um arquivo detalhado.
+- não dizer que “a física quântica prova manifestação”;
+- não fixar `Inferno`, `Grande Mãe`, `Luz`, `Hollow/Oco` como termos finais;
+- não fixar 50/100/150 anos, 3 meses, 1 ano ou percentuais;
+- não transformar intenção em onipotência;
+- não transformar Bestas em juízes morais infalíveis;
+- não transformar comunicação com mortos em oráculo investigativo;
+- não reintroduzir classes elementais;
+- não transformar sangue roubado em poção;
+- não afirmar que planeta é literalmente estrela na astronomia do Author Truth sem decisão cosmológica explícita;
+- não completar o trecho perdido da fala por inferência.
 
 ## Próxima interação recomendada com o autor
 
-Antes de abandonar o bloco de morte/consciência, fechar por entrevista guiada as decisões estruturais mínimas:
+Antes de migrar para ameaça comum, fechar **metafísica mínima** em entrevista curta:
 
-1. natureza da **Luz** versus Ressonância versus Grande Consciência;
-2. quanto tempo uma Luz pode permanecer ancorada;
-3. como exatamente funciona a reconstituição e o que a interrompe;
-4. o que volta igual e o que pode voltar diferente;
-5. frequência/repetibilidade do processo;
-6. propriedades do sangue vital e compatibilidade;
-7. só então calcular faixas de longevidade/fertilidade.
+1. o que intenção pode e não pode modular;
+2. Grande Consciência: campo, consciência, entidade ou combinação;
+3. polo corruptivo: origem/agência e por que é assimétrico;
+4. como vivos acessam mortos e quais informações são impossíveis;
+5. piso temporal e aceleradores da reconstituição;
+6. só depois modelar fertilidade/governo com números.
 
-Depois retornar aos demais blocos: ameaça comum → marcialidade → ecossistemas → protagonista → casamento/Eco → língua → visual.
+Depois retornar: ameaça comum → marcialidade → ecossistemas → protagonista → casamento/Eco → língua → visual.
