@@ -55,6 +55,31 @@ Esses arquivos **não substituem a fonte**. Eles organizam e auditam o material.
 **Status:** CAPTURED  
 **Uso:** autoridade primária para o protocolo de memória/handoff.
 
+## BW-SRC-2026-08-19-LONGEVITY-LIGHT-REBIRTH
+
+**Arquivo:** `conversations/2026-08-19-author-longevity-light-rebirth-verbatim.md`  
+**Tipo:** turno autoral de alta fidelidade  
+**Status:** CAPTURED  
+**Autoridade:** Primary  
+**Uso:** fonte principal para a onda de longevidade, Luz/consciência, ancoragem pós-morte, reconstituição, reencarnação, fertilidade, sangue vital e hipótese cosmológica.
+
+### Derivados semânticos
+
+- `docs/06_research/2026-08-19-longevity-light-rebirth-critical-intake.md`
+- `docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md`
+
+### Gates associados
+
+- BW-Q-013 — longevidade;
+- BW-Q-014 — persistência/Luz;
+- BW-Q-015 — reconstituição/reencarnação;
+- BW-Q-023 — sangue vital;
+- BW-Q-024 — ancoragem da Luz;
+- BW-Q-025 — cosmologia excepcional;
+- BW-Q-026 — repetibilidade do renascimento.
+
+**Nota:** expressões autorais como “acho”, “pode”, “não sei” permanecem deliberadamente abertas. Fonte primária não significa cânone automático.
+
 ## Regra
 
 Source Records preservam formulações históricas. Não editar uma fonte para parecer que o passado sempre correspondeu ao cânone atual. Correções surgem em novos registros e ADRs.
