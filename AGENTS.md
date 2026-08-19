@@ -8,13 +8,15 @@ Agentes que trabalham neste repositório devem desenvolver o BeastWorld sem perd
 
 Antes de propor ou editar lore:
 
-1. `PROJECT_STATE.md`
-2. `docs/00_governance/RETOMADA.md`
-3. `docs/00_governance/CANON_POLICY.md`
-4. página/nó alvo
-5. dependências diretas em `graph/relations.yaml`
-6. ADRs relacionados em `docs/07_decisions/`
-7. fontes históricas apenas se houver dúvida ou disputa
+1. `docs/00_governance/RETOMADA.md`
+2. `PROJECT_STATE.md`
+3. `HANDOFF.md`
+4. `docs/00_governance/CANON_POLICY.md`
+5. `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md`
+6. página/nó alvo
+7. dependências diretas em `graph/relations.yaml`
+8. ADRs relacionados em `docs/07_decisions/`
+9. fontes históricas apenas se houver dúvida, disputa ou necessidade de recuperar nuance
 
 Se Notion estiver conectado, recuperar somente os registros relacionados no Lore Registry, Open Questions, Entity Atlas, Timeline e Source Library. Nunca reler toda a Bíblia ou toda a Wiki por padrão.
 
@@ -32,6 +34,28 @@ Interpretar `Sync Status` assim:
 Não promover `WORKING-CANON` ou `CANON` apenas no Notion. Toda promoção estrutural deve aparecer em branch/PR no GitHub e depois ser reconciliada na Wiki.
 
 Consulte `docs/00_governance/GITHUB_NOTION_SYNC.md` e `docs/00_governance/NOTION_WIKI_ARCHITECTURE.md`.
+
+## Memória e handoff
+
+A memória do projeto é externa e hierárquica; não depender da janela de contexto de uma conversa.
+
+- **M0 / cold:** `docs/08_sources/` — fonte bruta e alta fidelidade;
+- **M1 / warm:** lore, entities, research, grafo e databases Notion;
+- **M2 / hot:** `PROJECT_STATE.md` + `HANDOFF.md` + `RETOMADA.md`;
+- **M3 / canon:** Bíblia, módulos promovidos, ADRs, grafo/timeline reconciliados.
+
+Resumo nunca substitui fonte. Compactação serve para roteamento e retomada.
+
+Gatilhos para checkpoint/compactação:
+
+- novo documento externo;
+- novo bloco conceitual;
+- três ou mais perguntas/decisões novas;
+- mudança de causalidade/status;
+- troca provável de conversa;
+- antes de concluir PR/ciclo.
+
+Após um checkpoint relevante, atualizar `HANDOFF.md`; atualizar `PROJECT_STATE.md` somente se o estado consolidado mudou.
 
 ## Papéis de orquestração
 
@@ -118,10 +142,11 @@ Testar tudo em quatro escalas: indivíduo, família/comunidade, Estado/dinastia 
 - nomes provisórios devem ser marcados;
 - termos ficcionais não devem ganhar falsa etimologia antes da linguística estar madura;
 - distinguir sempre verdade do autor, crença in-world, mito/religião e propaganda;
-- evitar linguagem de RPG quando o conceito é biológico, histórico ou político.
+- evitar linguagem de RPG quando o conceito é biológico, histórico ou político;
+- quando uma fonte externa usa nomes/soluções afirmativas, preservar como source-history até revisão explícita.
 
 ## Modificação de cânone
 
 Não editar `CANON` silenciosamente. Criar/atualizar ADR, registrar versão anterior, impacto e rationale. `SUPERSEDED` preserva o passado; não apagar decisões antigas.
 
-Depois de mudanças estruturais, atualizar `PROJECT_STATE.md` e `RETOMADA.md` no mesmo PR.
+Depois de mudanças estruturais, atualizar `PROJECT_STATE.md`, `HANDOFF.md` e `RETOMADA.md` no mesmo PR quando aplicável.
