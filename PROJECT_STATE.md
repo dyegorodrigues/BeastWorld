@@ -1,410 +1,308 @@
 # PROJECT_STATE — BeastWorld
 
 **Data de referência:** 2026-08-19  
-**Marco:** Worldbuilding OS v0.3 — bootstrap + memória/handoff + ingestão Meta AI + onda Luz/Vínculo/renascimento.
+**Marco:** Worldbuilding OS v0.4 — bootstrap + memória/handoff + Grandes Bestas + Meta AI + Luz/Vínculo + metafísica/intenção/cosmologia.
 
 ## Estado geral
 
-O BeastWorld opera com duas camadas complementares:
+O BeastWorld opera em duas interfaces complementares:
 
-- **GitHub privado** como fonte versionada/auditável;
-- **Notion privado** como Wiki relacional, sistema de pesquisa, timeline e interface de estudo.
+- **GitHub privado** — fonte versionada/auditável e Source Archive;
+- **Notion privado** — Wiki de leitura, pesquisa, relações e decisão.
 
-A infraestrutura continua no draft PR #2. O lore das Grandes Bestas, o brainstorm Meta AI e a nova onda de longevidade/Luz/renascimento continuam em revisão; documentação não equivale a canonização.
+O draft PR #2 continua sendo a fundação ativa. **Documentação não equivale a canonização.** As Grandes Bestas, a metafísica nova, personagem, visual e mecanismos de retorno permanecem `HYPOTHESIS`/research salvo quando outro status for explicitamente registrado.
 
-## GitHub — estado operacional
+## Memória
 
-- repo: `dyegorodrigues/BeastWorld` — **private**;
-- `main`: `8b0b54691fac646d0874fe51c98d6b5d7821eb92`;
-- branch: `agent/worldbuilding-os-bootstrap`;
-- draft PR: `#2 — Bootstrap BeastWorld Worldbuilding OS`;
-- PR: open + draft + unmerged + mergeable no último reanchor;
-- reviews: 0;
-- review threads: 0;
-- nenhum workflow/status check configurado no bootstrap.
+- **M0 / COLD:** `docs/08_sources/` — fontes brutas, PDFs, conversas e rationale de alta fidelidade;
+- **M1 / WARM:** módulos de lore, research, entities, story, visual, graph e databases Notion;
+- **M2 / HOT:** este arquivo + `HANDOFF.md` + `docs/00_governance/RETOMADA.md`;
+- **M3 / CANON:** Bíblia, ADRs e módulos explicitamente promovidos.
 
-**Regra:** sempre reancorar remoto antes de escrita. O HEAD muda a cada checkpoint; `RETOMADA.md`/`HANDOFF.md` descrevem o conteúdo, enquanto GitHub remoto vence qualquer SHA textual antigo.
+Princípio: **compactar para recuperar; nunca compactar para apagar fonte ou nuance.**
 
-### Nota de segurança
+## Governança aceita
 
-Durante a sessão de 19/08 o conector reportou o repositório como público. A escrita de novo IP foi interrompida. O autor alterou a visibilidade; o remoto foi revalidado como **private** antes de qualquer ingestão sensível posterior. O incidente permanece preservado para evitar repetição.
-
-## Arquitetura de memória
-
-Formalizada em `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md`.
-
-### M0 — memória fria / fonte
-`docs/08_sources/` — conversas, PDFs, pesquisas e históricos em alta fidelidade.
-
-### M1 — memória semântica
-Lore, entities, research, story, visual, graph e databases do Notion.
-
-### M2 — memória quente
-`PROJECT_STATE.md` + `HANDOFF.md` + `RETOMADA.md`.
-
-### M3 — memória canônica
-Bíblia, módulos promovidos, ADRs, grafo/timeline reconciliados.
-
-Princípio: **compactar para recuperar, nunca compactar para apagar**.
-
-## Notion — arquitetura operacional
-
-Hub: `BEASTWORLD — Worldbuilding OS & Wiki Hub`  
-Command Center: `12 — BeastWorld Command Center`
-
-Databases:
-
-1. Lore Registry;
-2. Decision Log;
-3. Source Library;
-4. Research & Open Questions;
-5. Entity Atlas;
-6. Master Timeline.
-
-Páginas editoriais novas/relevantes:
-
-- `13 — Intake Crítico — Brainstorm MetaAI + Visual/Personagem`;
-- `14 — Memória, Handoff & Continuidade entre Conversas`;
-- `10A — Entrevista de Retomada`;
-- `10B — Laboratório Metafísico — Luz, Vínculo, Morte, Reconstituição e Reencarnação — v0.1`;
-- `06A — Laboratório de Personagem — Pilar da Dinastia do Dragão`;
-- `09A — Visual Development — Dinastia do Dragão e Personagens`.
-
-## Decisões arquiteturais aceitas
-
-1. `BW-ADR-0001` — Source Archive, Semantic Lore Layer e Curated Canon são camadas separadas.
-2. `BW-ADR-0002` — a leva de 20 pontos das Grandes Bestas permanece `HYPOTHESIS`.
-3. `BW-ADR-0003` — GitHub é source of truth versionado; Notion é Wiki/interface cognitiva.
-4. `BW-ADR-0004` — Bíblia mestra é síntese; detalhes vivem em módulos menores.
-5. `BW-ADR-0005` — alterações conceituais estruturais passam por regressão de lore.
-
-`BW-OPS-DEC-001` registra a decisão histórica de não depositar BeastWorld nos repositórios públicos existentes antes do repo dedicado.
+1. `BW-ADR-0001` — Source Archive, Semantic Layer e Curated Canon separados.
+2. `BW-ADR-0002` — os 20 pontos das Grandes Bestas permanecem `HYPOTHESIS`.
+3. `BW-ADR-0003` — GitHub versiona; Notion é Wiki/interface cognitiva.
+4. `BW-ADR-0004` — Bíblia mestra é síntese; detalhes vivem em módulos.
+5. `BW-ADR-0005` — mudança estrutural exige regressão de lore.
 
 ## Núcleo causal das Grandes Bestas
 
 ```text
-Ressonância Profunda
-        ↓
-Grandes Espécies
-   ↙           ↘
-populações     populações
-selvagens      de Santuário
-                   ↓
-              Guardiões
-                   ↓
-       monopólio dinástico
-                   ↓
-       narrativa de sangue
-             escolhido
+Grande Espécie
+  ├─ populações selvagens
+  └─ populações de Santuário
+          ↓
+      Guardiões
+          ↓
+ controle histórico de acesso
+          ↓
+      Dinastia
 ```
 
 Relação individual:
 
 ```text
-coexistência → tolerância → Reconhecimento → Vínculo → Bênção
-                                                      ↓
-                                              humano alterado
-                                                      ↓
-                                             Eco hereditário?
+coexistência → tolerância → Reconhecimento → Vínculo → Bênção → Eco?
 ```
 
 História:
 
 ```text
-Antes dos Homens
-      ↓
-Cinza Longa
-      ↓
-Primeiros Acordos
-      ↓
-Guardiões
-      ↓
-apropriação dos Santuários
-      ↓
-Crime Fundador / reescrita histórica
-      ↓
-ordem dinástica madura
-      ↓
-declínio ecológico/reprodutivo
+Cinza Longa → Primeiros Acordos → Guardiões → apropriação →
+Crime Fundador → ordem dinástica → degradação/Declínio
 ```
 
-## 20 conceitos nucleares
+Regra nuclear ainda forte:
 
-- BW-BIO-GSPEC-001 — Grande Espécie
-- BW-BIO-GBEAST-001 — Grande Besta
-- BW-BIO-ANCIENT-001 — Ancião/Anciã
-- BW-ECO-WILD-001 — População Selvagem
-- BW-ECO-SANCT-001 — Santuário
-- BW-HB-GUARD-001 — Guardiões de Santuário
-- BW-HB-RECOG-001 — Reconhecimento
-- BW-HB-BOND-001 — Vínculo
-- BW-HB-BLESS-001 — Bênção
-- BW-BIO-ECHO-001 — Eco
-- BW-MET-RESON-001 — Ressonância Profunda
-- BW-HIS-ASH-001 — Cinza Longa
-- BW-HIS-ACCORD-001 — Primeiros Acordos
-- BW-HIS-CRIME-001 — Crime Fundador
-- BW-ECO-DECLINE-001 — Declínio das Grandes Bestas
-- BW-POL-MONOP-001 — Monopólio Dinástico de Acesso
-- BW-HB-WILDBLESS-001 — Bênção Selvagem
-- BW-BIO-CULTMEM-001 — Memória Cultural das Bestas
-- BW-POL-ICONBEAST-001 — Besta Icônica de Santuário
-- BW-HB-ARTBLESS-001 — Bênção Artificial
+> **A Dinastia não possui a Besta. A Dinastia possui a porta até a Besta.**
 
-Todos permanecem `HYPOTHESIS` nesta leva.
+`Ancião = idade`, não tier de poder.
 
-## Source Records principais desta fase
+## Ontologia metafísica em estudo
 
-### Grandes Bestas — 20 pontos
+A fala autoral mais recente torna metafísica parte estrutural do mundo.
 
-- `BW-SRC-2026-08-19-GREAT-BEASTS-20-VERBATIM`;
-- `BW-SRC-2026-08-19-GREAT-BEASTS-20`.
+Camadas de trabalho:
 
-### Brainstorm Meta AI
+1. **Corpo** — organismo material;
+2. **assinatura ressonante** — padrão individual reconhecível;
+3. **Luz** — continuidade ontológica/identidade do indivíduo;
+4. **Ressonância** — fenômeno de acoplamento;
+5. **Grande Consciência** — substrato/transcendência integrativa ainda não definida;
+6. **polo corruptivo** — regime antagônico provisoriamente chamado `Inferno`, ainda sem nome/ontologia final.
 
-`BW-SRC-2026-08-19-METAAI-BRAINSTORM` — `Ideias bagunçadas (1).pdf`, 18 páginas, hash preservado, raw em 3 partes.
+Author Truth de trabalho:
 
-Regra:
+> **A mesma Luz em outro corpo continua sendo o mesmo indivíduo, não um clone.**
 
-- fala do autor = fonte primária de intenção/dúvida;
-- resposta Meta AI = proposta secundária/exploratória;
-- tom afirmativo da Meta não cria decisão.
+Memória, trauma, hábitos e personalidade podem reorganizar-se sem necessariamente trocar a identidade fundamental.
 
-### Memória/workflow
+## Intenção e consentimento
 
-- `BW-SRC-2026-08-19-WORKFLOW-REQUEST` — requisito autoral de compactação/handoff;
-- `BW-SRC-2026-08-19-CHATGPT-METAAI-AUDIT` — rationale de auditoria preservado.
+A intenção/vontade é candidata a variável causal real da Ressonância.
 
-### NOVO — Longevidade, Luz e renascimento
+Hipótese de síntese:
 
-`BW-SRC-2026-08-19-LONGEVITY-LIGHT-REBIRTH`
+> **Intenção coerente pode inclinar estados ressonantes possíveis; não cria qualquer coisa do nada.**
 
-GitHub:
+Separar dois eixos:
 
-- fonte verbatim: `docs/08_sources/conversations/2026-08-19-author-longevity-light-rebirth-verbatim.md`;
-- intake: `docs/06_research/2026-08-19-longevity-light-rebirth-critical-intake.md`;
-- módulo: `docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md`.
+- **modo de acoplamento:** reciprocidade/consentimento ↔ coerção/extração;
+- **finalidade ética:** proteger, dominar, matar, amar, criar, vingar etc.
 
-## Direções autorais fortes recuperadas na onda Luz/Vínculo
+Isso evita `emoção positiva = magia boa` e `raiva = corrupção`.
 
-### Eco
-
-- pode prolongar moderadamente a vida;
-- pode carregar fenótipos e aptidões acima da média;
-- manifestação é variável, não garantida;
-- não equivale à potência integral do Vínculo.
-
-### Vínculo
-
-- principal candidato à longevidade excepcional;
-- pode envolver uma ancoragem ressonante recíproca entre humano e Besta;
-- essa arquitetura pode unificar longevidade, preservação pós-morte e reconstituição.
-
-### Fertilidade
-
-- tende a se prolongar;
-- cai brutalmente com idade;
-- declínio médio feminino deve ser muito mais severo;
-- homens também podem tornar-se inférteis;
-- causa ainda não definida.
-
-### Luz
-
-Termo provisório autoral para continuidade individual:
-
-- consciência;
-- memória;
-- identidade;
-- existência subjetiva.
-
-Não equiparar automaticamente Luz a corpo, sangue, Ressonância ou Grande Consciência.
-
-### Consentimento pós-morte
-
-- parceiro morto pode aceitar permanecer ancorado no sobrevivente;
-- pode recusar e retornar à Grande Consciência;
-- retenção forçada pode danificar/destruir a Luz;
-- isso reforça a coerência “oferta/aceitação” já presente na Bênção.
-
-### Reconstituição vinculada
-
-Hipótese autoral atual:
-
-1. um parceiro morre;
-2. Luz é ancorada pelo sobrevivente se aceitar;
-3. grande transferência de sangue/material vital;
-4. formação de receptáculo/casulo semelhante a ovo;
-5. sobrevivente entra em coma/dormência;
-6. duração aproximada de um ano como **número provisório**;
-7. ambos ficam vulneráveis;
-8. morto retorna fraco;
-9. recuperação funcional posterior é relativamente rápida.
-
-Preço preferido: **tempo + vulnerabilidade + recursos + risco + consentimento**, não perda automática de anos de vida.
-
-### Reencarnação pela Grande Consciência
-
-Separar de reconstituição.
-
-- Luz já retornou ao substrato universal;
-- pode iniciar novo ciclo;
-- inicialmente imaginado para Bestas retornando como filhotes;
-- parte de memória/consciência pode permanecer;
-- identidade perfeita não está garantida;
-- possibilidade humana posterior permanece hipótese de saga.
-
-### Se ambos os vinculados morrem
-
-- ancoragem recíproca normal deixa de existir;
-- ambas as Luzes retornam à Grande Consciência;
-- qualquer recuperação posterior deve ser outro mecanismo, muito mais excepcional.
-
-### Sangue vital
-
-Aberto pelo autor:
-
-- Abençoado/Vinculado pode doar sangue a cônjuge/família/filhos;
-- doador enfraquece, mas não perde automaticamente “essência vital” permanente;
-- volume/estado recuperam com alimentação;
-- Besta pode doar sangue vital ao humano;
-- propriedades, compatibilidade, dose e permanência permanecem abertas.
-
-**Risco sistêmico:** mercado negro, captura de doadores, bancos de sangue dinásticos, doping, medicina exclusiva, sequestro e biopoder.
-
-### Alimentação / absorção
-
-O autor abriu a possibilidade de recuperação por alimentação, sangue/presas e seres inimigos/monstros. “Absorver poder” literal NÃO foi aceito ainda. Testar metabolismo, assimilação espécie-específica e nutrição ressonante antes.
-
-### Cosmologia
-
-O autor abriu hipótese de uma condição cosmológica excepcional do mundo e citou Suméria, alienígenas, buraco branco/negro, Matrix e documento atribuído ao FBI.
-
-**Regra:** referências entram como trilhas de pesquisa. Não tratar esoterismo/pop history como evidência sem verificar fonte primária e interpretação acadêmica.
-
-## Hipótese estrutural central desta onda
-
-```text
-Reconhecimento
-      ↓
-   Vínculo
-   ↙     ↘
-Bênção   ancoragem ressonante recíproca?
-             ├─ longevidade excepcional?
-             ├─ preservação da Luz após morte?
-             └─ reconstituição vinculada?
-```
-
-Isso é preferível, como hipótese, a criar uma magia independente para cada fenômeno.
-
-## Axioma-candidato
+Axioma-candidato:
 
 > **Ressonância profunda estabiliza melhor aquilo que é oferecido/aceito do que aquilo que é tomado/coagido.**
 
-Relaciona-se à frase:
+Frase cultural associada:
 
 > **Sangue tomado é apenas sangue. Sangue oferecido muda sangue.**
 
-Ainda precisa de regressão: coerção indireta, fraude, incapacidade, relações abusivas e Bênção Artificial.
+## Fronteira ciência real × Author Truth ficcional
 
-## Fila intelectual original — P0
+Pesquisa registrada em `docs/06_research/2026-08-19-physics-metaphysics-boundary-note.md`.
 
-1. `BW-Q-MET-001` — natureza mínima da Ressonância.
-2. `BW-Q-HB-002` — mecanismo mínimo da Bênção.
-3. `BW-Q-BIO-003` — herança/diluição do Eco.
-4. `BW-Q-POL-004` — prova jurídica de Reconhecimento.
-5. `BW-Q-ECO-005` — barreiras à replicação de Santuários.
-6. `BW-Q-ECO-006` — causalidade do Declínio.
-7. `BW-Q-HIS-007` — forma do Crime Fundador.
+- campos, ondas, partículas, energia e frequência são linguagem física real;
+- física real não demonstrou manifestação mental, telepatia quântica ou intenção controlando matéria;
+- se adotado, o acoplamento consciência↔Ressonância será **lei ficcional própria do BeastWorld**.
 
-## Fila Meta AI — BW-Q-013 a BW-Q-022
+Não usar “quântico” como explicação mágica ou falsa validação científica.
 
-### P0
-- BW-Q-013 — longevidade;
-- BW-Q-014 — persistência/Luz;
-- BW-Q-015 — retorno/reconstituição/reencarnação — elevado a P0 após nova direção autoral.
+## Luz, morte e retorno
 
-### P1
-- BW-Q-016 — ameaça comum;
-- BW-Q-017 — marcialidade transversal;
-- BW-Q-018 — mistura de Ecos/casamento;
-- BW-Q-019 — quantidade de Grandes Espécies/produção;
-- BW-Q-021 — falha estrutural do protagonista;
-- BW-Q-022 — visual da futura Dinastia do Dragão.
+### Ancoragem
 
-### P2
-- BW-Q-020 — arquitetura linguística.
+Após morte de um parceiro vinculado, a Luz pode potencialmente permanecer no sobrevivente **se aceitar**.
 
-## Novos gates — BW-Q-023 a BW-Q-026
+Preferência autoral atual:
 
-### P0
-- BW-Q-023 — sangue vital: propriedades, compatibilidade e economia;
-- BW-Q-024 — duração/limite da ancoragem da Luz;
-- BW-Q-026 — repetibilidade da reconstituição sem reset tático.
+- estado normal: onírico/emocional;
+- comunicação: emoção, impulso, sonho, imagem, flash de memória;
+- precisão verbal: rara, em condições extremas;
+- janela antes de degradação: semanas/poucos meses para maioria como direção qualitativa; números ainda abertos.
 
-### P1
-- BW-Q-025 — condição cosmológica especial do mundo.
+### Reconstituição vinculada
 
-## Três tensões temáticas emergentes
+Hipótese em três fases:
 
-- **herança × disciplina**;
-- **posse × cuidado**;
-- **morte × continuidade**.
+1. **fixação da Luz**;
+2. **reconstrução somática** — casulo/receptáculo, biomassa, nutrientes, circulação compartilhada;
+3. **maturação ressonante** — integração e estabilização da assinatura.
 
-Pergunta-síntese:
+Preço preferido: **tempo + vulnerabilidade + logística + recursos + consentimento + risco**, não contador arbitrário de anos de vida.
 
-> **O que recebemos, o que merecemos, o que realmente possuímos e o que apenas recebemos para cuidar e transmitir?**
+Habitat correto pode acelerar partes do processo sem eliminar piso temporal.
 
-Status: hipótese de meta-design, não cânone.
+### Reencarnação pela Grande Consciência
 
-## Character Lab — protagonista
+Mecanismo distinto: a Luz já se reintegrou e inicia novo ciclo. A mesma Luz significa o mesmo ser em Author Truth de trabalho, embora memória/trauma/persona possam reorganizar-se.
 
-Núcleo atual:
+### Repetibilidade
+
+Preferência autoral B+C+D:
+
+- sem contador de vidas;
+- risco aumenta;
+- cicatrizes de memória/assinatura podem acumular;
+- limite emerge de estabilidade, consentimento e contexto.
+
+## Grande Consciência e polo corruptivo
+
+Direção a estudar, NÃO decisão:
+
+- Grande Consciência como regime/substrato de **integração sem apagar individuação**;
+- polo corruptivo como regime de **absorção, apropriação, fratura ou expansão parasitária**;
+- não precisam ser dois deuses simétricos;
+- corrupção não deve equivaler a tristeza, raiva ou “baixa vibração”;
+- uso de energia corruptiva pode ser possível sem corrupção instantânea, mas repetição pode reorganizar o usuário.
+
+`Grande Mãe`, `Inferno`, `Hollow/Oco` são placeholders.
+
+Hollows/Ocos: hipótese de uma classe possível de continuidade fraturada ou reconstituição corrupta, **não a totalidade da ameaça**.
+
+## Comunicação com mortos
+
+Alguns vivos podem acessar Luzes reintegradas à Grande Consciência. Não é universal.
+
+Possíveis variáveis:
+
+- sensibilidade natural;
+- Vínculo;
+- treino;
+- Eco/linhagem;
+- local ressonante;
+- estado fisiológico/ritual;
+- auxílio de Grande Besta.
+
+Guardrail: mortos não podem virar oráculos oniscientes.
+
+Modelo recomendado: informação chega primeiro como **sentido pré-linguístico** e é traduzida pela mente do vivo.
+
+## Sangue vital
+
+Três camadas:
+
+1. sangue comum;
+2. sangue alterado pela Bênção;
+3. oferta vital ressonante.
+
+Preferência atual para terceiros:
+
+- cura/recuperação;
+- melhora temporária de capacidades;
+- efeito especial em compatíveis pode existir, raro;
+- mudança permanente fica associada a intervenção artificial/perigosa.
+
+Sangue tomado à força pode ser inerte, incompatível ou tóxico — mecanismo ainda aberto.
+
+Consequência sistêmica a testar: mercados negros, captura, bancos dinásticos, doping, medicina de elite e experimentos coercivos.
+
+## Longevidade e fertilidade
+
+- Eco: prolongamento moderado e fenótipos/aptidões variáveis;
+- Vínculo: principal candidato à longevidade excepcional;
+- distribuição: **long-tail**, sem idade universal;
+- proteção somática deve ser maior que proteção germinativa;
+- fertilidade feminina declina antes/mais forte;
+- fertilidade masculina também declina e esterilidade existe;
+- números como 100/150 anos, 50%, 2–3% ao ano são brainstorm, não regra;
+- exceção específica para sangue de dragão foi sugerida e retirada no mesmo turno.
+
+A curva só deve ser quantificada após modelagem demográfica/genealógica.
+
+## Governo de longevos
+
+Nova hipótese:
+
+- famílias/dinastias possuem conselhos e hierarquias, não absolutismo simples;
+- sociedades longevas precisam de rotação de poder;
+- autor sugeriu cerca de 50 anos como imagem de limite de governo, **não número final**;
+- precedente de tirano abandonado por sua Besta pode ter reforçado a norma;
+- Bestas não são juízes constitucionais oniscientes: ruptura deve nascer de deterioração do Vínculo/reciprocidade.
+
+## Ecologia energética das Bestas
+
+Grandes Espécies comem e precisam de biomassa. Algumas podem recuperar-se melhor em ambientes específicos:
+
+- geotermia;
+- gradientes químicos;
+- pressão;
+- eletricidade atmosférica;
+- minerais;
+- condições ressonantes locais.
+
+Isso é subsídio metabólico/resonante espécie-específico, não sistema universal de elementos.
+
+## Mutualismo cognitivo
+
+Nova hipótese forte: Vínculo beneficia também a Besta.
+
+Testar **modelagem cognitiva cruzada**:
+
+- humano ganha saliência sensorial/instintiva da Besta;
+- Besta ganha melhor modelagem de intenção, estratégia e abstração social humanas;
+- ambos continuam sendo mentes diferentes.
+
+## Personagem / visual
+
+Character Lab da futura Dinastia do Dragão continua válido como hipótese:
 
 - personagem-ímã;
-- extraordinária competência marcial;
 - justiça sem suavidade;
 - regime social magnético;
-- regime de ameaça frio e cirúrgico;
-- não berserker;
-- sexualidade intensa e seletiva;
-- alto valor político e de aliança;
-- falha deve nascer das próprias virtudes.
+- regime de ameaça frio/cirúrgico;
+- talento + disciplina;
+- sexualidade seletiva e politicamente explorável;
+- falha estrutural precisa nascer das virtudes.
 
-Pergunta:
+Visual Development continua referência, não cânone; preservar impacto e afastar gramática Targaryen/HOTD.
 
-> **E se ele estiver certo sobre quase tudo, menos sobre a única coisa que realmente importa?**
+## Perguntas abertas
 
-Nenhum nome, casamento, número de parceiros, espécie vinculada ou posição sucessória foi definido.
+Notion `Research & Open Questions` contém **34 questões OPEN**, das quais **17 P0** no checkpoint desta onda.
 
-## Não fazer ainda
+Novos gates `BW-Q-027`–`BW-Q-034`:
 
-- não congelar nomes provisórios;
-- não transformar Ancião em tier/divindade;
-- não criar sete espécies só para sete Dinastias;
-- não tornar Bestas classes elementais;
-- não reintroduzir “uma Anciã por família”;
-- não explicar tudo por um deus único;
-- não transformar Vínculo em montaria/telepatia automática;
-- não fixar longevidade por número universal;
-- não fixar um ano como constante cosmológica sem teste;
-- não transformar morte em reset gratuito;
-- não tornar sangue uma poção universal;
-- não afirmar origem alienígena ou cosmologia FBI/Suméria sem pesquisa;
-- não transformar língua em senha mágica;
-- não transformar o protagonista em fantasia de poder sem custo;
-- não expandir dezenas de Casas antes do núcleo causal estar estável.
+- 027 — intenção como variável causal da Ressonância — P0;
+- 028 — Grande Consciência × polo corruptivo — P0;
+- 029 — comunicação com mortos — P1;
+- 030 — governo/rotação de longevos — P1;
+- 031 — curva de fertilidade — P0;
+- 032 — ecologia energética — P1;
+- 033 — benefício cognitivo do Vínculo para a Besta — P1;
+- 034 — habitat/aceleração da reconstituição — P0.
 
-## Próximo passo recomendado
+## Fontes de alta prioridade desta fase
 
-Continuar entrevista autoral guiada **neste mesmo bloco metafísico** antes de mudar de assunto.
+- `docs/08_sources/conversations/2026-08-19-assistant-response-verbatim-great-beasts.md`
+- `docs/08_sources/conversations/2026-08-19-great-beasts-20-points.md`
+- `docs/08_sources/conversations/2026-08-19-author-longevity-light-rebirth-verbatim.md`
+- `docs/08_sources/conversations/2026-08-19-author-metaphysics-intention-governance-verbatim.md`
+- `docs/08_sources/conversations/2026-08-19-chatgpt-metaphysics-cosmology-synthesis-high-fidelity.md`
+- `docs/06_research/2026-08-19-metaphysics-intention-cosmology-critical-intake.md`
+- `docs/06_research/2026-08-19-physics-metaphysics-boundary-note.md`
+- `docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md`
+- `docs/02_lore/mythology/RESONANCE_COSMOLOGY_HYPOTHESIS.md`
 
-Ordem:
+## Lacuna explícita
 
-1. distinguir Luz / assinatura ressonante / Ressonância / Grande Consciência;
-2. definir estado e janela da Luz ancorada;
-3. definir reconstituição versus reencarnação e repetibilidade;
-4. definir sangue vital e compatibilidade;
-5. só então quantificar faixas de longevidade e fertilidade;
-6. depois avançar ameaça comum, marcialidade, ecossistemas, protagonista, casamento/Eco, língua e visual.
+O autor perdeu um trecho por copy/paste e declarou não lembrar o conteúdo. **Não inventar nem reconstruir retroativamente.** Tentar recuperação por gatilhos associativos; qualquer lembrança futura vira nova fonte datada.
 
-Cada bloco: alternativas + consequências + `nenhuma / não sei / outra` → registro → regressão → só depois promoção.
+## Próximo gate recomendado
+
+Antes de avançar para ameaça comum:
+
+1. limites causais da intenção;
+2. natureza mínima da Grande Consciência;
+3. natureza/agência do polo corruptivo;
+4. limites da comunicação com mortos;
+5. piso temporal e aceleradores da reconstituição;
+6. depois modelar fertilidade e instituições políticas quantitativamente.
+
+Remoto GitHub sempre vence qualquer SHA textual antigo deste arquivo.
