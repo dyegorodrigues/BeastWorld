@@ -29,8 +29,6 @@
 - `conversations/2026-08-19-metaai-brainstorm-raw-part-02-pages-07-12.txt`
 - `conversations/2026-08-19-metaai-brainstorm-raw-part-03-pages-13-18.txt`
 
-A divisão em três partes é técnica. A ordem 01 → 02 → 03 corresponde às 18 páginas do PDF.
-
 ### Derivados semânticos
 
 - `docs/06_research/2026-08-19-metaai-brainstorm-critical-intake.md`
@@ -39,36 +37,31 @@ A divisão em três partes é técnica. A ordem 01 → 02 → 03 corresponde às
 - `docs/05_visual/DRAGON_DYNASTY_VISUAL_DEVELOPMENT.md`
 - `docs/04_story/THEMATIC_SPINE.md`
 
-Esses arquivos **não substituem a fonte**. Eles organizam e auditam o material.
-
 ## BW-SRC-2026-08-19-CHATGPT-METAAI-AUDIT
 
 **Arquivo:** `conversations/2026-08-19-chatgpt-metaai-audit-response-high-fidelity.md`  
 **Tipo:** archive de resposta substantiva do ChatGPT após estudar o PDF  
-**Status:** CAPTURED  
-**Uso:** preservar explicações, inferências e rationale produzidos na etapa de auditoria. UI-only citations/links não são tratados como parte da redação substantiva.
+**Status:** CAPTURED.
 
 ## BW-SRC-2026-08-19-WORKFLOW-REQUEST
 
 **Arquivo:** `conversations/2026-08-19-workflow-request-verbatim.md`  
 **Tipo:** instrução autoral sobre memória, compactação, handoff, GitHub/Notion e método de entrevista  
-**Status:** CAPTURED  
-**Uso:** autoridade primária para o protocolo de memória/handoff.
+**Status:** CAPTURED.
 
 ## BW-SRC-2026-08-19-LONGEVITY-LIGHT-REBIRTH
 
 **Arquivo:** `conversations/2026-08-19-author-longevity-light-rebirth-verbatim.md`  
 **Tipo:** turno autoral de alta fidelidade  
 **Status:** CAPTURED  
-**Autoridade:** Primary  
-**Uso:** fonte principal para a onda de longevidade, Luz/consciência, ancoragem pós-morte, reconstituição, reencarnação, fertilidade, sangue vital e hipótese cosmológica.
+**Autoridade:** Primary.
 
-### Derivados semânticos
+### Derivados
 
 - `docs/06_research/2026-08-19-longevity-light-rebirth-critical-intake.md`
 - `docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md`
 
-### Gates associados
+### Gates
 
 - BW-Q-013 — longevidade;
 - BW-Q-014 — persistência/Luz;
@@ -78,7 +71,46 @@ Esses arquivos **não substituem a fonte**. Eles organizam e auditam o material.
 - BW-Q-025 — cosmologia excepcional;
 - BW-Q-026 — repetibilidade do renascimento.
 
-**Nota:** expressões autorais como “acho”, “pode”, “não sei” permanecem deliberadamente abertas. Fonte primária não significa cânone automático.
+## BW-SRC-2026-08-19-METAPHYSICS-INTENTION-COSMOLOGY
+
+**Arquivo:** `conversations/2026-08-19-author-metaphysics-intention-governance-verbatim.md`  
+**Tipo:** turno autoral integral  
+**Status:** CAPTURED  
+**Autoridade:** Primary  
+**Uso:** fonte principal para metafísica estrutural, intenção/vontade, Luz/Ressonância, Grande Consciência, polo provisório `Inferno`, comunicação com mortos, governo de longevos, fertilidade, sangue vital, ecologia energética, cognição das Bestas e reconstituição.
+
+### Autocorreções preservadas
+
+- exceção específica de fertilidade para “sangue de dragão” foi sugerida e retirada no mesmo turno;
+- números de 50/100/150 anos, 3 meses, 1 ano e percentuais foram usados como exploração, não decisão;
+- `Inferno`, `Hollow/Oco`, `Grande Mãe` e `Luz` permanecem placeholders/conceitos de trabalho;
+- um trecho do turno foi explicitamente perdido pelo autor durante copy/paste e NÃO deve ser reconstruído como fonte.
+
+### Derivados semânticos
+
+- `docs/06_research/2026-08-19-metaphysics-intention-cosmology-critical-intake.md`
+- `docs/02_lore/mythology/RESONANCE_COSMOLOGY_HYPOTHESIS.md`
+
+### Gates associados
+
+- BW-Q-027 — intenção como variável causal da Ressonância;
+- BW-Q-028 — Grande Consciência × polo corruptivo;
+- BW-Q-029 — comunicação com mortos;
+- BW-Q-030 — governo/rotação de longevos;
+- BW-Q-031 — curva de fertilidade;
+- BW-Q-032 — ecologia energética;
+- BW-Q-033 — benefício cognitivo do Vínculo para a Besta;
+- BW-Q-034 — habitat/aceleração da reconstituição.
+
+## BW-SRC-2026-08-19-PHYSICS-METAPHYSICS-BOUNDARY
+
+**Arquivo:** `../06_research/2026-08-19-physics-metaphysics-boundary-note.md`  
+**Tipo:** pesquisa externa / design boundary  
+**Status:** CITED  
+**Autoridade:** Secondary  
+**Uso:** impedir que linguagem de campos/frequência/quântico seja confundida com evidência de manifestação, telepatia ou causalidade mental no nosso universo.
+
+Fontes principais incluem CERN, NIST e literatura acadêmica sobre intenção/RNG. A conclusão editorial é deliberada: **a Ressonância consciente será, se adotada, uma lei ficcional de BeastWorld — não uma alegação de que a física real já a provou.**
 
 ## Regra
 
