@@ -1,0 +1,22 @@
+version: 0.1.1
+entities:
+  - {id: BW-BIO-GSPEC-001, name: Grande Espécie, type: GREAT_SPECIES, status: HYPOTHESIS}
+  - {id: BW-BIO-GBEAST-001, name: Grande Besta, type: BEAST_INDIVIDUAL, status: HYPOTHESIS}
+  - {id: BW-BIO-ANCIENT-001, name: Ancião/Anciã, type: LIFE_STAGE, status: HYPOTHESIS}
+  - {id: BW-ECO-WILD-001, name: População Selvagem, type: POPULATION, status: HYPOTHESIS}
+  - {id: BW-ECO-SANCT-001, name: Santuário, type: SANCTUARY, status: HYPOTHESIS}
+  - {id: BW-HB-GUARD-001, name: Guardiões de Santuário, type: GUARDIAN_TRADITION, status: HYPOTHESIS}
+  - {id: BW-HB-RECOG-001, name: Reconhecimento, type: RECOGNITION, status: HYPOTHESIS}
+  - {id: BW-HB-BOND-001, name: Vínculo, type: BOND, status: HYPOTHESIS}
+  - {id: BW-HB-BLESS-001, name: Bênção, type: BLESSING, status: HYPOTHESIS}
+  - {id: BW-BIO-ECHO-001, name: Eco, type: ECHO, status: HYPOTHESIS}
+  - {id: BW-MET-RESON-001, name: Ressonância Profunda, type: METAPHYSICAL_MECHANISM, status: HYPOTHESIS}
+  - {id: BW-HIS-ASH-001, name: Cinza Longa, type: EVENT, status: HYPOTHESIS}
+  - {id: BW-HIS-ACCORD-001, name: Primeiros Acordos, type: EVENT, status: HYPOTHESIS}
+  - {id: BW-HIS-CRIME-001, name: Crime Fundador, type: EVENT, status: HYPOTHESIS}
+  - {id: BW-ECO-DECLINE-001, name: Declínio das Grandes Bestas, type: EVENT, status: HYPOTHESIS}
+  - {id: BW-POL-MONOP-001, name: Monopólio Dinástico de Acesso, type: MONOPOLY, status: HYPOTHESIS}
+  - {id: BW-HB-WILDBLESS-001, name: Bênção Selvagem, type: BLESSING, status: HYPOTHESIS}
+  - {id: BW-BIO-CULTMEM-001, name: Memória Cultural das Bestas, type: BEHAVIORAL_MECHANISM, status: HYPOTHESIS}
+  - {id: BW-POL-ICONBEAST-001, name: Besta Icônica de Santuário, type: BEAST_INDIVIDUAL, status: HYPOTHESIS}
+  - {id: BW-HB-ARTBLESS-001, name: Bênção Artificial, type: BLESSING, status: HYPOTHESIS}
