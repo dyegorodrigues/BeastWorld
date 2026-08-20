@@ -21,17 +21,17 @@ Se você não possui acesso ao GitHub privado e/ou ao Notion informado abaixo, *
 Leia integralmente, nesta ordem:
 
 1. `START_HERE_FOR_AI.md` — este contrato.
-2. `AGENTS.md` — comportamento esperado de agentes.
-3. `PROJECT_STATE.md` — snapshot corrente e decisões/direções mais recentes.
-4. `HANDOFF.md` — continuidade e ponto exato de trabalho.
-5. `docs/00_governance/RETOMADA.md` — porta operacional de retomada.
-6. `docs/00_governance/CANON_POLICY.md` — autoridade/cânone.
-7. `docs/00_governance/STATUS_MODEL.md` — significado dos status.
-8. `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md` — COLD/WARM/HOT/CANON.
-9. `docs/00_governance/GITHUB_NOTION_SYNC.md` — contrato GitHub ↔ Notion.
-10. `docs/00_governance/INTEGRITY_GATES.md` — prova obrigatória de fechamento após escrita.
-11. `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md` — regras para pesquisa multiagente.
-12. `docs/00_governance/MAINTENANCE_CHECKPOINT_2026-08-20.md` — última reconciliação estrutural conhecida; remoto continua vencendo.
+2. `docs/00_governance/MAINTENANCE_CHECKPOINT_2026-08-20.md` — reconciliação pós-primeira auditoria externa; use como ponte entre snapshots antigos e remoto atual.
+3. `docs/00_governance/INTEGRITY_GATES.md` — prova obrigatória de fechamento após escrita.
+4. `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md` — regras para pesquisa multiagente.
+5. `PROJECT_STATE.md` — snapshot conceitual; se divergir do maintenance checkpoint/remoto, registre o drift.
+6. `HANDOFF.md` — continuidade e ponto exato de trabalho.
+7. `docs/00_governance/RETOMADA.md` — porta operacional de retomada.
+8. `AGENTS.md` — comportamento esperado de agentes.
+9. `docs/00_governance/CANON_POLICY.md` — autoridade/cânone.
+10. `docs/00_governance/STATUS_MODEL.md` — significado dos status.
+11. `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md` — COLD/WARM/HOT/CANON.
+12. `docs/00_governance/GITHUB_NOTION_SYNC.md` — contrato GitHub ↔ Notion.
 13. `KNOWLEDGE_GRAPH.md` — mapa macro de dependências.
 
 Se a missão for criativa e o autor demonstrar sobrecarga/confusão, leia também:
@@ -44,13 +44,13 @@ Não faça brainstorm nem recomendações criativas antes de concluir a fase HOT
 
 No Notion, localize e leia:
 
-- `08 — Current State & Resume Packet — 19/08/2026` (o título pode manter data histórica; use conteúdo/Last Edited atuais e compare com o remoto);
+- `08 — Current State & Resume Packet — 19/08/2026` — o título preserva a origem histórica; o conteúdo recebe checkpoints mais novos;
 - `BEASTWORLD — Enciclopédia do Mundo — LEIA AQUI`;
 - `09 — Como Ler, Estudar e Operar o BeastWorld`;
 - `14 — Memória, Handoff & Continuidade entre Conversas`;
 - `06 — AI Orchestration — Research, Review, Canonization & Token Economy`.
 
-Depois consulte somente os capítulos/laboratórios ligados à missão atual. Para o estado recente de cosmologia/ameaça, exemplos incluem 10B/10C/10D, mas **descubra a versão atual no Notion em vez de assumir que estes números são os últimos**.
+Depois consulte somente capítulos/laboratórios ligados à missão. Para a camada recente de metafísica/ameaça, a ordem humana atual é **10B → 10C → 10D**.
 
 ### Fase RELATIONAL — databases
 
@@ -62,6 +62,8 @@ Quando precisar verificar estado, relações ou lacunas, consulte no Notion:
 - Source Library;
 - Entity Atlas;
 - Master Timeline.
+
+Após a manutenção de 20/08/2026, o Lore Registry passou a espelhar também a camada nova de Luz/cosmologia/ameaça; **não presuma contagens fixas, consulte o database atual**.
 
 Use os databases como índice/grafo e as páginas editoriais como explicação longa.
 
@@ -80,6 +82,12 @@ Uma fonte COLD pode conter ideias rejeitadas, autocorreções, erros de outra IA
 Para decisões antigas registradas por letras, consulte também:
 
 - `docs/00_governance/DECISION_PROVENANCE_LEDGER.md`.
+
+Para a primeira auditoria externa Claude, consulte a captura durável:
+
+- `docs/09_reviews/claude/2026-08-20/CLAUDE_AUDIT_ARTIFACT_PASTED_BY_AUTHOR.md`.
+
+Ela é `EXTERNAL AI RATIONALE`, não uma decisão do autor.
 
 ## 3. Hierarquia de autoridade
 
