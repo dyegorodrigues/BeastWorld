@@ -163,6 +163,60 @@ Fontes principais: CERN, NIST, PubMed e pesquisa acadêmica sobre narrativa/carg
 **Autoridade:** Internal / Exploratory  
 **Uso:** preservar inferências que NÃO devem ser confundidas com decisão autoral: três níveis possíveis de corrupção; Trevas como regime; alquimia como tecnologia experimental; categorias funcionais de bestiário; energia operacional × reparo × biomassa; cognição distribuída; interface narrativa e feedback de UX.
 
+## BW-SRC-2026-08-20-MYTHIC-THREAT-MAGIC-EXPANSION
+
+**Arquivo:** `conversations/2026-08-20-author-mythic-threat-magic-expansion-verbatim.md`  
+**Tipo:** turno autoral integral  
+**Status:** CAPTURED  
+**Autoridade:** Primary  
+**Uso:** fonte principal para origem/materialização das criaturas das Trevas, necessidade de exército e guerra física, possibilidade de domínio/portal, magia, alquimistas legítimos, combate contra entidades etéreas, regeneração/transmutação rara, influência de Vínculo/linhagem, World Primer opcional e semente de expansão cosmológica futura.
+
+### Preferências explícitas preservadas
+
+- Trevas: `1D` — regime/estado do substrato autoalimentado/autopropagante com agência emergente;
+- origem: `2D` — instabilidade possível do substrato que atravessa limiar após ruptura antiga;
+- corrupção alimenta/parasita o sistema, mecanismo ainda aberto;
+- uso de poder corruptivo: `4 C+D` — possível sem conversão instantânea, mas não neutro;
+- Ocos/Hollows são apenas uma classe possível;
+- alquimistas não são malignos por profissão;
+- guerra, brutalidade e criaturas materiais são requisitos da obra;
+- outros mundos/wormholes permanecem ideia muito futura e não devem contaminar a saga atual.
+
+### Derivados
+
+- `docs/06_research/2026-08-20-mythic-threat-magic-expansion-critical-intake.md`
+- `docs/02_lore/mythology/MYTHIC_THREAT_MAGIC_ARCHITECTURE_HYPOTHESIS.md`
+
+## BW-SRC-2026-08-20-MYTHIC-THREAT-MAGIC-RESEARCH
+
+**Arquivo:** `../06_research/2026-08-20-mythic-threat-magic-worldbuilding-research-note.md`  
+**Tipo:** pesquisa externa / worldbuilding + mitologia + alquimia + regeneração + física especulativa  
+**Status:** CITED  
+**Autoridade:** Secondary  
+**Uso:** extrair princípios de consistência interna/sub-creation, otherworlds, transporte narrativo, companion lore, história real da alquimia, regeneração de salamandras e wormholes como semente distante sem importar soluções de outras IPs.
+
+## BW-SRC-2026-08-20-CHATGPT-MYTHIC-THREAT-MAGIC-SYNTHESIS
+
+**Arquivo:** `conversations/2026-08-20-chatgpt-mythic-threat-magic-synthesis-high-fidelity.md`  
+**Tipo:** rationale interno de IA  
+**Status:** CAPTURED  
+**Autoridade:** Internal / Exploratory  
+**Uso:** preservar a proposta de ameaça híbrida `ecossistema metafísico + zonas de interface + colônias físicas`, categorias funcionais do bestiário, breaches como infraestrutura, princípio `aço mata corpo / Ressonância ancora o desacoplado`, magia derivada da Ressonância, alquimia institucional, regeneração epimórfica e primer/future seed.
+
+### Gates desta onda
+
+- BW-Q-035 — bestiário corruptivo — refinado;
+- BW-Q-036 — alquimia — refinado;
+- BW-Q-037 — tradução narrativa/primer — refinado;
+- BW-Q-038 — corrupção — refinado;
+- BW-Q-040 — topologia das Trevas;
+- BW-Q-041 — breaches/portais;
+- BW-Q-042 — por que a ameaça emerge agora;
+- BW-Q-043 — combate físico × etéreo;
+- BW-Q-044 — envelope da magia humana;
+- BW-Q-045 — regeneração rara/conservação de matéria;
+- BW-Q-046 — outros mundos/travessias futuras — PARKED/P3.
+
 ## Regra
 
 Source Records preservam formulações históricas. Não editar uma fonte para parecer que o passado sempre correspondeu ao cânone atual. Correções surgem em novos registros e ADRs.
