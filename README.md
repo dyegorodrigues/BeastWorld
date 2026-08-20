@@ -24,21 +24,26 @@ A arquitetura possui três camadas:
 ### Notion
 
 - **Wiki Hub:** https://app.notion.com/p/3c142424cdbc81cd9f8bd269c3674224
+- **Enciclopédia:** https://app.notion.com/p/3c142424cdbc8100bd1bf72591c4288d
+- **Resume Packet:** https://app.notion.com/p/3c142424cdbc8114bd07f15e9c5f92fe
 - **Command Center:** https://app.notion.com/p/3c142424cdbc817da8b8fcc2d32d5470
 
 A arquitetura e os data sources estão documentados em `docs/00_governance/NOTION_WIKI_ARCHITECTURE.md`.
 
-## Entrada obrigatória para novas sessões
+## Entrada obrigatória para novas sessões e IAs externas
 
-Leia, nesta ordem:
+**IA/agente externo deve começar por `START_HERE_FOR_AI.md`.** Esse arquivo exige reancoragem, leitura progressiva GitHub↔Notion e um `CONTEXT READ RECEIPT` antes de qualquer brainstorm ou pesquisa independente.
+
+Para sessões internas, a sequência operacional permanece:
 
 1. `AGENTS.md`
 2. `PROJECT_STATE.md`
-3. `docs/00_governance/RETOMADA.md`
-4. `docs/00_governance/CANON_POLICY.md`
-5. somente os módulos relacionados ao problema atual
+3. `HANDOFF.md`
+4. `docs/00_governance/RETOMADA.md`
+5. `docs/00_governance/CANON_POLICY.md`
+6. somente os módulos relacionados ao problema atual
 
-Se o conector Notion estiver disponível, consulte o Lore Registry/Open Questions ligados aos IDs em trabalho; não carregue toda a Wiki por padrão.
+Se o conector Notion estiver disponível, consulte o Resume Packet e os registros ligados aos IDs em trabalho; não carregue toda a Wiki por padrão.
 
 ## Estado do bootstrap
 
