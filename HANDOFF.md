@@ -3,6 +3,8 @@
 **Atualizado:** 2026-08-20  
 **Função:** memória HOT para retomada entre conversas. Remoto GitHub vence qualquer SHA textual.
 
+> **LATEST MAINTENANCE CHECKPOINT — 20/08/2026:** antes de usar o snapshot conceitual abaixo, leia `docs/00_governance/MAINTENANCE_CHECKPOINT_2026-08-20.md`, `docs/00_governance/INTEGRITY_GATES.md` e `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md`. Uma auditoria externa detectou e uma onda de manutenção corrigiu drift de grafo/Lore Registry, provenance de decisões por letras, status de Dragões, navegação 10B e metadados de segurança. O lore criativo não foi promovido/rejeitado nessa manutenção. O próximo movimento criativo recomendado é **WORLD SKELETON provisório em paralelo aos P0 da ameaça**, não mais ramificação ontológica infinita.
+
 ## Reancoragem obrigatória
 
 Antes de escrever:
@@ -268,16 +270,16 @@ Página humana nova:
 
 **10D — Ameaça Mitológica, Trevas, Magia, Alquimia e Guerra — Laboratório v0.1**.
 
-## Ordem recomendada de decisão
+## Ordem recomendada de decisão — ATUALIZADA PÓS-AUDITORIA
 
-Antes de desenhar monstros finais:
+A auditoria externa detectou que tentar fechar toda a metafísica antes de materializar o mundo produz crescimento infinito de gates. Portanto:
 
-1. topologia das Trevas;
-2. regras dos breaches;
-3. por que a ameaça cresce agora;
-4. envelope mínimo da magia;
-5. bestiário/ecologia;
-6. ancoragem/armas e guerra;
+1. construir **WORLD SKELETON provisório** — geografia/ecologias/centros políticos/Santuários/rotas/recursos/personagens-placeholder;
+2. testar topologia das Trevas **sobre esse mapa**;
+3. testar breaches e “por que agora” sobre lugares/cronologia reais;
+4. fechar envelope mínimo da magia;
+5. derivar bestiário/ecologia/logística;
+6. ancoragem/armas/guerra;
 7. alquimia e regeneração;
 8. primer quando a Bíblia estiver madura;
 9. future seed continua estacionado.
