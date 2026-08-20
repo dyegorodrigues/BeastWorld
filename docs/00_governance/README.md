@@ -6,13 +6,23 @@ Current governance entry points:
 - `STATUS_MODEL.md` — epistemic maturity/status semantics;
 - `MEMORY_HANDOFF_PROTOCOL.md` — COLD/WARM/HOT/CANON memory architecture;
 - `GITHUB_NOTION_SYNC.md` — GitHub ↔ Notion contract;
+- `AI_ORCHESTRATION.md` — single multi-AI council / writer's-room operating contract, context routing, branch policy and integration topology;
 - `RETOMADA.md` — operational resumption door;
 - `INTEGRITY_GATES.md` — mandatory post-write audit gates;
-- `EXTERNAL_AGENT_QUARANTINE.md` — multi-agent research/integration separation;
+- `EXTERNAL_AGENT_QUARANTINE.md` — external research/output isolation without permanent branch sprawl;
 - `DECISION_PROVENANCE_LEDGER.md` — recovered/required full option wording for letter-coded author choices;
 - `CREATOR_COMPASS.md` — cognitive reset / human creative navigation;
 - `MAINTENANCE_CHECKPOINT_2026-08-20.md` — reconciliation after first external multi-agent audit.
 
 ADRs live in `docs/07_decisions/`.
+
+Operational Notion surfaces:
+
+- `06 — AI Orchestration — Research, Review, Canonization & Token Economy` = human explanation/policy;
+- `15 — Painel Operacional do Conselho de IAs` = live council/session dashboard;
+- `BEASTWORLD — AI Council Queue` = mission coordination;
+- `BEASTWORLD — Session & Sync Ledger` = operational closeout receipts.
+
+These operational surfaces do **not** create a second canon.
 
 > Capture is not reconciliation. Reconciliation is not promotion. Promotion is not canon.
