@@ -21,20 +21,20 @@ Antes de editar:
 6. `docs/00_governance/GITHUB_NOTION_SYNC.md`
 7. somente fontes/módulos ligados ao alvo atual
 
-Se Notion estiver conectado, usar Command Center + `Research & Open Questions` + Source Library. Não carregar toda a Wiki por padrão.
+Se Notion estiver conectado, recuperar apenas os nós/gates/fontes relacionados. Não carregar toda a Wiki por padrão.
 
 ## Memória
 
-- **COLD:** Source Archive, PDFs, falas integrais, rationale;
-- **WARM:** lore/research/graph/Notion;
+- **COLD:** Source Archive, PDFs, falas integrais, pesquisas e rationale;
+- **WARM:** lore/research/graph/Notion/Enciclopédia;
 - **HOT:** `PROJECT_STATE.md` + `HANDOFF.md` + esta porta;
 - **CANON:** Bíblia/ADRs/módulos explicitamente promovidos.
 
-Resumo nunca substitui fonte.
+> **Resumo nunca substitui fonte.**
 
 ## Estado intelectual — 20/08/2026
 
-As Grandes Bestas e a cosmologia continuam `HYPOTHESIS`.
+As Grandes Bestas, a metafísica e a arquitetura de ameaça continuam majoritariamente `HYPOTHESIS`.
 
 Núcleos já preservados:
 
@@ -44,9 +44,12 @@ Núcleos já preservados:
 - Character Lab e Visual Development;
 - Luz/Vínculo/longevidade/reconstituição;
 - metafísica/intenção/Ressonância;
-- novo checkpoint de **Grande Consciência, Trevas/polo corruptivo, corrupção, bestiário, alquimia, ecologia energética e exposição narrativa**.
+- Grande Consciência, Trevas/corrupção, ecologia energética e exposição narrativa;
+- **nova onda:** origem/materialização das criaturas, breaches, guerra material×etérea, magia, alquimia legítima, regeneração rara, World Primer e semente cosmológica distante.
 
-## Correntes causais atuais
+## Núcleo causal preservado
+
+> **A Dinastia não possui a Besta. A Dinastia possui a porta até a Besta.**
 
 ```text
 coexistência → tolerância → Reconhecimento → Vínculo → Bênção → Eco?
@@ -54,7 +57,9 @@ Santuário → Guardiões → controle de acesso → Dinastia
 Cinza Longa → Primeiros Acordos → apropriação → Crime Fundador → Declínio
 ```
 
-Metafísica:
+`Ancião = idade`, não tier.
+
+## Metafísica mínima em estudo
 
 ```text
 Corpo ↔ assinatura ressonante ↔ Luz
@@ -67,44 +72,20 @@ Corpo ↔ assinatura ressonante ↔ Luz
                   ↓
           Grande Consciência
                   ↕
-      polo corruptivo / Trevas?
+      polo corruptivo / Trevas
 ```
 
-## Direções autorais confirmadas nesta onda
+Direções autorais fortes:
 
-### Grande Consciência — D
+- Grande Consciência = substrato real + consciência emergente de incontáveis Luzes, não antropomórfica;
+- Trevas = estado/regime do mesmo substrato que se tornou autoalimentado/autopropagante e adquiriu agência; ontologia/nome ainda abertos;
+- mesma Luz em outro corpo = mesmo indivíduo;
+- intenção é causal mas não onipotente;
+- reciprocidade/consentimento e coerção/extração produzem estados ressonantes diferentes;
+- corrupção não equivale a raiva, tristeza, medo ou violência;
+- uso de poder corruptivo pode ocorrer sem conversão imediata, mas não deve ser totalmente neutro.
 
-- substrato real;
-- incontáveis Luzes conectadas;
-- consciência emergente verdadeira;
-- transcendente, não personalidade humana;
-- pode ser comparada culturalmente a Deus sem fixar divindade antropomórfica.
-
-### Polo corruptivo — D com correção
-
-- forma/regime corruptivo do mesmo substrato;
-- desenvolve agência ao longo das eras;
-- **não** descrever simplesmente como Luzes acumuladas;
-- `Trevas` é placeholder para contraparte ainda sem ontologia;
-- `Inferno`, `Hollow/Oco` também não são nomes finais.
-
-### Corrupção — D
-
-- emoção negativa não basta;
-- raiva, luto, fúria, vingança e brutalidade não corrompem automaticamente;
-- padrões reiterados de dominação/coerção/extração são candidatos causais;
-- vícios podem predispor;
-- exposição ao polo corruptivo pode amplificar risco.
-
-### Contato com Grande Consciência — D
-
-- potencial varia;
-- treino amplia;
-- Vínculo facilita;
-- locais/Bestas/rituais podem amplificar;
-- comunicação precisa é rara.
-
-## Axiomas/hipóteses fortes ainda não canônicos
+Axiomas/hipóteses de alto valor ainda não canônicos:
 
 > **Intenção coerente inclina estados ressonantes possíveis; não cria qualquer coisa do nada.**
 
@@ -112,145 +93,185 @@ Corpo ↔ assinatura ressonante ↔ Luz
 
 > **Sangue tomado é apenas sangue. Sangue oferecido muda sangue.**
 
-Hipótese de IA:
+## Luz, morte e retorno
 
-> **Grande Consciência integra sem apagar diferença; polo corruptivo assimila/captura destruindo autonomia.**
-
-Separar sempre:
-
-- finalidade ética;
-- modo de acoplamento ressonante.
-
-## Luz e retorno
-
-Author Truth de trabalho:
-
-> **Mesma Luz em outro corpo = mesmo indivíduo.**
-
-Reconstituição:
+Reconstituição vinculada usa três fases:
 
 1. fixação da Luz;
 2. reconstrução somática;
 3. maturação ressonante.
 
-Habitat ideal acelera; fora dele ainda é possível; deve haver piso temporal.
+Habitat ideal acelera partes do processo; existe piso temporal. Reencarnação pela Grande Consciência é mecanismo diferente. Repetição não possui contador de vidas; risco/cicatrizes/instabilidade podem acumular.
 
-Reencarnação pela Grande Consciência é mecanismo diferente. Purificação pode remover trauma/ruído sem apagar identidade/responsabilidade.
-
-## Sangue / alquimia
+## Sangue e alquimia
 
 - sangue comum;
-- sangue alterado;
+- sangue alterado pela Bênção;
 - oferta vital ressonante.
 
-Nova trilha:
+Alquimia é agora tratada como **profissão/instituição potencialmente legítima**, não alinhamento maligno. Coerção pode produzir sucesso parcial, com toxicidade/deformação/corrupção, sem reproduzir uma Bênção estável completa.
 
-- alquimistas/equivalentes podem existir;
-- coerção pode produzir sucesso parcial;
-- custo pode ser toxicidade, deformação, instabilidade ou corrupção;
-- submundo/sequestro/biopoder são consequências a testar.
+## NOVA ONDA — ameaça mitológica, criaturas, magia e guerra
 
-## Ecologia energética
+### Fontes obrigatórias
 
-- habitat pode restaurar energia/funcionalidade de forma espécie-específica;
-- não virar classes elementais;
-- alimentação imediata pode ser dispensável em extremos, mas:
+- `docs/08_sources/conversations/2026-08-20-author-mythic-threat-magic-expansion-verbatim.md`
+- `docs/06_research/2026-08-20-mythic-threat-magic-expansion-critical-intake.md`
+- `docs/06_research/2026-08-20-mythic-threat-magic-worldbuilding-research-note.md`
+- `docs/02_lore/mythology/MYTHIC_THREAT_MAGIC_ARCHITECTURE_HYPOTHESIS.md`
+- `docs/08_sources/conversations/2026-08-20-chatgpt-mythic-threat-magic-synthesis-high-fidelity.md`
 
-> **energia ≠ matéria.**
+Página humana no Notion:
 
-Separar energia operacional, reparo e reposição de biomassa.
+**10D — Ameaça Mitológica, Trevas, Magia, Alquimia e Guerra — Laboratório v0.1**.
 
-## Mutualismo cognitivo
+### Hipótese de ameaça híbrida
 
-Vínculo pode melhorar cognição da Besta em leitura de intenção, estratégia, símbolos e relações humanas; tratar como cognição distribuída, não `QI + X`.
+> **Trevas funcionam como ecossistema metafísico capaz de colonizar matéria.**
 
-## Governo de longevos
+Arquitetura para teste:
 
-Princípio apoiado: longevidade não legitima governo vitalício. `50 anos` é exemplo, não regra. Conselhos/rotação/abdicação precisam de modelos concorrentes.
+1. regime/fase corruptiva do substrato;
+2. zonas de interface;
+3. `breaches`/“portais” como acoplamentos locais;
+4. colônias físicas com biomassa, reprodução/produção, estruturas e logística;
+5. várias origens de criaturas;
+6. inteligências soberanas capazes de estratégia/pacto/comando.
 
-## Bestiário corruptivo
+Não reduzir a ameaça a humanos mortos, Bestas corrompidas ou uma única raça de horda.
 
-Ocos/Hollows são apenas uma classe possível. Autor quer:
+### Bestiário — categorias funcionais
 
-- hordas;
-- predadores;
+- formas de massa materiais;
+- predadores especializados;
 - corrompidos;
-- Bestas deformadas;
-- entidades próprias do polo;
-- inteligências/comandantes calculistas e autocontrolados.
+- Ocos/falhas de continuidade;
+- formas nativas do regime corruptivo;
+- inteligências soberanas;
+- formas de cerco.
 
-Não nomear espécies antes da ontologia mínima das Trevas.
+**Não nomear/desenhar espécies finais antes de origem, ecologia, inteligência, vulnerabilidade e logística.**
 
-## Outros povos sencientes
+### Por que a ameaça emerge agora
 
-Possibilidade aberta em `BW-Q-039`; não assumir nem criar elfos/anões/orcs por inércia.
+Hipótese híbrida a testar:
 
-## Tradução narrativa / UX
+- ciclo natural de permeabilidade;
+- ecologias/Grandes Espécies contribuem para estabilidade;
+- povos/Guardiões antigos reforçaram pontos frágeis;
+- Declínio/guerras/destruição de Santuários diminuem resiliência quando o ciclo piora.
 
-Feedback autoral: respostas e Wiki muito verticalizadas prejudicam leitura. Preferir parágrafos coesos e interface compacta.
+Guardrail: Trevas não devem virar causa retroativa de Crime Fundador, Cinza Longa, toda guerra ou toda crueldade humana.
+
+## Guerra material × etérea
+
+Princípio:
+
+> **Aço mata corpo. Ressonância torna vulnerável aquilo que não está plenamente ancorado.**
+
+A maioria das tropas é material. Entidades profundas/parcialmente desacopladas exigem ancoragem por Vínculo/Besta/Guardião/alquimia/material/som/geometria/rito/ambiente antes do dano pleno.
+
+## Magia
+
+Magia deve ser **interface prática com as mesmas leis da Ressonância**, não segundo sistema desconectado.
+
+Famílias candidatas:
+
+- Artes de Vínculo;
+- Guarda/warding/ancoragem;
+- alquimia/catalise;
+- práticas contemplativas/comunicação;
+- ritos de morte/retorno;
+- artes corruptivas.
+
+Elementos podem surgir por catalise/acoplamento a fontes/condições; não criar classes elementais universais antes do gate `BW-Q-044`.
+
+## Regeneração rara
+
+Hipótese:
+
+```text
+assinatura/Luz + Bênção/Vínculo + tecido competente + sinal alquímico +
+energia + biomassa + tempo → regeneração rara
+```
+
+Pesquisa em regeneração animal fornece analogia `blastema + informação posicional`; isso não prova o mecanismo ficcional.
+
+> **Energia ≠ matéria.**
+
+Biomassa deve vir de reservas, alimentação, biomaterial/scaffold ou transferência real do parceiro, salvo futura decisão explícita de transferência espacial de matéria.
+
+Não usar `pureza genética` como Author Truth simples; testar fidelidade ressonante, profundidade de Bênção, Echo, compatibilidade e plasticidade.
+
+## Exposição narrativa
 
 Regra editorial:
 
-> **Sentir → observar a regra → aprender o nome → descobrir a teoria.**
+> **Sentir primeiro → observar a regra → aprender o nome → descobrir a teoria.**
 
-Um conceito pode ter nome de autor, erudito, popular, ritual e regional/conlang.
+Distinguir:
 
-## Pesquisa real — fronteira
+- Prologue;
+- Cold Open / Teaser;
+- World/Lore Primer;
+- Diegetic Primer;
+- Companion Short.
 
-- CERN/NIST: campos, ondas, energia/frequência têm significados físicos reais e limitados;
-- PubMed: intenção/RNG não estabelece manifestação mental como física aceita;
-- estudos de narrativa: imersão ajuda, sobrecarga conceitual pode prejudicar compreensão;
-- Ressonância consciente é lei ficcional BeastWorld se adotada.
+A ideia de contextualização opcional funciona melhor como `Diegetic World Primer / Lore Prelude`. A obra principal deve continuar compreensível sem ele.
 
-## Fontes obrigatórias da onda atual
+## Future seed
 
-- `docs/08_sources/conversations/2026-08-20-author-cosmology-polarity-exposition-verbatim.md`
-- `docs/06_research/2026-08-20-cosmology-polarity-exposition-critical-intake.md`
-- `docs/06_research/2026-08-20-narrative-exposition-and-metaphysics-research-note.md`
-- `docs/08_sources/conversations/2026-08-20-chatgpt-cosmology-polarity-review-high-fidelity.md`
-- `docs/02_lore/mythology/RESONANCE_COSMOLOGY_HYPOTHESIS.md` — v0.2
+`BW-Q-046` = `PARKED / P3`.
 
-Fontes anteriores continuam no Source Index.
+Preservar possibilidade de substrato cosmológico/outros mundos/travessias futuras sem introduzir agora nave, laser, invasão alienígena ou sci-fi que desfigure a Heroic Age.
 
-## Gates atuais
+## Gates desta onda
 
-Notion no checkpoint desta onda:
+Refinados:
 
-- **39 questões OPEN**;
-- **18 P0**;
-- **17 Source Records**;
-- **0 Security Holds**.
+- `BW-Q-035` — bestiário;
+- `BW-Q-036` — alquimia;
+- `BW-Q-037` — tradução narrativa/primer;
+- `BW-Q-038` — corrupção.
 
-Novos `BW-Q-035`–`039`:
+Novos:
 
-- 035 — bestiário corruptivo;
-- 036 — alquimia de sangue/Ressonância;
-- 037 — exposição/tradução narrativa;
-- 038 — mecânica da corrupção;
-- 039 — outros povos sencientes.
+- `BW-Q-040` — topologia das Trevas — P0;
+- `BW-Q-041` — breaches/portais — P0;
+- `BW-Q-042` — por que a ameaça emerge agora — P0;
+- `BW-Q-043` — combate físico × etéreo — P1;
+- `BW-Q-044` — envelope da magia — P0;
+- `BW-Q-045` — regeneração rara/conservação de matéria — P1;
+- `BW-Q-046` — outros mundos/travessias — PARKED/P3.
+
+## Ordem recomendada para a próxima sessão
+
+Não abrir outro mega-bloco aleatório. Seguir:
+
+1. **topologia das Trevas**;
+2. **regras dos breaches**;
+3. **por que a ameaça cresce agora**;
+4. **envelope mínimo da magia**;
+5. bestiário/ecologia;
+6. ancoragem/armas/guerra;
+7. alquimia e regeneração;
+8. primer quando a Bíblia estiver madura;
+9. future seed permanece PARKED.
+
+Cada gate pode ser trabalhado autonomamente com pesquisa + 3–5 modelos concorrentes + Devil's Advocate + consequências em quatro escalas + decisão do autor.
 
 ## Não fazer ainda
 
-- não fixar `Trevas`, `Inferno`, `Luz`, `Grande Mãe`, `Hollow/Oco` como nomes finais;
-- não dizer que física quântica provou a metafísica;
-- não igualar emoção negativa a corrupção;
-- não tornar intenção onipotente;
-- não transformar Bestas em juízes morais/jurídicos infalíveis;
+- não fixar nomes cosmológicos/criaturas por repetição;
+- não dizer que física quântica prova a metafísica;
+- não transformar intenção em onipotência;
+- não transformar Trevas na fonte de toda maldade humana;
+- não criar exército sem ecologia/logística;
+- não reintroduzir classes elementais;
+- não criar transmutação universal;
+- não transformar sangue puro em ranking objetivo;
 - não tornar mortos oráculos;
-- não criar bestiário inteiro antes da ontologia das Trevas;
-- não converter ecologia ressonante em classes elementais;
-- não confundir energia com biomassa;
-- não preencher o trecho autoral perdido por inferência.
-
-## Próximo bloco recomendado
-
-Continuar entrevista curta na **ontologia das Trevas/polo corruptivo**:
-
-1. Trevas são estado, substância, informação, campo/ecossistema metafísico ou combinação?
-2. sempre existiram ou surgiram de ruptura?
-3. agência existia desde o início ou emergiu?
-4. corrupção alimenta o polo ou apenas torna a Luz compatível?
-5. o polo cria algo novo ou só converte/assimila?
-6. pode haver uso controlado sem conversão?
-
-Só depois desenhar bestiário, alquimia em profundidade e guerra maior.
+- não exigir primer para acompanhar a obra principal;
+- não desenvolver outros mundos agora;
+- não preencher trecho autoral perdido por inferência;
+- mudança estrutural exige regressão de lore.
