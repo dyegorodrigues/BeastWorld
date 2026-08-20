@@ -29,15 +29,22 @@ Leia integralmente, nesta ordem:
 7. `docs/00_governance/STATUS_MODEL.md` — significado dos status.
 8. `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md` — COLD/WARM/HOT/CANON.
 9. `docs/00_governance/GITHUB_NOTION_SYNC.md` — contrato GitHub ↔ Notion.
-10. `KNOWLEDGE_GRAPH.md` — mapa macro de dependências.
+10. `docs/00_governance/INTEGRITY_GATES.md` — prova obrigatória de fechamento após escrita.
+11. `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md` — regras para pesquisa multiagente.
+12. `docs/00_governance/MAINTENANCE_CHECKPOINT_2026-08-20.md` — última reconciliação estrutural conhecida; remoto continua vencendo.
+13. `KNOWLEDGE_GRAPH.md` — mapa macro de dependências.
 
-Não faça brainstorm nem recomendações criativas antes de concluir esta fase.
+Se a missão for criativa e o autor demonstrar sobrecarga/confusão, leia também:
+
+- `docs/00_governance/CREATOR_COMPASS.md`.
+
+Não faça brainstorm nem recomendações criativas antes de concluir a fase HOT.
 
 ### Fase WARM — compreensão do mundo
 
 No Notion, localize e leia:
 
-- `08 — Current State & Resume Packet — 19/08/2026` (o título pode manter data histórica; use o conteúdo e Last Edited atuais);
+- `08 — Current State & Resume Packet — 19/08/2026` (o título pode manter data histórica; use conteúdo/Last Edited atuais e compare com o remoto);
 - `BEASTWORLD — Enciclopédia do Mundo — LEIA AQUI`;
 - `09 — Como Ler, Estudar e Operar o BeastWorld`;
 - `14 — Memória, Handoff & Continuidade entre Conversas`;
@@ -69,6 +76,10 @@ Abra `docs/08_sources/` e fontes históricas apenas quando precisar:
 - entender a evolução de uma hipótese.
 
 Uma fonte COLD pode conter ideias rejeitadas, autocorreções, erros de outra IA e material pré-canônico. **Preservação não significa aprovação.**
+
+Para decisões antigas registradas por letras, consulte também:
+
+- `docs/00_governance/DECISION_PROVENANCE_LEDGER.md`.
 
 ## 3. Hierarquia de autoridade
 
@@ -102,6 +113,8 @@ Antes de produzir análise profunda, devolva um `CONTEXT READ RECEIPT` contendo:
 
 Não copie apenas títulos. Demonstre compreensão causal suficiente para provar que leu.
 
+Se encontrar drift, classifique-o usando `INTEGRITY_GATES.md` e **não trate drift operacional como prova de que o lore é ruim**.
+
 ## 5. Modo padrão para IA externa: READ-ONLY CONSULTANT
 
 Salvo autorização expressa do autor, você pode:
@@ -125,7 +138,16 @@ Você **não pode**, por padrão:
 - apagar fonte histórica;
 - reconciliar contradições sem registrá-las.
 
-Se o autor autorizar escrita, use branch/PR próprios, preserve proveniência e siga `CHANGE_PROTOCOL.md`, `CANON_POLICY.md` e `GITHUB_NOTION_SYNC.md`. Nunca mergeie por iniciativa própria.
+Se o autor autorizar escrita, o modo padrão muda para **EXTERNAL REVIEW QUARANTINE**, não para integração direta:
+
+1. crie branch própria a partir do HEAD integrado atual;
+2. escreva sob `docs/09_reviews/<agent>/<date>/`;
+3. não altere Bíblia, grafo, Timeline, Notion, HOT memory ou Canon Status na mesma fase de pesquisa;
+4. entregue `Impact Cones` para propostas estruturais;
+5. siga `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md`;
+6. nunca mergeie por iniciativa própria.
+
+Somente o integrador autorizado pode, em etapa posterior, transformar propostas aprovadas em mudanças do modelo compartilhado.
 
 ## 6. Como pesquisar e contribuir intelectualmente
 
@@ -140,6 +162,8 @@ Separe sempre:
 - **RISK / CONTRADICTION:** problema identificado.
 
 Quando propor mudança estrutural, apresente idealmente 2–4 arquiteturas concorrentes, trade-offs, efeitos sobre nós dependentes e recomendação justificada. Não sobrescreva o modelo existente só porque sua alternativa parece melhor localmente.
+
+Se usar opções A/B/C/D, preserve o **enunciado completo das opções junto com a resposta do autor**. Preferir nomes para arquiteturas (`LIMIAR`, `PORTAL`, etc.) em vez de letras soltas.
 
 ## 7. Formato obrigatório de relatório independente
 
@@ -156,6 +180,8 @@ Entregue, nesta ordem:
 9. **Perguntas realmente bloqueadoras** — somente as que não puderem ser resolvidas lendo as fontes.
 10. **Source Map** — arquivos GitHub, páginas Notion e fontes externas usadas.
 
+Para proposta estrutural, acrescente o `Impact Cone` definido no protocolo de quarentena.
+
 Se houver incerteza, diga `UNKNOWN` / `UNRESOLVED`. Não preencha lacunas fingindo memória.
 
 ## 8. Economia de contexto
@@ -168,7 +194,20 @@ Use recuperação progressiva:
 
 A memória curta pode ser compacta **porque a memória longa permanece íntegra e ligada**. Nunca resuma uma nuance importante sem manter referência recuperável para a fonte integral.
 
-## 9. Notion — pontos de entrada atuais
+## 9. Fechamento obrigatório se você escreveu
+
+Se recebeu permissão de escrita, **não diga apenas “salvei tudo”**.
+
+Antes de encerrar:
+
+1. execute os gates aplicáveis de `INTEGRITY_GATES.md`;
+2. informe branch e HEAD finais;
+3. informe arquivos criados/alterados;
+4. informe o que foi `CAPTURED`, `MODELED`, `SYNCED`, `AUDITED` ou `PROMOTED` — são estados diferentes;
+5. liste qualquer drift restante;
+6. preserve relatórios externos em Markdown durável; link de artifact/chat não basta.
+
+## 10. Notion — pontos de entrada atuais
 
 - Wiki Hub: https://app.notion.com/p/3c142424cdbc81cd9f8bd269c3674224
 - Enciclopédia: https://app.notion.com/p/3c142424cdbc8100bd1bf72591c4288d
@@ -179,7 +218,7 @@ A memória curta pode ser compacta **porque a memória longa permanece íntegra 
 
 Se links mudarem, procure pelos títulos no workspace BeastWorld.
 
-## 10. Prompt mínimo que o autor pode enviar a qualquer IA
+## 11. Prompt mínimo que o autor pode enviar a qualquer IA
 
 > Entre no projeto BeastWorld como consultor externo READ-ONLY. Acesse o repositório privado `dyegorodrigues/BeastWorld` e comece obrigatoriamente por `START_HERE_FOR_AI.md`. Siga integralmente o protocolo de onboarding, incluindo GitHub + Notion, e não confie em memória de conversas anteriores. Antes de pesquisar ou sugerir qualquer coisa, devolva o `CONTEXT READ RECEIPT` exigido pelo arquivo. Depois execute a missão que eu passar, distinguindo claramente fonte do projeto, inferência sua, pesquisa externa e proposta nova. Não altere GitHub, Notion ou cânone sem minha autorização explícita.
 
