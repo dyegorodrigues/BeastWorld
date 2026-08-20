@@ -112,6 +112,57 @@
 
 Fontes principais incluem CERN, NIST e literatura acadêmica sobre intenção/RNG. A conclusão editorial é deliberada: **a Ressonância consciente será, se adotada, uma lei ficcional de BeastWorld — não uma alegação de que a física real já a provou.**
 
+## BW-SRC-2026-08-20-COSMOLOGY-POLARITY-EXPOSITION
+
+**Arquivo:** `conversations/2026-08-20-author-cosmology-polarity-exposition-verbatim.md`  
+**Tipo:** turno autoral integral  
+**Status:** CAPTURED  
+**Autoridade:** Primary  
+**Uso:** checkpoint autoral que confirma Grande Consciência `D`, polo corruptivo `D` com correção `Trevas ≠ simplesmente Luz acumulada`, corrupção por padrões/intenções em vez de emoção isolada, contato com Grande Consciência `D`, bestiário corruptivo amplo, alquimia de sangue, ecologia energética, reconstituição em três fases, purificação da Luz, governo de longevos, mutualismo cognitivo e exigência de tradução narrativa clara para livro/série.
+
+### Feedback operacional preservado
+
+O autor explicitou que respostas excessivamente verticalizadas/fragmentadas dificultam leitura. Preferir parágrafos coesos, seções compactas e distinção clara entre explicação longa, banco técnico e memória HOT.
+
+### Derivado principal
+
+- `docs/06_research/2026-08-20-cosmology-polarity-exposition-critical-intake.md`
+
+### Novos/refinados gates
+
+- BW-Q-027 — intenção;
+- BW-Q-028 — Grande Consciência/polo corruptivo;
+- BW-Q-029 — comunicação com mortos;
+- BW-Q-030 — governo de longevos;
+- BW-Q-032 — ecologia energética;
+- BW-Q-033 — cognição da Besta;
+- BW-Q-034 — reconstituição/habitat;
+- BW-Q-035 — bestiário corruptivo;
+- BW-Q-036 — alquimia de sangue/Ressonância;
+- BW-Q-037 — tradução narrativa da cosmologia;
+- BW-Q-038 — mecânica da corrupção da Luz;
+- BW-Q-039 — possibilidade de outros povos sencientes.
+
+## BW-SRC-2026-08-20-METAPHYSICS-NARRATIVE-RESEARCH
+
+**Arquivo:** `../06_research/2026-08-20-narrative-exposition-and-metaphysics-research-note.md`  
+**Tipo:** pesquisa externa / narrativa + ciência  
+**Status:** CITED  
+**Autoridade:** Secondary  
+**Uso:** sustentar a fronteira física real × lei ficcional e a estratégia editorial para comunicar conceitos complexos sem exposição excessiva.
+
+Fontes principais: CERN, NIST, PubMed e pesquisa acadêmica sobre narrativa/carga cognitiva. Princípio de design derivado:
+
+> **Sentir primeiro → observar a regra → aprender o nome → descobrir a teoria.**
+
+## BW-SRC-2026-08-20-CHATGPT-COSMOLOGY-POLARITY-REVIEW
+
+**Arquivo:** `conversations/2026-08-20-chatgpt-cosmology-polarity-review-high-fidelity.md`  
+**Tipo:** rationale interno de IA  
+**Status:** CAPTURED  
+**Autoridade:** Internal / Exploratory  
+**Uso:** preservar inferências que NÃO devem ser confundidas com decisão autoral: três níveis possíveis de corrupção; Trevas como regime; alquimia como tecnologia experimental; categorias funcionais de bestiário; energia operacional × reparo × biomassa; cognição distribuída; interface narrativa e feedback de UX.
+
 ## Regra
 
 Source Records preservam formulações históricas. Não editar uma fonte para parecer que o passado sempre correspondeu ao cânone atual. Correções surgem em novos registros e ADRs.
