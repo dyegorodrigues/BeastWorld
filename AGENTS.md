@@ -53,7 +53,9 @@ Gatilhos para checkpoint/compactação:
 - três ou mais perguntas/decisões novas;
 - mudança de causalidade/status;
 - troca provável de conversa;
-- antes de concluir PR/ciclo.
+- antes de concluir PR/ciclo;
+- turno autoral longo que contém autocorreções, hesitações ou alternativas relevantes;
+- resposta de IA cujo rationale introduz uma arquitetura conceitual que poderá ser necessária em revisão futura.
 
 Após um checkpoint relevante, atualizar `HANDOFF.md`; atualizar `PROJECT_STATE.md` somente se o estado consolidado mudou.
 
@@ -144,6 +146,36 @@ Testar tudo em quatro escalas: indivíduo, família/comunidade, Estado/dinastia 
 - distinguir sempre verdade do autor, crença in-world, mito/religião e propaganda;
 - evitar linguagem de RPG quando o conceito é biológico, histórico ou político;
 - quando uma fonte externa usa nomes/soluções afirmativas, preservar como source-history até revisão explícita.
+
+## Regra de interação com o autor — UX
+
+Feedback explícito de 20/08/2026:
+
+- evitar respostas excessivamente verticalizadas, com uma frase por linha e rolagem artificial;
+- preferir **parágrafos coesos, densos e legíveis**, usando listas apenas quando estruturam uma decisão real;
+- o autor aceita terminologia técnica, mas precisa enxergar sua tradução concreta e narrativa;
+- quando houver muitas alternativas, oferecer bloco curto de entrevista com opções + consequências + `nenhuma / não sei / outra`;
+- não exigir que o autor se lembre do que esqueceu: usar gatilhos associativos baseados nas fontes;
+- quando ele estiver cansado ou falando livremente, preservar autocorreções e hesitações em vez de “limpar” a fonte;
+- não interpretar elogio ou concordância geral como canonização de todas as frases ao redor.
+
+## Regra de interface narrativa — livro/série
+
+A complexidade deve viver no backend; a experiência do público deve ser gradual.
+
+Princípio de trabalho:
+
+> **Sentir primeiro → observar a regra → aprender o nome → descobrir a teoria.**
+
+Um conceito pode ter simultaneamente:
+
+- nome de Author Truth;
+- nome erudito;
+- nome popular;
+- nome religioso/ritual;
+- forma regional/conlang.
+
+Livro e série podem revelar a mesma Author Truth por meios diferentes. Exposição deve nascer de conflito, consequência, rito, comportamento, imagem, sensação e diálogo necessário — não de aula enciclopédica gratuita.
 
 ## Modificação de cânone
 
