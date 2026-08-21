@@ -147,6 +147,58 @@ E, em seguida, o complemento sobre herança:
 
 ---
 
+## TURNO 10 — Oito imagens, o brainstorm explosivo, e o alerta de complexidade
+
+**Nota de proveniência específica deste turno:** as falas abaixo são fragmentos transcritos do meu contexto de sessão. São fiéis no conteúdo e na ordem, mas **não são um export completo da plataforma** — parte do turno foi comprimida antes desta transcrição. Onde há reticências, houve texto que não consegui recuperar palavra por palavra. Trate como `AUTHOR-SOURCE-VIA-CLAUDE`, com esta ressalva a mais.
+
+**Anexos:** oito imagens de referência. Entre elas, uma que é a mais importante do conjunto: **tatuagens rúnicas em ouro, conectadas e ramificando por todo o torso e os braços, com figuras geométricas nos pontos de encontro das linhas.** As demais: uma prancha de figurino, a vinculada da fênix em dourado e vermelho, a vinculada da serpente marinha em azul, e poses de combate.
+
+> "Olha, eu tô colocando várias imagens anexas… fazer um brainstorming, um estudo, um brainstorming explosivo aí, criativo, pensar, estudar, criar, desenvolver, refletir, sobre tudo isso e outros caminhos."
+
+> "Eu não sei se a gente tá se perdendo, tá tudo extremamente complexo."
+
+> "esse negócio de família ali, a Eve, tá cada vez mais complicado, bugando, tá ficando um bagulho tão complexo e já tá perdendo totalmente o sentido pra mim."
+
+> "Mortal Kombat, desde os primeiros da década de 90…"
+
+> "Senhor dos Anéis, o mundo, o cenário, a geografia…"
+
+> "Harry Potter, olha tudo que foi criado…"
+
+> "a questão de existência de runas, estilo alquimia, lembrando Fullmetal Alchemist… as marcas poderiam ser runas… uma tatuagem toda conectada e que vai ramificando em tudo com runas, com geometria sagrada."
+
+> "por que que não pode ter um portal?… criaturas saem de lá… as pessoas às vezes podem entrar também por esses portais."
+
+> "tem o Caraxes, tem o Vermithor, tem o Balerion…"
+
+> "quais são as melhores bestas pra ser utilizadas, bestas sagradas. Quantas tem que ter… uma besta máxima ali, que é a mais pica de todas."
+
+> "depois de usar um monte a pele fica toda queimada, mas como ele tem o sangue do dragão você vai se regenerando… essa casca toda cai, como se fosse carvão queimado."
+
+> "as lutas têm que ser foda, épicas, estilosas, cinematográficas… tipo as lutas também no filme 300."
+
+> "dá pra reimaginar um pouco, até colocando as imagens de referência, com todo o contexto que a gente trabalhou até agora, mas consegue enxergar por outras dimensões, por outros ângulos."
+
+> "Eu te dou autonomia e liberdade criativa… cria individualmente cada uma, uma por vez. Organize, revise, pense, faça um brainstorm."
+
+> "Faz de verdade, pensa de verdade, queira de verdade que vai dar certo."
+
+**Ação:** arquivos `16` a `21`.
+
+---
+
+## TURNO 11 — Verificação, repositório, link, e o comando de não-contaminação
+
+> "Ah detalhe importante verifique se está tudo salvo que todos os trabalhos até agora e assim ó se você tiver alguma limitação de me trazer a resposta aqui você pode dentro do teu repositório você colocar todo toda a tua ideia… e depois me manda o link aqui para acessar aí inteira mas também me dá um resumo detalhado aqui bem organizado com uma linguagem bem explicada e com todo o teu fluxo de pensamento a tua lógica do porquê porque vocês escolheram porque que é melhor…"
+
+> "deixa tudo preparado para as outras IAs também poderem consultar mas eu vou dar o comando para elas não olharem a tua versão cada uma criar sua própria."
+
+**Ação:** verificação feita, arquivos `16`–`21` gravados e enviados, resumo entregue no chat.
+
+**Registro de método — e isto é importante para quem vier depois:** o autor adotou, por conta própria, a prevenção contra o risco de câmara de eco que eu havia levantado em `HANDOFF_ENTRE_IAS.md`. Cada IA constrói a própria versão **antes** de ler a das outras, e só depois se comparam os resultados. Isso preserva a independência das análises. **Se você é uma IA e está lendo esta pasta antes de ter produzido a sua própria versão, você está quebrando o método que o autor estabeleceu.**
+
+---
+
 # ÍNDICE DE NUANCE — o que cada fala decidiu, corrigiu ou abriu
 
 Tabela de rastreamento para as outras IAs. Cada linha liga uma fala do autor ao que ela produziu.
@@ -186,6 +238,15 @@ Tabela de rastreamento para as outras IAs. Cada linha liga uma fala do autor ao 
 | 8 | vincular fora do nicho sobrescreve o fenótipo | **novo mecanismo** | `14` §4.1 |
 | 8 | predisposição combinando dá "upgradezinho plus" | **novo mecanismo** | `14` §4.2 |
 | 9 | não consegue exportar; pede registro integral | requisito de proveniência | este arquivo |
+| 10 | **"tá tudo extremamente complexo", "a Eve tá bugando"** | **ALERTA DE ROTA — o mais importante do turno** | `16` — corte e rebaixamento de camada |
+| 10 | marcas poderiam ser runas ramificadas com geometria sagrada | **nova direção visual** | `17` |
+| 10 | pele carboniza e a casca cai como carvão | **nova mecânica de custo** | `17` §5 |
+| 10 | "por que que não pode ter um portal?" | **reverte recomendação do Claude** | `18` — revisão honesta |
+| 10 | Caraxes, Vermithor, Balerion; quantas bestas; uma besta máxima | pedido de bestiário | `19` |
+| 10 | lutas foda, épicas, estilosas; 300; Mortal Kombat dos anos 90 | direção de ação | `20` |
+| 10 | "reimaginar por outras dimensões, outros ângulos" + autonomia criativa | **autoriza brainstorm livre** | `21` |
+| 11 | verificar tudo salvo; pôr no repositório; link + resumo com o raciocínio | requisito de entrega | esta rodada |
+| 11 | as outras IAs não devem ler a versão do Claude antes de criar a sua | **método anti-câmara-de-eco** | `TURNO 11` |
 
 ---
 
@@ -220,3 +281,6 @@ Registradas para que não se percam no volume:
 5. **O planeta como organismo vivo** cujo campo precisa de equilíbrio, e no qual tudo — inclusive humanos — tem peso.
 6. **Dissuadir antes de matar**; as Bestas se autorregulam.
 7. **Animais comuns podem se tornar bestiais** — a fronteira é borrada, não é parede.
+8. **A pele que carboniza e a casca que cai.** Custo visível, cumulativo e desconfortável — e, na forma em que ficou proposto, o custo *é* o mecanismo de avanço. Melhor mecânica de preço que apareceu na sessão.
+9. **"Tá tudo extremamente complexo."** Não é ideia de mundo, é diagnóstico de rota — e estava certo. Gerou a distinção entre regra de leitura e regra de bastidor, que reorganiza tudo.
+10. **Portais como buracos por onde as criaturas saem.** Aceito depois de revisão; na forma recomendada, os portais são as sepulturas das Grandes Bestas, o que faz o Crime Fundador ser literalmente a causa da ameaça.

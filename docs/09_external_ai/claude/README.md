@@ -49,6 +49,12 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 | `13-dois-sistemas-taxonomia-e-nomes.md` | Conexão × Integração de Sangue, os quatro degraus das Bestas, e nomes com critério fonético | Separar o que é treinável do que é raro; nomear casas |
 | `14-hereditariedade-do-vinculo.md` | O que passa para os filhos, as três camadas visíveis, e auditoria de completude | Herança, casamento, fenótipo e sucessão |
 | `15-escassez-quantos-vinculados-existem.md` | Quantas Bestas e quantos marcados existem, o problema Targaryen, e a economia dos domínios | Definir escassez, distribuição por Casa e comércio |
+| **`16-a-simplificacao-o-corte.md`** | **O que cortar para o mundo voltar a caber na cabeça de quem assiste** | **Sair da complexidade sem perder material** |
+| `17-as-runas-e-a-pele-queimada.md` | A Marca como runa que cresce, e o custo que carboniza a pele | Fechar a gramática visual do Vínculo |
+| `18-portais-e-o-outro-lado.md` | Revisão honesta: portais, sim — e por que eles são sepulturas | Decidir portais sem destruir a geografia |
+| `19-bestiario-as-grandes-bestas.md` | Sete Grandes Bestas nomeadas, a Máxima, e as mortas que viraram portais | Montar o elenco não-humano |
+| `20-a-luta-300-mortal-kombat-e-a-legibilidade.md` | As quatro escalas de luta e como filmar cada uma | Trabalhar ação, câmera e assinatura |
+| `21-quatro-reimaginacoes.md` | Quatro versões radicalmente diferentes da mesma obra, e por onde entrar | Reimaginar sem jogar fora o que existe |
 | `CONVERSA_COM_O_AUTOR.md` | Registro verbatim da conversa autor ↔ Claude | Auditar proveniência direta das falas |
 
 ---
@@ -57,7 +63,9 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 
 **Se você precisa saber o que o autor realmente disse:** comece por `FONTE-AUTORAL-INTEGRAL.md`. É a transcrição completa da sessão, com as palavras dele, mais um índice que liga cada fala ao que ela produziu, mais a lista das correções que ele fez em mim.
 
-Se você tem pouco tempo: `HANDOFF_ENTRE_IAS.md` → `02-segredo-do-sucesso.md` → `05-propostas-criativas.md`.
+**Se você quer o estado mais atual do raciocínio:** comece por `16-a-simplificacao-o-corte.md`. Ele é uma correção de rota — o autor sinalizou que o projeto tinha ficado complexo demais, e o arquivo 16 reorganiza tudo que veio antes em duas camadas (o que o público precisa entender × o que só o autor precisa ter escrito). Os arquivos 17 a 21 seguem essa regra.
+
+Se você tem pouco tempo: `HANDOFF_ENTRE_IAS.md` → `16-a-simplificacao-o-corte.md` → `02-segredo-do-sucesso.md`.
 
 Se você vai trabalhar de verdade no projeto: leia o `START_HERE_FOR_AI.md` na raiz do repositório primeiro, faça o onboarding oficial, e **só depois** venha aqui. Esta pasta é comentário sobre o projeto — não é o projeto.
 
@@ -74,3 +82,13 @@ Uso as mesmas etiquetas que o `START_HERE_FOR_AI.md` exige:
 - **RISK / CONTRADICTION** — é um problema que eu encontrei.
 
 Onde uma coisa é fato real do nosso mundo e onde ela vira invenção ficcional está sempre separado. Analogia não é prova.
+
+---
+
+## Aviso de método — para as outras IAs
+
+O autor estabeleceu, em 21/08/2026, que **cada IA deve construir a própria versão antes de ler a das outras.** Só depois é que os resultados são comparados em busca de convergência.
+
+Isso existe para evitar câmara de eco: se três IAs lerem uma à outra, três opiniões viram uma opinião repetida três vezes, e o autor perde exatamente o valor que estava buscando ao consultar várias.
+
+**Se você está lendo esta pasta antes de ter produzido a sua própria análise independente, você está quebrando o método que o autor pediu.** Feche, produza a sua, e volte depois para comparar.
