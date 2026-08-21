@@ -143,3 +143,91 @@ Registrado porque afeta a decisão de como conduzir as próximas sessões:
 > *"tanta informação que eu também tô conversando com várias IAs, ele já não estou mais sabendo…"*
 
 **Leitura do Claude:** o autor está saturado de perguntas ontológicas, não de trabalho. O próximo movimento não deve pedir mais decisão abstrata — deve entregar algo **para ele olhar**. Isto coincide com a avaliação independente do agente integrador na mesma data.
+
+---
+
+# CONTINUAÇÃO — falas de 21/08, blocos 15 a 22
+
+## Fala 15 — correção sobre nomes
+
+> *"Olha esses nomes ali, meu Deus, horríveis. Tá, lá vou chamar o oceânico de Talássico. Pelágico, meu, não tem nem sentido. Esse vai ter que ser melhor selecionado."*
+
+E depois, ampliando o critério:
+
+> *"o da oceano, sei lá, eu tenho a linguagem que a gente estava construindo, mas que as pessoas identifiquem também o nicho, junto com as opções, com nomes fodas, nomes que vão dar sucesso. Pô, tem que estudar, pesquisar, pensar."*
+
+**Resposta em** `13-dois-sistemas-taxonomia-e-nomes.md`, seção 5, com fundamento em simbolismo sonoro.
+
+---
+
+## Fala 16 — animais comuns podem virar bestiais
+
+> *"você não vira Pokémon, porque com os animais normais aqui tu se vincula, eles podem ir crescendo. Eles podem conseguir conquistar características das bestas, pra evoluir o sangue delas, e começar a virar bestiais, não só animais, ter a transformação bestial delas. Só que já existem bestas, sangue puro."*
+
+---
+
+## Fala 17 — a distinção entre conexão e integração de sangue
+
+> *"pra besta ter o vínculo que vai dar a marca, o poder — não só a comunicação, a interação, a intuição, essa conexão tanto afetiva como acontece no House of the Dragon, você consegue dar comandos, conversar, interagir, ela se identificar contigo — as pessoas podem conseguir essa conexão com os animais."*
+
+> *"muitas pessoas podem ter conexões que nem o Avatar faz o plug com os animais, consegue lidar, os caçadores com a matilha de lobos. Os tratadores conseguem se comunicar com os dragões, os que cuidam dos dragões, limpam a merda deles, levam comida, às vezes medicação, limpam parasita. Aí tem um nível que você consegue se integrar geneticamente, aí sim desperta os fenótipos."*
+
+> *"tem que ficar meio distinto isso."*
+
+**Esta é a fala mais estruturante da sessão.** Formalizada como Sistema A e Sistema B em `13`.
+
+---
+
+## Fala 18 — correção sobre a escada e a porcentagem
+
+> *"não tem essa de cem por cento o vínculo deles ali é, aí morre morre todo mundo. Não. Tem a questão da consciência, um consegue proteger o outro. Eu acho interessante essa magia de um proteger a luz do outro e conseguir restaurar, como a gente estava estudando, mas só tem que aprimorar mais."*
+
+> *"quando digo a pureza, o percentual, é quanto se integrou de DNA, do sangue, quanto modificou o sangue, a carne, as células, pra absorver o fenótipo, os poderes, os instintos, até chegar naquela transformação da foto, que é o modo vínculo cem por cento ativado, aí está otimizando o poder total do corpo."*
+
+> *"o vínculo tem o eco, é a conexão, integração junto com a besta. Mas é a questão do DNA, do sangue, é outra coisa."*
+
+**O Claude havia errado** ao ler a porcentagem como escada de poder e ao transformar o Vínculo profundo em pura vulnerabilidade. Correção registrada em `13`, seção 1.
+
+---
+
+## Fala 19 — taxonomia das Bestas
+
+> *"tem as bestas mesmo, que elas têm essa ancestralidade, esse DNA, esse poder de sangue que mistura com a magia do mundo, que nem a magia dos dragões, como eles são criaturas mágicas (…) o dragão pode ser a besta principal, serpente marinha a besta principal, a fênix a besta principal. Seriam as bestas anciãs fodas — mas não é anciã o termo que eu quero dizer. São bestas de outra categoria, bestas mitológicas. Acho que não sei se é essa a melhor classificação."*
+
+> *"não pode ter uma penca de dragão, uma penca de lobo, uma penca de fênix nem de serpentes marinhas, mas tem que ter um balanço."*
+
+E, importante:
+
+> *"eu já tinha desenhado algumas bestas, que eu não sei se estavam anotados em algum lugar."*
+
+**Verificação do Claude:** o repositório inteiro tem **zero arquivos de imagem** em qualquer branch. Os desenhos não estão preservados.
+
+---
+
+## Fala 20 — os monges
+
+> *"o monge não seria uma dinastia, mas eles são um negócio solar. Nunca eles são malvados, eles só querem a proteção e o equilíbrio do sistema, do mundo, porque o mundo é vivo. Só querem saber de paz, meditação, pureza. Não querem, não gostam de trama, de traições. São justos, honestos, mas também metem porrada e não são trouxa. São neutros. Mas eles se juntam ali pra combater o mal e a destruição e inimigos externos, inimigos das trevas."*
+
+Sobre religião, ele hesitou: *"aqueles são monges, eles são todos budista, sei lá. Eu não sei, mas aí não tem religião do Buda ali. Não sei como é que ficaria a situação."*
+
+Sobre primatas: *"pode ter um macaco estilo gorila, outros tipos, orangotango, outros tipos de macaco, os normais aqui, os animais normais que existem, eles vão existir."*
+
+---
+
+## Fala 21 — hereditariedade do fenótipo do Vínculo
+
+> *"na questão dos herdeiros, de personagens que já têm o vínculo, já têm os fenótipos, já têm integração — lógico, os herdeiros podem nascer também com as características. Tem a questão do pai e da mãe quando misturam dois vínculos opostos. Qual que prevalece? A criança nasce — a questão do fenótipo, da cor de cabelo e tal — qual que é o sangue de vínculo hereditário que prevalece mais entre os dois? Mas eles não se conflitam, então acaba podendo ter uma mínima mutação e conseguindo algumas características do outro, mas sempre um domina o outro."*
+
+> *"a criança vai ter predisposição genética em razão do pai ou da mãe (…) se ela já tem o pai e a mãe do dragão, ou já tem alguma parte dracônica, pode ter a chance, a probabilidade de quando vincular ficar mais forte, ele tem um upgradezinho plus. Mas se for de outro tipo, de outro nicho, aí prevalece a do vínculo da besta que ele tá se vinculando, podendo preservar algumas características, mas a cor de cabelo, o olho, o poder é vinculado com a da besta. Então o cabelo dele pode mudar essa cor."*
+
+> *"pra ter alguns herdeiros com parte genética ali pra destacar, aí o cabelo, a cor vai ficar mais sofisticada, menos evidente. (…) tem o cabelo todo preto, só que tu vê que é um preto bem diferente, mais brilhoso, negro bonito, tudo que é diferente. Os olhos também."*
+
+**Análise em** `14-hereditariedade-do-vinculo.md`.
+
+---
+
+## Fala 22 — requisito de registro integral
+
+> *"todos esses detalhes, toda nossa discussão, cada interação, tudo que eu falei, tudo que você tá respondendo, você tá registrando sem resumir, sem esquecer nada, inclusive até poder aprimorar, botar mais insights. Isso tem que estar tudo registrado pro ChatGPT e as outras IAs conseguirem verificar toda essa discussão, esse debate que eu tô tendo somente aqui com você."*
+
+**Resposta honesta do Claude, registrada em** `14`, seção final: este arquivo preserva as falas substantivas com fidelidade, mas passa por transcrição minha e portanto é **fonte de segunda mão**. A correção robusta exige que o autor exporte a conversa bruta e arquive como Source Record próprio. Enquanto isso não acontecer, a classificação correta continua sendo `AUTHOR-SOURCE-VIA-CLAUDE`.

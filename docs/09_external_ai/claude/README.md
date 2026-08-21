@@ -46,6 +46,7 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 | `11-identidade-visual-e-dinastias.md` | Análise das referências visuais e sistema de identidade das Dinastias | Desenhar casas, figurino e marcas do Vínculo |
 | `12-nichos-casas-e-escada-do-vinculo.md` | Fusão dos nichos, nomes de trabalho, monges como anti-casa, escada do Vínculo sem porcentagem | Montar as casas e a progressão |
 | `13-dois-sistemas-taxonomia-e-nomes.md` | Conexão × Integração de Sangue, os quatro degraus das Bestas, e nomes com critério fonético | Separar o que é treinável do que é raro; nomear casas |
+| `14-hereditariedade-do-vinculo.md` | O que passa para os filhos, as três camadas visíveis, e auditoria de completude | Herança, casamento, fenótipo e sucessão |
 | `CONVERSA_COM_O_AUTOR.md` | Registro verbatim da conversa autor ↔ Claude | Auditar proveniência direta das falas |
 
 ---
