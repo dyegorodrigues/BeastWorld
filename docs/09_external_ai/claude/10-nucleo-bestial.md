@@ -140,3 +140,65 @@ O autor ampliou corretamente: praga, extração mineral, poluição, contaminaç
 **Por que confiança alta:** mata o clichê pela raiz, gera enredo em vez de poder, conecta com três temas que o projeto já tem (Anciã como arquivo, Guardiões sem função presente, alquimia legítima com ramo proibido), tem base em biologia real e verificável, e transforma a caça de bestas em crime político em vez de economia de item.
 
 **O que ainda depende do autor:** se o núcleo é único ou distribuído; se o Vinculado desenvolve o dele em quanto tempo; e se o registro é legível por qualquer alquimista treinado ou exige algo raro. Nenhuma dessas três trava o resto.
+
+---
+
+# ADENDO — correção depois do retorno do autor
+
+**Data:** 21/08/2026. O autor leu a proposta acima e devolveu uma objeção que **está certa**:
+
+> *"sobre o núcleo bestial, ah, de ser só informação, de HD, eu não sei. Era mais a fossilização, mineralização, e que também a gente tem o misticismo do poder (…) da memória pode ser interessante, mas como isso não afeta todo o mecanismo ali que a gente estava construindo, dele poder se regenerar e tal? Que eles precisam usar como núcleo de mana."*
+
+## O que eu errei
+
+Eu exagerei na correção. Ao dizer *"o valor do núcleo não é energia, é informação"*, eu matei o clichê **e junto matei a função que o autor queria** — o núcleo virou um HD e parou de fazer trabalho no sistema.
+
+Isso é um erro meu de altitude: eu resolvi o problema estético e criei um problema mecânico.
+
+## A correção: função primeiro, registro como consequência
+
+`EXTERNAL EVIDENCE` — repare no otólito de novo. Ele **não é um arquivo que também ouve**. Ele é um **órgão sensorial que funciona**, e o registro é consequência de como ele cresce. A função vem primeiro. O arquivo é efeito colateral.
+
+E existe um análogo ainda melhor, que é literalmente "órgão mineral cuja finalidade é acoplar o organismo a um campo": o **magnetossomo**. Bactérias magnetotáticas biomineralizam nanopartículas de ferro dentro de uma organela dedicada, e usam isso para se alinhar ao campo geomagnético e navegar. Existe um conjunto específico de proteínas que regula a nucleação, o tamanho e o formato desses cristais. E magnetorrecepção baseada em mineral de ferro aparece em bactérias, aves, peixes, insetos e mamíferos.
+
+Ou seja, a natureza real já tem: **uma estrutura biomineralizada, construída por maquinaria biológica dedicada, cuja função é acoplar o organismo a um campo invisível.**
+
+Fontes: [Kirschvink, *Magnetite Biomineralization and Magnetoreception in Organisms*](https://link.springer.com/book/10.1007/978-1-4613-0313-8) · [*Magnetotactic bacteria and magnetofossils* — npj Biofilms and Microbiomes](https://www.nature.com/articles/s41522-022-00304-0) · [*Key gene networks that control magnetosome biomineralization*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9840458/) · [*Magnetite-Based Magnetoreception in Higher Organisms* — Springer](https://link.springer.com/chapter/10.1007/7171_048)
+
+## Formulação corrigida
+
+> **O núcleo é o órgão que acopla o organismo ao campo ressonante. É por isso que a Besta tem vitalidade excepcional, longevidade, regeneração e capacidade de Vínculo. Ele cresce em camadas, e por isso também guarda registro. A função é primária; o arquivo é consequência.**
+
+Assim:
+
+- **A mística e o poder ficam** — o núcleo é literalmente a razão pela qual a criatura é extraordinária.
+- **A regeneração passa a ter sede física** — regenerar exige acoplamento forte, e o acoplamento mora ali.
+- **Destruir o núcleo continua sendo devastador** — não por tirar "energia", mas por cortar o acoplamento que sustenta tudo.
+- **O arquivo continua existindo**, e continua entregando os sete desdobramentos da seção 3: caça vira profanação, Guardiões ganham função, núcleo vira prova do Declínio.
+- **E o clichê continua morto**, porque o núcleo não é transferível: ele é um órgão calibrado àquele organismo, não uma pilha.
+
+## Sobre a versão humana — o autor tem a intuição correta
+
+> *"nos manhuás os humanos têm o Dantian, mas é diferente, é atomizada no DNA, nas células."*
+
+`INFERENCE` — essa distinção do autor é boa e é **biologicamente melhor** que a versão de manhuá. Ele está descrevendo, sem usar o termo, a diferença entre um **órgão concentrado** e uma **estrutura distribuída**.
+
+E isso coincide com a proposta `Rede Nodal` do agente integrador. Ou seja, duas linhas independentes chegaram no mesmo lugar.
+
+Proposta de arquitetura consolidada:
+
+| | Grande Besta | Humano Abençoado |
+|---|---|---|
+| **Forma** | núcleo concentrado + malha distribuída | **somente malha distribuída**, difusa em tecidos |
+| **Origem** | cresce desde cedo, próprio da espécie | **desenvolve-se lentamente após Vínculo profundo** |
+| **Densidade** | alta | baixíssima — nunca chega ao nível da Besta |
+| **Extraível?** | sim, e é isso que gera o mercado negro | **não** — não há o que arrancar |
+| **Efeito** | vitalidade, longevidade, regeneração, acoplamento | envelope físico ampliado, cicatrização, sentidos, tolerância |
+
+Isso resolve várias coisas de uma vez. O humano **nunca vira Besta**, porque a diferença é de ordem de grandeza e de arquitetura, não de nível. Não existe "subir de núcleo". E — o detalhe que eu acho mais forte — **não há núcleo humano para arrancar**, o que significa que a Bênção Artificial não pode ser feita colhendo Abençoados: ela tem que ser feita tentando forçar o processo, que é caro, cruel e instável. Exatamente como o projeto já queria.
+
+E o registro do lado humano continua valendo: um corpo que se lembra. O que faz do cadáver de um Abençoado uma prova.
+
+## O que continua aberto
+
+Se o núcleo da Besta é único ou múltiplo; em quanto tempo a malha humana se forma; se ela regride quando o Vínculo se rompe; e se um alquimista treinado consegue ler a malha humana como lê o núcleo da Besta. Nenhuma dessas travas o resto.
