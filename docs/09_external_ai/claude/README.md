@@ -40,6 +40,8 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 | `05-propostas-criativas.md` | Ideias minhas, marcadas como ideias | Buscar material novo |
 | `06-pesquisa-externa.md` | Toda a pesquisa real, com links | Conferir de onde saiu cada coisa |
 | `07-armadilha-do-equilibrio.md` | Como salvar a ideia "Dinastias mantêm o equilíbrio" sem perder o Crime Fundador | Trabalhar ecologia, geografia e Dinastias |
+| `08-ponto-otimo-quanto-construir.md` | Onde parar de construir mundo e começar a escrever | Sair da paralisia sem ficar vago |
+| `09-falas-do-autor-nesta-sessao.md` | Falas do autor que ainda precisam ser arquivadas por ele | Não perder ideia dita em conversa |
 
 ---
 
