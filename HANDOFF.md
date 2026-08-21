@@ -3,6 +3,8 @@
 **Atualizado:** 2026-08-20  
 **Função:** memória HOT para retomada entre conversas. Remoto GitHub vence qualquer SHA textual.
 
+> **LATEST CREATIVE CAPTURE — 20/08/2026:** o autor abriu a primeira onda concreta do **WORLD SKELETON**: Grandes Bestas como componentes de redes ecológicas; abundância limitada por alimento/território/reprodução; deslocamento ou introdução de espécies podendo produzir cascatas; Dinastias com possível função real de custódia/manejo sem que isso legitime monopólio hereditário; dragões de baixa densidade; Bestas insetoides; biomas não elementais; mar/rios/voo/comunicação; Conselho central; continentes externos; povos não humanos ainda em gate; e regra narrativa de alta densidade sem filler. Fonte integral: `docs/08_sources/conversations/2026-08-20-author-ecological-balance-geography-dynasties-verbatim.md`. Intake: `docs/06_research/2026-08-20-ecological-balance-geography-dynasties-critical-intake.md`. Hipótese: `docs/02_lore/ecology/WORLD_SKELETON_ECOLOGICAL_BALANCE_HYPOTHESIS.md`. **Não canonizar.** A formulação científica recomendada para o “equilíbrio” é resiliência dinâmica, não homeostase perfeita.
+
 > **LATEST MAINTENANCE CHECKPOINT — 20/08/2026:** antes de usar o snapshot conceitual abaixo, leia `docs/00_governance/MAINTENANCE_CHECKPOINT_2026-08-20.md`, `docs/00_governance/INTEGRITY_GATES.md` e `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md`. Uma auditoria externa detectou e uma onda de manutenção corrigiu drift de grafo/Lore Registry, provenance de decisões por letras, status de Dragões, navegação 10B e metadados de segurança. O lore criativo não foi promovido/rejeitado nessa manutenção. O próximo movimento criativo recomendado é **WORLD SKELETON provisório em paralelo aos P0 da ameaça**, não mais ramificação ontológica infinita.
 
 ## Reancoragem obrigatória
@@ -128,6 +130,31 @@ Três camadas:
 Alquimia agora deve ser tratada como **instituição/profissão legítima**, não alinhamento maligno. Possíveis áreas: medicina, metalurgia, materiais, venenos/antídotos, conservação, mineração, cuidado de Grandes Bestas, instrumentação ressonante e ritos.
 
 Ramos proibidos/heterodoxos podem incluir Bênção Artificial, extração coerciva de Luz, fabricação corporal e experimentos de sangue. Coerção pode obter resultados parciais — justamente por isso o abuso continua existindo.
+
+## WORLD SKELETON — ecologia, geografia e Dinastias
+
+Direção criativa recém-capturada, ainda HYPOTHESIS:
+
+- ecossistemas devem ser modelados como redes dinâmicas, não cenários decorativos;
+- abundância de Grandes Espécies depende de produtividade, alimento, território, reprodução e mortalidade;
+- dragões devem tender a baixa densidade e grandes territórios; espécies menores/socialmente organizadas podem ser mais numerosas;
+- invasão/deslocamento de uma Grande Espécie para outro ecossistema pode gerar cascata trófica e crise política;
+- Dinastias podem manter conhecimento/infraestrutura para manejo ecológico, mas isso não transforma monopólio hereditário em direito natural;
+- protocolos de conflito humano–Besta devem preferir diagnóstico, evacuação, corredor, redirecionamento e relocação antes de neutralização quando plausível;
+- Grandes Bestas podem combinar autorregulação biológica, cultura animal e sensibilidade ressonante; Grande Consciência não deve operar como controle automático;
+- macroregiões devem ser definidas por clima + relevo + água + produtividade + presas + Grandes Espécies + corredores + economia humana;
+- uma região dracônica pode ser vulcânica/geotérmica sem virar deserto de lava: vales férteis, florestas, campos, rios, lagos, costa e corredores de caça podem sustentar humanos e megafauna;
+- não balancear “lobo vs dragão” como RPG; nichos ecológicos e táticos são assimétricos;
+- testar primeiro uma ecúmena conhecida de **mar interior + bacias fluviais + montanhas + penínsulas/arquipélagos**, deixando outros continentes parcialmente desconhecidos;
+- desenhar escala por **tempo de viagem**, não km: terra, rio, mar, couriers aéreos, sinais e eventual comunicação ressonante limitada;
+- teletransporte físico continua OPEN porque pode destruir distância, fronteira, cerco, porto e estrada;
+- Conselho central deve surgir de geografia/logística real; Dinastias mantêm sedes regionais + enclaves na capital + possíveis Casas cadetes;
+- Bestas insetoides entram como espaço explícito de bestiário ecológico;
+- povos não humanos permanecem UNRESOLVED e precisam justificar função própria, não copiar elfos/anões/orcs;
+- inspiração declarada pelo autor: LOTR, GOT/HOTD, The Witcher e D&D como referências de amplitude/forma, nunca para copiar superfície proprietária;
+- “sem filler” = toda cena altera algo que importa; não significa espetáculo contínuo.
+
+Gates agrupados para não gerar outra avalanche: `BW-WS-01` geometria; `BW-WS-02` custódia ecológica; `BW-WS-03` ecologia de Grandes Espécies; `BW-WS-04` mobilidade/comunicação; `BW-WS-05` diversidade senciente.
 
 ## NOVA ONDA — ameaça mitológica, criaturas, magia e guerra
 
