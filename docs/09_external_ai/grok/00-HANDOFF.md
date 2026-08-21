@@ -1,78 +1,63 @@
 # HANDOFF — Grok session
 
-**Updated:** 2026-08-21  
+**Updated:** 2026-08-21 (evening)  
 **Function:** HOT memory for Grok (and other AIs) to resume without losing nuance.
 
 ## Where we are
 
-Author authorized full Grok quarantine branch and structured registration of:
+Author authorized full Grok quarantine branch. Dossier exists under `docs/09_external_ai/grok/`.
 
-- all interactions in this conversation;
-- image analysis of protagonist references;
-- dynasty architecture proposals;
-- cross-reading of Claude dossier and bootstrap;
-- governance of Grok behavior.
+**New crisis signal (evening 21/08):** Author feels the project is becoming too complex, losing sense, and asked for explosive brainstorm + possible simplification while keeping power, named Beasts, martial spectacle, runes, and optional portals. New image set emphasizes **sacred geometry / runic full-body marks** plus combat cost (soot, cracks, regeneration).
 
-Author explicit priorities:
+See `07-COMPLEXITY-CRISIS-AND-SIMPLIFIED-SPINE.md` for full Grok response.
 
-1. World / universe first (ecology, dynasties, sanctuaries, corridors).
-2. Then characters, scenes, relationships, plot twists.
-3. Live-action ready: martial, no filler, every chapter/episode matters.
-4. Move away from locking "Dinastia do Dragão / Fênix" toward flexible elemental / ecological doors (fire, sea, air, nature, etc.).
-5. Multi-AI council: Claude, ChatGPT, Grok thinking in parallel; author decides.
+## Author priorities (stable)
 
-## Critical author directions captured
+1. World first, then characters.
+2. Live-action ready, no filler, martial.
+3. Do not lock “Dinastia do Dragão / Fênix” as final brand.
+4. Multi-AI parallel discovery; author decides.
+5. Named scarce Great Beasts (HotD energy), not infinite roster.
 
-- Do **not** lock dynasty names as Dragon/Phoenix.
-- Prefer ecological specialization + access monopoly over mascot houses.
-- Visual identity should come from territory materials, not animal logos.
-- Phenotype marks come from the **beast bond**, not bloodline purity.
-- Clothing shows political loyalty; body shows bond.
-- Two systems: Conexão (trainable, many people) × Integração de Sangue (rare, true Beast only).
-- Power is not fully heritable; each generation must re-earn deep bond → tightens political engine.
+## Critical new visual direction
 
-## Claude material already absorbed (quarantine only)
+- Runes / sacred geometry as **Integration map** on the body.
+- Glow / cracks / char as **active cost** that regenerates (char flakes off).
+- Scale armor + gold embroidery: material / political language, not pure proof of Bond.
 
-Key Claude files read and cross-checked:
+## Grok current recommendation
 
-- `11-identidade-visual-e-dinastias.md` — luminous mark on both sides; material identity; reject hair-as-house.
-- `12-nichos-casas-e-escada-do-vinculo.md` — vertical mountain fusion; monks as anti-house; ladder without % power level.
-- `13-dois-sistemas-taxonomia-e-nomes.md` — Conexão vs Integração; place-names; taxonomy Animal / Touched / Beast / Great Beast.
-- `10-nucleo-bestial.md` — Core as coupling organ + archive (not loot crystal).
-- Latest creative checkpoint 2026-08-21 and bootstrap HANDOFF / PROJECT_STATE.
+**Prototype Spine A** (“HotD + ecological doors”):
 
-## Grok current recommendation (summary)
+- 4 ecological doors + monks as anti-house.
+- 6–8 named Great Beasts in Arc 1.
+- Two systems: Connection (many) vs Blood Integration (rare).
+- Magic = Resonance → Bond → Runes/Alchemy (one interface).
+- Portals/Trevas = controlled pressure, not season-1 main plot unless author picks Spine B.
 
-**Dynasty architecture (working hypothesis):**
+Spines B (portal war) and C (living planet minimal) documented as alternatives.
 
-4 ecological doors + 1 anti-house:
+## Files in this quarantine
 
-1. Volcanic / geothermal (dragons / heat reptiles)
-2. Oceanic / straits (leviathans)
-3. Vertical mountain (valley forest → above cloud) — fused heights + forest
-4. Arid / desert (arthropods, colonies)
-5. Monks — anti-house, masters of System A only
+| File | Role |
+|------|------|
+| `README.md` | Index |
+| `00-HANDOFF.md` | This file |
+| `01-AUTHOR-SPEECH-CAPTURE.md` | Earlier session speech |
+| `02-IMAGE-ANALYSIS.md` | First image wave |
+| `03-DYNASTY-ARCHITECTURE.md` | 4 doors proposal |
+| `04-CROSS-AI-SYNTHESIS.md` | vs Claude |
+| `05-WORLD-SKELETON-NEXT.md` | Map next steps |
+| `06-GOVERNANCE-AND-BEHAVIOR.md` | Agent rules |
+| `07-COMPLEXITY-CRISIS-AND-SIMPLIFIED-SPINE.md` | **Latest** — crisis + 3 spines |
 
-Names of work should be **place names**, not animal names.
+## Open gates (do not expand until spine chosen)
 
-See `03-DYNASTY-ARCHITECTURE.md` for full scenarios and trade-offs.
+BW-Q-047 specialization unit · BW-Q-048 Guardians · BW-Q-049 Core · BW-Q-051 capital geography · World Skeleton map still undrawn.
 
-## What is still open / gated
+## Do not
 
-- BW-Q-047 unit of dynastic specialization
-- BW-Q-048 Guardians architecture
-- BW-Q-049 Beast Core
-- BW-Q-051 geography of central capital
-- World Skeleton map (still not drawn)
-- Final dynasty names (intentionally not locked)
-
-## Next action recommended
-
-Build provisional World Skeleton map (interior sea + 4 doors + capital + corridors + 1 detailed Sanctuary + 5–7 character placeholders) **before** further metaphysics expansion.
-
-## Do not do
-
-- Do not canonize names or architecture.
-- Do not merge this branch.
-- Do not present Grok proposals as author decisions.
-- Do not copy HotD visual composition as identity.
+- Canonize.
+- Merge.
+- Force other AIs to adopt this file before their independent pass.
+- Present Grok vote as author decision.
