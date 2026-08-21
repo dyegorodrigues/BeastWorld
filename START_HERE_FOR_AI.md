@@ -24,15 +24,17 @@ Leia integralmente, nesta ordem:
 2. `docs/00_governance/MAINTENANCE_CHECKPOINT_2026-08-20.md` — reconciliação pós-primeira auditoria externa; use como ponte entre snapshots antigos e remoto atual.
 3. `docs/00_governance/INTEGRITY_GATES.md` — prova obrigatória de fechamento após escrita.
 4. `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md` — regras para pesquisa multiagente.
-5. `PROJECT_STATE.md` — snapshot conceitual; se divergir do maintenance checkpoint/remoto, registre o drift.
-6. `HANDOFF.md` — continuidade e ponto exato de trabalho.
-7. `docs/00_governance/RETOMADA.md` — porta operacional de retomada.
-8. `AGENTS.md` — comportamento esperado de agentes.
-9. `docs/00_governance/CANON_POLICY.md` — autoridade/cânone.
-10. `docs/00_governance/STATUS_MODEL.md` — significado dos status.
-11. `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md` — COLD/WARM/HOT/CANON.
-12. `docs/00_governance/GITHUB_NOTION_SYNC.md` — contrato GitHub ↔ Notion.
-13. `KNOWLEDGE_GRAPH.md` — mapa macro de dependências.
+5. `docs/00_governance/MULTI_AI_CAPTURE_AUDIT_2026-08-21.md` — estado real das quarentenas Claude/Grok, qualidade da captura autoral e pendências de proveniência; se divergir de branches remotas mais novas, registre o delta.
+6. `docs/00_governance/LATEST_CREATIVE_CHECKPOINT_2026-08-21.md` — delta criativo mais recente preservado; não promove lore.
+7. `PROJECT_STATE.md` — snapshot conceitual; se divergir dos checkpoints/remoto, registre o drift.
+8. `HANDOFF.md` — continuidade e ponto exato de trabalho.
+9. `docs/00_governance/RETOMADA.md` — porta operacional de retomada.
+10. `AGENTS.md` — comportamento esperado de agentes.
+11. `docs/00_governance/CANON_POLICY.md` — autoridade/cânone.
+12. `docs/00_governance/STATUS_MODEL.md` — significado dos status.
+13. `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md` — COLD/WARM/HOT/CANON.
+14. `docs/00_governance/GITHUB_NOTION_SYNC.md` — contrato GitHub ↔ Notion.
+15. `KNOWLEDGE_GRAPH.md` — mapa macro de dependências.
 
 Se a missão for criativa e o autor demonstrar sobrecarga/confusão, leia também:
 
@@ -61,7 +63,8 @@ Quando precisar verificar estado, relações ou lacunas, consulte no Notion:
 - Decision Log;
 - Source Library;
 - Entity Atlas;
-- Master Timeline.
+- Master Timeline;
+- AI Council Queue quando a missão envolver trabalho de outras IAs.
 
 Após a manutenção de 20/08/2026, o Lore Registry passou a espelhar também a camada nova de Luz/cosmologia/ameaça; **não presuma contagens fixas, consulte o database atual**.
 
@@ -88,6 +91,8 @@ Para a primeira auditoria externa Claude, consulte a captura durável:
 - `docs/09_reviews/claude/2026-08-20/CLAUDE_AUDIT_ARTIFACT_PASTED_BY_AUTHOR.md`.
 
 Ela é `EXTERNAL AI RATIONALE`, não uma decisão do autor.
+
+Para dossiers externos vivos, não presuma um único namespace histórico: consulte `MULTI_AI_CAPTURE_AUDIT_2026-08-21.md` e o `AI Council Queue`. A convenção recomendada continua `docs/09_reviews/<agent>/YYYY-MM-DD/`; dossiers já existentes em `docs/09_external_ai/<agent>/` permanecem quarentena histórica válida até sua síntese/retirada e não devem ser movidos ou integrados silenciosamente.
 
 ## 3. Hierarquia de autoridade
 
@@ -149,11 +154,12 @@ Você **não pode**, por padrão:
 Se o autor autorizar escrita, o modo padrão muda para **EXTERNAL REVIEW QUARANTINE**, não para integração direta:
 
 1. crie branch própria a partir do HEAD integrado atual;
-2. escreva sob `docs/09_reviews/<agent>/<date>/`;
-3. não altere Bíblia, grafo, Timeline, Notion, HOT memory ou Canon Status na mesma fase de pesquisa;
-4. entregue `Impact Cones` para propostas estruturais;
-5. siga `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md`;
-6. nunca mergeie por iniciativa própria.
+2. escreva preferencialmente sob `docs/09_reviews/<agent>/<date>/`;
+3. se a missão já estiver usando um namespace histórico `docs/09_external_ai/<agent>/`, mantenha-o isolado e registre a exceção; não mova arquivos apenas por estética;
+4. não altere Bíblia, grafo, Timeline, Notion, HOT memory ou Canon Status na mesma fase de pesquisa;
+5. entregue `Impact Cones` para propostas estruturais;
+6. siga `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md`;
+7. nunca mergeie por iniciativa própria.
 
 Somente o integrador autorizado pode, em etapa posterior, transformar propostas aprovadas em mudanças do modelo compartilhado.
 
@@ -223,6 +229,7 @@ Antes de encerrar:
 - Command Center: https://app.notion.com/p/3c142424cdbc817da8b8fcc2d32d5470
 - Memória/Handoff: https://app.notion.com/p/3c142424cdbc81db9d43efcbb5e57d8d
 - AI Orchestration: https://app.notion.com/p/3c142424cdbc81de8d51f077179a2b15
+- AI Council Queue: https://app.notion.com/p/624091dd3eb44cac9bee4bc550b02393
 
 Se links mudarem, procure pelos títulos no workspace BeastWorld.
 
