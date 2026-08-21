@@ -1,4 +1,4 @@
-version: 0.1.1
+version: 0.2.0
 entities:
   - {id: BW-BIO-GSPEC-001, name: Grande Espécie, type: GREAT_SPECIES, status: HYPOTHESIS}
   - {id: BW-BIO-GBEAST-001, name: Grande Besta, type: BEAST_INDIVIDUAL, status: HYPOTHESIS}
@@ -20,3 +20,21 @@ entities:
   - {id: BW-BIO-CULTMEM-001, name: Memória Cultural das Bestas, type: BEHAVIORAL_MECHANISM, status: HYPOTHESIS}
   - {id: BW-POL-ICONBEAST-001, name: Besta Icônica de Santuário, type: BEAST_INDIVIDUAL, status: HYPOTHESIS}
   - {id: BW-HB-ARTBLESS-001, name: Bênção Artificial, type: BLESSING, status: HYPOTHESIS}
+
+  # Camada metafísica/magia — adicionada em 20/08/2026 para fechar o gap F-01 da auditoria externa.
+  # Todos os nós abaixo permanecem HYPOTHESIS; presença no grafo não promove cânone.
+  - {id: BW-MET-LIGHT-001, name: Luz, type: ONTOLOGICAL_IDENTITY, status: HYPOTHESIS}
+  - {id: BW-MET-SIGN-001, name: Assinatura Ressonante, type: RESONANT_SIGNATURE, status: HYPOTHESIS}
+  - {id: BW-MET-GCONSC-001, name: Grande Consciência, type: SUBSTRATE_REGIME, status: HYPOTHESIS}
+  - {id: BW-MET-CORRUPT-001, name: Polo Corruptivo / Trevas (placeholder), type: SUBSTRATE_REGIME, status: HYPOTHESIS}
+  - {id: BW-MET-INTENT-001, name: Intenção Causal, type: METAPHYSICAL_MECHANISM, status: HYPOTHESIS}
+  - {id: BW-MET-ANCHOR-001, name: Ancoragem da Luz, type: METAPHYSICAL_MECHANISM, status: HYPOTHESIS}
+  - {id: BW-MET-RECON-001, name: Reconstituição Vinculada, type: RECONSTITUTION_PROCESS, status: HYPOTHESIS}
+  - {id: BW-HB-VITALBLOOD-001, name: Sangue Vital / Oferta Vital Ressonante, type: BIOLOGICAL_MECHANISM, status: HYPOTHESIS}
+  - {id: BW-MET-BREACH-001, name: Breach / Zona de Interface, type: INTERFACE_ZONE, status: HYPOTHESIS}
+  - {id: BW-MAG-ARTS-001, name: Magia / Artes Ressonantes, type: PRACTICE_TRADITION, status: HYPOTHESIS}
+  - {id: BW-MAG-ALCH-001, name: Alquimia Ressonante, type: PRACTICE_TRADITION, status: HYPOTHESIS}
+  - {id: BW-BIO-REGEN-001, name: Regeneração Rara, type: BIOLOGICAL_MECHANISM, status: HYPOTHESIS}
+  - {id: BW-THR-CREATURE-001, name: Formas do Regime Corruptivo, type: CREATURE_CLASS, status: HYPOTHESIS}
+  - {id: BW-THR-HOLLOW-001, name: Ocos / Hollows (placeholder), type: CREATURE_CLASS, status: HYPOTHESIS}
+  - {id: BW-MET-CORRUPTION-001, name: Corrupção da Luz, type: METAPHYSICAL_MECHANISM, status: HYPOTHESIS}
