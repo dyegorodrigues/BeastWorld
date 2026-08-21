@@ -42,6 +42,8 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 | `07-armadilha-do-equilibrio.md` | Como salvar a ideia "Dinastias mantêm o equilíbrio" sem perder o Crime Fundador | Trabalhar ecologia, geografia e Dinastias |
 | `08-ponto-otimo-quanto-construir.md` | Onde parar de construir mundo e começar a escrever | Sair da paralisia sem ficar vago |
 | `09-falas-do-autor-nesta-sessao.md` | Falas do autor que ainda precisam ser arquivadas por ele | Não perder ideia dita em conversa |
+| `10-nucleo-bestial.md` | Quatro opções para o Núcleo Bestial e uma recomendação | Decidir `BW-Q-049` sem cair em clichê de RPG |
+| `CONVERSA_COM_O_AUTOR.md` | Registro verbatim da conversa autor ↔ Claude | Auditar proveniência direta das falas |
 
 ---
 
