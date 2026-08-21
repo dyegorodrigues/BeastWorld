@@ -39,6 +39,7 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 | `04-arquiteturas-das-trevas.md` | Três jeitos diferentes de montar as Trevas | Decidir os gates P0 |
 | `05-propostas-criativas.md` | Ideias minhas, marcadas como ideias | Buscar material novo |
 | `06-pesquisa-externa.md` | Toda a pesquisa real, com links | Conferir de onde saiu cada coisa |
+| `07-armadilha-do-equilibrio.md` | Como salvar a ideia "Dinastias mantêm o equilíbrio" sem perder o Crime Fundador | Trabalhar ecologia, geografia e Dinastias |
 
 ---
 

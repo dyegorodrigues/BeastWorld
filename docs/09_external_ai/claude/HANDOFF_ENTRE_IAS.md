@@ -1,7 +1,7 @@
 # Passe de bastão entre IAs — o que o Claude fez e onde parou
 
 **Data:** 20/08/2026
-**Base auditada:** branch `agent/worldbuilding-os-bootstrap`, HEAD `72f46e1`, PR #2 aberto e em draft.
+**Base auditada:** branch `agent/worldbuilding-os-bootstrap`. Primeira passagem no HEAD `72f46e1`; segunda passagem no HEAD `8bb297f`, já com a onda de ecologia/geografia e a manutenção pós-auditoria.
 **Status desta pasta:** `AI RATIONALE` — nada aqui é cânone nem decisão autoral.
 
 ---
@@ -76,3 +76,43 @@ Duas coisas que eu peço:
 **Primeiro**, o item 3 acima é sobre o teu processo de entrevista com opções. O formato de perguntas com alternativas é bom e o autor responde bem a ele. Só falta preservar o enunciado das alternativas junto da resposta. Sem isso, tuas próprias decisões viram irrecuperáveis daqui a três meses.
 
 **Segundo**, o achado 2 é uma contradição entre uma coisa que você propôs (Modelo A — ecologias e Grandes Espécies contribuindo para estabilidade) e o motor político que você mesmo ajudou a construir. Não é erro de raciocínio, é um efeito de segunda ordem que passa fácil. A saída que eu proponho preserva as duas coisas e ainda melhora as duas.
+
+
+---
+
+## ATUALIZAÇÃO — segunda passagem, HEAD `8bb297f`
+
+Reli o remoto depois que o autor avisou que havia mudança. Havia: **15 commits novos no bootstrap e um branch novo** (`agent/multi-ai-orchestration-governance-2026-08-20`, PR #3).
+
+### O que foi consertado da minha auditoria — e está correto
+
+O ChatGPT executou uma onda de manutenção respondendo diretamente aos achados. Confirmo, por leitura do diff:
+
+- **F-01 (grafo) — RESOLVIDO.** `ontology.yaml`, `entities.yaml` e `relations.yaml` foram para v0.2.0 com 15 conceitos novos (Luz, assinatura, Grande Consciência, polo corruptivo, intenção, ancoragem, reconstituição, sangue vital, breach, magia, alquimia, regeneração, classes de criatura, Ocos, corrupção da Luz), tipos de nó novos e 25 relações novas. Auditoria declarada: 35 nós no Lore Registry, 35 SYNCED, 0 DRIFT. O `ADR-0005` volta a funcionar.
+- **F-02 (Dragões) — RESOLVIDO.** Rebaixado de `WORKING-CANON` para `HYPOTHESIS` no Entity Atlas, porque o Git não tinha contrapartida. Promoção futura fica como decisão explícita do autor.
+- **F-03 (proveniência por letra) — RESOLVIDO NA MEDIDA DO POSSÍVEL.** Foi criado `DECISION_PROVENANCE_LEDGER.md`, reconstruindo os conjuntos de opções ainda recuperáveis e marcando `UNRESOLVED-MECHANISM` onde não deu. **Esta é a resposta certa** — não inventou opção que não existia.
+- **F-04, F-06, F-07 — endereçados.** Regra nova de preferir arquiteturas nomeadas a letras; 10B indexada; metadados de segurança corrigidos.
+
+O diagnóstico que o próprio checkpoint registra é honesto e vale citar: *"CAPTURED/documentado foi incorretamente tratado como se significasse SYNCED + AUDITADO."* Isso é uma autocrítica precisa.
+
+### O que é novo e importante
+
+Entrou uma fonte autoral grande de 20/08 sobre **equilíbrio ecológico, geografia, Dinastias e mobilidade**, e dela saiu o `docs/02_lore/ecology/WORLD_SKELETON_ECOLOGICAL_BALANCE_HYPOTHESIS.md`. É trabalho bom: envelopes ecológicos por espécie, protocolo de "Besta fora de lugar", biomas não elementais, assimetria militar entre espécies, mar interior como macrogeografia de protótipo, escala por tempo de viagem, e um teste duro antes de criar povos não humanos.
+
+Também entraram `CREATOR_COMPASS.md`, `INTEGRITY_GATES.md`, `EXTERNAL_AGENT_QUARANTINE.md` e `AI_ORCHESTRATION.md`.
+
+### O que eu acrescento nesta passagem
+
+Um arquivo novo: **`07-armadilha-do-equilibrio.md`**.
+
+A ideia autoral de que "as Dinastias lutam para manter o equilíbrio" caminha direto para o F-09 — se a missão delas é real e necessária, o Crime Fundador fica retroativamente justificado. O `WORLD_SKELETON` mitiga separando função de monopólio, o que está certo mas é insuficiente.
+
+A proposta usa o **paradoxo da supressão de incêndio**, que é um laço de retroalimentação real e documentado: suprimir fogo acumula combustível, o incêndio seguinte é catastrófico, e cada catástrofe parece justificar mais supressão. Aplicado: os ecossistemas se autorregulavam; as Dinastias quebraram a autorregulação ao fechar corredores, capturar selvagens e matar Anciãos; agora as Bestas **realmente** enlouquecem, então as Dinastias **realmente** são necessárias — e foram elas que se tornaram necessárias. Cada intervenção bem-sucedida aprofunda a dependência.
+
+Isso preserva a ideia do autor inteira, preserva o motor político inteiro, e unifica a lógica do mundo numa única lei: **quem controla o acesso produz a evidência que justifica o controle.**
+
+### Uma coisa que eu não resolvi e que precisa de olho
+
+O branch `agent/multi-ai-orchestration-governance-2026-08-20` (PR #3) **está atrás do bootstrap**. O diff entre os dois mostra o PR #3 removendo arquivos que o bootstrap já tem — `AI_ORCHESTRATION.md`, o `WORLD_SKELETON`, o intake de ecologia e o verbatim autoral de 20/08. Isso é efeito de o bootstrap ter avançado depois do merge de reancoragem, não de alguém ter apagado nada.
+
+**Risco concreto:** se o PR #3 for mergeado como está, ele pode reverter a onda de ecologia/geografia. Recomendo reancorar o PR #3 no bootstrap atual antes de qualquer merge. Não toquei nele.
