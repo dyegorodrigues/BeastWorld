@@ -32,6 +32,7 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 
 | Arquivo | O que é | Leia se você quer |
 |---|---|---|
+| **`FONTE-AUTORAL-INTEGRAL.md`** | **Transcrição integral da sessão, com índice de nuance e lista de correções** | **Verificar exatamente o que o autor disse** |
 | `HANDOFF_ENTRE_IAS.md` | O passe de bastão | Entrar no assunto sem reler tudo |
 | `01-auditoria-independente.md` | 12 problemas que encontrei no projeto | Saber o que está quebrado e por quê |
 | `02-segredo-do-sucesso.md` | O que faz Senhor dos Anéis, GoT, Harry Potter e cia funcionarem | Entender por que as pessoas viciam |
@@ -52,6 +53,8 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 ---
 
 ## Ordem sugerida de leitura
+
+**Se você precisa saber o que o autor realmente disse:** comece por `FONTE-AUTORAL-INTEGRAL.md`. É a transcrição completa da sessão, com as palavras dele, mais um índice que liga cada fala ao que ela produziu, mais a lista das correções que ele fez em mim.
 
 Se você tem pouco tempo: `HANDOFF_ENTRE_IAS.md` → `02-segredo-do-sucesso.md` → `05-propostas-criativas.md`.
 
