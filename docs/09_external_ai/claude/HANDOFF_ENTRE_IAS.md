@@ -116,3 +116,47 @@ Isso preserva a ideia do autor inteira, preserva o motor político inteiro, e un
 O branch `agent/multi-ai-orchestration-governance-2026-08-20` (PR #3) **está atrás do bootstrap**. O diff entre os dois mostra o PR #3 removendo arquivos que o bootstrap já tem — `AI_ORCHESTRATION.md`, o `WORLD_SKELETON`, o intake de ecologia e o verbatim autoral de 20/08. Isso é efeito de o bootstrap ter avançado depois do merge de reancoragem, não de alguém ter apagado nada.
 
 **Risco concreto:** se o PR #3 for mergeado como está, ele pode reverter a onda de ecologia/geografia. Recomendo reancorar o PR #3 no bootstrap atual antes de qualquer merge. Não toquei nele.
+
+---
+
+## Passagem 3 — 21/08/2026 — a correção de rota
+
+Esta é a rodada mais importante da pasta, e não é por causa do volume. É por causa de uma frase do autor:
+
+> *"Eu não sei se a gente tá se perdendo, tá tudo extremamente complexo… esse negócio de família ali tá cada vez mais complicado, bugando, tá ficando um bagulho tão complexo e já tá perdendo totalmente o sentido pra mim."*
+
+**Ele estava certo, e o erro era meu.** O sistema de hereditariedade do arquivo 14 é internamente coerente e por isso mesmo travou o projeto. Coerência não é usabilidade.
+
+### O que mudou de estrutura
+
+`16-a-simplificacao-o-corte.md` introduz a distinção que reorganiza toda a pasta:
+
+> **Regra de leitura** é o que o público precisa segurar para acompanhar a cena. **Regra de bastidor** é o que o autor precisa ter escrito para não se contradizer depois. Complexidade no bastidor é de graça; complexidade na leitura custa a obra.
+
+O teste é uma pergunta: *um personagem pode usar isso para resolver um problema dentro de uma cena?* Se não, é bastidor, e ninguém fala dela em voz alta.
+
+Com base em pesquisa de memória de trabalho (Cowan, 2001 — capacidade real em torno de **quatro blocos**), a proposta é que o BeastWorld gaste seus quatro slots em: **Vínculo, Marca, Preço, Escassez.** Todo o resto — hereditariedade, percentual, dois sistemas, núcleo, nichos, taxonomia — é **rebaixado**, não apagado.
+
+### O que foi acrescentado
+
+| Arquivo | O que resolve |
+|---|---|
+| `16` | O corte. A distinção leitura × bastidor. Os quatro slots. |
+| `17` | A Marca vira **runa que cresce sozinha** — nunca escrita, logo não copiável. Os nós geométricos custam quase-mortes, não treino. A pele carboniza e a casca cai, e **o custo é o mecanismo de avanço**. Substitui o percentual de integração e a escada graduada. |
+| `18` | **Revisão de uma recomendação minha.** Eu desaconselhava PORTAL; o autor perguntou por quê; revi. Recomendação nova: portais fixos e assimétricos, que **são as sepulturas das Grandes Bestas**. O outro lado é o interior vivo do planeta, e as criaturas não invadem — voltam. |
+| `19` | Sete Grandes Bestas nomeadas, três mortas (que são os portais), e a separação entre **Besta Máxima** (Brâmea, ecológica, que não luta) e **a mais forte** (a Anciã, dracônica). |
+| `20` | As quatro escalas de luta e a gramática de câmera de cada uma. Ração de três desacelerações por episódio, sempre atreladas a mudança de estado da Marca. |
+| `21` | Quatro reimaginações completas da obra, e a recomendação de sequência: entrar pela D, virar para a A, revelar a B, abrir a C. |
+
+### Contradições que eu declaro em vez de reconciliar em silêncio
+
+Seguindo a regra do projeto, não vou fingir que estas peças convivem:
+
+1. **`12` × `17`** — o arquivo 12 propõe escada de Vínculo com degraus nomeados; o 17 a substitui por três estados (fria / aberta / queimada). **Não convivem.** A escolha é do autor.
+2. **`04` × `18`** — o arquivo 04 recomenda LIMIAR e desaconselha PORTAL; o 18 reverte para PORTAL sob condições. **O 18 é o mais recente e explica o motivo da revisão.**
+3. **`13` × `19`** — o 13 fixa quatro degraus de Besta; o 19 acrescenta uma Máxima acima. Recomendação: tratar "Máxima" como **nome próprio, não como categoria**, para os quatro degraus continuarem de pé.
+4. **`14` inteiro** — continua válido como bastidor, mas o 16 recomenda que **nada dele apareça em cena.**
+
+### O método que o autor estabeleceu, e que você precisa respeitar
+
+Cada IA constrói a própria versão **antes** de ler a das outras. Só depois se comparam. **Se você está lendo isto antes de ter produzido a sua análise independente, você está quebrando o método.**
