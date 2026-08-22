@@ -9,15 +9,16 @@ Esta pasta registra uma reconstrução independente do BeastWorld depois da cris
 
 ## Ordem de leitura
 
-1. `00-HANDOFF.md` — estado da branch, limites e próximos gates.
-2. `working/01-DIAGNOSTICO-E-CANONE.md` e `working/01b-MAPA-DE-CANONE-E-TENSOES.md` — inventário, autoridade, invariantes e contradições.
-3. `working/02-ROTAS-NARRATIVAS.md` — quatro espinhas comparadas.
-4. `working/03-RECOMENDACAO.md` — combinação recomendada e testes de estresse.
-5. `working/04-BIBLIA-PROPOSTA.md` — universo e Livro I em versão de trabalho.
-6. `working/00b-NOVA-FONTE-AUTORAL.md` e `working/01c-RECONCILIACAO-NOVA-VISAO.md` — revisão autoral e correções à proposta anterior.
-7. `working/06-ESPINHA-MUNDO-E-HIERARQUIA.md`, `working/07-PROTAGONISTA-RITUAL-INIMIGOS.md` e `working/08-LIVRO-I-E-SERIE.md` — mundo, Bestas, protagonista, ritual, inimigos e saga.
-8. `working/05-MAPA-ESQUEMATICO.mmd` e `working/05-MAPA-ESQUEMATICO.png` — mapa visual de trabalho.
-9. `research/02-SINTESE-DE-PESQUISA.md`, `research/03-FONTES.md` e `research/04-EVIDENCIA-DE-VIDEO.md` — princípios externos usados como referência, não como cânone.
+Se você quiser entender tudo rapidamente, leia apenas:
+
+1. `working/09-DOCUMENTO-MESTRE-V2.md` — síntese única do universo, política, Bestas, cosmologia, protagonista, família, vínculo, inimigos e saga.
+2. `working/00b-NOVA-FONTE-AUTORAL.md` — registro organizado das suas falas e ideias.
+3. `working/01c-RECONCILIACAO-NOVA-VISAO.md` — o que mudou em relação à proposta anterior.
+4. `working/05-MAPA-ESQUEMATICO.png` — mapa visual.
+
+Para auditoria aprofundada, consulte `working/01-DIAGNOSTICO-E-CANONE.md`, `working/01b-MAPA-DE-CANONE-E-TENSOES.md`, `working/02-ROTAS-NARRATIVAS.md`, `working/03-RECOMENDACAO.md`, `working/04-BIBLIA-PROPOSTA.md`, `working/06-ESPINHA-MUNDO-E-HIERARQUIA.md`, `working/07-PROTAGONISTA-RITUAL-INIMIGOS.md`, `working/08-LIVRO-I-E-SERIE.md`, `working/09-DOCUMENTO-MESTRE-V2.md`, `working/05-MAPA-ESQUEMATICO.mmd` e `working/05-MAPA-ESQUEMATICO.png`.
+
+A nova auditoria de 22/08 está em `audit/phase1_corpus_reopening_2026-08-22.md`, `audit/phase2_detail_recovery.md`, `audit/phase3_star_light_cosmology.md`, `audit/phase4_bestiary_registry_v2.md`, `audit/phase4_bestiary_political_geography_v2.md`, `audit/phase5_relationships_character_arc.md` e `audit/phase6_combat_portals_saga_v2.md`. Os arquivos em `research/` registram fontes externas e princípios de referência, não decisões de cânone.
 
 ## Regra de promoção
 
