@@ -22,4 +22,4 @@ O novo delta autoral sobre Azhara, o dragão negro descendente, o imprint, os v�
 
 O limite foi registrado sem maquiagem: o repositório preserva amplamente as ondas criativas substantivas e várias fontes brutas, mas não possui uma exportação contínua e verificável de cada palavra de todas as interações anteriores. Por isso, o estado correto é `SYNCED / AUDITED-PARTIAL`, e não `LOSSLESS`. Quando houver transcrições completas futuras, elas poderão ser adicionadas sem sobrescrever os registros anteriores.
 
-O próximo ponto de retomada é `docs/00_governance/RETOMADA.md`, seguido por `INTERACTION_ARCHIVE_AND_PROVENANCE_POLICY.md`, `INTERACTION_ARCHIVE_INDEX.md` e `SESSION_ARCHIVE_LEDGER.md`. A branch remota verificada ao final é `ef17817f05b8b5d75c8ab6859a592ad4a0687280`.
+O próximo ponto de retomada é `docs/00_governance/RETOMADA.md`, seguido por `INTERACTION_ARCHIVE_AND_PROVENANCE_POLICY.md`, `INTERACTION_ARCHIVE_INDEX.md` e `SESSION_ARCHIVE_LEDGER.md`. A branch remota verificada ao final do ciclo de governança é `73ccee69be50e12c842189ec6b6fc124c6dfaa8c`.
