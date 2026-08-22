@@ -1,0 +1,111 @@
+
+===== main =====
+8b0b546 2026-08-19 Initial commit
+
+===== origin/agent/multi-ai-orchestration-governance-2026-08-20 =====
+38e0697 2026-08-20 docs: capture worldbuilding and agent platform patterns
+7836cdd 2026-08-20 merge: reanchor multi-AI governance on latest bootstrap
+b2ea751 2026-08-20 docs: route retomada through integrity checkpoint
+38d444f 2026-08-20 docs: add reusable council mission template
+035e09f 2026-08-20 docs: add session closeout and sync protocol
+0998f81 2026-08-20 docs: prepend maintenance handoff pointer
+cf19823 2026-08-20 docs: define artifact lifecycle and write ownership
+3705c8f 2026-08-20 docs: define multi-AI council operating protocol
+127c24d 2026-08-20 docs: close post-audit reconciliation checkpoint
+6a144a8 2026-08-20 docs: index external audit and maintenance sources
+418777c 2026-08-20 chore: reconcile harness after external audit
+72f46e1 2026-08-20 docs: apontar README para onboarding universal de IA
+6981169 2026-08-20 docs: criar porta universal de onboarding para IAs externas
+b649104 2026-08-20 docs: atualizar porta de retomada para ameaça mitológica
+ce917a6 2026-08-20 docs: consolidar estado v0.6 com ameaça mitológica e magia
+bbbad3d 2026-08-20 docs: compactar handoff com arquitetura de ameaça mitológica
+20e70bd 2026-08-20 docs: indexar onda de ameaça mitológica e magia
+a5a9054 2026-08-20 docs: preservar síntese de ameaça mitológica e magia
+6ebd976 2026-08-20 lore: adicionar arquitetura de ameaça mitológica e magia
+36ed74d 2026-08-20 research: estruturar intake de ameaça mitológica e magia
+54a5a6c 2026-08-20 research: mapear ameaça mitológica, magia e expansão
+e802d6c 2026-08-20 docs: preservar brainstorm autoral de ameaça, magia e expansão
+6104e93 2026-08-20 add interaction and narrative UX contract
+9d23663 2026-08-20 refresh resume gate after cosmology polarity checkpoint
+dd84b4b 2026-08-20 refresh hot handoff after cosmology polarity checkpoint
+
+===== origin/agent/worldbuilding-os-bootstrap =====
+7b641f6 2026-08-21 docs: incluir checkpoint multi-IA no onboarding
+453e0f9 2026-08-21 docs: audit multi-AI capture and provenance
+6964271 2026-08-21 docs: registrar auditoria de captura Claude Grok e estado pendente
+117ea2e 2026-08-21 docs: capture author request for multi-AI provenance audit
+0114921 2026-08-21 docs: fechar checkpoint criativo de 21 agosto
+0fd32a0 2026-08-21 docs: indexar fonte de especializacao ecologica e checkpoint Claude
+e137fb8 2026-08-21 governance: registrar checkpoint ativo do conselho multi-IA
+748964a 2026-08-21 research: registrar bases ecologicas e biomineralizacao para World Skeleton
+0dfdbf3 2026-08-21 research: estruturar especializacao ecologica e hipotese de nucleo bestial
+969b9fd 2026-08-21 docs: capturar brainstorm autoral sobre especializacao ecologica e nucleo bestial
+8bb297f 2026-08-20 docs: atualizar handoff com world skeleton ecológico
+9b38c9c 2026-08-20 docs: abrir hipótese de world skeleton ecológico
+0e4ce16 2026-08-20 docs: estruturar intake de ecologia geografia e dinastias
+5e9c496 2026-08-20 docs: arquivar brainstorm autoral de ecologia geografia e dinastias
+6e0bea1 2026-08-20 docs: index consolidated AI orchestration contract
+a5fc09f 2026-08-20 docs: simplify external-agent quarantine and branch lifecycle
+f64c1ee 2026-08-20 docs: consolidate multi-AI orchestration into single operating contract
+c7b6a7a 2026-08-20 docs: encode external-agent quarantine orchestration
+3263dd4 2026-08-20 docs: index integrity and quarantine governance
+85a7430 2026-08-20 docs: prioritize post-audit maintenance in AI onboarding
+b2ea751 2026-08-20 docs: route retomada through integrity checkpoint
+0998f81 2026-08-20 docs: prepend maintenance handoff pointer
+127c24d 2026-08-20 docs: close post-audit reconciliation checkpoint
+6a144a8 2026-08-20 docs: index external audit and maintenance sources
+418777c 2026-08-20 chore: reconcile harness after external audit
+
+===== origin/claude/beastworld-external-consultant-by4q63 =====
+2626e74 2026-08-21 docs: arquitetura de escassez e economia dos dominios
+6d715c7 2026-08-21 docs: fonte autoral integral da sessao
+53101e5 2026-08-21 docs: hereditariedade do vinculo e auditoria de completude
+6441c9b 2026-08-21 docs: dois sistemas, taxonomia das bestas e criterio de nomes
+2efe323 2026-08-21 docs: nichos, casas, nomes e escada do vinculo
+83ef04a 2026-08-21 docs: identidade visual das dinastias e correcao do nucleo bestial
+2eddf7b 2026-08-21 docs: nucleo bestial e registro verbatim da conversa
+6fd68b8 2026-08-21 Merge remote-tracking branch 'origin/agent/worldbuilding-os-bootstrap' into claude/beastworld-external-consultant-by4q63
+0114921 2026-08-21 docs: fechar checkpoint criativo de 21 agosto
+0fd32a0 2026-08-21 docs: indexar fonte de especializacao ecologica e checkpoint Claude
+e137fb8 2026-08-21 governance: registrar checkpoint ativo do conselho multi-IA
+748964a 2026-08-21 research: registrar bases ecologicas e biomineralizacao para World Skeleton
+0dfdbf3 2026-08-21 research: estruturar especializacao ecologica e hipotese de nucleo bestial
+969b9fd 2026-08-21 docs: capturar brainstorm autoral sobre especializacao ecologica e nucleo bestial
+29a7dca 2026-08-21 docs: ponto otimo de construcao e falas do autor a arquivar
+8db8e75 2026-08-21 docs: segunda passagem do consultor externo apos onda de ecologia
+d2644ed 2026-08-21 Merge remote-tracking branch 'origin/agent/worldbuilding-os-bootstrap' into claude/beastworld-external-consultant-by4q63
+33e1f87 2026-08-21 docs: adicionar pasta de consultoria externa Claude
+8bb297f 2026-08-20 docs: atualizar handoff com world skeleton ecológico
+9b38c9c 2026-08-20 docs: abrir hipótese de world skeleton ecológico
+0e4ce16 2026-08-20 docs: estruturar intake de ecologia geografia e dinastias
+5e9c496 2026-08-20 docs: arquivar brainstorm autoral de ecologia geografia e dinastias
+6e0bea1 2026-08-20 docs: index consolidated AI orchestration contract
+a5fc09f 2026-08-20 docs: simplify external-agent quarantine and branch lifecycle
+f64c1ee 2026-08-20 docs: consolidate multi-AI orchestration into single operating contract
+
+===== origin/grok/beastworld-external-consultant-2026-08-21 =====
+76bcf99 2026-08-21 docs(grok): 07 — crisis of complexity brainstorm, simplified spine, runes, portals, combat, named beasts
+47fb389 2026-08-21 docs(grok): initial external consultant dossier — session capture, dynasty architecture, image analysis, cross-AI synthesis
+0114921 2026-08-21 docs: fechar checkpoint criativo de 21 agosto
+0fd32a0 2026-08-21 docs: indexar fonte de especializacao ecologica e checkpoint Claude
+e137fb8 2026-08-21 governance: registrar checkpoint ativo do conselho multi-IA
+748964a 2026-08-21 research: registrar bases ecologicas e biomineralizacao para World Skeleton
+0dfdbf3 2026-08-21 research: estruturar especializacao ecologica e hipotese de nucleo bestial
+969b9fd 2026-08-21 docs: capturar brainstorm autoral sobre especializacao ecologica e nucleo bestial
+8bb297f 2026-08-20 docs: atualizar handoff com world skeleton ecológico
+9b38c9c 2026-08-20 docs: abrir hipótese de world skeleton ecológico
+0e4ce16 2026-08-20 docs: estruturar intake de ecologia geografia e dinastias
+5e9c496 2026-08-20 docs: arquivar brainstorm autoral de ecologia geografia e dinastias
+6e0bea1 2026-08-20 docs: index consolidated AI orchestration contract
+a5fc09f 2026-08-20 docs: simplify external-agent quarantine and branch lifecycle
+f64c1ee 2026-08-20 docs: consolidate multi-AI orchestration into single operating contract
+c7b6a7a 2026-08-20 docs: encode external-agent quarantine orchestration
+3263dd4 2026-08-20 docs: index integrity and quarantine governance
+85a7430 2026-08-20 docs: prioritize post-audit maintenance in AI onboarding
+b2ea751 2026-08-20 docs: route retomada through integrity checkpoint
+0998f81 2026-08-20 docs: prepend maintenance handoff pointer
+127c24d 2026-08-20 docs: close post-audit reconciliation checkpoint
+6a144a8 2026-08-20 docs: index external audit and maintenance sources
+418777c 2026-08-20 chore: reconcile harness after external audit
+72f46e1 2026-08-20 docs: apontar README para onboarding universal de IA
+6981169 2026-08-20 docs: criar porta universal de onboarding para IAs externas

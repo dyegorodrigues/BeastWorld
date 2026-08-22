@@ -1,0 +1,174 @@
+[35morigin/grok/beastworld-external-consultant-2026-08-21:HANDOFF.md[m[36m:[m[32m281[m[36m:[m- [1;31mBW-Q-035[m — bestiário;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:HANDOFF.md[m[36m:[m[32m282[m[36m:[m- [1;31mBW-Q-036[m — alquimia;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:HANDOFF.md[m[36m:[m[32m283[m[36m:[m- [1;31mBW-Q-037[m — tradução narrativa/primer;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:HANDOFF.md[m[36m:[m[32m284[m[36m:[m- [1;31mBW-Q-038[m — corrupção.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:HANDOFF.md[m[36m:[m[32m288[m[36m:[m- [1;31mBW-Q-040[m — topologia das Trevas — P0;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:HANDOFF.md[m[36m:[m[32m289[m[36m:[m- [1;31mBW-Q-041[m — breaches/portais — P0;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:HANDOFF.md[m[36m:[m[32m290[m[36m:[m- [1;31mBW-Q-042[m — por que a ameaça emerge agora — P0;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:HANDOFF.md[m[36m:[m[32m291[m[36m:[m- [1;31mBW-Q-043[m — combate físico × etéreo — P1;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:HANDOFF.md[m[36m:[m[32m292[m[36m:[m- [1;31mBW-Q-044[m — envelope da magia humana — P0;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:HANDOFF.md[m[36m:[m[32m293[m[36m:[m- [1;31mBW-Q-045[m — regeneração rara/conservação de matéria — P1;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:HANDOFF.md[m[36m:[m[32m294[m[36m:[m- [1;31mBW-Q-046[m — outros mundos/travessias futuras — PARKED/P3.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m247[m[36m:[m`[1;31mBW-Q-046[m` está `PARKED / P3`.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m261[m[36m:[m- `[1;31mBW-Q-035[m` — bestiário corruptivo;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m262[m[36m:[m- `[1;31mBW-Q-036[m` — alquimia;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m263[m[36m:[m- `[1;31mBW-Q-037[m` — tradução narrativa / primer;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m264[m[36m:[m- `[1;31mBW-Q-038[m` — corrupção.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m268[m[36m:[m- `[1;31mBW-Q-040[m` — topologia das Trevas — P0;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m269[m[36m:[m- `[1;31mBW-Q-041[m` — breaches/portais — P0;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m270[m[36m:[m- `[1;31mBW-Q-042[m` — por que a ameaça emerge agora — P0;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m271[m[36m:[m- `[1;31mBW-Q-043[m` — combate físico × etéreo — P1;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m272[m[36m:[m- `[1;31mBW-Q-044[m` — envelope da magia — P0;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m273[m[36m:[m- `[1;31mBW-Q-045[m` — regeneração rara/conservação de matéria — P1;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:PROJECT_STATE.md[m[36m:[m[32m274[m[36m:[m- `[1;31mBW-Q-046[m` — outros mundos/travessias — PARKED/P3.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/00_governance/CANON_POLICY.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: CANON[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/00_governance/LATEST_CREATIVE_CHECKPOINT_2026-08-21.md[m[36m:[m[32m38[m[36m:[mGate: `[1;31mBW-Q-049[m`.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/00_governance/LATEST_CREATIVE_CHECKPOINT_2026-08-21.md[m[36m:[m[32m50[m[36m:[mNo model chosen. Gate: `[1;31mBW-Q-048[m`.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/00_governance/LATEST_CREATIVE_CHECKPOINT_2026-08-21.md[m[36m:[m[32m56[m[36m:[m- `[1;31mBW-Q-047[m` — unit of Dynastic specialization — P0;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/00_governance/LATEST_CREATIVE_CHECKPOINT_2026-08-21.md[m[36m:[m[32m57[m[36m:[m- `[1;31mBW-Q-048[m` — present Guardian architecture — P1;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/00_governance/LATEST_CREATIVE_CHECKPOINT_2026-08-21.md[m[36m:[m[32m58[m[36m:[m- `[1;31mBW-Q-049[m` — Beast Core / Resonant Nexus — P1, RESEARCHING;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/00_governance/LATEST_CREATIVE_CHECKPOINT_2026-08-21.md[m[36m:[m[32m59[m[36m:[m- `[1;31mBW-Q-050[m` — Great Species population self-regulation — P1, RESEARCHING;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/00_governance/LATEST_CREATIVE_CHECKPOINT_2026-08-21.md[m[36m:[m[32m60[m[36m:[m- `[1;31mBW-Q-051[m` — geography of central common capital — P0.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/00_governance/NOTION_WIKI_ARCHITECTURE.md[m[36m:[m[32m44[m[36m:[m- a leva Meta AI adicionou `[1;31mBW-Q-013[m` a `[1;31mBW-Q-022[m`.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/01_bible/WORLD_BIBLE.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/beasts/ARTIFICIAL_BLESSING.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/beasts/BLESSING.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/beasts/BOND.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/beasts/CULTURAL_MEMORY.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/beasts/DECLINE.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/beasts/ECHO.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/beasts/RECOGNITION.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/beasts/SANCTUARIES.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/beasts/TAXONOMY.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/beasts/WILD_POPULATIONS.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/ecology/WORLD_SKELETON_ECOLOGICAL_BALANCE_HYPOTHESIS.md[m[36m:[m[32m201[m[36m:[mA geografia ecológica deve preceder a resposta final de `[1;31mBW-Q-040[m/041/042`.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/DEEP_RESONANCE.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/FIRST_ACCORDS.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/FOUNDING_CRIME.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/GUARDIANS.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md[m[36m:[m[32m147[m[36m:[m- [1;31mBW-Q-013[m — longevidade;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md[m[36m:[m[32m148[m[36m:[m- [1;31mBW-Q-014[m — persistência após morte;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md[m[36m:[m[32m149[m[36m:[m- [1;31mBW-Q-015[m — retorno/ressurreição;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md[m[36m:[m[32m150[m[36m:[m- [1;31mBW-Q-023[m — propriedades do sangue vital;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md[m[36m:[m[32m151[m[36m:[m- [1;31mBW-Q-024[m — duração/limite da ancoragem da Luz;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md[m[36m:[m[32m152[m[36m:[m- [1;31mBW-Q-025[m — cosmologia excepcional;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/LIGHT_AND_REBIRTH_HYPOTHESIS.md[m[36m:[m[32m153[m[36m:[m- [1;31mBW-Q-026[m — repetibilidade da reconstituição.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/mythology/LONG_ASH.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/02_lore/politics/DYNASTIC_ACCESS_MONOPOLY.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/04_story/PROTAGONIST_SUCCESSION_PRESSURE.md[m[36m:[m[32m3[m[36m:[m[1;31mstatus: HYPOTHESIS[m
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-longevity-light-rebirth-critical-intake.md[m[36m:[m[32m290[m[36m:[m### [1;31mBW-Q-023[m — Sangue vital
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-longevity-light-rebirth-critical-intake.md[m[36m:[m[32m293[m[36m:[m### [1;31mBW-Q-024[m — Ancoragem da Luz
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-longevity-light-rebirth-critical-intake.md[m[36m:[m[32m296[m[36m:[m### [1;31mBW-Q-025[m — Cosmologia excepcional
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-longevity-light-rebirth-critical-intake.md[m[36m:[m[32m299[m[36m:[m### [1;31mBW-Q-026[m — Repetibilidade do renascimento
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-metaai-brainstorm-critical-intake.md[m[36m:[m[32m300[m[36m:[m- [1;31mBW-Q-013[m a [1;31mBW-Q-022[m em `2026-08-19-open-questions-wave.md`.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m6[m[36m:[m## [1;31mBW-Q-013[m — Longevidade
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m18[m[36m:[m## [1;31mBW-Q-014[m — Persistência após a morte
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m28[m[36m:[m## [1;31mBW-Q-015[m — Retorno/ressurreição
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m44[m[36m:[m## [1;31mBW-Q-016[m — Ameaça comum
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m54[m[36m:[m## [1;31mBW-Q-017[m — Marcialidade transversal
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m64[m[36m:[m## [1;31mBW-Q-018[m — Mistura de Ecos e casamento
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m74[m[36m:[m## [1;31mBW-Q-019[m — Quantidade de Grandes Espécies / produção
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m84[m[36m:[m## [1;31mBW-Q-020[m — Arquitetura linguística
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m94[m[36m:[m## [1;31mBW-Q-021[m — Falha estrutural do protagonista
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m104[m[36m:[m## [1;31mBW-Q-022[m — Visual da futura Dinastia do Dragão
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m130[m[36m:[m1. [1;31mBW-Q-013[m — longevidade;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m131[m[36m:[m2. [1;31mBW-Q-014[m/015 — pós-vida e retorno;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m132[m[36m:[m3. [1;31mBW-Q-016[m — ameaça comum;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m133[m[36m:[m4. [1;31mBW-Q-017[m — marcialidade;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m134[m[36m:[m5. [1;31mBW-Q-019[m — ecologia/bestiário/produção;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m135[m[36m:[m6. [1;31mBW-Q-021[m — protagonista;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m136[m[36m:[m7. [1;31mBW-Q-018[m — casamento/herança;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m137[m[36m:[m8. [1;31mBW-Q-020[m — língua;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-19-open-questions-wave.md[m[36m:[m[32m138[m[36m:[m9. [1;31mBW-Q-022[m — visual.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-20-narrative-exposition-and-metaphysics-research-note.md[m[36m:[m[32m5[m[36m:[m**Objetivo:** apoiar [1;31mBW-Q-027[m, [1;31mBW-Q-028[m, [1;31mBW-Q-029[m e o novo gate de exposição narrativa.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-21-ecological-specialization-beast-core-critical-intake.md[m[36m:[m[32m182[m[36m:[m- `[1;31mBW-Q-047[m` — Dynastic specialization without species exclusivity: what is the exact unit of specialization (species, guild, sanctuary network, ecology, doctrine)?
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-21-ecological-specialization-beast-core-critical-intake.md[m[36m:[m[32m183[m[36m:[m- `[1;31mBW-Q-048[m` — Guardian architecture in the present: Independent Order vs Embedded Corps vs Layered Model.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-21-ecological-specialization-beast-core-critical-intake.md[m[36m:[m[32m184[m[36m:[m- `[1;31mBW-Q-049[m` — Beast Core / resonant nexus: physical architecture and relation to Light, death and reconstitution.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-21-ecological-specialization-beast-core-critical-intake.md[m[36m:[m[32m185[m[36m:[m- `[1;31mBW-Q-050[m` — Great Beast population self-regulation: biology vs cultural memory vs Resonance sensitivity.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/06_research/2026-08-21-ecological-specialization-beast-core-critical-intake.md[m[36m:[m[32m186[m[36m:[m- `[1;31mBW-Q-051[m` — central capital/hub: geographic reason, institutions and representative dynastic houses.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m66[m[36m:[m- [1;31mBW-Q-013[m — longevidade;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m67[m[36m:[m- [1;31mBW-Q-014[m — persistência/Luz;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m68[m[36m:[m- [1;31mBW-Q-015[m — reconstituição/reencarnação;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m69[m[36m:[m- [1;31mBW-Q-023[m — sangue vital;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m70[m[36m:[m- [1;31mBW-Q-024[m — ancoragem da Luz;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m71[m[36m:[m- [1;31mBW-Q-025[m — cosmologia excepcional;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m72[m[36m:[m- [1;31mBW-Q-026[m — repetibilidade do renascimento.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m96[m[36m:[m- [1;31mBW-Q-027[m — intenção como variável causal da Ressonância;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m97[m[36m:[m- [1;31mBW-Q-028[m — Grande Consciência × polo corruptivo;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m98[m[36m:[m- [1;31mBW-Q-029[m — comunicação com mortos;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m99[m[36m:[m- [1;31mBW-Q-030[m — governo/rotação de longevos;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m100[m[36m:[m- [1;31mBW-Q-031[m — curva de fertilidade;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m101[m[36m:[m- [1;31mBW-Q-032[m — ecologia energética;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m102[m[36m:[m- [1;31mBW-Q-033[m — benefício cognitivo do Vínculo para a Besta;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m103[m[36m:[m- [1;31mBW-Q-034[m — habitat/aceleração da reconstituição.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m133[m[36m:[m- [1;31mBW-Q-027[m — intenção;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m134[m[36m:[m- [1;31mBW-Q-028[m — Grande Consciência/polo corruptivo;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m135[m[36m:[m- [1;31mBW-Q-029[m — comunicação com mortos;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m136[m[36m:[m- [1;31mBW-Q-030[m — governo de longevos;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m137[m[36m:[m- [1;31mBW-Q-032[m — ecologia energética;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m138[m[36m:[m- [1;31mBW-Q-033[m — cognição da Besta;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m139[m[36m:[m- [1;31mBW-Q-034[m — reconstituição/habitat;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m140[m[36m:[m- [1;31mBW-Q-035[m — bestiário corruptivo;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m141[m[36m:[m- [1;31mBW-Q-036[m — alquimia de sangue/Ressonância;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m142[m[36m:[m- [1;31mBW-Q-037[m — tradução narrativa da cosmologia;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m143[m[36m:[m- [1;31mBW-Q-038[m — mecânica da corrupção da Luz;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m144[m[36m:[m- [1;31mBW-Q-039[m — possibilidade de outros povos sencientes.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m208[m[36m:[m- [1;31mBW-Q-035[m — bestiário corruptivo — refinado;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m209[m[36m:[m- [1;31mBW-Q-036[m — alquimia — refinado;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m210[m[36m:[m- [1;31mBW-Q-037[m — tradução narrativa/primer — refinado;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m211[m[36m:[m- [1;31mBW-Q-038[m — corrupção — refinado;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m212[m[36m:[m- [1;31mBW-Q-040[m — topologia das Trevas;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m213[m[36m:[m- [1;31mBW-Q-041[m — breaches/portais;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m214[m[36m:[m- [1;31mBW-Q-042[m — por que a ameaça emerge agora;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m215[m[36m:[m- [1;31mBW-Q-043[m — combate físico × etéreo;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m216[m[36m:[m- [1;31mBW-Q-044[m — envelope da magia humana;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m217[m[36m:[m- [1;31mBW-Q-045[m — regeneração rara/conservação de matéria;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX.md[m[36m:[m[32m218[m[36m:[m- [1;31mBW-Q-046[m — outros mundos/travessias futuras — PARKED/P3.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/SOURCE_INDEX_ADDENDUM_2026-08-21_ECO_SPECIALIZATION.md[m[36m:[m[32m36[m[36m:[m- new formal gates: `[1;31mBW-Q-047[m`–`[1;31mBW-Q-051[m`.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/conversations/2026-08-19-chatgpt-metaai-audit-response-high-fidelity.md[m[36m:[m[32m20[m[36m:[m6. As novas lacunas foram transformadas em questões formais `[1;31mBW-Q-013[m` a `[1;31mBW-Q-022[m`.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/conversations/2026-08-19-chatgpt-metaai-audit-response-high-fidelity.md[m[36m:[m[32m100[m[36m:[m- `[1;31mBW-Q-014[m` — o que persiste após a morte?
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/08_sources/conversations/2026-08-19-chatgpt-metaai-audit-response-high-fidelity.md[m[36m:[m[32m101[m[36m:[m- `[1;31mBW-Q-015[m` — retorno/ressurreição existe e, se existir, como preservar o peso da morte?
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/09_external_ai/grok/00-HANDOFF.md[m[36m:[m[32m56[m[36m:[m[1;31mBW-Q-047[m specialization unit · [1;31mBW-Q-048[m Guardians · [1;31mBW-Q-049[m Core · [1;31mBW-Q-051[m capital geography · World Skeleton map still undrawn.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/09_external_ai/grok/03-DYNASTY-ARCHITECTURE.md[m[36m:[m[32m4[m[36m:[m**Dialogues with:** Claude 11 / 12 / 13, author speech on ecological specialization, bootstrap WORLD SKELETON, gates [1;31mBW-Q-047[m / [1;31mBW-Q-051[m.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/09_external_ai/grok/04-CROSS-AI-SYNTHESIS.md[m[36m:[m[32m44[m[36m:[m- Guardian architecture ([1;31mBW-Q-048[m) still reopened by author.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/09_external_ai/grok/04-CROSS-AI-SYNTHESIS.md[m[36m:[m[32m45[m[36m:[m- Beast Core details ([1;31mBW-Q-049[m) still in research; Claude’s combined nodal+archive model is strong candidate after author correction on energy function.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/09_external_ai/grok/05-WORLD-SKELETON-NEXT.md[m[36m:[m[32m25[m[36m:[m3. Stress-test [1;31mBW-Q-047[m / 048 / 049 / 051 against logistics and scenes.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/09_reviews/claude/2026-08-20/CLAUDE_AUDIT_ARTIFACT_PASTED_BY_AUTHOR.md[m[36m:[m[32m23[m[36m:[mIt noted that the open-question distribution is heavily weighted toward metaphysics/biology and that the current world still lacks a named geography, final dynasties, cities, routes, religions and final named characters. Claude argued that `[1;31mBW-Q-042[m — why the threat emerges now` is intrinsically a chronology/place problem and therefore cannot be fully solved through metaphysics alone.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/09_reviews/claude/2026-08-20/CLAUDE_AUDIT_ARTIFACT_PASTED_BY_AUTHOR.md[m[36m:[m[32m91[m[36m:[m- `[1;31mBW-Q-042[m`;
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/09_reviews/claude/2026-08-20/CLAUDE_AUDIT_ARTIFACT_PASTED_BY_AUTHOR.md[m[36m:[m[32m108[m[36m:[m`[1;31mBW-Q-044[m` lists Bond arts, warding/anchoring, alchemy, contemplative practices, death rites and corruptive arts, but Claude argued these are categories of effect rather than a true envelope because the project has not yet defined a hard scarcity/constraint.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:docs/09_reviews/claude/2026-08-20/CLAUDE_AUDIT_ARTIFACT_PASTED_BY_AUTHOR.md[m[36m:[m[32m152[m[36m:[m`[1;31mBW-Q-042[m` is a chronology question but the threat currently has no timeline anchors.
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m3[m[36m:[m  - {id: BW-BIO-GSPEC-001, name: Grande Espécie, type: GREAT_SPECIES, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m4[m[36m:[m  - {id: BW-BIO-GBEAST-001, name: Grande Besta, type: BEAST_INDIVIDUAL, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m5[m[36m:[m  - {id: BW-BIO-ANCIENT-001, name: Ancião/Anciã, type: LIFE_STAGE, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m6[m[36m:[m  - {id: BW-ECO-WILD-001, name: População Selvagem, type: POPULATION, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m7[m[36m:[m  - {id: BW-ECO-SANCT-001, name: Santuário, type: SANCTUARY, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m8[m[36m:[m  - {id: BW-HB-GUARD-001, name: Guardiões de Santuário, type: GUARDIAN_TRADITION, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m9[m[36m:[m  - {id: BW-HB-RECOG-001, name: Reconhecimento, type: RECOGNITION, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m10[m[36m:[m  - {id: BW-HB-BOND-001, name: Vínculo, type: BOND, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m11[m[36m:[m  - {id: BW-HB-BLESS-001, name: Bênção, type: BLESSING, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m12[m[36m:[m  - {id: BW-BIO-ECHO-001, name: Eco, type: ECHO, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m13[m[36m:[m  - {id: BW-MET-RESON-001, name: Ressonância Profunda, type: METAPHYSICAL_MECHANISM, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m14[m[36m:[m  - {id: BW-HIS-ASH-001, name: Cinza Longa, type: EVENT, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m15[m[36m:[m  - {id: BW-HIS-ACCORD-001, name: Primeiros Acordos, type: EVENT, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m16[m[36m:[m  - {id: BW-HIS-CRIME-001, name: Crime Fundador, type: EVENT, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m17[m[36m:[m  - {id: BW-ECO-DECLINE-001, name: Declínio das Grandes Bestas, type: EVENT, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m18[m[36m:[m  - {id: BW-POL-MONOP-001, name: Monopólio Dinástico de Acesso, type: MONOPOLY, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m19[m[36m:[m  - {id: BW-HB-WILDBLESS-001, name: Bênção Selvagem, type: BLESSING, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m20[m[36m:[m  - {id: BW-BIO-CULTMEM-001, name: Memória Cultural das Bestas, type: BEHAVIORAL_MECHANISM, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m21[m[36m:[m  - {id: BW-POL-ICONBEAST-001, name: Besta Icônica de Santuário, type: BEAST_INDIVIDUAL, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m22[m[36m:[m  - {id: BW-HB-ARTBLESS-001, name: Bênção Artificial, type: BLESSING, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m26[m[36m:[m  - {id: BW-MET-LIGHT-001, name: Luz, type: ONTOLOGICAL_IDENTITY, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m27[m[36m:[m  - {id: BW-MET-SIGN-001, name: Assinatura Ressonante, type: RESONANT_SIGNATURE, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m28[m[36m:[m  - {id: BW-MET-GCONSC-001, name: Grande Consciência, type: SUBSTRATE_REGIME, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m29[m[36m:[m  - {id: BW-MET-CORRUPT-001, name: Polo Corruptivo / Trevas (placeholder), type: SUBSTRATE_REGIME, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m30[m[36m:[m  - {id: BW-MET-INTENT-001, name: Intenção Causal, type: METAPHYSICAL_MECHANISM, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m31[m[36m:[m  - {id: BW-MET-ANCHOR-001, name: Ancoragem da Luz, type: METAPHYSICAL_MECHANISM, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m32[m[36m:[m  - {id: BW-MET-RECON-001, name: Reconstituição Vinculada, type: RECONSTITUTION_PROCESS, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m33[m[36m:[m  - {id: BW-HB-VITALBLOOD-001, name: Sangue Vital / Oferta Vital Ressonante, type: BIOLOGICAL_MECHANISM, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m34[m[36m:[m  - {id: BW-MET-BREACH-001, name: Breach / Zona de Interface, type: INTERFACE_ZONE, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m35[m[36m:[m  - {id: BW-MAG-ARTS-001, name: Magia / Artes Ressonantes, type: PRACTICE_TRADITION, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m36[m[36m:[m  - {id: BW-MAG-ALCH-001, name: Alquimia Ressonante, type: PRACTICE_TRADITION, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m37[m[36m:[m  - {id: BW-BIO-REGEN-001, name: Regeneração Rara, type: BIOLOGICAL_MECHANISM, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m38[m[36m:[m  - {id: BW-THR-CREATURE-001, name: Formas do Regime Corruptivo, type: CREATURE_CLASS, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m39[m[36m:[m  - {id: BW-THR-HOLLOW-001, name: Ocos / Hollows (placeholder), type: CREATURE_CLASS, [1;31mstatus: HYPOTHESIS[m}
+[35morigin/grok/beastworld-external-consultant-2026-08-21:graph/entities.yaml[m[36m:[m[32m40[m[36m:[m  - {id: BW-MET-CORRUPTION-001, name: Corrupção da Luz, type: METAPHYSICAL_MECHANISM, [1;31mstatus: HYPOTHESIS[m}
