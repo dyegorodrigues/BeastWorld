@@ -15,6 +15,11 @@ Current governance entry points:
 - `INTERACTION_ARCHIVE_INDEX.md` — master navigation for sessions, sources, artifacts and known gaps;
 - `TRANSCRIPT_COVERAGE_AUDIT_2026-08-22.md` — honest coverage audit distinguishing RAW, mediated and summary material;
 - `SESSION_ARCHIVE_LEDGER.md` — versioned operational receipts for durable sessions;
+- `CONTEXT_REHYDRATION_PACKET.md` — pacote HOT/WARM para reabrir o contexto criativo, autoral e operacional;
+- `CONTEXT_INDEX.md` — navegação seletiva por missão, assunto e tipo de evidência;
+- `CONTEXT_TIMELINE_2026-08-22.md` — cronologia causal das ondas de interação;
+- `CONTEXT_READ_RECEIPT_TEMPLATE.md` — prova de que uma nova conversa leu e entendeu o pacote;
+- `CONTEXT_REHYDRATION_AUDIT_2026-08-22.md` — diagnóstico da falha de contexto e critérios de sucesso;
 - `CREATOR_COMPASS.md` — cognitive reset / human creative navigation;
 - `MAINTENANCE_CHECKPOINT_2026-08-20.md` — reconciliation after first external multi-agent audit.
 

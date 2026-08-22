@@ -21,20 +21,26 @@ Se você não possui acesso ao GitHub privado e/ou ao Notion informado abaixo, *
 Leia integralmente, nesta ordem:
 
 1. `START_HERE_FOR_AI.md` — este contrato.
-2. `docs/00_governance/MAINTENANCE_CHECKPOINT_2026-08-20.md` — reconciliação pós-primeira auditoria externa; use como ponte entre snapshots antigos e remoto atual.
-3. `docs/00_governance/INTEGRITY_GATES.md` — prova obrigatória de fechamento após escrita.
-4. `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md` — regras para pesquisa multiagente.
-5. `docs/00_governance/MULTI_AI_CAPTURE_AUDIT_2026-08-21.md` — estado real das quarentenas Claude/Grok, qualidade da captura autoral e pendências de proveniência; se divergir de branches remotas mais novas, registre o delta.
-6. `docs/00_governance/LATEST_CREATIVE_CHECKPOINT_2026-08-21.md` — delta criativo mais recente preservado; não promove lore.
-7. `PROJECT_STATE.md` — snapshot conceitual; se divergir dos checkpoints/remoto, registre o drift.
-8. `HANDOFF.md` — continuidade e ponto exato de trabalho.
-9. `docs/00_governance/RETOMADA.md` — porta operacional de retomada.
-10. `AGENTS.md` — comportamento esperado de agentes.
-11. `docs/00_governance/CANON_POLICY.md` — autoridade/cânone.
-12. `docs/00_governance/STATUS_MODEL.md` — significado dos status.
-13. `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md` — COLD/WARM/HOT/CANON.
-14. `docs/00_governance/GITHUB_NOTION_SYNC.md` — contrato GitHub ↔ Notion.
-15. `KNOWLEDGE_GRAPH.md` — mapa macro de dependências.
+2. `docs/00_governance/CONTEXT_REHYDRATION_PACKET.md` — pacote autossuficiente de contexto acumulado até a sessão mais recente.
+3. `docs/00_governance/CONTEXT_INDEX.md` — mapa de navegação por assunto, fonte e missão.
+4. `docs/00_governance/CONTEXT_REHYDRATION_AUDIT_2026-08-22.md` — diagnóstico da perda de contexto e teste de sucesso.
+5. `docs/00_governance/INTERACTION_ARCHIVE_AND_PROVENANCE_POLICY.md` — regras de proveniência e autoridade.
+6. `docs/00_governance/CONTEXT_TIMELINE_2026-08-22.md` — cronologia causal das ondas de interação e artefatos.
+7. `docs/00_governance/SESSION_RESUME_TEMPLATE.md` — template obrigatório para fechar novas sessões.
+8. `docs/00_governance/MAINTENANCE_CHECKPOINT_2026-08-20.md` — reconciliação pós-primeira auditoria externa; use como ponte entre snapshots antigos e remoto atual.
+9. `docs/00_governance/INTEGRITY_GATES.md` — prova obrigatória de fechamento após escrita.
+10. `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md` — regras para pesquisa multiagente.
+11. `docs/00_governance/MULTI_AI_CAPTURE_AUDIT_2026-08-21.md` — estado real das quarentenas Claude/Grok, qualidade da captura autoral e pendências de proveniência; se divergir de branches remotas mais novas, registre o delta.
+12. `docs/00_governance/LATEST_CREATIVE_CHECKPOINT_2026-08-21.md` — delta criativo mais recente preservado; não promove lore.
+13. `PROJECT_STATE.md` — snapshot conceitual; se divergir dos checkpoints/remoto, registre o drift.
+14. `HANDOFF.md` — continuidade e ponto exato de trabalho.
+15. `docs/00_governance/RETOMADA.md` — porta operacional de retomada.
+16. `AGENTS.md` — comportamento esperado de agentes.
+17. `docs/00_governance/CANON_POLICY.md` — autoridade/cânone.
+18. `docs/00_governance/STATUS_MODEL.md` — significado dos status.
+19. `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md` — COLD/WARM/HOT/CANON.
+20. `docs/00_governance/GITHUB_NOTION_SYNC.md` — contrato GitHub ↔ Notion.
+21. `KNOWLEDGE_GRAPH.md` — mapa macro de dependências.
 
 Se a missão for criativa e o autor demonstrar sobrecarga/confusão, leia também:
 
@@ -128,7 +134,13 @@ Não copie apenas títulos. Demonstre compreensão causal suficiente para provar
 
 Se encontrar drift, classifique-o usando `INTEGRITY_GATES.md` e **não trate drift operacional como prova de que o lore é ruim**.
 
-## 5. Modo padrão para IA externa: READ-ONLY CONSULTANT
+## 5. Context Rehydration Receipt obrigatório
+
+Depois de ler a Fase HOT e antes de pesquisar, criar ou revisar, produza um recibo contendo: repositório e branch acessíveis; HEAD remoto; arquivos HOT lidos; cinco a dez direções autorais compreendidas; diferença entre Azhara e o dragão negro; desejo e não desejo do protagonista; estado do pai e do Conselho; nomes rejeitados; distinção entre fonte autoral, proposta de IA e cânone; questões abertas; e qualquer lacuna de acesso.
+
+Se não conseguir produzir esse recibo com referências aos arquivos, pare e peça reancoragem. Não compense a ausência de contexto com criatividade genérica.
+
+## 6. Modo padrão para IA externa: READ-ONLY CONSULTANT
 
 Salvo autorização expressa do autor, você pode:
 
@@ -163,7 +175,7 @@ Se o autor autorizar escrita, o modo padrão muda para **EXTERNAL REVIEW QUARANT
 
 Somente o integrador autorizado pode, em etapa posterior, transformar propostas aprovadas em mudanças do modelo compartilhado.
 
-## 6. Como pesquisar e contribuir intelectualmente
+## 7. Como pesquisar e contribuir intelectualmente
 
 A missão de uma IA externa não é concordar. É produzir valor independente sem perder o projeto existente.
 
@@ -179,7 +191,7 @@ Quando propor mudança estrutural, apresente idealmente 2–4 arquiteturas conco
 
 Se usar opções A/B/C/D, preserve o **enunciado completo das opções junto com a resposta do autor**. Preferir nomes para arquiteturas (`LIMIAR`, `PORTAL`, etc.) em vez de letras soltas.
 
-## 7. Formato obrigatório de relatório independente
+## 8. Formato obrigatório de relatório independente
 
 Entregue, nesta ordem:
 
@@ -198,7 +210,7 @@ Para proposta estrutural, acrescente o `Impact Cone` definido no protocolo de qu
 
 Se houver incerteza, diga `UNKNOWN` / `UNRESOLVED`. Não preencha lacunas fingindo memória.
 
-## 8. Economia de contexto
+## 9. Economia de contexto
 
 Não despeje o repositório inteiro no contexto por padrão.
 
@@ -208,7 +220,7 @@ Use recuperação progressiva:
 
 A memória curta pode ser compacta **porque a memória longa permanece íntegra e ligada**. Nunca resuma uma nuance importante sem manter referência recuperável para a fonte integral.
 
-## 9. Fechamento obrigatório se você escreveu
+## 10. Fechamento obrigatório se você escreveu
 
 Se recebeu permissão de escrita, **não diga apenas “salvei tudo”**.
 
@@ -221,7 +233,7 @@ Antes de encerrar:
 5. liste qualquer drift restante;
 6. preserve relatórios externos em Markdown durável; link de artifact/chat não basta.
 
-## 10. Notion — pontos de entrada atuais
+## 11. Notion — pontos de entrada atuais
 
 - Wiki Hub: https://app.notion.com/p/3c142424cdbc81cd9f8bd269c3674224
 - Enciclopédia: https://app.notion.com/p/3c142424cdbc8100bd1bf72591c4288d
@@ -233,9 +245,9 @@ Antes de encerrar:
 
 Se links mudarem, procure pelos títulos no workspace BeastWorld.
 
-## 11. Prompt mínimo que o autor pode enviar a qualquer IA
+## 12. Prompt mínimo que o autor pode enviar a qualquer IA
 
-> Entre no projeto BeastWorld como consultor externo READ-ONLY. Acesse o repositório privado `dyegorodrigues/BeastWorld` e comece obrigatoriamente por `START_HERE_FOR_AI.md`. Siga integralmente o protocolo de onboarding, incluindo GitHub + Notion, e não confie em memória de conversas anteriores. Antes de pesquisar ou sugerir qualquer coisa, devolva o `CONTEXT READ RECEIPT` exigido pelo arquivo. Depois execute a missão que eu passar, distinguindo claramente fonte do projeto, inferência sua, pesquisa externa e proposta nova. Não altere GitHub, Notion ou cânone sem minha autorização explícita.
+> Entre no projeto BeastWorld como consultor externo READ-ONLY. Acesse o repositório privado `dyegorodrigues/BeastWorld` e comece obrigatoriamente por `START_HERE_FOR_AI.md`. Em seguida, leia `docs/00_governance/CONTEXT_REHYDRATION_PACKET.md`, `CONTEXT_INDEX.md` e `CONTEXT_TIMELINE_2026-08-22.md`; não confie em memória de conversas anteriores nem presuma que a branch Manus foi carregada. Confirme no remoto a branch e o HEAD. Antes de pesquisar, sugerir, escrever ou revisar qualquer coisa, devolva o `CONTEXT READ RECEIPT` exigido pelo arquivo, demonstrando que entendeu o protagonista sem nome vigente, Azhara, o dragão negro descendente, o pai vivo, o Conselho, os nomes rejeitados, as propostas em quarentena e as questões abertas. Depois execute a missão que eu passar, distinguindo claramente fonte do projeto, fala autoral, inferência, pesquisa externa e proposta nova. Não altere GitHub, Notion ou cânone sem minha autorização explícita. Se os arquivos não estiverem acessíveis, declare a lacuna e pare em vez de improvisar.
 
 ---
 

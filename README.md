@@ -3,6 +3,8 @@
 **Private worldbuilding repository / source of truth** for the BeastWorld intellectual property.
 
 > Rascunho não é cânone. Ideia boa não vira verdade do universo sem promoção explícita.
+>
+> **Para qualquer nova conversa:** leia primeiro `START_HERE_FOR_AI.md` e depois `docs/00_governance/CONTEXT_REHYDRATION_PACKET.md`. Esse pacote reúne o contexto criativo, autoral, operacional e de governança até a sessão mais recente. Antes de criar, devolva o `CONTEXT READ RECEIPT` exigido pelo bootstrap.
 
 ## O que este repositório é
 
@@ -40,8 +42,10 @@ Para sessões internas, a sequência operacional permanece:
 2. `PROJECT_STATE.md`
 3. `HANDOFF.md`
 4. `docs/00_governance/RETOMADA.md`
-5. `docs/00_governance/CANON_POLICY.md`
-6. somente os módulos relacionados ao problema atual
+5. `docs/00_governance/CONTEXT_REHYDRATION_PACKET.md`
+6. `docs/00_governance/CONTEXT_INDEX.md`
+7. `docs/00_governance/CANON_POLICY.md`
+8. somente os módulos relacionados ao problema atual
 
 Se o conector Notion estiver disponível, consulte o Resume Packet e os registros ligados aos IDs em trabalho; não carregue toda a Wiki por padrão.
 

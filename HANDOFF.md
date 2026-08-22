@@ -1,7 +1,9 @@
 # HANDOFF — BeastWorld
 
-**Atualizado:** 2026-08-20  
-**Função:** memória HOT para retomada entre conversas. Remoto GitHub vence qualquer SHA textual.
+**Atualizado:** 2026-08-22
+**Função:** memória HOT histórica e ponte para retomada entre conversas. Remoto GitHub vence qualquer SHA textual.
+
+> **CONTEXT BRIDGE — 22/08/2026:** este arquivo conserva o snapshot histórico abaixo, mas a entrada operacional vigente para a branch Manus é `docs/00_governance/CONTEXT_REHYDRATION_PACKET.md`. Antes de escrever, leia `START_HERE_FOR_AI.md`, o pacote de reidratação, `CONTEXT_INDEX.md` e `INTERACTION_ARCHIVE_INDEX.md`. A branch Manus contém a reconstrução criativa e o arquivo de governança; ela não é cânone automático. Se este snapshot disser `agent/worldbuilding-os-bootstrap` e o pacote disser `manus/reconstruction-spine-2026-08-21`, confirme no remoto e use a branch efetivamente aberta, sem tratar a diferença como erro de lore.
 
 > **LATEST CREATIVE CAPTURE — 20/08/2026:** o autor abriu a primeira onda concreta do **WORLD SKELETON**: Grandes Bestas como componentes de redes ecológicas; abundância limitada por alimento/território/reprodução; deslocamento ou introdução de espécies podendo produzir cascatas; Dinastias com possível função real de custódia/manejo sem que isso legitime monopólio hereditário; dragões de baixa densidade; Bestas insetoides; biomas não elementais; mar/rios/voo/comunicação; Conselho central; continentes externos; povos não humanos ainda em gate; e regra narrativa de alta densidade sem filler. Fonte integral: `docs/08_sources/conversations/2026-08-20-author-ecological-balance-geography-dynasties-verbatim.md`. Intake: `docs/06_research/2026-08-20-ecological-balance-geography-dynasties-critical-intake.md`. Hipótese: `docs/02_lore/ecology/WORLD_SKELETON_ECOLOGICAL_BALANCE_HYPOTHESIS.md`. **Não canonizar.** A formulação científica recomendada para o “equilíbrio” é resiliência dinâmica, não homeostase perfeita.
 

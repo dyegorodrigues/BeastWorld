@@ -6,17 +6,22 @@ Agentes que trabalham neste repositório devem desenvolver o BeastWorld sem perd
 
 ## Ordem de leitura
 
-Antes de propor ou editar lore:
+Antes de propor, pesquisar, escrever, revisar ou editar lore:
 
-1. `docs/00_governance/RETOMADA.md`
-2. `PROJECT_STATE.md`
-3. `HANDOFF.md`
-4. `docs/00_governance/CANON_POLICY.md`
-5. `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md`
-6. página/nó alvo
-7. dependências diretas em `graph/relations.yaml`
-8. ADRs relacionados em `docs/07_decisions/`
-9. fontes históricas apenas se houver dúvida, disputa ou necessidade de recuperar nuance
+1. `START_HERE_FOR_AI.md`
+2. `docs/00_governance/CONTEXT_REHYDRATION_PACKET.md`
+3. `docs/00_governance/CONTEXT_READ_RECEIPT_TEMPLATE.md` — use o formato para demonstrar reancoragem
+4. `docs/00_governance/CONTEXT_INDEX.md`
+5. `docs/00_governance/CONTEXT_TIMELINE_2026-08-22.md`
+6. `docs/00_governance/RETOMADA.md`
+7. `PROJECT_STATE.md`
+8. `HANDOFF.md`
+9. `docs/00_governance/CANON_POLICY.md`
+10. `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md`
+11. página/nó alvo
+12. dependências diretas em `graph/relations.yaml`
+13. ADRs relacionados em `docs/07_decisions/`
+14. fontes históricas apenas se houver dúvida, disputa ou necessidade de recuperar nuance
 
 Se Notion estiver conectado, recuperar somente os registros relacionados no Lore Registry, Open Questions, Entity Atlas, Timeline e Source Library. Nunca reler toda a Bíblia ou toda a Wiki por padrão.
 

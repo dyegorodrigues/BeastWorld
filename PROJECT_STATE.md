@@ -1,12 +1,15 @@
 # PROJECT_STATE — BeastWorld
 
-**Data de referência:** 2026-08-20  
-**Marco:** Worldbuilding OS v0.6 — Grandes Bestas + memória/handoff + Luz/Vínculo + cosmologia/Ressonância + Trevas/corrupção + ameaça mitológica/magia/guerra.
+**Data de referência:** 2026-08-22
+**Marco:** Worldbuilding OS v0.6 + Context Rehydration Packet — Grandes Bestas, memória/handoff, Luz/Vínculo, cosmologia/Ressonância, Trevas/corrupção, ameaça mitológica/magia/guerra e arquivo versionado de interações.
+
+> **CONTEXT BRIDGE — 22/08/2026:** este arquivo preserva o snapshot conceitual histórico e suas hipóteses. Para a branch Manus e para o contexto criativo mais recente, leia primeiro `docs/00_governance/CONTEXT_REHYDRATION_PACKET.md`, `CONTEXT_INDEX.md`, `INTERACTION_ARCHIVE_INDEX.md` e o delta `docs/09_external_ai/manus/working/11-DELTA-AUTORAL-22-08-DRAGAO-PAI-E-LIBERDADE.md`. O bloco abaixo não deve substituir o pacote HOT nem ser tratado como mais atual quando houver divergência de branch, data ou status.
 
 ## 1. Estado operacional
 
 - repo: `dyegorodrigues/BeastWorld` — **private**;
-- branch ativa: `agent/worldbuilding-os-bootstrap`;
+- branch histórica de referência: `agent/worldbuilding-os-bootstrap`;
+- branch Manus de arquivo/reconstrução vigente nesta linha: `manus/reconstruction-spine-2026-08-21`;
 - PR #2 permanece **open + draft + unmerged** até decisão explícita do autor;
 - nenhum workflow/status check está configurado neste bootstrap;
 - remoto GitHub vence qualquer SHA textual deste arquivo.
@@ -17,7 +20,8 @@ Documentação detalhada **não equivale a canonização**. Os módulos criativo
 
 - **COLD:** `docs/08_sources/` — turnos autorais integrais, PDFs, pesquisa externa e rationale de IA;
 - **WARM:** módulos de lore/research, graph, Notion databases e Enciclopédia;
-- **HOT:** este arquivo + `HANDOFF.md` + `docs/00_governance/RETOMADA.md`;
+- **HOT histórico:** este arquivo + `HANDOFF.md` + `docs/00_governance/RETOMADA.md`;
+- **HOT vigente para a branch Manus:** `docs/00_governance/CONTEXT_REHYDRATION_PACKET.md` + `CONTEXT_INDEX.md` + `INTERACTION_ARCHIVE_INDEX.md`;
 - **CANON:** Bíblia, ADRs e módulos explicitamente promovidos.
 
 > **Compactar para recuperar; nunca compactar para apagar fonte, autoria, nuance ou rationale.**

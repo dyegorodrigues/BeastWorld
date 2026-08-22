@@ -43,6 +43,7 @@ Quando houver conflito, a fonte bruta e a decisão autoral explícita têm prece
 | ID | Data | Assunto | Fonte bruta | Resposta visível | Estado |
 |---|---|---|---|---|---|
 | `BW-SESSION-2026-08-22-001` | 2026-08-22 | governança do arquivo + novo delta de Azhara, dragão descendente, pai, família, liberdade e artes marciais | `docs/08_sources/conversations/2026-08-22-author-governance-and-dragon-descendant-verbatim.md` + anexos | resposta visível capturada no mesmo Source Record | `AUDITED-PARTIAL` |
+| `BW-SESSION-2026-08-22-003` | 2026-08-22 | falha de contexto em nova conversa e pedido de reidratação completa até este ponto | `docs/08_sources/conversations/2026-08-22-author-context-recovery-request-verbatim-002.md` | resposta visível e pacote HOT/WARM em criação na mesma sessão | `AUDITED-PARTIAL / IN-PROGRESS` |
 | `BW-SESSION-2026-08-21-001` | 2026-08-21 | auditoria de captura multi-IA | `docs/08_sources/conversations/2026-08-21-author-multi-ai-capture-audit-request-verbatim.md` | respostas e auditoria em `docs/09_reviews/multi_ai/` | `CAPTURED / HISTORICAL` |
 | `BW-SESSION-2026-08-21-002` | 2026-08-21 | especialização ecológica e centralidade do Núcleo | `docs/08_sources/conversations/2026-08-21-author-ecological-specialization-core-centrality-verbatim.md` | sínteses e checkpoint da governança | `CAPTURED / INTEGRATED-PARTIAL` |
 | `BW-SESSION-2026-08-20-001` | 2026-08-20 | ecologia, geografia, dinastias e logística | `docs/08_sources/conversations/2026-08-20-author-ecological-balance-geography-dynasties-verbatim.md` | resposta/síntese de alta fidelidade disponível em fontes relacionadas | `CAPTURED` |
@@ -72,6 +73,7 @@ Os anexos novos desta sessão estão em:
 
 - `docs/08_sources/attachments/2026-08-22/pasted_content.txt`
 - `docs/08_sources/attachments/2026-08-22/pasted_content_2.txt`
+- `docs/08_sources/conversations/2026-08-22-author-context-recovery-request-verbatim-002.md`
 
 As imagens de referência anteriores foram analisadas e descritas em documentos, mas a auditoria histórica registra que nem todos os binários foram versionados nas quarentenas externas. Portanto, o arquivo de assets deve distinguir `BINARY-PRESENT`, `BINARY-MISSING`, `DESCRIPTION-ONLY` e `REFERENCE-URL`.
 
