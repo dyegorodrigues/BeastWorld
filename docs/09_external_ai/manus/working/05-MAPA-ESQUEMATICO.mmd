@@ -1,0 +1,22 @@
+flowchart TB
+    N["EIR-VAR\nCoroa Verde\nfloresta · montanhas · neve"]
+    W["NAMAR\nArco do Mar\nestreitos · ilhas · leviatãs"]
+    C["ASTER\nCapital da Concordata\nMar Central · quatro rotas"]
+    E["KHAR-VAAL\nTerra do Calor Vivo\nvulcões · neve · fontes termais · dragões"]
+    S["SAHR\nMar de Pedra\ndeserto · sal · colônias · resinas"]
+    N <-->|"8 dias"| C
+    W <-->|"6 dias"| C
+    C <-->|"5 dias"| E
+    C <-->|"10 dias"| S
+    N <-->|"14 dias"| S
+    W <-->|"9 dias"| E
+    K["VALE DAS FONTES NEGRAS\nSantuário oculto de Azhara"]
+    E -->|"1 dia de encosta"| K
+    F["FENDA\nprimeiro sinal sob a estrada antiga"]
+    C -.->|"pressão futura"| F
+    classDef region fill:#171717,stroke:#caa24d,color:#f5f1e8;
+    classDef city fill:#2a2220,stroke:#e8c36a,color:#fff4d6;
+    classDef danger fill:#301b1b,stroke:#ed6b4d,color:#ffe8df;
+    class N,W,E,S region;
+    class C,K city;
+    class F danger;

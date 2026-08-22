@@ -14,7 +14,10 @@ Esta pasta registra uma reconstrução independente do BeastWorld depois da cris
 3. `working/02-ROTAS-NARRATIVAS.md` — quatro espinhas comparadas.
 4. `working/03-RECOMENDACAO.md` — combinação recomendada e testes de estresse.
 5. `working/04-BIBLIA-PROPOSTA.md` — universo e Livro I em versão de trabalho.
-6. `research/02-SINTESE-DE-PESQUISA.md`, `research/03-FONTES.md` e `research/04-EVIDENCIA-DE-VIDEO.md` — princípios externos usados como referência, não como cânone.
+6. `working/00b-NOVA-FONTE-AUTORAL.md` e `working/01c-RECONCILIACAO-NOVA-VISAO.md` — revisão autoral e correções à proposta anterior.
+7. `working/06-ESPINHA-MUNDO-E-HIERARQUIA.md`, `working/07-PROTAGONISTA-RITUAL-INIMIGOS.md` e `working/08-LIVRO-I-E-SERIE.md` — mundo, Bestas, protagonista, ritual, inimigos e saga.
+8. `working/05-MAPA-ESQUEMATICO.mmd` e `working/05-MAPA-ESQUEMATICO.png` — mapa visual de trabalho.
+9. `research/02-SINTESE-DE-PESQUISA.md`, `research/03-FONTES.md` e `research/04-EVIDENCIA-DE-VIDEO.md` — princípios externos usados como referência, não como cânone.
 
 ## Regra de promoção
 

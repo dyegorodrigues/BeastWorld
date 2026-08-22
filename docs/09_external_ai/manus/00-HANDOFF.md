@@ -13,16 +13,16 @@ A leitura concluiu que o problema não é falta de identidade. O projeto possui 
 
 ## Direção de trabalho recomendada
 
-A superfície do Livro I usa o Conclave e a crise da Porta. O coração é um Vínculo bilateral entre um guerreiro sem sucessão limpa e uma Grande Besta. A verdade profunda é que o mundo está vivo e adoecendo. Uma Fenda aparece apenas como horizonte de saga.
+A nova direção autoral rebaixa o Conclave e começa no Vale das Fontes Negras: um protagonista bastardo, discreto e disciplinado treina e cuida das Bestas em segredo enquanto a Grande Dragão Primordial o observa. Uma operação da família ameaça um Vástago, Azhara intervém e realiza um vínculo de sangue que transforma o corpo do rapaz diante de todos. A política, a geografia, a ecologia e os portais passam a ser consequências dessa escolha.
 
-Título provisório do Livro I: `A Marca dos Dois`.  
-Logline provisória: durante um conclave para escolher o Guardião das Grandes Bestas, um guerreiro que não deveria ser escolhido é escolhido por uma criatura que deveria estar morta; quatro Dinastias tentam transformar o vínculo em propriedade enquanto a morte das Bestas desorganiza o mundo.
+Títulos provisórios do Livro I: `A Primeira Chama` ou `A Marca do Dragão`.
+Logline provisória: um bastardo talentoso e subestimado é escolhido pela maior Grande Besta do mundo; o sangue dela modifica seu corpo, desperta sua natureza brutal e o coloca no centro de uma guerra entre família, Casas, Bestas e mundos.
 
 ## Regras preservadas
 
 - A Dinastia controla a Porta, não possui a Besta.
 - Conexão é treinável e comum; Integração é rara e recíproca.
-- A marca verdadeira acende nos dois lados.
+- O sangue da Besta modifica o humano; a reciprocidade é demonstrada por comportamento, linguagem, proteção e sinais místicos, não por uma marca bilateral obrigatória.
 - Geometria/runa é mapa de integração; brilho/fissura/fuligem é custo ativo.
 - Núcleo é órgão de acoplamento, não bateria ou loot.
 - Regeneração restaura tecido, não apaga responsabilidade.
@@ -31,7 +31,7 @@ Logline provisória: durante um conclave para escolher o Guardião das Grandes B
 
 ## O que ainda não está decidido
 
-Nome do protagonista; nome final do universo; nome e natureza exata da Besta central; se a capital terá estética mais gótica ou solar; intensidade e forma do romance; número final de Portas; natureza completa das Trevas; arquitetura definitiva dos Guardiões; momento exato em que a primeira Fenda será vista.
+Nome do protagonista; nome final do universo; nome definitivo da Grande Dragão central; nomes da hierarquia das Bestas; se o pai é Warden, imperador ou rei; se a capital terá estética mais gótica ou solar; intensidade e forma do romance; número final de regiões; natureza completa da Luz de Dentro e das Trevas; arquitetura definitiva dos Guardiões; momento exato em que a primeira Fenda será vista.
 
 ## Não expandir sem gate
 
@@ -39,7 +39,7 @@ Não adicionar continentes, dezenas de Casas, catálogo completo de Bestas, guer
 
 ## Próxima sessão recomendada
 
-1. O autor lê `03-RECOMENDACAO.md` e `04-BIBLIA-PROPOSTA.md`.
+1. O autor lê `00b-NOVA-FONTE-AUTORAL.md`, `01c-RECONCILIACAO-NOVA-VISAO.md` e `03-RECOMENDACAO.md`.
 2. O autor marca cada decisão como `APROVAR`, `ALTERAR`, `REJEITAR` ou `ESTACIONAR`.
 3. Somente depois disso a equipe escolhe nomes definitivos e promove um subconjunto a `WORKING-CANON`.
-4. A primeira escrita deve ser o capítulo da escolha da Besta, não um prólogo cosmológico.
+4. A primeira escrita deve ser o capítulo do treinamento secreto e da escolha de Azhara, não uma assembleia nem um prólogo cosmológico.
