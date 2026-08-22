@@ -11,6 +11,10 @@ Current governance entry points:
 - `INTEGRITY_GATES.md` — mandatory post-write audit gates;
 - `EXTERNAL_AGENT_QUARANTINE.md` — external research/output isolation without permanent branch sprawl;
 - `DECISION_PROVENANCE_LEDGER.md` — recovered/required full option wording for letter-coded author choices;
+- `INTERACTION_ARCHIVE_AND_PROVENANCE_POLICY.md` — rules for preserving raw interactions, attachments, AI responses, decisions and canon boundaries;
+- `INTERACTION_ARCHIVE_INDEX.md` — master navigation for sessions, sources, artifacts and known gaps;
+- `TRANSCRIPT_COVERAGE_AUDIT_2026-08-22.md` — honest coverage audit distinguishing RAW, mediated and summary material;
+- `SESSION_ARCHIVE_LEDGER.md` — versioned operational receipts for durable sessions;
 - `CREATOR_COMPASS.md` — cognitive reset / human creative navigation;
 - `MAINTENANCE_CHECKPOINT_2026-08-20.md` — reconciliation after first external multi-agent audit.
 
@@ -26,3 +30,5 @@ Operational Notion surfaces:
 These operational surfaces do **not** create a second canon.
 
 > Capture is not reconciliation. Reconciliation is not promotion. Promotion is not canon.
+>
+> A summary is not a transcript. A mediated quotation is not a direct author source. A hash proves file identity, not truth.

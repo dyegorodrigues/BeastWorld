@@ -24,7 +24,10 @@ Antes de editar:
 7. `docs/00_governance/MEMORY_HANDOFF_PROTOCOL.md`;
 8. `docs/00_governance/GITHUB_NOTION_SYNC.md`;
 9. `docs/00_governance/INTEGRITY_GATES.md`;
-10. somente fontes/módulos ligados ao alvo atual.
+10. `docs/00_governance/INTERACTION_ARCHIVE_AND_PROVENANCE_POLICY.md`;
+11. `docs/00_governance/INTERACTION_ARCHIVE_INDEX.md`;
+12. `docs/00_governance/SESSION_ARCHIVE_LEDGER.md`;
+13. somente fontes/módulos ligados ao alvo atual.
 
 Se Notion estiver conectado, recuperar apenas os nós/gates/fontes relacionados. Não carregar toda a Wiki por padrão.
 
@@ -34,6 +37,7 @@ Se Notion estiver conectado, recuperar apenas os nós/gates/fontes relacionados.
 - **WARM:** lore/research/graph/Notion/Enciclopédia;
 - **HOT:** `PROJECT_STATE.md` + `HANDOFF.md` + esta porta + Notion Resume Packet;
 - **CANON:** Bíblia/ADRs/módulos explicitamente promovidos.
+- **ARCHIVE:** `INTERACTION_ARCHIVE_INDEX.md` + `ARCHIVE_MANIFEST_YYYY-MM-DD.tsv` + Source Records; nunca confundir com cânone.
 
 > **Resumo nunca substitui fonte.**
 
@@ -158,6 +162,18 @@ Claude, Gemini, Grok, Kimi ou outro agente:
 - não desenvolver outros mundos agora;
 - não preencher trecho autoral perdido por inferência;
 - mudança estrutural exige regressão de lore.
+
+## Arquivo obrigatório de sessão
+
+Toda sessão substantiva futura deve fechar com:
+
+1. Source Record da fala autoral e dos anexos;
+2. registro das respostas visíveis da IA;
+3. Handoff operacional;
+4. Asset Index com hashes;
+5. linha em `SESSION_ARCHIVE_LEDGER.md`;
+6. commit/branch remoto verificados;
+7. classificação de fidelidade (`RAW-AVAILABLE`, `RAW-PARTIAL`, `MEDIATED-ONLY`, `SUMMARY-ONLY` ou `NOT-AVAILABLE`).
 
 ## Fechamento obrigatório
 
