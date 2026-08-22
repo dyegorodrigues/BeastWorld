@@ -324,3 +324,20 @@ A auditoria externa detectou que tentar fechar toda a metafísica antes de mater
 - não tornar magia ilimitada;
 - não exigir World Primer para entender capítulo/episódio 1;
 - não desenvolver outros mundos agora.
+
+
+## RECONSTRUCTION CHECKPOINT — 22/08/2026 — v3 de continuidade
+
+Esta sessão releu os quatro anexos locais desta conversa, os registros autorais de 20–22/08, a espinha HOT/WARM, os módulos Manus de cosmologia, Bestas, protagonista, relações, ritual, combate e saga, e pesquisa externa limitada sobre espécies-chave, vínculos interespecíficos e transporte narrativo. O Notion foi aberto, mas o Resume Packet retornou tela de autenticação; nenhum registro Notion foi lido ou editado. Essa lacuna permanece explícita.
+
+Arquivos de trabalho novos nesta branch:
+
+- `docs/09_external_ai/manus/working/12-RECONSTRUCAO-V3-RECONCILIACAO-E-PROVENIENCIA.md` — auditoria de proveniência e reconciliação;
+- `docs/09_external_ai/manus/working/13-BEASTWORLD-V3-ARQUITETURA-INTEGRADA.md` — arquitetura universal de criaturas, sangue, vínculos, cosmologia, sociedade, ameaça e saga;
+- `docs/09_external_ai/manus/working/14-BEASTWORLD-V3-BLUEPRINT-DE-INTEGRACAO.md` — blueprint operacional de mapa, Casas, academia, personagens, guerra e primeiro ciclo;
+- `docs/09_external_ai/manus/research/2026-08-22-continuity-reconstruction-research.md` — pesquisa externa e limitações de acesso;
+- `/home/ubuntu/BeastWorld_CONTEXT_READ_RECEIPT_2026-08-22.md` — recibo emitido fora do repositório local do projeto.
+
+A v3 permanece `WORKING-DRAFT / NOT-CANON`. Invariantes atuais: protagonista sem nome vigente; Azhara como único Dragão Primordial de trabalho; poucos Dragões Verdadeiros e muitas formas dracônicas inferiores; outras linhagens com origem primordial possível; sangue socialmente distribuído; sangue oferecido qualitativamente distinto; Integração Primordial ≠ Imprint; dragão negro descendente/derivado como companheiro recorrente; Azhara viva, soberana, móvel e ecologicamente ancorada; pai vivo e politicamente relevante; protagonista avesso ao trono; artes marciais, Bestas, alquimia, guerra, Luz, polo corruptivo e Fendas integrados, sem canonização de nomes finais ou mecanismos abertos.
+
+Próxima retomada: validar os dois documentos v3 com Devil's Advocate, atualizar dependências somente se uma decisão for promovida e não tratar o conteúdo como cânone sem aprovação autoral explícita.
