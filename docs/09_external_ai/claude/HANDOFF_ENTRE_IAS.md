@@ -160,3 +160,29 @@ Seguindo a regra do projeto, não vou fingir que estas peças convivem:
 ### O método que o autor estabeleceu, e que você precisa respeitar
 
 Cada IA constrói a própria versão **antes** de ler a das outras. Só depois se comparam. **Se você está lendo isto antes de ter produzido a sua análise independente, você está quebrando o método.**
+
+---
+
+## Passagem 4 — 23/08/2026 — a virada da Academia (v4)
+
+O autor me entregou um PDF de 84 páginas com as duas últimas rodadas dele com o ChatGPT e pediu análise independente, discordância e propostas próprias.
+
+**O que mudou na arquitetura do projeto, e é muito:** o BeastWorld passou a ser uma **fantasia épica marcial com uma Academia militar neutra no centro**, cinco Primordiais (Dragão, Qilin, Fênix, Xuanwu, Leviatã), Guardiões com sangue primordial concedido há 3.000 anos, e uma **guerra entre duas Estrelas vivas** — a nossa e uma moribunda e predatória, com cinco Soberanos. O protagonista adulto e o "Dumbledore" foram **fundidos**: o bastardo escolhido por Azhara é o Diretor da Academia.
+
+### O que eu acrescentei
+
+| Arquivo | O que resolve |
+|---|---|
+| `FONTE-AUTORAL-2026-08-22-ACADEMIA.md` | A fala integral do autor daquela rodada, `AUTHOR-RAW` / `Primary`, com índice de nuance e sete contradições declaradas. **Autoridade maior que a `FONTE-AUTORAL-INTEGRAL.md`**, porque é export do autor, não reconstrução minha. |
+| `22` | Leitura da v4. Cinco achados: a contradição Harry Potter; o inimigo terminal em vez de infinito; a guerra congelada em vez de ativa; a Academia sobre o Assento vazio; o Diretor que quer sair. Mais a auditoria de quais dos meus arquivos 16–21 sobrevivem. |
+| `23` | O problema do protagonista passivo, que era a crítica mais forte do autor e que nenhuma das outras IAs endereçou. Oito regras práticas. |
+| `24` | A escada de magia explicada em uma frase — **"magia se mede em distância da pele"** — a pedido direto do autor, que disse não ter entendido a versão anterior. |
+| `25` | Treze perguntas em **árvore de dependência**, não em lista, com recomendação em cada uma e mapa de quais gates do ChatGPT ficam substituídos. |
+
+### O achado que eu destacaria acima dos outros
+
+`RISK` — **As recomendações Q7-B e Q8-B dos gates do ChatGPT recriam exatamente o arquétipo que o autor acabou de rejeitar em voz alta** (menino pobre, pai morto, criatura fraquinha que um dia cresce). Não é má-fé — é o padrão do gênero. Mas se o autor responder "7B, 8B" achando que segue a recomendação técnica, ele aprova o personagem que descreveu com nojo. Está sinalizado em `22` §2, tratado em `23`, e a alternativa está na P5 do `25`.
+
+### Onde eu reverti a mim mesmo
+
+Na Passagem 3 eu argumentei que o BeastWorld estava complexo demais e precisava cortar. **A Academia resolve isso melhor do que cortar**, porque uma escola é o único lugar em que explicar é diegético. Minha régua de complexidade sobe com a v4. O teto continua existindo, mas é mais alto do que eu disse.

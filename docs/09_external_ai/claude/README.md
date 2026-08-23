@@ -55,6 +55,11 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 | `19-bestiario-as-grandes-bestas.md` | Sete Grandes Bestas nomeadas, a Máxima, e as mortas que viraram portais | Montar o elenco não-humano |
 | `20-a-luta-300-mortal-kombat-e-a-legibilidade.md` | As quatro escalas de luta e como filmar cada uma | Trabalhar ação, câmera e assinatura |
 | `21-quatro-reimaginacoes.md` | Quatro versões radicalmente diferentes da mesma obra, e por onde entrar | Reimaginar sem jogar fora o que existe |
+| **`FONTE-AUTORAL-2026-08-22-ACADEMIA.md`** | **Fala integral do autor de 22/08 (Academia, Primordiais, guerra entre mundos)** — `AUTHOR-RAW`, `Primary` | **Auditar o que o autor realmente disse nesta virada** |
+| **`22-leitura-da-v4-o-que-eu-mudaria.md`** | **Análise da v4 do ChatGPT e da v3 da Manus: o que manter, o que mudar, o que ninguém pegou** | **Entrar na arquitetura atual** |
+| `23-o-heroi-que-resolve.md` | Como não fazer o protagonista passivo. Oito regras contra o "Zé ruela" | Fechar o jovem protagonista |
+| `24-o-dominio-explicado-simples.md` | A escada de magia explicada em uma frase: distância da pele | Entender Domínio, técnicas e armas |
+| `25-perguntas-em-arvore.md` | 13 perguntas em ordem de dependência, com recomendação em cada uma | **Decidir sem se contradizer** |
 | `CONVERSA_COM_O_AUTOR.md` | Registro verbatim da conversa autor ↔ Claude | Auditar proveniência direta das falas |
 
 ---
@@ -63,7 +68,9 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 
 **Se você precisa saber o que o autor realmente disse:** comece por `FONTE-AUTORAL-INTEGRAL.md`. É a transcrição completa da sessão, com as palavras dele, mais um índice que liga cada fala ao que ela produziu, mais a lista das correções que ele fez em mim.
 
-**Se você quer o estado mais atual do raciocínio:** comece por `16-a-simplificacao-o-corte.md`. Ele é uma correção de rota — o autor sinalizou que o projeto tinha ficado complexo demais, e o arquivo 16 reorganiza tudo que veio antes em duas camadas (o que o público precisa entender × o que só o autor precisa ter escrito). Os arquivos 17 a 21 seguem essa regra.
+**Se você quer o estado mais atual do raciocínio:** comece por `22-leitura-da-v4-o-que-eu-mudaria.md`. Ele analisa a arquitetura v4 (Academia + cinco Primordiais + guerra entre mundos), diz o que eu manteria, o que eu mudaria, e faz a auditoria honesta de quais dos meus arquivos anteriores sobrevivem a essa virada. Depois vá para `25-perguntas-em-arvore.md`, que é onde estão as decisões pendentes.
+
+**Se você quer a virada anterior:** `16-a-simplificacao-o-corte.md`. Ele é uma correção de rota — o autor sinalizou que o projeto tinha ficado complexo demais, e o arquivo 16 reorganiza tudo que veio antes em duas camadas (o que o público precisa entender × o que só o autor precisa ter escrito). Os arquivos 17 a 21 seguem essa regra.
 
 Se você tem pouco tempo: `HANDOFF_ENTRE_IAS.md` → `16-a-simplificacao-o-corte.md` → `02-segredo-do-sucesso.md`.
 
