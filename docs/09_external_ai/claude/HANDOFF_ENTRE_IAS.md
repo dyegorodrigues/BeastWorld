@@ -186,3 +186,35 @@ O autor me entregou um PDF de 84 páginas com as duas últimas rodadas dele com 
 ### Onde eu reverti a mim mesmo
 
 Na Passagem 3 eu argumentei que o BeastWorld estava complexo demais e precisava cortar. **A Academia resolve isso melhor do que cortar**, porque uma escola é o único lugar em que explicar é diegético. Minha régua de complexidade sobe com a v4. O teto continua existindo, mas é mais alto do que eu disse.
+
+---
+
+## Passagem 5 — 23/08/2026 — o autor corrigiu a rodada anterior
+
+O autor rejeitou cinco propostas minhas com todas as letras e me deu as respostas certas. **Leia `FONTE-AUTORAL-2026-08-23-CORRECOES.md` e `26-correcoes-e-o-que-esta-morto.md` antes de qualquer coisa nesta pasta.**
+
+### O padrão do meu erro, registrado para quem vier depois
+
+As cinco propostas mortas têm a mesma assinatura: **eu peguei coisas que eram simplesmente foda e amarguei.** O Diretor virou alguém que carrega o poder como fardo; a aliança humano-Besta virou contrato sujo; a Primordial virou munição do inimigo; o mentor virou alguém com ego ferido; o poder virou culpa ambiental.
+
+> **Regra: não converta potência em tragédia. O personagem pode sofrer por fora. Ele não deve sofrer por ser forte.**
+
+O Gojo é amado **porque** gosta de ser o mais forte. O Daemon age sem agonizar. É esse o alvo.
+
+E um segundo par de erros, opostos, no mesmo dia: **literal demais** com as hipérboles do autor ("inimigo infinito" era metáfora de escala, e eu construí uma reforma em cima), e **literal de menos** com as descrições de personagem dele (reescrevi o Diretor por cima do que ele tinha construído).
+
+> **Quando o autor descreve um personagem ou o que a obra tem que sentir, é literal e é lei. Quando ele dá número, metáfora ou comentário de passagem, é aproximado — pergunte antes de construir em cima.**
+
+### O que ficou vivo desta rodada
+
+| Arquivo | O que resolve |
+|---|---|
+| `27` | **As cinco Primordiais e os cinco elementos.** Resolve a colisão Xuanwu × Leviatã (Xuanwu sai da água e vira Pedra e Metal, a origem de todas as armas), põe a Fênix no Ar, e — com base no Wu Xing real, onde o quinto símbolo é o **centro** e seu elemento é a **Terra** — coloca o **Qilin dracônico como Terra, no Centro, adormecido**. Mais: alquimia sem círculo, e o sangue de linhagem Qilin que explica a capacidade do garoto. |
+| `28` | **Geografia das Fendas.** Elas abrem nas costuras; a Academia é guarnição antes de ser escola, no pior lugar do mundo; **calendário de hordas** como motor da temporada 1 (as hordas estão saindo fora do calendário); a Orla / o Limiar / o Além do outro lado; e os refugiados do outro mundo como fio político longo. |
+| `29` | **Os Graus refeitos.** Corrige os dois erros que o autor apontou: "Domínio" agora nomeia só um degrau, e os nomes de gíria foram substituídos por **Corpo · Manto · Alcance · Campo · Domínio · Comunhão**. O custo territorial foi rebaixado a opcional. |
+| `30` | **A sucessão da Casa do Dragão.** Coroa e Assento se separam pela primeira vez em mil anos; a Casa não terá outro Guardião enquanto ele viver; e a humilhação vira **uma rachadura que atravessa todos os tronos do mundo**, porque agora todo Guardião sabe que não precisa ser rei. |
+| `31` | **O elenco**, com o Diretor reescrito do jeito que o autor descreveu (ele **ama** o poder; só recusa o trono), e as **cinco cadeiras Primordiais** distribuídas: Azhara/Diretor, Leviatã/mestre, Xuanwu/antagonista, Fênix/amigo, **Qilin vazio → o garoto**. |
+
+### Regra de leitura para a pasta inteira
+
+Os arquivos `16` a `21` são **legado** — foram escritos sobre a arquitetura anterior e não devem ser misturados na v4. Os arquivos `22` a `25` estão **parcialmente mortos** — cheque a lista em `26` antes de usar qualquer coisa deles.
