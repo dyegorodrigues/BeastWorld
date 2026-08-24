@@ -1,0 +1,62 @@
+name: World OS Temporary Cloudflare Deploy
+
+on:
+  pull_request:
+    paths:
+      - 'apps/world-os/**'
+      - '.github/workflows/world-os-temporary-deploy.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy-temporary:
+    if: github.event_name == 'workflow_dispatch' || github.head_ref == 'feat/world-os-safe-web'
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: apps/world-os
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Wrangler with temporary deployment support
+        run: npm install --no-save 'wrangler@^4.102.0'
+
+      - name: Build World OS
+        run: npm run build
+
+      - name: Prepare demo-only temporary config
+        run: |
+          jq 'del(.account_id, .secrets)' wrangler.jsonc > wrangler.temporary.json
+          test "$(jq -r '.vars.WORLD_OS_PRIVATE_DATA_ENABLED' wrangler.temporary.json)" = "false"
+
+      - name: Deploy to Cloudflare temporary account
+        run: |
+          set +e
+          npx wrangler deploy --temporary --config wrangler.temporary.json > "$RUNNER_TEMP/cloudflare-temporary-deploy.txt" 2>&1
+          status=$?
+          printf '%s\n' "$status" > "$RUNNER_TEMP/cloudflare-temporary-status.txt"
+          exit 0
+
+      - name: Store private deployment output
+        uses: actions/upload-artifact@v4
+        with:
+          name: cloudflare-temporary-deploy-${{ github.run_id }}
+          path: |
+            ${{ runner.temp }}/cloudflare-temporary-deploy.txt
+            ${{ runner.temp }}/cloudflare-temporary-status.txt
+          retention-days: 1
+          if-no-files-found: error
+
+      - name: Enforce successful temporary deployment
+        run: test "$(cat "$RUNNER_TEMP/cloudflare-temporary-status.txt")" = "0"
