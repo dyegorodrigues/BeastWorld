@@ -1,17 +1,5 @@
 import { createRemoteJWKSet, jwtVerify } from 'jose';
 
-export interface Env {
-  NOTION_TOKEN?: string;
-  NOTION_VERSION: string;
-  NOTION_ENTITY_ATLAS_DATA_SOURCE_ID: string;
-  NOTION_LORE_REGISTRY_DATA_SOURCE_ID: string;
-  NOTION_EDGE_REGISTRY_DATA_SOURCE_ID: string;
-  WORLD_OS_PRIVATE_DATA_ENABLED: string;
-  TEAM_DOMAIN?: string;
-  POLICY_AUD?: string;
-  ASSETS: { fetch(request: Request): Promise<Response> };
-}
-
 type AnyProperty = Record<string, any>;
 
 type WorldNode = {
@@ -246,7 +234,6 @@ export default {
 
       const access = await verifyAccess(request, env);
       if (!access.ok) return json({ error: access.reason, message: 'Fail closed: autenticação privada não validada.' }, 403);
-      if (!env.NOTION_TOKEN) return json({ error: 'NOTION_NOT_CONFIGURED' }, 503);
 
       try {
         const graph = await liveGraph(env);
@@ -257,6 +244,11 @@ export default {
           ...graph,
         });
       } catch (error) {
+        console.error(JSON.stringify({
+          message: 'Notion graph read failed',
+          error: error instanceof Error ? error.message : String(error),
+          path: url.pathname,
+        }));
         return json({
           error: 'NOTION_READ_FAILED',
           message: error instanceof Error ? error.message : 'Unknown error',
@@ -267,4 +259,4 @@ export default {
     if (url.pathname.startsWith('/api/')) return json({ error: 'NOT_FOUND' }, 404);
     return env.ASSETS.fetch(request);
   },
-};
+} satisfies ExportedHandler<Env>;
