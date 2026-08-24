@@ -50,6 +50,10 @@ const json = (value: unknown, status = 200) => new Response(JSON.stringify(value
 const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 const normalizedPageId = (value: string) => value.replaceAll('-', '').toLowerCase();
 
+function privateDataEnabled(env: Env): boolean {
+  return String(env.WORLD_OS_PRIVATE_DATA_ENABLED).toLowerCase() === 'true';
+}
+
 function plain(prop?: AnyProperty): string {
   if (!prop) return '';
   const kind = prop.type;
@@ -212,7 +216,7 @@ export default {
     if (url.pathname === '/api/health') {
       return json({
         ok: true,
-        privateDataEnabled: env.WORLD_OS_PRIVATE_DATA_ENABLED === 'true',
+        privateDataEnabled: privateDataEnabled(env),
         notionConfigured: Boolean(env.NOTION_TOKEN),
         accessValidationConfigured: Boolean(env.TEAM_DOMAIN && env.POLICY_AUD),
         readOnly: true,
@@ -220,8 +224,7 @@ export default {
     }
 
     if (url.pathname === '/api/graph') {
-      const privateEnabled = env.WORLD_OS_PRIVATE_DATA_ENABLED === 'true';
-      if (!privateEnabled) {
+      if (!privateDataEnabled(env)) {
         return json({
           mode: 'demo',
           readOnly: true,
