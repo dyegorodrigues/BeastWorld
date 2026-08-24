@@ -1,0 +1,16 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "beastworld-world-os",
+  "main": "./worker/index.ts",
+  "compatibility_date": "2026-08-24",
+  "observability": { "enabled": true },
+  "assets": {
+    "not_found_handling": "single-page-application",
+    "run_worker_first": ["/api/*"]
+  },
+  "vars": {
+    "NOTION_VERSION": "2026-03-11",
+    "NOTION_ENTITY_ATLAS_DATA_SOURCE_ID": "81c9a4b6-5bd8-4516-9572-b946cc4e512f",
+    "WORLD_OS_PRIVATE_DATA_ENABLED": "false"
+  }
+}
