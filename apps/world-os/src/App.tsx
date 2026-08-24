@@ -30,12 +30,9 @@ function graphFor(entities: WorldEntity[]): { nodes: Node[]; edges: Edge[] } {
     },
   }));
 
-  const edges = entities.slice(1).map((entity, index) => ({
-    id: `preview-edge-${index}`,
-    source: entities[0]?.id ?? entity.id,
-    target: entity.id,
-  }));
-
+  // Intentionally empty until the real Relation Edge Registry adapter is loaded.
+  // The UI must never imply a relationship that does not exist in the source graph.
+  const edges: Edge[] = [];
   return { nodes, edges };
 }
 
