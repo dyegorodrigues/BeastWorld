@@ -57,9 +57,11 @@ No web editing is allowed until:
 - `feat/world-os-safe-web` is the correct visual integration branch.
 - PR #4 is preserved only as a superseded visual spike and must not be merged.
 
-## Verification limits in this wave
+## Verification status in this wave
 
-Repository structure, Notion schemas and source relationships were inspected through connected services. A local dependency install/build could not be completed in the current execution environment, so the web scaffold must not be called CI/build-verified yet. Deployment remains disabled until the Cloudflare account is connected and the build succeeds there or in CI.
+GitHub Actions workflow `World OS Check` now validates the web scaffold. Run `32779643409` (run #2) completed successfully on 2026-08-24 after checkout, Node setup, dependency installation, TypeScript validation, Vite build and `wrangler deploy --dry-run`. The scaffold may now be described as **CI/build-verified for the checked scope**.
+
+This does **not** mean deployed or live-data audited. Real Cloudflare deployment, Cloudflare Access configuration, Worker secrets and Notion live-projection verification remain separate gates.
 
 ## Resume rule
 
