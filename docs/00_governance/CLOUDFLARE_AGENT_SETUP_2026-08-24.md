@@ -44,6 +44,21 @@ Safety choices:
 - traces are enabled at 1% sampling;
 - bindings are typed by `wrangler types`, not a handwritten `Env` interface.
 
+## Pre-deploy verification completed
+
+GitHub Actions `World OS Check` run `32780866450` (run #11) completed successfully on 2026-08-24.
+
+Verified in that run:
+
+- dependency installation;
+- production-only vulnerability audit with `npm audit --omit=dev --audit-level=high`;
+- `wrangler types` generated Cloudflare binding/secret types from `wrangler.jsonc`;
+- strict TypeScript build;
+- Vite production build;
+- `wrangler deploy --dry-run`.
+
+The production dependency audit passed. This branch is therefore ready for the first **demo-only** Cloudflare deployment. It is not yet a deployed service and private Notion projection has not yet been audited at the edge.
+
 ## Required account-side actions after MCP becomes available
 
 1. OAuth the Cloudflare account when the MCP requests authorization.
