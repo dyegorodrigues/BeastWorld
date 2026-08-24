@@ -1,0 +1,34 @@
+name: World OS Check
+
+on:
+  pull_request:
+    paths:
+      - 'apps/world-os/**'
+      - '.github/workflows/world-os-check.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: apps/world-os
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: apps/world-os/package-lock.json
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Typecheck, build, and Wrangler dry run
+        run: npm run check
