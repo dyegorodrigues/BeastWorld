@@ -26,6 +26,10 @@ App root: `apps/world-os`
 
 Worker name: `beastworld-world-os`
 
+Target permanent Cloudflare account ID: `8c851ea6ae2455193a118b605807c7f2`
+
+Target permanent workers.dev account subdomain: `fentanespcsc.workers.dev`
+
 Phase 0 remains read-only and demo-only by default.
 
 ## Cloudflare configuration decisions
@@ -57,16 +61,44 @@ Verified in that run:
 - Vite production build;
 - `wrangler deploy --dry-run`.
 
-The production dependency audit passed. This branch is therefore ready for the first **demo-only** Cloudflare deployment. It is not yet a deployed service and private Notion projection has not yet been audited at the edge.
+The production dependency audit passed.
 
-## Required account-side actions after MCP becomes available
+## Temporary Cloudflare deployment verified
 
-1. OAuth the Cloudflare account when the MCP requests authorization.
-2. Identify the target Cloudflare account and `workers.dev` account subdomain.
-3. Create or deploy Worker `beastworld-world-os` from `apps/world-os`.
-4. Keep private data disabled for the first deployment.
-5. Test the public demo Worker and `/api/health`.
-6. Create a Cloudflare Access application protecting the production `workers.dev` Worker URL.
+The user explicitly accepted Cloudflare's Terms of Service and Privacy Policy for the temporary deployment flow.
+
+GitHub Actions `World OS Temporary Cloudflare Deploy` run `32782177851` (run #4) completed successfully on 2026-08-24 using Wrangler `4.125.0` and Cloudflare's unauthenticated `wrangler deploy --temporary` flow.
+
+Temporary account created by Cloudflare: `Obsidian Moth`.
+
+Verified temporary Worker URL: `https://beastworld-world-os.obsidian-moth.workers.dev`.
+
+The claim URL is intentionally **not stored in Git** because it is a bearer credential. It was delivered only through the private deployment artifact / user conversation and expires according to Cloudflare's temporary-account claim window.
+
+The same runner verified over HTTPS:
+
+- root HTML: PASS;
+- `/api/health`: PASS;
+- `/api/graph`: PASS;
+- `privateDataEnabled=false`;
+- `readOnly=true`;
+- graph mode=`demo`;
+- graph source=`synthetic demo`;
+- private lore absent from the demo projection;
+- `Author-Only Truth` absent from the response.
+
+The temporary deployment workflow is now `workflow_dispatch` only, so ordinary pushes do not create new temporary Cloudflare accounts.
+
+This proves the application can build, deploy and serve correctly on Cloudflare Workers + Static Assets. It does **not** yet mean the Worker is deployed into the user's permanent `fentanespcsc` account.
+
+## Required permanent-account actions after authenticated Cloudflare access becomes available
+
+1. OAuth/authenticate the permanent Cloudflare account.
+2. Confirm account ID `8c851ea6ae2455193a118b605807c7f2` and workers.dev subdomain `fentanespcsc.workers.dev`.
+3. Deploy Worker `beastworld-world-os` into that account from `apps/world-os`.
+4. Keep private data disabled for the first permanent deployment.
+5. Test the permanent Worker and `/api/health`.
+6. Create a Cloudflare Access application protecting the permanent `workers.dev` Worker URL.
 7. Configure required secrets:
    - `NOTION_TOKEN`;
    - `TEAM_DOMAIN`;
@@ -77,7 +109,7 @@ The production dependency audit passed. This branch is therefore ready for the f
 
 ## Optional Git integration
 
-Workers Builds can connect the private GitHub repository and automatically build/deploy pushes. If enabled, configure the application root as `apps/world-os`. Keep PR #5 draft until the real deployment, Access gate and read-projection audit pass.
+Workers Builds can connect the private GitHub repository and automatically build/deploy pushes. If enabled, configure the application root as `apps/world-os`. Keep PR #5 draft until the permanent deployment, Access gate and read-projection audit pass.
 
 ## Resume instruction for a fresh agent session
 
