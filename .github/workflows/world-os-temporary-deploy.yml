@@ -38,7 +38,7 @@ jobs:
       - name: Prepare demo-only generated deployment config
         run: |
           test -f dist/beastworld_world_os/wrangler.json
-          jq 'del(.account_id, .secrets) | .vars.WORLD_OS_PRIVATE_DATA_ENABLED = "false"' \
+          jq 'del(.account_id, .secrets, .legacy_env) | .vars.WORLD_OS_PRIVATE_DATA_ENABLED = "false"' \
             dist/beastworld_world_os/wrangler.json \
             > dist/beastworld_world_os/wrangler.temporary.json
           test "$(jq -r '.vars.WORLD_OS_PRIVATE_DATA_ENABLED' dist/beastworld_world_os/wrangler.temporary.json)" = "false"
