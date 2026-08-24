@@ -3,8 +3,23 @@
   "name": "beastworld-world-os",
   "main": "./worker/index.ts",
   "compatibility_date": "2026-08-24",
-  "observability": { "enabled": true },
+  "workers_dev": true,
+  "preview_urls": false,
+  "secrets": {
+    "required": ["NOTION_TOKEN", "TEAM_DOMAIN", "POLICY_AUD"]
+  },
+  "observability": {
+    "enabled": true,
+    "logs": {
+      "head_sampling_rate": 1
+    },
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 0.01
+    }
+  },
   "assets": {
+    "binding": "ASSETS",
     "not_found_handling": "single-page-application",
     "run_worker_first": ["/api/*"]
   },
