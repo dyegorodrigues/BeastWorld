@@ -1,6 +1,7 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "beastworld-world-os",
+  "account_id": "8c851ea6ae2455193a118b605807c7f2",
   "main": "./worker/index.ts",
   "compatibility_date": "2026-08-24",
   "workers_dev": true,
