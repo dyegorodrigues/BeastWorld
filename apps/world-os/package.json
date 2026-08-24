@@ -5,10 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
-    "check": "tsc -b && vite build && wrangler deploy --dry-run",
+    "cf:types": "wrangler types ./worker-configuration.d.ts",
+    "build": "npm run cf:types && tsc -b && vite build",
+    "check": "npm run build && wrangler deploy --dry-run",
     "preview": "npm run build && vite preview",
-    "deploy": "wrangler deploy"
+    "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {
     "@xyflow/react": "12.11.3",
