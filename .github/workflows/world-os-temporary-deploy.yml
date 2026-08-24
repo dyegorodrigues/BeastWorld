@@ -1,0 +1,95 @@
+name: World OS Temporary Cloudflare Deploy
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy-temporary:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: apps/world-os
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Wrangler with temporary deployment support
+        run: npm install --no-save 'wrangler@^4.102.0'
+
+      - name: Build World OS
+        run: npm run build
+
+      - name: Prepare demo-only generated deployment config
+        run: |
+          test -f dist/beastworld_world_os/wrangler.json
+          jq 'del(.account_id, .secrets, .legacy_env) | .vars.WORLD_OS_PRIVATE_DATA_ENABLED = "false"' \
+            dist/beastworld_world_os/wrangler.json \
+            > dist/beastworld_world_os/wrangler.temporary.json
+          test "$(jq -r '.vars.WORLD_OS_PRIVATE_DATA_ENABLED' dist/beastworld_world_os/wrangler.temporary.json)" = "false"
+          test "$(jq -r '.assets.directory // empty' dist/beastworld_world_os/wrangler.temporary.json)" != ""
+
+      - name: Deploy to Cloudflare temporary account
+        run: |
+          set +e
+          npx wrangler deploy --temporary --config dist/beastworld_world_os/wrangler.temporary.json > "$RUNNER_TEMP/cloudflare-temporary-deploy.txt" 2>&1
+          status=$?
+          printf '%s\n' "$status" > "$RUNNER_TEMP/cloudflare-temporary-status.txt"
+          exit 0
+
+      - name: Verify deployed World OS over HTTPS
+        run: |
+          test "$(cat "$RUNNER_TEMP/cloudflare-temporary-status.txt")" = "0"
+          worker_url="$(grep -Eo 'https://[A-Za-z0-9.-]+\.workers\.dev' "$RUNNER_TEMP/cloudflare-temporary-deploy.txt" | tail -n 1)"
+          test -n "$worker_url"
+          printf '%s\n' "$worker_url" > "$RUNNER_TEMP/cloudflare-worker-url.txt"
+
+          success=0
+          for attempt in $(seq 1 12); do
+            if curl -fsS "$worker_url/" -o "$RUNNER_TEMP/root.html" \
+              && curl -fsS "$worker_url/api/health" -o "$RUNNER_TEMP/health.json" \
+              && curl -fsS "$worker_url/api/graph" -o "$RUNNER_TEMP/graph.json"; then
+              success=1
+              break
+            fi
+            sleep 2
+          done
+          test "$success" = "1"
+
+          grep -q '<title>BeastWorld World OS</title>' "$RUNNER_TEMP/root.html"
+          jq -e '.ok == true and .privateDataEnabled == false and .readOnly == true' "$RUNNER_TEMP/health.json" >/dev/null
+          jq -e '.mode == "demo" and .readOnly == true and .source == "synthetic demo"' "$RUNNER_TEMP/graph.json" >/dev/null
+          ! grep -q 'Author-Only Truth' "$RUNNER_TEMP/graph.json"
+
+          {
+            echo "worker_url=$worker_url"
+            echo "root=PASS"
+            echo "health=PASS"
+            echo "graph_demo_read_only=PASS"
+            echo "private_lore_disabled=PASS"
+          } > "$RUNNER_TEMP/cloudflare-verification.txt"
+
+      - name: Store private deployment output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: cloudflare-temporary-deploy-${{ github.run_id }}
+          path: |
+            ${{ runner.temp }}/cloudflare-temporary-deploy.txt
+            ${{ runner.temp }}/cloudflare-temporary-status.txt
+            ${{ runner.temp }}/cloudflare-worker-url.txt
+            ${{ runner.temp }}/cloudflare-verification.txt
+            ${{ runner.temp }}/health.json
+            ${{ runner.temp }}/graph.json
+          retention-days: 1
+          if-no-files-found: warn
