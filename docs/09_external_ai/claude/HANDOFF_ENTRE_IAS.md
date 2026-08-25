@@ -268,3 +268,33 @@ Rodei a auditoria cruzando **78 falas** dele contra o que estava gravado. **73 e
 5. **As bestas soltas caçam o que entra** — fala de 22/08 nunca desenvolvida. **A primeira linha de defesa da Academia é o ecossistema** — e vira um alarme que falha parecendo boa notícia: quando os incidentes caem, pode ser que esteja entrando menos, **ou que as bestas tenham parado de comer.**
 
 **Padrão das cinco lacunas:** todas eram falas curtas ditas de passagem no meio de blocos longos. Nenhuma era decisão anunciada. **É exatamente o que se perde — e é por isso que o registro verbatim existe.**
+
+---
+
+## Passagem 8 — 24/08/2026 — encerramento da rodada Claude
+
+O autor encerrou esta rodada. **O trabalho continua com o ChatGPT.** O texto que ele vai colar lá está em `PROMPT-PARA-O-CHATGPT.md`.
+
+### As sete correções desta rodada
+
+1. **A arqueira é a herdeira da Fênix**, não a oceânica. (E faz mais sentido: arco é arma do Ar.)
+2. **A antagonista nunca ganhou dele.** Eu tinha escrito que ela era melhor quando jovens — errado. Conheceram-se na Academia, **ele sempre foi o número um**, ela se esforçava o dobro e nunca ganhou. *"Ela não o odeia por ele ser melhor. Odeia porque ele nunca precisou querer tanto quanto ela quis."*
+3. **A Lei do Berço:** o avô materno **queria** a criança. A lei não permitia, e **o pai do Diretor decidiu ficar com ele e honrar a lei.** Isso limpa a Casa da Água e melhora o pai.
+4. **Quem treinou o Diretor foi o mestre.** A tutora auxiliava, porque o mestre tinha afazeres de Coroa e de Primordial. **E ele já chegou treinado — treinava sozinho a infância inteira.**
+5. **Matar Besta não é proibido** — é a última etapa de um protocolo, e é sempre uma derrota. Isso conserta a Fase 3 do dragão negro.
+6. **Armas são afinidade, não exclusividade.** Todos podem usar todas.
+7. **A proposta de "cada mulher perde alguma coisa" foi retirada.** O autor: *"não é monogâmico o negócio… elas vão ter que se envolver, lutar juntas, faz parte do enredo."*
+
+### Os dois furos fechados
+
+**O Qilin gigante adormecido — como ninguém sabia?** Ele fechou a passagem **por dentro** e ficou do outro lado. Ninguém procura o que não pode estar ali. **O mundo acha que ele morreu.** Mas o reino dele sabe que não — porque **o eixo deles não colapsou, só está piorando devagar**, e isso só acontece com Primordial viva. **O que eles escondem não é a perda. É a esperança.**
+
+**A hierarquia Casa × Coroa.** Não existe "família versus rei" — **o rei é a família**. A divisão é de jurisdição: o regente manda no dia a dia, o Consagrado tem autoridade extraordinária. E a assimetria que gera todo o atrito: **o pai não pôde dizer não ao cargo. O filho pôde.**
+
+### O que ficou em aberto — 15 itens
+
+Lista consolidada em `40-ajustes-correcoes-e-questoes-abertas.md` §14. Os maiores: **a quinta besta e seu elemento** (o autor não bateu o martelo e propôs o sistema de **derivações por proficiência** — trovão vindo do Fogo, gelo vindo da Água, o que muda todo o cálculo), a tabela de alterações físicas, os nomes de Fenda, a Gota, o alquimista, o romance, e **todos os nomes próprios** — só Azhara existe.
+
+### A língua
+
+Ampliada em `41`: **não é só magia, é idioma de conversa**, no nível do Valiriano de House of the Dragon. O mecanismo do `36` paga o investimento aqui: se a língua é a transcrição de como as Bestas se entendem, **quem tem mais Besta no corpo fala melhor** — e isso entrega a regra social que o autor pediu sem regra arbitrária. *"Você pode aprender a falar. Não pode aprender a soar como se aquilo fosse seu."*
