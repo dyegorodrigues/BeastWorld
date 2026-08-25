@@ -252,3 +252,19 @@ Eu tinha escrito que a Terra "não vence ninguém, é o chão que sustenta os qu
 ### Regra de leitura
 
 `FONTE-*` vence sempre → `32`–`38` é o material vivo → `22`–`31` parcialmente morto → `16`–`21` legado.
+
+---
+
+## Passagem 7 — 24/08/2026 — auditoria item a item
+
+O autor pediu verificação: *"você leu exatamente tudo? Verificou detalhe por detalhe, faltou alguma coisa?"*
+
+Rodei a auditoria cruzando **78 falas** dele contra o que estava gravado. **73 estavam desenvolvidas. 5 estavam só no verbatim e nunca foram tratadas.** Fechadas em `39-complemento-lacunas-da-auditoria.md`:
+
+1. **"o único primordial que não era nada"** — o garoto é o **primeiro Consagrado em três mil anos que veio de fora da aristocracia**. O Diretor provou que o sangue pode pular um degrau; **o garoto prova que o sangue nunca foi o ponto.**
+2. **"não sei se tem coroa, ou imperador"** — pergunta dele que eu não tinha respondido. Proposta: **não existe imperador.** Existe **o Acordo** (tratado, não governo) e o Conselho das Coroas (mesa, não Estado). E aí: **a Academia é a coisa mais parecida com um governo mundial que existe, e ninguém admite.** Isso explica a antagonista, a recusa do Diretor e por que ninguém consegue expulsá-lo.
+3. **"ele estava meio depre"** — sem motivo até agora. Proposta: **ele bateu no teto e descobriu que não é questão de esforço.** Pela primeira vez na vida, treinar não resolveu.
+4. **"outro personagem que também ajudou a treinar ele"** — virou a **Mestra de Armas** da Casa da Água. *"Ele chama o Consagrado da Água pelo primeiro nome. E ainda chama ela de mestra."*
+5. **As bestas soltas caçam o que entra** — fala de 22/08 nunca desenvolvida. **A primeira linha de defesa da Academia é o ecossistema** — e vira um alarme que falha parecendo boa notícia: quando os incidentes caem, pode ser que esteja entrando menos, **ou que as bestas tenham parado de comer.**
+
+**Padrão das cinco lacunas:** todas eram falas curtas ditas de passagem no meio de blocos longos. Nenhuma era decisão anunciada. **É exatamente o que se perde — e é por isso que o registro verbatim existe.**

@@ -76,6 +76,7 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 | `36-alquimia-circulos-e-a-lingua.md` | Círculo, palavra e intenção. **A língua é uma transcrição de como as Bestas se entendem** | Fechar magia, alquimia e artefatos |
 | `37-o-elenco-v2.md` | Diretor, garoto, sênior, os cinco discípulos, mestre, antagonista, romance. **Substitui o `31`.** | Montar os personagens |
 | `38-a-gota-primordial.md` | Uma gota a cada 50 anos, e a política que isso cria | Economia do sangue e intriga |
+| **`39-complemento-lacunas-da-auditoria.md`** | **As 5 lacunas que a auditoria item-a-item encontrou** — o garoto que veio de fora, o Acordo sem imperador, o desânimo dele, a Mestra de Armas, e as bestas como sistema de defesa | Fechar o que tinha escapado |
 | `CONVERSA_COM_O_AUTOR.md` | Registro verbatim da conversa autor ↔ Claude | Auditar proveniência direta das falas |
 
 ---
