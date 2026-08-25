@@ -218,3 +218,37 @@ E um segundo par de erros, opostos, no mesmo dia: **literal demais** com as hip�
 ### Regra de leitura para a pasta inteira
 
 Os arquivos `16` a `21` são **legado** — foram escritos sobre a arquitetura anterior e não devem ser misturados na v4. Os arquivos `22` a `25` estão **parcialmente mortos** — cheque a lista em `26` antes de usar qualquer coisa deles.
+
+---
+
+## Passagem 6 — 23/08/2026 (segunda rodada) — as criaturas fecharam
+
+**Leia `TRANSCRICAO-INTEGRAL-DA-SESSAO.md` primeiro.** Ele é o fio da meada — diz em que ordem tudo aconteceu e o que já morreu.
+
+### O que o autor decidiu, com duas imagens de referência anexas
+
+**As criaturas:** Leviatã **fora** como Primordial (vira Besta Anciã). **Tartaruga-Dragão azul = Água.** **Qilin leonino = Terra** (com pedra, metal, natureza, gravidade, e a proteção das bestas). **Fênix = Ar.** **Azhara = Fogo.** **Uma quinta existe e não estava definida.**
+
+**As duas imagens não são ilustração — são decisão de design.** A Tartaruga é um couraçado com garras, com musgo e cracas no casco e golfinhos nadando ao lado. O Qilin está com a boca aberta, presas à mostra, olhos verdes, textura de casca e espirais no corpo — **e mata sozinho a ideia de que Terra é o elemento passivo**, que era exatamente o erro que eu tinha cometido.
+
+### O erro que ele corrigiu, e é o mesmo de sempre
+
+Eu tinha escrito que a Terra "não vence ninguém, é o chão que sustenta os quatro" e que o garoto seria "insubstituível, não o mais forte". Resposta dele: *"ah vai tomando no cu, o Harry Potter. Que sem graça."*
+
+> **É a terceira vez que eu pego uma coisa que podia ser simplesmente foda e dou a ela um papel nobre-mas-menor. Registrado para as próximas IAs: nesta obra, não existe elemento de apoio.**
+
+### O que eu propus nesta rodada
+
+| Arquivo | O que resolve |
+|---|---|
+| `32` | O tabuleiro v2 e **a quinta Primordial: o Tigre Branco, elemento Raio** — que fecha os Quatro Símbolos reais (o Tigre era o único que faltava), é o único que rivaliza com o dragão em desejo, e **alimenta a terra do Qilin pela química real do raio fixando nitrogênio**. Mais a cadeia: **"O Raio acende. O Fogo aquece. O Ar move. A Água rega. A Terra dá."** |
+| `33` | **A Terra é massa, gravidade e corpo.** Gravidade como poder-assinatura; o corpo mais forte do mundo; as bestas terrestres que vêm sozinhas; e a transformação física em espiral → placa de casca → chifre → fenda com luz, com a casca lascando como custo. |
+| `34` | Os **cinco anéis** da Academia, os **quadrantes** que imitam as quatro Coroas, os nomes de Fenda refeitos, e **a Fenda que fecha durante a missão** — relógio físico em toda incursão. |
+| `35` | **A resposta à pergunta central:** por que a aristocracia está no poder. *"O governo não veio antes da defesa. O governo cresceu em volta dela."* Mais Casa × Coroa × Assento, o título **Consagrado**, a **Lei do Berço**, e a origem do dragão negro (o ovo inerte que rachou depois da Consagração). |
+| `36` | Círculo, palavra e intenção — e **a língua não foi inventada, foi transcrita**: é a tentativa humana de escrever como as Bestas se entendem. Isso explica por que falar organiza magia, por que o mestre dispensa, e **por que ninguém consegue ler as marcas da pele.** |
+| `37` | O elenco v2 com todas as correções: Diretor "solto" e não "doido", mestre de **cabelo azul-marinho**, **a antagonista é a Guardiã da Fênix**, a **discípula espiã**, a **arqueira oceânica**, e o alquimista que é o mais perigoso de todos. |
+| `38` | **A Gota Primordial** — uma a cada ~50 anos, custo zero, consentimento obrigatório, e a política que isso gera: pedir custa a posição de quem pede, e **os tratadores de ninho viram as pessoas mais cortejadas do mundo.** |
+
+### Regra de leitura
+
+`FONTE-*` vence sempre → `32`–`38` é o material vivo → `22`–`31` parcialmente morto → `16`–`21` legado.

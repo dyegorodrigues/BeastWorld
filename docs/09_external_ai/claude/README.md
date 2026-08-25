@@ -67,6 +67,15 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 | `29-os-graus-refeitos.md` | A escada de magia com os nomes corrigidos. **Substitui o `24`.** | Entender Graus, Domínio e armas |
 | `30-a-sucessao-da-casa-do-dragao.md` | Quem governa depois da Escolha, e por que isso racha todos os tronos | Fechar a política da Casa do Dragão |
 | `31-o-elenco.md` | Diretor, garoto, discípula, mestre, antagonista e amigo — e as cinco cadeiras | Montar os personagens |
+| **`TRANSCRICAO-INTEGRAL-DA-SESSAO.md`** | **O fluxo inteiro da sessão, turno a turno — o fio da meada** | **LEIA PRIMEIRO** |
+| **`FONTE-AUTORAL-2026-08-23-B-DECISOES.md`** | **Decisões do autor sobre elementos, criaturas, Casa do Dragão e elenco** — `AUTHOR-RAW`, `Primary`. **A fonte que vence sobre tudo.** | **Saber o que está decidido** |
+| **`32-as-cinco-primordiais-v2.md`** | Tartaruga-Dragão (Água), Qilin (Terra), Fênix (Ar), Azhara (Fogo) + **a quinta proposta: Tigre Branco / Raio**. **Substitui o `27`.** | Fechar bestiário e elementos |
+| **`33-a-terra-e-o-garoto.md`** | **A Terra é massa, gravidade e corpo — não é apoio.** As alterações físicas do garoto e o sangue dele | Fechar o protagonista jovem |
+| `34-a-academia-anatomia.md` | Os cinco anéis, os quadrantes, a admissão, as Fendas que abrem e fecham. **Corrige o `28`.** | Montar a Academia e as missões |
+| `35-a-casa-do-dragao-refeita.md` | **Por que a aristocracia está no poder.** Casa × Coroa × Assento, a Lei do Berço, e o dragão negro. **Substitui o `30`.** | Fechar a política e a origem do Diretor |
+| `36-alquimia-circulos-e-a-lingua.md` | Círculo, palavra e intenção. **A língua é uma transcrição de como as Bestas se entendem** | Fechar magia, alquimia e artefatos |
+| `37-o-elenco-v2.md` | Diretor, garoto, sênior, os cinco discípulos, mestre, antagonista, romance. **Substitui o `31`.** | Montar os personagens |
+| `38-a-gota-primordial.md` | Uma gota a cada 50 anos, e a política que isso cria | Economia do sangue e intriga |
 | `CONVERSA_COM_O_AUTOR.md` | Registro verbatim da conversa autor ↔ Claude | Auditar proveniência direta das falas |
 
 ---
@@ -74,6 +83,10 @@ Quando o autor quiser, o conteúdo daqui pode ser registrado na Source Library d
 ## Ordem sugerida de leitura
 
 **Se você precisa saber o que o autor realmente disse:** comece por `FONTE-AUTORAL-INTEGRAL.md`. É a transcrição completa da sessão, com as palavras dele, mais um índice que liga cada fala ao que ela produziu, mais a lista das correções que ele fez em mim.
+
+> 🔴 **COMECE PELO `TRANSCRICAO-INTEGRAL-DA-SESSAO.md`.** Ele diz em que ordem tudo aconteceu, o que foi proposto, o que foi rejeitado e por quê. Sem ele, os arquivos numerados parecem propostas soltas e contraditórias — e várias delas estão mortas.
+
+> ⚠️ **ORDEM DE AUTORIDADE:** as quatro `FONTE-*` vencem sempre, e a de **23/08-B** é a mais recente. Depois vêm `32` a `38` (material vivo). `22` a `31` estão **parcialmente mortos** — cheque `26` e a fonte de 23/08-B. `16` a `21` são **legado**.
 
 > ⚠️ **LEGADO — arquivos `16` a `21`.** Foram escritos sobre uma arquitetura anterior do BeastWorld, antes da virada da Academia. O autor sinalizou em 23/08/2026 que arrastar aquele material para dentro da versão nova estava *"maculando toda a ideia"*. **Não misture.** Eles ficam registrados como histórico do raciocínio, não como material de trabalho. O único que continua valendo integralmente é o `20` (linguagem de luta).
 
