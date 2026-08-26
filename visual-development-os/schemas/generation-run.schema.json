@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://beastworld.local/schemas/generation-run.schema.json",
+  "title": "BeastWorld Visual Generation Run",
+  "type": "object",
+  "required": [
+    "run_id",
+    "asset_id",
+    "asset_version",
+    "provider",
+    "workflow_version",
+    "references",
+    "outputs",
+    "qa"
+  ],
+  "properties": {
+    "run_id": {"type": "string"},
+    "asset_id": {"type": "string"},
+    "asset_version": {"type": "string"},
+    "parent_run_id": {"type": ["string", "null"]},
+    "provider": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": {"type": "string"},
+        "model": {"type": ["string", "null"]},
+        "snapshot": {"type": ["string", "null"]},
+        "api_or_manual": {"enum": ["api", "local", "manual", "chat"]}
+      }
+    },
+    "workflow_id": {"type": ["string", "null"]},
+    "workflow_version": {"type": "string"},
+    "prompt_template_version": {"type": ["string", "null"]},
+    "prompt": {"type": ["string", "null"]},
+    "seed": {"type": ["integer", "string", "null"]},
+    "references": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ref_id", "role"],
+        "properties": {
+          "ref_id": {"type": "string"},
+          "role": {"type": "string"},
+          "sha256": {"type": ["string", "null"]},
+          "uri": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "controls": {
+      "type": "object",
+      "properties": {
+        "pose": {"type": ["object", "null"]},
+        "depth": {"type": ["object", "null"]},
+        "normal": {"type": ["object", "null"]},
+        "mask": {"type": ["object", "null"]},
+        "identity_conditioning": {"type": ["object", "null"]},
+        "three_d_source": {"type": ["object", "null"]}
+      }
+    },
+    "outputs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["output_id"],
+        "properties": {
+          "output_id": {"type": "string"},
+          "uri": {"type": ["string", "null"]},
+          "sha256": {"type": ["string", "null"]},
+          "width": {"type": ["integer", "null"]},
+          "height": {"type": ["integer", "null"]}
+        }
+      }
+    },
+    "qa": {
+      "type": "object",
+      "required": ["decision"],
+      "properties": {
+        "decision": {"enum": ["study", "candidate", "approved", "master", "rejected"]},
+        "blocking_failures": {"type": "array", "items": {"type": "string"}},
+        "scores": {"type": "object", "additionalProperties": {"type": ["number", "string", "boolean"]}},
+        "review_notes": {"type": ["string", "null"]}
+      }
+    },
+    "created_at": {"type": ["string", "null"]}
+  },
+  "additionalProperties": true
+}
