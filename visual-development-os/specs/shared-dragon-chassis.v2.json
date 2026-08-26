@@ -1,0 +1,141 @@
+{
+  "asset_id": "beastworld:dragon:neutral-shared-chassis",
+  "version": "2.1.0-reset",
+  "status": "structural_reset",
+  "purpose": "Neutral four-limbed dragon chassis that remains anatomically coherent in flight and terrestrial support poses.",
+  "source_of_truth": "spec_and_QA_not_generated_image",
+  "topology": {
+    "limb_count_total": 4,
+    "forelimbs": {
+      "count": 2,
+      "type": "wing-forelimbs",
+      "independent_front_legs_allowed": false,
+      "wing_is_forelimb": true,
+      "ground_contact_must_use_same_wing_chain": true
+    },
+    "hind_limbs": {
+      "count": 2,
+      "attachment": "pelvis"
+    }
+  },
+  "axial_chain": [
+    "cranium",
+    "cervical_neck",
+    "shoulder_girdle",
+    "elevated_thorax",
+    "elongated_ribcage",
+    "abdomen_lumbar",
+    "pelvis_sacrum",
+    "hind_limbs",
+    "muscular_tail_base",
+    "tapering_tail"
+  ],
+  "mass_distribution": {
+    "anterior": {
+      "shoulder_girdle": "dominant",
+      "thorax": "deep_not_spherical",
+      "wing_roots": "powerful",
+      "neck_base": "broad_integrated"
+    },
+    "middle": {
+      "ribcage": "longitudinally_readable",
+      "abdomen_lumbar": "visible_not_compressed"
+    },
+    "posterior": {
+      "pelvis": "distinct_second_mass",
+      "hindquarter": "strong",
+      "tail_base": "thick_continuation_of_pelvis"
+    }
+  },
+  "wing_chain": [
+    "shoulder",
+    "upper_arm",
+    "elbow",
+    "forearm",
+    "wrist",
+    "wing_hand",
+    "elongated_digits",
+    "membrane"
+  ],
+  "ground_support": {
+    "required": true,
+    "front_support_comes_from": "wing-forelimbs",
+    "extra_front_feet": false,
+    "independent_front_arms": false,
+    "body_arch": "allowed_and_expected",
+    "pelvis_must_remain_visible": true,
+    "hind_limbs_support_posterior_mass": true
+  },
+  "airborne": {
+    "required": true,
+    "preserve_across_pose": [
+      "cranium",
+      "neck_length",
+      "thorax_lumbar_pelvis_ratio",
+      "hind_limb_insertion",
+      "tail_base",
+      "wing_bone_lengths"
+    ]
+  },
+  "structural_reset": {
+    "trigger": "2026-08-26_ground_anchor_topology_regression",
+    "latest_ground_candidates_status": "rejected",
+    "reuse_rejected_generated_images_as_parent": false,
+    "reason": "generator split independent forelegs from wings and collapsed to a six-limb fantasy prior",
+    "aesthetic_polish_before_structural_pass": false
+  },
+  "gate_order": [
+    "Topology Proof Anchor v2",
+    "Ground Kinematic Proof v1",
+    "Air Kinematic Proof v1",
+    "Cross-Pose Skeleton Consistency Gate",
+    "Adult Mass Blockout",
+    "Hero Base Adult Dragon Master"
+  ],
+  "topology_proof_anchor_v2": {
+    "presentation": "simplified_monochrome_anatomical_blockout",
+    "named_dragon_identity": false,
+    "ornamentation": "minimal",
+    "must_show": [
+      "left_shoulder_to_wing_chain",
+      "right_shoulder_to_wing_chain",
+      "pelvis",
+      "left_hind_limb_insertion",
+      "right_hind_limb_insertion"
+    ],
+    "beauty_is_not_a_gate": true
+  },
+  "cross_pose_gate": {
+    "ground_anchor_required": true,
+    "air_anchor_required": true,
+    "must_represent_same_chassis": true,
+    "blocking_failures": [
+      "extra_limbs",
+      "independent_foreleg_plus_wing",
+      "incompatible_left_right_wing_chains",
+      "hind_limbs_from_ribcage",
+      "spherical_bird_like_chest",
+      "compressed_lumbar_region",
+      "missing_pelvis",
+      "identity_redesign_between_poses",
+      "reusing_structurally_invalid_parent"
+    ]
+  },
+  "reference_policy": {
+    "central_benchmark": ["Drogon", "Vermithor"],
+    "refinement_benchmarks": ["Sunfyre", "Meleys", "Silverwing", "Moondancer"],
+    "family_checks": ["Rhaegal", "Viserion", "Seasmoke", "Dreamfyre"],
+    "extreme_axial_variant": ["Caraxes"],
+    "ontogeny_contrast": ["Baby dragon"],
+    "external_references_are_canon": false
+  },
+  "generation_policy": {
+    "one_structural_objective_per_iteration": true,
+    "minimal_reference_set": true,
+    "explicit_reference_roles": true,
+    "inspect_before_promotion": true,
+    "hard_reject_topology_error": true,
+    "polish_invalid_candidate": false
+  },
+  "next_gate": "Topology Proof Anchor v2"
+}
