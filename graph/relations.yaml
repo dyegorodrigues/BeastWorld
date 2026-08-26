@@ -1,0 +1,57 @@
+version: 0.2.0
+relations:
+  - {from: BW-BIO-GBEAST-001, type: INSTANCE_OF, to: BW-BIO-GSPEC-001}
+  - {from: BW-BIO-ANCIENT-001, type: DEPENDS_ON, to: BW-BIO-GBEAST-001}
+  - {from: BW-ECO-WILD-001, type: DEPENDS_ON, to: BW-BIO-GBEAST-001}
+  - {from: BW-ECO-SANCT-001, type: DEPENDS_ON, to: BW-BIO-GBEAST-001}
+  - {from: BW-HB-GUARD-001, type: PROTECTS, to: BW-ECO-SANCT-001}
+  - {from: BW-HB-RECOG-001, type: DEPENDS_ON, to: BW-BIO-GBEAST-001}
+  - {from: BW-HB-BOND-001, type: DEPENDS_ON, to: BW-HB-RECOG-001}
+  - {from: BW-HB-BOND-001, type: DEPENDS_ON, to: BW-MET-RESON-001}
+  - {from: BW-HB-BLESS-001, type: DEPENDS_ON, to: BW-HB-BOND-001}
+  - {from: BW-HB-BLESS-001, type: DEPENDS_ON, to: BW-MET-RESON-001}
+  - {from: BW-BIO-ECHO-001, type: DEPENDS_ON, to: BW-HB-BLESS-001}
+  - {from: BW-HIS-ACCORD-001, type: CAUSED_BY, to: BW-HIS-ASH-001}
+  - {from: BW-HB-GUARD-001, type: CAUSED_BY, to: BW-HIS-ACCORD-001}
+  - {from: BW-POL-MONOP-001, type: DEPENDS_ON, to: BW-ECO-SANCT-001}
+  - {from: BW-POL-MONOP-001, type: DEPENDS_ON, to: BW-HB-GUARD-001}
+  - {from: BW-POL-MONOP-001, type: DEPENDS_ON, to: BW-BIO-ECHO-001}
+  - {from: BW-HIS-CRIME-001, type: CAUSED_BY, to: BW-POL-MONOP-001}
+  - {from: BW-HIS-CRIME-001, type: CONTRIBUTES_TO, to: BW-ECO-DECLINE-001}
+  - {from: BW-POL-MONOP-001, type: CONTRIBUTES_TO, to: BW-ECO-DECLINE-001}
+  - {from: BW-HB-WILDBLESS-001, type: DEPENDS_ON, to: BW-ECO-WILD-001}
+  - {from: BW-HB-WILDBLESS-001, type: DEPENDS_ON, to: BW-HB-BLESS-001}
+  - {from: BW-HB-WILDBLESS-001, type: CONTRADICTS, to: BW-POL-MONOP-001}
+  - {from: BW-BIO-CULTMEM-001, type: DEPENDS_ON, to: BW-BIO-ANCIENT-001}
+  - {from: BW-BIO-CULTMEM-001, type: CONTRIBUTES_TO, to: BW-ECO-SANCT-001}
+  - {from: BW-POL-ICONBEAST-001, type: DEPENDS_ON, to: BW-BIO-ANCIENT-001}
+  - {from: BW-POL-ICONBEAST-001, type: DEPENDS_ON, to: BW-ECO-SANCT-001}
+  - {from: BW-HB-ARTBLESS-001, type: DEPENDS_ON, to: BW-HB-BLESS-001}
+
+  # Metafísica / magia — relações de dependência já explicitadas em prosa.
+  # Relações abaixo registram o estado HYPOTHESIS; não resolvem gates em aberto.
+  - {from: BW-MET-SIGN-001, type: DEPENDS_ON, to: BW-MET-LIGHT-001}
+  - {from: BW-MET-GCONSC-001, type: DEPENDS_ON, to: BW-MET-RESON-001}
+  - {from: BW-MET-CORRUPT-001, type: DEPENDS_ON, to: BW-MET-RESON-001}
+  - {from: BW-MET-INTENT-001, type: CONTRIBUTES_TO, to: BW-MET-RESON-001}
+  - {from: BW-MET-ANCHOR-001, type: DEPENDS_ON, to: BW-MET-LIGHT-001}
+  - {from: BW-MET-ANCHOR-001, type: DEPENDS_ON, to: BW-MET-RESON-001}
+  - {from: BW-MET-ANCHOR-001, type: DEPENDS_ON, to: BW-HB-BOND-001}
+  - {from: BW-MET-RECON-001, type: DEPENDS_ON, to: BW-MET-ANCHOR-001}
+  - {from: BW-MET-RECON-001, type: DEPENDS_ON, to: BW-HB-BLESS-001}
+  - {from: BW-MET-RECON-001, type: DEPENDS_ON, to: BW-HB-VITALBLOOD-001}
+  - {from: BW-HB-VITALBLOOD-001, type: DEPENDS_ON, to: BW-HB-BLESS-001}
+  - {from: BW-HB-VITALBLOOD-001, type: DEPENDS_ON, to: BW-MET-RESON-001}
+  - {from: BW-MET-BREACH-001, type: DEPENDS_ON, to: BW-MET-CORRUPT-001}
+  - {from: BW-MET-BREACH-001, type: DEPENDS_ON, to: BW-MET-RESON-001}
+  - {from: BW-MAG-ARTS-001, type: DEPENDS_ON, to: BW-MET-RESON-001}
+  - {from: BW-MAG-ALCH-001, type: DEPENDS_ON, to: BW-MET-RESON-001}
+  - {from: BW-BIO-REGEN-001, type: DEPENDS_ON, to: BW-HB-BLESS-001}
+  - {from: BW-BIO-REGEN-001, type: CONTRIBUTES_TO, to: BW-MET-RECON-001}
+  - {from: BW-MAG-ALCH-001, type: FACILITATES, to: BW-BIO-REGEN-001}
+  - {from: BW-THR-CREATURE-001, type: DEPENDS_ON, to: BW-MET-CORRUPT-001}
+  - {from: BW-THR-CREATURE-001, type: MATERIALIZES_AS, to: BW-MET-BREACH-001}
+  - {from: BW-THR-HOLLOW-001, type: IS_A, to: BW-THR-CREATURE-001}
+  - {from: BW-MET-CORRUPTION-001, type: DEPENDS_ON, to: BW-MET-CORRUPT-001}
+  - {from: BW-MET-CORRUPTION-001, type: CORRUPTS, to: BW-MET-LIGHT-001}
+  - {from: BW-HB-ARTBLESS-001, type: CONTRIBUTES_TO, to: BW-MET-CORRUPTION-001}
