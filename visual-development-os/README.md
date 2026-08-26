@@ -71,24 +71,32 @@ Model sheet / multiview
 Scene generation / animation
 ```
 
-## Current dragon state
+## Current dragon state — STRUCTURAL RESET 2026-08-26
 
-The old idea of one attractive generic dragon base is deprecated.
+The latest grounded generations are **rejected**. The image model regressed into an invalid topology by separating independent front support limbs from the wings. Those outputs must not be reused as parents, topology references, Masters or 3D seeds.
 
-Current system:
-1. `Shared Dragon Chassis v2`
-2. `Neutral Ground Support Anchor`
-3. `Neutral Air Anchor`
-4. `Cross-Pose Consistency Gate`
-5. `Hero Base Adult Dragon Master`
-6. morphology / identity variants such as Caraxes-like extremes or original BeastWorld species
+Current mandatory sequence:
+1. `Topology Proof Anchor v2`
+2. `Ground Kinematic Proof v1`
+3. `Air Kinematic Proof v1`
+4. `Cross-Pose Skeleton Consistency Gate`
+5. `Adult Mass Blockout`
+6. `Hero Base Adult Dragon Master`
+7. morphology / identity variants
+8. model sheet / 3D / rig
 
 Hard topology rule for this dragon family:
 - exactly four limbs total;
 - two wing-forelimbs;
 - two hind limbs;
 - no independent front legs;
+- a grounded front contact must come from the same wing-forelimb chain;
 - wing-forelimbs must remain mechanically plausible in flight and terrestrial support.
+
+Read before resuming generation:
+- `RESUME_NEXT_SESSION.md`
+- `incidents/2026-08-26-ground-anchor-topology-regression.md`
+- `specs/shared-dragon-chassis.v2.json`
 
 ## What "consistency" means
 
@@ -119,4 +127,6 @@ That changes the problem from “please imagine the same creature again” to �
 
 `codex/visual-development-os`
 
-Do not merge to `main` until the architecture and first dragon cross-pose gate are reviewed.
+Draft PR: `#6 — Visual Development OS — architecture bootstrap`
+
+Do not merge to `main` until the architecture and first dragon structural/cross-pose gates are reviewed.
