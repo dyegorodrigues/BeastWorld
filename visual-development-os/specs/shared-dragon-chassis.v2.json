@@ -1,0 +1,98 @@
+{
+  "asset_id": "beastworld:dragon:neutral-shared-chassis",
+  "version": "2.0.0-study",
+  "status": "study",
+  "purpose": "Neutral four-limbed dragon chassis that remains anatomically coherent in flight and terrestrial support poses.",
+  "topology": {
+    "limb_count_total": 4,
+    "forelimbs": {
+      "count": 2,
+      "type": "wing-forelimbs",
+      "independent_front_legs_allowed": false
+    },
+    "hind_limbs": {
+      "count": 2,
+      "attachment": "pelvis"
+    }
+  },
+  "axial_chain": [
+    "cranium",
+    "cervical_neck",
+    "shoulder_girdle",
+    "elevated_thorax",
+    "elongated_ribcage",
+    "abdomen_lumbar",
+    "pelvis_sacrum",
+    "hind_limbs",
+    "muscular_tail_base",
+    "tapering_tail"
+  ],
+  "mass_distribution": {
+    "anterior": {
+      "shoulder_girdle": "dominant",
+      "thorax": "deep_not_spherical",
+      "wing_roots": "powerful",
+      "neck_base": "broad_integrated"
+    },
+    "middle": {
+      "ribcage": "longitudinally_readable",
+      "abdomen_lumbar": "visible_not_compressed"
+    },
+    "posterior": {
+      "pelvis": "distinct_second_mass",
+      "hindquarter": "strong",
+      "tail_base": "thick_continuation_of_pelvis"
+    }
+  },
+  "wing_chain": [
+    "shoulder",
+    "upper_arm",
+    "elbow",
+    "forearm",
+    "wrist",
+    "wing_hand",
+    "elongated_digits",
+    "membrane"
+  ],
+  "ground_support": {
+    "required": true,
+    "front_support_comes_from": "wing-forelimbs",
+    "extra_front_feet": false,
+    "body_arch": "allowed_and_expected",
+    "pelvis_must_remain_visible": true,
+    "hind_limbs_support_posterior_mass": true
+  },
+  "airborne": {
+    "required": true,
+    "preserve_across_pose": [
+      "cranium",
+      "neck_length",
+      "thorax_lumbar_pelvis_ratio",
+      "hind_limb_insertion",
+      "tail_base",
+      "wing_bone_lengths"
+    ]
+  },
+  "cross_pose_gate": {
+    "ground_anchor_required": true,
+    "air_anchor_required": true,
+    "must_represent_same_chassis": true,
+    "blocking_failures": [
+      "extra_limbs",
+      "hind_limbs_from_ribcage",
+      "spherical_bird_like_chest",
+      "compressed_lumbar_region",
+      "missing_pelvis",
+      "identity_redesign_between_poses"
+    ]
+  },
+  "reference_policy": {
+    "central_benchmark": ["Drogon", "Vermithor"],
+    "refinement_benchmarks": ["Sunfyre", "Meleys", "Silverwing", "Moondancer"],
+    "family_checks": ["Rhaegal", "Viserion", "Seasmoke", "Dreamfyre"],
+    "extreme_axial_variant": ["Caraxes"],
+    "ontogeny_contrast": ["Baby dragon"],
+    "external_references_are_canon": false
+  },
+  "next_gate": "Neutral Ground Support Anchor v1"
+}
