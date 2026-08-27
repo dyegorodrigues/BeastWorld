@@ -2,7 +2,7 @@
 
 > **STATUS:** EXTERNAL REVIEW QUARANTINE / NOT-CANON
 >
-> **AUTORIDADE:** mistura controlada de `AUTHOR SOURCE`, `AI RATIONALE` e `EXTERNAL RESEARCH`, sempre identificadas por seção.
+> **AUTORIDADE:** mistura controlada de `AUTHOR SOURCE`, `AI RATIONALE`, `PROPOSAL` e `EXTERNAL RESEARCH`, sempre identificadas.
 >
 > **PROIBIDO:** promover automaticamente qualquer ideia deste dossiê a CANON, WORKING-CANON, Lore Registry, Bíblia, HOT memory, Timeline compartilhada ou Notion operacional.
 >
@@ -12,42 +12,56 @@
 
 ## Por que esta captura existe
 
-O autor interrompeu temporariamente o fluxo principal de reconciliação/arquitetura civilizacional para executar, em conversa paralela, uma grande meta-análise criativa e comparativa do BeastWorld. Ele pediu preservação máxima do material para que o integrador da conversa principal possa reler tudo sem depender de memória curta, sem copiar/colar manualmente e sem contaminar o estado V5.
+O autor interrompeu temporariamente o fluxo principal de reconciliação/arquitetura civilizacional para executar, em conversa paralela, uma grande meta-análise criativa e comparativa do BeastWorld. Pediu preservação máxima para que o integrador da conversa principal possa recuperar tudo sem depender de memória curta, sem copiar/colar manualmente e sem contaminar o estado V5.
 
-O objetivo desta branch é **preservar, não integrar**.
+O objetivo desta branch é **preservar, pesquisar, expandir e auditar — não integrar**.
 
-## Regra de leitura pelo integrador
+## Ordem recomendada de leitura
 
-1. Leia este manifesto.
-2. Leia `01_AUTHOR_SOURCE_VERBATIM.md` para os pedidos/formulações autorais desta conversa.
-3. Leia `02_META_ANALYSIS_RECONSTRUCTION.md` para a reconstrução de alta fidelidade da primeira grande resposta de pesquisa comparativa.
-4. Leia `03_META_ANALYSIS_NARRATIVE_CHARACTER_SUCCESS.md` para a segunda grande resposta, focada em personagens, narrativa, sucesso de IP, combate, ecologia e dramaturgia.
-5. Leia `04_NEW_EXTENSION_URBANISM_HABITATION_INFRASTRUCTURE.md` para o vetor novo, criado depois, sobre construção civil, habitação, urbanismo e infraestrutura em um mundo com Grandes Bestas.
-6. Leia `05_INTEGRATOR_HANDOFF.md` antes de incorporar qualquer coisa à V5.
+1. `00_CAPTURE_MANIFEST.md` — este contrato.
+2. `01_AUTHOR_SOURCE_VERBATIM.md` — pedidos/formulações autorais desta conversa.
+3. `02_META_ANALYSIS_RECONSTRUCTION.md` — reconstrução de alta fidelidade da primeira grande análise comparativa.
+4. `03_META_ANALYSIS_NARRATIVE_CHARACTER_SUCCESS.md` — segunda grande análise, sobre personagens, narrativa, sucesso de IP, combate, fandom e metabolismo de Primordiais.
+5. `04_NEW_EXTENSION_URBANISM_HABITATION_INFRASTRUCTURE.md` — pesquisa nova sobre construção civil, habitação, urbanismo, saneamento e infraestrutura.
+6. `05_INTEGRATOR_HANDOFF.md` — regras para integração posterior.
+7. `06_MASTER_NO_LOSS_DOSSIER.md` — dossiê redundante, expandido e semanticamente completo de todas as ideias conhecidas.
+8. `07_EXTERNAL_EVIDENCE_LEDGER.md` — mapa de fontes externas com claim/use/URL durável.
+9. `08_COVERAGE_AND_FIDELITY_AUDIT.md` — auditoria item a item do que foi preservado, ampliado e do único limite de fidelidade literal.
 
 ## Limitação de proveniência importante
 
-A conversa ativa foi compactada pelo sistema antes desta captura. O texto literal integral da **primeira** resposta longa (“BeastWorld — Meta-análise de Originalidade, Obras Comparáveis e Arquitetura de Poder”) não permaneceu disponível como bloco textual bruto no contexto atual. O que permaneceu foi um resumo estrutural extremamente detalhado contendo comparadores, fontes, conclusões, riscos, propostas e prioridades. Portanto:
+A conversa ativa foi compactada pelo sistema antes da captura. O texto literal integral da **primeira** resposta longa (“BeastWorld — Meta-análise de Originalidade, Obras Comparáveis e Arquitetura de Poder”) não permaneceu disponível como bloco textual bruto no contexto quando a captura começou.
 
-- `02_META_ANALYSIS_RECONSTRUCTION.md` é uma **reconstrução de alta fidelidade**, não deve ser falsamente tratada como transcrição ipsis litteris;
-- as ideias e conclusões conhecidas foram preservadas de maneira mais explícita e granular do que em um simples resumo;
-- onde o material literal não pôde ser garantido, isso está marcado como `RECONSTRUCTED FROM COMPACTED CONTEXT`;
-- a segunda grande resposta desta conversa permaneceu disponível integralmente e foi preservada em conteúdo equivalente, com seu mapa de fontes externas.
+O que permaneceu foi um resumo estrutural muito detalhado contendo comparadores, fontes, conclusões, riscos, propostas, exemplos e prioridades. Portanto:
 
-## Estados de captura
+- `02_META_ANALYSIS_RECONSTRUCTION.md` é uma **reconstrução de alta fidelidade**, não uma falsa transcrição literal;
+- `06_MASTER_NO_LOSS_DOSSIER.md` reexpande e repete semanticamente cada insight conhecido para reduzir risco de perda por compressão;
+- `07_EXTERNAL_EVIDENCE_LEDGER.md` refaz/organiza as principais evidências externas por URL, porque IDs efêmeros de sessão não são arquivo durável;
+- `08_COVERAGE_AND_FIDELITY_AUDIT.md` prova item a item a cobertura;
+- a segunda grande resposta permaneceu disponível em conteúdo integral/equivalente e está preservada em `03`.
 
-- **CAPTURED:** sim — material da conversa preservado nesta branch.
-- **MODELED:** parcialmente — algumas ideias possuem organização temática para facilitar leitura.
-- **SYNCED:** não — nenhuma sincronização com o modelo compartilhado V5/Notion foi executada.
-- **AUDITED:** parcialmente — separação de status e riscos aplicada; integração ainda requer auditoria do integrador.
+Não afirmar “cada vírgula da primeira resposta foi salva”. A afirmação correta é: **todo conteúdo conceitual recuperável foi preservado, redundado, ampliado e auditado; a redação literal perdida pela compactação não pode ser inventada.**
+
+## Estados da captura
+
+- **CAPTURED:** sim.
+- **MODELED:** sim — apenas organização de revisão.
+- **SYNCED:** não.
+- **AUDITED:** sim quanto à cobertura documental desta conversa; integração V5 ainda não auditada.
 - **PROMOTED:** **NADA**.
 
 ## Princípio de segurança editorial
 
-A função desta captura é permitir que uma IA futura possa dizer:
+A função desta captura é permitir que uma IA futura diga:
 
-> “Eu consigo recuperar exatamente de onde veio esta ideia, distinguir o que o autor falou do que a IA propôs, e decidir depois se ela deve ser rejeitada, testada, fundida ou promovida.”
+> “Eu consigo recuperar de onde veio esta ideia, distinguir o que o autor falou do que a IA propôs, verificar a pesquisa e decidir depois se ela deve ser rejeitada, testada, fundida ou promovida.”
 
 Ela **não** deve permitir que uma IA diga:
 
-> “Como isto está no GitHub, então virou lore.”
+> “Como isto está no GitHub, virou lore.”
+
+## Regra para continuação desta conversa paralela
+
+Novos blocos estruturais devem continuar entrando nesta quarentena com a mesma separação:
+
+`AUTHOR SOURCE → EXTERNAL RESEARCH → AI RATIONALE/PROPOSAL → AUDIT → integração posterior, se aprovada.`
