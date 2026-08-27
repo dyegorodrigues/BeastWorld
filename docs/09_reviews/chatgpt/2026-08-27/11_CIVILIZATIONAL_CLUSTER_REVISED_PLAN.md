@@ -112,6 +112,26 @@ Pergunta obrigatória por instituição:
 6. que comportamento ruim força gente boa a praticar?;
 7. que personagens concretos entram em conflito por causa disso?
 
+## G23 — urbanismo, habitação e infraestrutura
+
+Não desenhar cidades como decoração depois de fechar a política. Tratar ambiente construído como consequência acumulada de séculos de convivência com clima, Bestas, Fendas, risco, abastecimento, guerra, Sangue/Alquimia e autoridade.
+
+Framework de teste:
+
+> **ecologia + ameaça + clima + material + logística + poder político + história → forma urbana.**
+
+Direção provisória de pesquisa: construção ordinária predominantemente material, com integração ressonante seletiva em instalações estratégicas. Evitar tanto “medieval genérico + dragão” quanto magitech que resolve engenharia e logística.
+
+Depois de G01/G02 estabilizarem envelopes, aplicar a cinco assentamentos-piloto:
+
+1. capital territorial;
+2. cidade/complexo da Academia;
+3. Assento/Santuário Primordial;
+4. porto oceânico;
+5. bastião de fronteira.
+
+Cada piloto deve incluir abastecimento, água, saneamento, resíduos bestiais/alquímicos, hazard envelopes, infraestrutura de Bestas, desigualdade de risco, códigos históricos de construção e reconstrução pós-desastre.
+
 ---
 
 # Modelos que devem sobreviver ao mesmo teste
@@ -143,7 +163,8 @@ Para A e B simular:
 7. **escândalo de Sangue** — distribuição ilegal, laboratório, mercado negro;
 8. **colapso de Santuário/ecossistema** — migração bestial, alimento e política;
 9. **crise na Academia** — jurisdição, financiamento, lealdades;
-10. **crise de legitimidade pública** — Casa poderosa versus lei territorial.
+10. **crise de legitimidade pública** — Casa poderosa versus lei territorial;
+11. **desastre urbano/reconstrução** — incêndio, enchente, ataque de Grande Besta ou manifestação estratégica revela quem financia, evacua, reconstrói, indeniza e redefine o código urbano.
 
 ---
 
@@ -165,7 +186,11 @@ Exemplos de variáveis:
 - demanda alimentar humana/bestial;
 - toneladas/dia numa campanha;
 - tempo terrestre/fluvial/marítimo;
-- produção e estoque de derivados de Sangue.
+- produção e estoque de derivados de Sangue;
+- capacidade de reservatórios/armazéns;
+- fluxo de alimento/água de cidades-piloto;
+- área de corredor ecológico/hazard envelope;
+- custo e tempo de reconstrução após desastre.
 
 Nunca converter um valor de laboratório em lore por repetição.
 
@@ -185,7 +210,8 @@ Perguntas:
 - o que um soldado comum percebe?;
 - o que um comerciante/agricultor/cidadão sofre?;
 - que Primordial pode recusar?;
-- que relação muda mesmo se a batalha for vencida?
+- que relação muda mesmo se a batalha for vencida?;
+- como a forma física da cidade/instituição força ou impede escolhas?
 
 Se a arquitetura não produz cenas e decisões, ela está incompleta.
 
@@ -203,7 +229,8 @@ Somente após os testes produzir:
 6. `BEAST_METABOLISM_ENVELOPES.md`;
 7. `BLOOD_ECONOMY_ENVELOPES.md`;
 8. `NARRATIVE_IMPACT_CONES.md`;
-9. `AUTHOR_DECISION_BRIEF.md` — curto, comparativo e inteligível.
+9. `URBANISM_INFRASTRUCTURE_FRAMEWORK.md`;
+10. `AUTHOR_DECISION_BRIEF.md` — curto, comparativo e inteligível.
 
 Depois:
 
@@ -217,10 +244,11 @@ Não continuar expandindo indefinidamente.
 
 O cluster está pronto para decisão quando:
 
-- A e B possuem respostas internamente coerentes para as dez crises;
+- A e B possuem respostas internamente coerentes para as crises;
 - consequências quantitativas não quebram a ecologia/logística;
 - nenhuma arquitetura depende de Consagrados resolverem tudo;
 - Sangue não vira indústria de coleta Primordial;
 - a Academia possui escala plausível;
+- infraestrutura/cidades-piloto derivam causalmente do modelo e não de estética solta;
 - os modelos geram histórias e conflitos concretos;
 - as diferenças reais entre A e B podem ser explicadas ao autor em menos de dez minutos.
