@@ -27,6 +27,7 @@ O objetivo desta branch é **preservar, pesquisar, expandir e auditar — não i
 7. `06_MASTER_NO_LOSS_DOSSIER.md` — dossiê redundante, expandido e semanticamente completo de todas as ideias conhecidas.
 8. `07_EXTERNAL_EVIDENCE_LEDGER.md` — mapa de fontes externas com claim/use/URL durável.
 9. `08_COVERAGE_AND_FIDELITY_AUDIT.md` — auditoria item a item do que foi preservado, ampliado e do único limite de fidelidade literal.
+10. `09_IP_SUCCESS_INTERNATIONALIZATION_AND_LAUNCH_STRATEGY.md` — pesquisa sobre arquitetura de IP, novel-first/adaptation-aware, mercado atual, YouTube, descoberta, rights, tradução, Brasil→mundo e estratégia de lançamento.
 
 ## Limitação de proveniência importante
 
@@ -38,7 +39,8 @@ O que permaneceu foi um resumo estrutural muito detalhado contendo comparadores,
 - `06_MASTER_NO_LOSS_DOSSIER.md` reexpande e repete semanticamente cada insight conhecido para reduzir risco de perda por compressão;
 - `07_EXTERNAL_EVIDENCE_LEDGER.md` refaz/organiza as principais evidências externas por URL, porque IDs efêmeros de sessão não são arquivo durável;
 - `08_COVERAGE_AND_FIDELITY_AUDIT.md` prova item a item a cobertura;
-- a segunda grande resposta permaneceu disponível em conteúdo integral/equivalente e está preservada em `03`.
+- a segunda grande resposta permaneceu disponível em conteúdo integral/equivalente e está preservada em `03`;
+- `09` é nova pesquisa desta conversa, não reconstrução de material anterior.
 
 Não afirmar “cada vírgula da primeira resposta foi salva”. A afirmação correta é: **todo conteúdo conceitual recuperável foi preservado, redundado, ampliado e auditado; a redação literal perdida pela compactação não pode ser inventada.**
 
