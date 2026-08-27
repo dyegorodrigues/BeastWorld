@@ -17,6 +17,7 @@
 6. `docs/09_reviews/chatgpt/2026-08-26/05-GATES-V5-PRIORIZADOS.md`
 7. `docs/09_reviews/chatgpt/2026-08-27/10_INTEGRATOR_AUDIT_META_ANALYSIS_V5.md`
 8. `docs/09_reviews/chatgpt/2026-08-27/11_CIVILIZATIONAL_CLUSTER_REVISED_PLAN.md`
+9. `docs/09_reviews/chatgpt/2026-08-27/12_COUNCIL_MISSIONS_CIVILIZATIONAL_CLUSTER.md` quando houver agentes auxiliares.
 
 Depois reancore normalmente no HOT histórico definido por `START_HERE_FOR_AI.md` quando precisar de causalidade antiga.
 
@@ -78,16 +79,18 @@ O autor anexou três documentos para auditoria adicional:
 - a retomada civilizacional feita em uma conversa nova;
 - a fonte autoral V5 de 22 páginas reapresentada como controle de fidelidade.
 
-Também foi localizada a branch consultora `chatgpt/review-parallel-meta-analysis-2026-08-27`, que **não estava vazia**: ela possui um pacote substancial de review, evidence ledger, handoff e estratégia de IP.
+Também foi localizada a branch consultora `chatgpt/review-parallel-meta-analysis-2026-08-27`, que **não estava vazia**: ela possui um pacote substancial de review, evidence ledger, urbanismo/infraestrutura, handoff e estratégia de IP.
 
 ### Decisão operacional
 
 A branch consultora fica **preservada em quarentena como fonte de revisão**, não como nova ancestral da V5 e não como lore.
 
-O Integrador já registrou:
+O Integrador registrou:
 
 - `docs/09_reviews/chatgpt/2026-08-27/10_INTEGRATOR_AUDIT_META_ANALYSIS_V5.md`;
-- `docs/09_reviews/chatgpt/2026-08-27/11_CIVILIZATIONAL_CLUSTER_REVISED_PLAN.md`.
+- `docs/09_reviews/chatgpt/2026-08-27/11_CIVILIZATIONAL_CLUSTER_REVISED_PLAN.md`;
+- `docs/09_reviews/chatgpt/2026-08-27/12_COUNCIL_MISSIONS_CIVILIZATIONAL_CLUSTER.md`;
+- `docs/00_governance/PARALLEL_CHAT_COUNCIL_PLAYBOOK.md`.
 
 ### Efeito da auditoria
 
@@ -97,6 +100,7 @@ A V5 **não reinicia**. A pesquisa acrescenta constraints que agora precisam est
 - Sangue precisa funcionar em escala sem transformar Primordiais em instalações industriais;
 - metabolismo/carrying capacity das Bestas entra no mesmo cluster de demografia e logística;
 - Magia Marcial precisa preservar causalidade corpo/Fonte/Ressonância/Intenção/Forma/arma/ambiente;
+- urbanismo e infraestrutura precisam ser consequência de ecologia, risco, clima, logística, poder e história — não “cidade medieval + criatura”;
 - o mundo inimigo precisa continuar sendo civilização densa, não horda;
 - World Bible, Series Bible, Novel Architecture, Adaptation Bible, Visual Development e Rights/Localization permanecem superfícies distintas.
 
@@ -116,8 +120,9 @@ Atacar o cluster **Existência Civilizacional do Mundo Vivo** como um sistema ac
 
 - sucessão Primordial;
 - Academia;
-- Magia Marcial/Campo;
-- story engine institucional;
+- G21 — Magia Marcial/Campo;
+- G22 — story engine institucional;
+- G23 — urbanismo/habitação/infraestrutura;
 - mundo inimigo;
 - Fendas.
 
@@ -134,7 +139,8 @@ Executar o mesmo stress-test em ambos:
 7. escândalo/mercado negro de Sangue;
 8. colapso ecológico/Santuário;
 9. conflito de jurisdição na Academia;
-10. teste narrativo com personagens concretos.
+10. desastre urbano/reconstrução;
+11. teste narrativo com personagens concretos.
 
 Usar pesquisa externa profunda, sanity checks quantitativos e Impact Cones. Números como 8M/18M/35M de habitantes ou 1.000 ingressantes/ano continuam **valores de laboratório**, nunca fatos por repetição.
 
@@ -142,12 +148,17 @@ Usar pesquisa externa profunda, sanity checks quantitativos e Impact Cones. Núm
 
 Command Center possui a página `V5 — Ponte de Reconciliação — 26/08/2026`, agora com subpágina `Meta-análise paralela 27/08 — auditoria e integração V5`.
 
+`BEASTWORLD — Source Library` recebeu registros para a meta-análise paralela e a retomada civilizacional.
+
 `BEASTWORLD — Research & Open Questions` recebeu novos gates de pesquisa para:
 
-- metabolismo Primordial;
-- Sangue/Essência em escala civilizacional;
-- ontologia operacional da Magia Marcial/Campo;
-- instituições como story engines.
+- metabolismo Primordial (`BW-V5-G19-PRIMORDIAL-METABOLISM`);
+- Sangue/Essência em escala civilizacional (`BW-V5-G20-BLOOD-GOVERNANCE-SCALE`);
+- ontologia operacional da Magia Marcial/Campo (`BW-V5-G21-MARTIAL-MAGIC-ONTOLOGY`);
+- instituições como story engines (`BW-V5-G22-INSTITUTIONAL-STORY-ENGINE`);
+- urbanismo/habitação/infraestrutura (`BW-V5-G23-URBANISM-INFRASTRUCTURE`).
+
+Gates políticos antigos relevantes também foram atualizados com a nova pesquisa sem mudança de status para DECIDED.
 
 Nenhum lore foi promovido.
 
