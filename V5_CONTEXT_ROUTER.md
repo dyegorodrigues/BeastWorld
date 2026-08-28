@@ -44,12 +44,31 @@ Carregar:
 Carregar:
 - `docs/09_reviews/chatgpt/2026-08-27/11_CIVILIZATIONAL_CLUSTER_REVISED_PLAN.md`
 - `docs/09_reviews/chatgpt/2026-08-28/15_CIVILIZATIONAL_CLUSTER_STORY_FIRST_PASS_A_B_BLOOD_CITIES.md`
+- `docs/09_reviews/chatgpt/2026-08-28/17_STORY_PROOF_MODELS_A_B_ACADEMY_LIVING_WORLD.md` quando a tarefa tocar diretamente Academia/Modelo A-B.
 
 Estado atual:
 - A e B continuam `VIABLE / CONDITIONAL`;
 - B é protótipo preferencial de pesquisa, não decisão autoral;
 - Sangue deve usar escala dinástica/estratificada, nunca distribuição populacional ampla;
 - próximos testes devem ser apresentados como mundo vivido, não constituição abstrata.
+
+### Academia / seleção / formação / vida cotidiana / infraestrutura de treino
+Carregar em ordem mínima conforme a tarefa:
+- `docs/09_reviews/chatgpt/2026-08-28/18_ACADEMY_LIVING_WORLD_DAY_ZERO_STORY_LAB.md`
+- `docs/09_reviews/chatgpt/2026-08-28/19_ACADEMY_SELECTIVITY_TALENT_MARTIAL_FORMATION_CORRECTION.md`
+- `docs/09_reviews/chatgpt/2026-08-28/20_TRAINING_ECOLOGY_LOAD_FIELDS_PERCEPTION_FUNDING_TONE.md`
+- `docs/09_reviews/chatgpt/2026-08-28/21_ACADEMY_SELECTION_MULTIPROFILE_STORY_LAB.md`
+
+Estado atual:
+- Academia é militar/marcial e seletiva; convivência existe dentro de formação para risco real;
+- ingresso já pressupõe capacidade excepcional comprovada em algum domínio;
+- riqueza/linhagem dão preparação e acesso, não competência automática;
+- poder/combate funcionam como interação de múltiplas capacidades, não um número único;
+- `campo de gravidade` foi refinado para hipótese de campo fixo de carga/inércia ressonante, não manipulação geral de gravidade;
+- cachoeira é hipótese de treino de postura/respiração/controle sob carga caótica, não musculação mágica;
+- percepção subjetivamente desacelerada pode emergir de fisiologia + antecipação + treino; perceber cedo não garante evasão;
+- seleção multiperfil prefere pisos comuns + assinaturas de excelência + aprendizagem/adaptação, não ranking único;
+- candidatos, etapas, nomes, duração, currículo e mecanismos permanecem `NOT-CANON`.
 
 ### Manus / análises externas
 Carregar apenas quando pertinente:
@@ -60,6 +79,7 @@ Regra: extrair ferramentas/hipóteses; não importar roteiro ou lore por repeti�
 ### Combate / G21 / Diretor / escrita da ação
 Carregar:
 - `docs/09_reviews/chatgpt/2026-08-28/16_ACTION_WRITING_REFERENCE_PASS_DIRECTOR_DEATH_RETURN.md`
+- `19_ACADEMY_SELECTIVITY_TALENT_MARTIAL_FORMATION_CORRECTION.md` e `20_TRAINING_ECOLOGY_LOAD_FIELDS_PERCEPTION_FUNDING_TONE.md` quando a pergunta envolver treino/percepção.
 
 Estado atual:
 - `Fantasia Marcial Causal` / causalidade fantástica como princípio de trabalho;
