@@ -18,6 +18,7 @@
 7. `docs/09_reviews/chatgpt/2026-08-27/10_INTEGRATOR_AUDIT_META_ANALYSIS_V5.md`
 8. `docs/09_reviews/chatgpt/2026-08-27/11_CIVILIZATIONAL_CLUSTER_REVISED_PLAN.md`
 9. `docs/09_reviews/chatgpt/2026-08-27/12_COUNCIL_MISSIONS_CIVILIZATIONAL_CLUSTER.md` quando houver agentes auxiliares.
+10. `docs/09_reviews/chatgpt/2026-08-27/13_CREATIVE_OPERATING_DIRECTIVE_STORY_FIRST.md`
 
 Depois reancore normalmente no HOT histórico definido por `START_HERE_FOR_AI.md` quando precisar de causalidade antiga.
 
@@ -39,6 +40,44 @@ Depois reancore normalmente no HOT histórico definido por `START_HERE_FOR_AI.md
 A fonte autoral preserva como hipótese forte que uma Primordial pode ceder Sangue/Essência à sua Casa; esse material pode ser administrado/diluído para fortalecer humanos sem Vínculo e, sob regras ainda abertas, também Bestas. Isso se soma à herança biológica/Eco das linhagens. A concessão direta durante Consagração/Vínculo continua qualitativamente distinta de sangue cedido, armazenado ou diluído. Quantidade simples não deve reproduzir o vínculo Primordial.
 
 Referências de normalização: `V5-INTAKE-042` a `V5-INTAKE-045` e Gate `BW-V5-G02-PRIMORDIAL-BLOOD-LAYERS`.
+
+### Correção de escala — 27/08/2026
+
+O stress-test populacional que tratava Sangue Primordial como se pudesse funcionar como recurso amplo da população partiu de uma premissa excessivamente abrangente e **não deve ser reutilizado como modelo do BeastWorld**.
+
+A clarificação autoral desta rodada é:
+
+- humanidade comum continua sendo a base populacional;
+- Primordiais elegeram fundadores humanos associados ao nascimento das Dinastias/Casas;
+- entrar/ascender dentro de uma Casa pode representar um salto social e sobrenatural extraordinário;
+- o acesso a Sangue/Essência e a recursos de fortalecimento é **estratificado dentro das Casas**, não universal;
+- servos, funcionários, dependentes e demais ligados à Casa não precisam receber o mesmo acesso;
+- mérito, função, linhagem, necessidade militar, escassez e estratégia específica de cada Casa podem modular acesso;
+- doses diluídas, alquimia, poções, pílulas, derivados ou materiais de Bestas são **espaço de design ainda aberto**, não nomenclatura/mecânica decidida;
+- Consagração/Vínculo Primordial direto permanece qualitativamente excepcional e não pode ser reproduzido pela simples acumulação de doses.
+
+Portanto, G20 deve testar primeiro um **modelo dinástico/estratificado de acesso**, e não Sangue Primordial como utilidade pública nem doação direta recorrente em massa.
+
+## Diretriz operacional criativa — Story-First — 27/08/2026
+
+A reconciliação V5 ganhou uma regra de processo explícita em `docs/09_reviews/chatgpt/2026-08-27/13_CREATIVE_OPERATING_DIRECTIVE_STORY_FIRST.md`.
+
+Ela **não é lore**. É governança criativa para impedir que a engenharia do mundo engula a obra.
+
+Princípios de operação:
+
+1. **História e experiência do público lideram.** Personagens, relações, desejo, conflito, descoberta, maravilhamento, medo, viagem, Casas, Bestas e consequências são a superfície principal da obra.
+2. **Leis do mundo sustentam.** Metafísica, Sangue, Vínculo, ecologia, Fendas e demais fundamentos precisam ser coerentes o bastante para não quebrar a narrativa.
+3. **Engenharia civilizacional fica majoritariamente invisível.** Política, demografia, logística, capacidade estatal, urbanismo e números continuam sendo testados, mas devem aparecer ao autor principalmente como consequências criativas compreensíveis, salvo quando uma decisão realmente exigir a mecânica bruta.
+4. **Profundidade por baixo; simplicidade de compreensão por cima.** Não confundir densidade de documentação com qualidade narrativa.
+5. **GitHub/Notion são memória, proveniência, QA e coordenação — não uma prisão criativa.** Material versionado pode ser reaberto, corrigido, substituído ou descartado conforme nova fonte autoral, pesquisa ou raciocínio mais forte.
+6. **Pesquisa é adaptativa.** O Integrador pode estudar história, biologia, ecologia, instituições, arquitetura, guerra, cultura, linguagem, além de livros, séries, filmes, games, manga, manhua, webnovels, críticas, fandom e recepção pública; pode convocar agentes em blind review; nenhuma influência externa vira verdade por autoridade, popularidade ou repetição.
+7. **Comparações estruturais devem virar mundos concretos.** Antes de pedir decisão autoral em A × B, traduzir os modelos em sensação de mundo, relações, conflitos, viagens, guerra, mobilidade social, Academia, Casas, Bestas e oportunidades narrativas.
+8. **O autor decide apenas bifurcações reais.** Hipóteses não são promovidas para reduzir ansiedade documental.
+
+Princípio compacto:
+
+> **Story leads. World laws constrain. Invisible engineering supports. Research challenges. The author decides only real forks. Canon comes last.**
 
 ## Estado dos agentes externos
 
@@ -90,6 +129,7 @@ O Integrador registrou:
 - `docs/09_reviews/chatgpt/2026-08-27/10_INTEGRATOR_AUDIT_META_ANALYSIS_V5.md`;
 - `docs/09_reviews/chatgpt/2026-08-27/11_CIVILIZATIONAL_CLUSTER_REVISED_PLAN.md`;
 - `docs/09_reviews/chatgpt/2026-08-27/12_COUNCIL_MISSIONS_CIVILIZATIONAL_CLUSTER.md`;
+- `docs/09_reviews/chatgpt/2026-08-27/13_CREATIVE_OPERATING_DIRECTIVE_STORY_FIRST.md`;
 - `docs/00_governance/PARALLEL_CHAT_COUNCIL_PLAYBOOK.md`.
 
 ### Efeito da auditoria
@@ -97,7 +137,7 @@ O Integrador registrou:
 A V5 **não reinicia**. A pesquisa acrescenta constraints que agora precisam estar presentes nos gates:
 
 - instituições devem ser story engines, não apenas organogramas plausíveis;
-- Sangue precisa funcionar em escala sem transformar Primordiais em instalações industriais;
+- a escala do Sangue deve ser testada no modelo autoral correto: acesso dinástico/estratificado nas Casas; não modelar Sangue Primordial como utilidade populacional nem doação direta recorrente em massa;
 - metabolismo/carrying capacity das Bestas entra no mesmo cluster de demografia e logística;
 - Magia Marcial precisa preservar causalidade corpo/Fonte/Ressonância/Intenção/Forma/arma/ambiente;
 - urbanismo e infraestrutura precisam ser consequência de ecologia, risco, clima, logística, poder e história — não “cidade medieval + criatura”;
@@ -144,6 +184,8 @@ Executar o mesmo stress-test em ambos:
 
 Usar pesquisa externa profunda, sanity checks quantitativos e Impact Cones. Números como 8M/18M/35M de habitantes ou 1.000 ingressantes/ano continuam **valores de laboratório**, nunca fatos por repetição.
 
+**Regra de apresentação:** esses sanity checks permanecem majoritariamente backstage. O retorno autoral deve priorizar o que cada estrutura faz o mundo sentir, quais conflitos/relacionamentos produz e por que uma opção fortalece ou enfraquece a obra.
+
 ## Notion
 
 Command Center possui a página `V5 — Ponte de Reconciliação — 26/08/2026`, agora com subpágina `Meta-análise paralela 27/08 — auditoria e integração V5`.
@@ -166,10 +208,10 @@ Nenhum lore foi promovido.
 
 Prompt mínimo recomendado agora:
 
-`Reancore o BeastWorld no GitHub/Notion. Leia START_HERE_FOR_AI.md e V5_RECONCILIATION_STATE.md na branch chatgpt/beastworld-v5-reconciliation-2026-08-26 e siga toda a ordem V5, inclusive a auditoria de 27/08. Não promova hipótese. Retome pelo cluster civilizacional acoplado e compare os Modelos A e B por stress-tests antes de pedir decisão autoral.`
+`Reancore o BeastWorld no GitHub/Notion. Leia START_HERE_FOR_AI.md e V5_RECONCILIATION_STATE.md na branch chatgpt/beastworld-v5-reconciliation-2026-08-26 e siga toda a ordem V5, inclusive a auditoria de 27/08 e a diretriz criativa Story-First. Não promova hipótese. Retome pelo cluster civilizacional acoplado, mantendo engenharia invisível e traduzindo resultados em consequências narrativas; compare os Modelos A e B por stress-tests antes de pedir decisão autoral.`
 
 A conversa nova não deve depender da memória do chat anterior; deve provar reidratação lendo as fontes versionadas.
 
 ## Princípio de operação
 
-> **Fonte preserva. Intake classifica. Pesquisa testa. Gate compara. ADR decide. Lore promove.**
+> **Fonte preserva. Intake classifica. Pesquisa testa. Gate compara. ADR decide. Lore promove. Story leads.**
