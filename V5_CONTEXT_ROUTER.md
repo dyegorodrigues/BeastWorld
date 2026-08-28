@@ -79,6 +79,7 @@ Regra: extrair ferramentas/hipóteses; não importar roteiro ou lore por repeti�
 ### Combate / G21 / Diretor / escrita da ação
 Carregar:
 - `docs/09_reviews/chatgpt/2026-08-28/16_ACTION_WRITING_REFERENCE_PASS_DIRECTOR_DEATH_RETURN.md`
+- `docs/09_reviews/chatgpt/2026-08-28/22_ACTION_PROSE_FLUIDITY_IMMERSION_CORRECTION.md`
 - `19_ACADEMY_SELECTIVITY_TALENT_MARTIAL_FORMATION_CORRECTION.md` e `20_TRAINING_ECOLOGY_LOAD_FIELDS_PERCEPTION_FUNDING_TONE.md` quando a pergunta envolver treino/percepção.
 
 Estado atual:
@@ -87,7 +88,8 @@ Estado atual:
 - assinatura cinética ainda é exploração;
 - cena autoral do impacto curtíssimo + Fogo é `scene-proof`, não técnica canonizada;
 - morte/retorno é `AUTHOR EXPLORATION — ENDGAME POSSIBILITY`, não final decidido;
-- escrita-alvo: **não simplificar as ideias; simplificar a experiência de entendê-las**.
+- escrita-alvo: **não simplificar as ideias; simplificar a experiência de entendê-las**;
+- correção de prosa de ação: evitar prosa telegráfica/coreográfica; ação rápida não significa frase mutilada; cortar movimento supérfluo, não causalidade; POV, sensação, intenção, consequência e detalhe marcial seletivo devem produzir leitura fluida na primeira passagem.
 
 ### Primordiais / não-intervenção / interpretação
 Carregar:
