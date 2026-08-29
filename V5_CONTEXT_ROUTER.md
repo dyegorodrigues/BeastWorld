@@ -2,7 +2,7 @@
 
 **Status:** GOVERNANCE / HOT MEMORY / NOT LORE  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Atualizado:** 2026-08-28  
+**Atualizado:** 2026-08-29  
 **Função:** reidratar uma nova conversa/agente com o menor contexto possível sem perder proveniência, nuance ou decisões em aberto.
 
 > **Regra:** preservar tudo; carregar seletivamente. Resumo roteia. Fonte prova.
@@ -82,12 +82,16 @@ Carregar:
 - `docs/09_reviews/chatgpt/2026-08-28/22_ACTION_PROSE_FLUIDITY_IMMERSION_CORRECTION.md`
 - `docs/09_reviews/chatgpt/2026-08-28/23_STORY_COMBAT_MAGIC_CONVERGENCE_ROADMAP.md`
 - `docs/09_reviews/chatgpt/2026-08-28/24_MARTIAL_MAGIC_OPERATIONAL_MODEL_FIRST_PASS.md`
+- `docs/09_reviews/chatgpt/2026-08-29/25_EAST_WEST_IP_HANDOFF_IMPACT_ASSESSMENT.md` para identidade cinética/cross-media;
+- `docs/09_reviews/chatgpt/2026-08-29/26_AUTHOR_BRANCH_MAGIC_AS_MARTIAL_GRAMMAR_LIVING_STARS_IMPACT_ASSESSMENT.md` para acesso mágico, arma/corpo, Primordiais como Mundo Vivo e horizonte de Fendas;
 - `19_ACADEMY_SELECTIVITY_TALENT_MARTIAL_FORMATION_CORRECTION.md` e `20_TRAINING_ECOLOGY_LOAD_FIELDS_PERCEPTION_FUNDING_TONE.md` quando a pergunta envolver treino/percepção.
 
 Estado atual:
 - `Fantasia Marcial Causal` / causalidade fantástica como princípio de trabalho;
 - poder não deve ser tratado como quantidade única: hipótese líder é **acoplamento entre corpo, percepção, técnica, Intenção, Ressonância, Forma, arma, ambiente e Besta/Vínculo**;
 - Sangue/Essência tende a atuar como `hardware vivo`, não como barra de combustível por golpe — ainda em pesquisa;
+- hipótese de clarificação em teste: **Sangue abre/transforma capacidade biológica; Ressonância acopla; Intenção dirige; Forma executa por corpo/arma/movimento**;
+- arma não deve virar `varinha com lâmina`: geometria, alcance, massa, material e técnica mudam o fenômeno; maestria sem arma não torna a arma obsoleta;
 - interfaces de expressão em teste, NÃO como níveis: acoplamento interno, condução pela arma, emissão de contato, projeção livre, modelagem ambiental, campo contestado e acoplamento com Besta;
 - progressão deve ser percebida por coerência, precisão, compressão, potência, duração, recuperação, concorrência, adaptação, integração, leitura, repertório e cooperação, sem rank universal obrigatório;
 - elemento define affordances físicas/ressonantes, não uma personalidade nem uma arte marcial universal; dois usuários do mesmo elemento precisam poder ter estilos radicalmente diferentes;
@@ -99,14 +103,31 @@ Estado atual:
 - morte/retorno é `AUTHOR EXPLORATION — ENDGAME POSSIBILITY`, não final decidido;
 - escrita-alvo: **não simplificar as ideias; simplificar a experiência de entendê-las**;
 - correção de prosa de ação: evitar prosa telegráfica/coreográfica; ação rápida não significa frase mutilada; POV, sensação, intenção, consequência e detalhe marcial seletivo devem produzir leitura fluida na primeira passagem;
-- scene-proofs seguintes: mesmo elemento/estilos opostos; arma vs. mãos vazias; duelo vs. grupo; projeção vs. acoplamento interno; depois Besta, especialista não-duelista e battlefield-scale.
+- os próximos proofs devem ser **story-embedded**, não demonstrações abstratas de sistema.
 
-### Primordiais / não-intervenção / interpretação
+### Primordiais / Mundo Vivo / não-intervenção / interpretação
 Carregar:
-- `14_TRIAGE_MANUS_THREE_DOCS_STORY_FIRST.md`
+- `docs/09_reviews/chatgpt/2026-08-28/14_TRIAGE_MANUS_THREE_DOCS_STORY_FIRST.md`
+- `docs/09_reviews/chatgpt/2026-08-29/26_AUTHOR_BRANCH_MAGIC_AS_MARTIAL_GRAMMAR_LIVING_STARS_IMPACT_ASSESSMENT.md`
 - gate pertinente em `V5_RECONCILIATION_STATE.md`
 
-Estado: hipótese fértil, ainda não promovida. Não transformar Diretor em intérprete universal nem Primordial em arma estatal.
+Estado:
+- hipótese fértil: Primordiais podem ser organismos soberanos extremamente integrados ao Mundo Vivo e exercer função sistêmica/ecológica territorial;
+- não reduzir a quatro “baterias elementais” nem mapear quatro dinastias automaticamente a quatro biomas/classes;
+- concessão Primordial direta aos fundadores é hipótese autoral de alto valor, mas evitar `pureza` numérica/linear;
+- não transformar Diretor em intérprete universal nem Primordial em arma estatal;
+- não-intervenção humana continua hipótese a testar por limiar ecológico/existencial.
+
+### Fendas / outros mundos / cosmologia comparada
+Carregar:
+- `docs/09_reviews/chatgpt/2026-08-29/26_AUTHOR_BRANCH_MAGIC_AS_MARTIAL_GRAMMAR_LIVING_STARS_IMPACT_ASSESSMENT.md`
+- materiais de cosmologia V5 apenas quando necessários.
+
+Estado:
+- outros mundos/estrelas com manifestações distintas são horizonte fértil de saga, não justificativa para `portal da semana`;
+- hipótese líder de coerência: invariantes cosmológicos profundos compartilhados + formas locais diferentes de acoplamento/transdução;
+- atravessar Fenda não deve garantir funcionamento idêntico do poder;
+- identidade da estrela natal precisa amadurecer antes da expansão multiworld.
 
 ### Dragões / design visual
 Usar a trilha visual específica e sempre respeitar:
@@ -211,10 +232,12 @@ Resultados voltam ao Integrador para triagem. Nenhuma IA externa mantém um Beas
 
 Fluxo principal de convergência:
 
-1. testar o modelo operacional de Magia Marcial em scene-proofs curtos e diferentes;
-2. abrir novamente a câmera para Casas, cidades, fronteiras, missões e Bestas;
-3. formular promessa/gravidade da saga e espinha inicial do Livro 1;
-4. produzir treatment de laboratório antes de capítulos definitivos;
-5. deixar prosa fina voltar ao centro apenas quando cenas reais do livro exigirem.
+1. executar um **Core Engine Gate** curto: acesso → Sangue → Ressonância → Intenção/Forma → corpo/arma → ambiente;
+2. provar esse engine em **scene-proofs embutidos em história**, com personagem, objetivo, consequência e identidade cinética;
+3. abrir novamente a câmera para Casas, cidades, fronteiras, missões, Bestas e implicações civilizacionais;
+4. manter Primordiais/Mundo Vivo e Fendas em stress-test sem expandir cedo para cosmologia infinita;
+5. formular promessa/gravidade da saga e espinha inicial do Livro 1;
+6. produzir treatment de laboratório antes de capítulos definitivos;
+7. deixar prosa fina voltar ao centro apenas quando cenas reais do livro exigirem.
 
 > **O cérebro externo existe para devolver liberdade criativa, não para transformar criação em administração.**
