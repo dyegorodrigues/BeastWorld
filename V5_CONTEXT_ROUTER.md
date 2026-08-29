@@ -76,20 +76,30 @@ Carregar apenas quando pertinente:
 
 Regra: extrair ferramentas/hipóteses; não importar roteiro ou lore por repetição.
 
-### Combate / G21 / Diretor / escrita da ação
+### Combate / G21 / Diretor / escrita da ação / Magia Marcial Operacional
 Carregar:
 - `docs/09_reviews/chatgpt/2026-08-28/16_ACTION_WRITING_REFERENCE_PASS_DIRECTOR_DEATH_RETURN.md`
 - `docs/09_reviews/chatgpt/2026-08-28/22_ACTION_PROSE_FLUIDITY_IMMERSION_CORRECTION.md`
+- `docs/09_reviews/chatgpt/2026-08-28/23_STORY_COMBAT_MAGIC_CONVERGENCE_ROADMAP.md`
+- `docs/09_reviews/chatgpt/2026-08-28/24_MARTIAL_MAGIC_OPERATIONAL_MODEL_FIRST_PASS.md`
 - `19_ACADEMY_SELECTIVITY_TALENT_MARTIAL_FORMATION_CORRECTION.md` e `20_TRAINING_ECOLOGY_LOAD_FIELDS_PERCEPTION_FUNDING_TONE.md` quando a pergunta envolver treino/percepção.
 
 Estado atual:
 - `Fantasia Marcial Causal` / causalidade fantástica como princípio de trabalho;
+- poder não deve ser tratado como quantidade única: hipótese líder é **acoplamento entre corpo, percepção, técnica, Intenção, Ressonância, Forma, arma, ambiente e Besta/Vínculo**;
+- Sangue/Essência tende a atuar como `hardware vivo`, não como barra de combustível por golpe — ainda em pesquisa;
+- interfaces de expressão em teste, NÃO como níveis: acoplamento interno, condução pela arma, emissão de contato, projeção livre, modelagem ambiental, campo contestado e acoplamento com Besta;
+- progressão deve ser percebida por coerência, precisão, compressão, potência, duração, recuperação, concorrência, adaptação, integração, leitura, repertório e cooperação, sem rank universal obrigatório;
+- elemento define affordances físicas/ressonantes, não uma personalidade nem uma arte marcial universal; dois usuários do mesmo elemento precisam poder ter estilos radicalmente diferentes;
+- amplificação interna + possível emissão externa permanecem hipótese fértil, sem converter isso em escada automática de evolução;
+- custo deve aparecer em falhas concretas: fisiologia, tecido, precisão, arma, ambiente, Ressonância, recuperação e exposição tática;
 - Diretor usa katana, mas não é “samurai genérico”;
 - assinatura cinética ainda é exploração;
 - cena autoral do impacto curtíssimo + Fogo é `scene-proof`, não técnica canonizada;
 - morte/retorno é `AUTHOR EXPLORATION — ENDGAME POSSIBILITY`, não final decidido;
 - escrita-alvo: **não simplificar as ideias; simplificar a experiência de entendê-las**;
-- correção de prosa de ação: evitar prosa telegráfica/coreográfica; ação rápida não significa frase mutilada; cortar movimento supérfluo, não causalidade; POV, sensação, intenção, consequência e detalhe marcial seletivo devem produzir leitura fluida na primeira passagem.
+- correção de prosa de ação: evitar prosa telegráfica/coreográfica; ação rápida não significa frase mutilada; POV, sensação, intenção, consequência e detalhe marcial seletivo devem produzir leitura fluida na primeira passagem;
+- scene-proofs seguintes: mesmo elemento/estilos opostos; arma vs. mãos vazias; duelo vs. grupo; projeção vs. acoplamento interno; depois Besta, especialista não-duelista e battlefield-scale.
 
 ### Primordiais / não-intervenção / interpretação
 Carregar:
@@ -199,12 +209,12 @@ Resultados voltam ao Integrador para triagem. Nenhuma IA externa mantém um Beas
 
 ## 10. Próximo bloco criativo
 
-Retomar o fluxo principal, sem interromper por infraestrutura:
+Fluxo principal de convergência:
 
-- transformar A/B em experiências humanas comparáveis;
-- desenvolver Casas/Sangue como desejo, desigualdade, ascensão e pertencimento;
-- tornar Academia/Assento/cidades lugares vividos;
-- testar G21 em cenas quando necessário;
-- continuar pesquisa externa com hierarquia de fontes e recepção pública apenas como sensor.
+1. testar o modelo operacional de Magia Marcial em scene-proofs curtos e diferentes;
+2. abrir novamente a câmera para Casas, cidades, fronteiras, missões e Bestas;
+3. formular promessa/gravidade da saga e espinha inicial do Livro 1;
+4. produzir treatment de laboratório antes de capítulos definitivos;
+5. deixar prosa fina voltar ao centro apenas quando cenas reais do livro exigirem.
 
 > **O cérebro externo existe para devolver liberdade criativa, não para transformar criação em administração.**
