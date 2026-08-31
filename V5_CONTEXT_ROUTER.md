@@ -2,7 +2,7 @@
 
 **Status:** GOVERNANCE / HOT MEMORY / NOT LORE  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Atualizado:** 2026-08-29  
+**Atualizado:** 2026-08-31  
 **Função:** reidratar uma nova conversa/agente com o menor contexto possível sem perder proveniência, nuance ou decisões em aberto.
 
 > **Regra:** preservar tudo; carregar seletivamente. Resumo roteia. Fonte prova.
@@ -84,6 +84,10 @@ Carregar:
 - `docs/09_reviews/chatgpt/2026-08-28/24_MARTIAL_MAGIC_OPERATIONAL_MODEL_FIRST_PASS.md`
 - `docs/09_reviews/chatgpt/2026-08-29/25_EAST_WEST_IP_HANDOFF_IMPACT_ASSESSMENT.md` para identidade cinética/cross-media;
 - `docs/09_reviews/chatgpt/2026-08-29/26_AUTHOR_BRANCH_MAGIC_AS_MARTIAL_GRAMMAR_LIVING_STARS_IMPACT_ASSESSMENT.md` para acesso mágico, arma/corpo, Primordiais como Mundo Vivo e horizonte de Fendas;
+- `docs/09_reviews/chatgpt/2026-08-29/28_THIRD_PASS_QUINTESSENCE_BOND_LINEAGE_PROTAGONIST_META_RED_TEAM.md` para separar Fonte/Bênção/Ressonância/Intenção/Vínculo/Forma/arma e origem do Diretor;
+- `docs/09_reviews/chatgpt/2026-08-30/29_CORE_ENGINE_PLAIN_LANGUAGE_AND_NEXT_GATES.md` para o Core Engine em linguagem concreta;
+- `docs/09_reviews/chatgpt/2026-08-31/30_COMBAT_CORE_ENGINE_PRIMORDIALS_LIVING_WORLDS_PASS.md` para o delta atual sobre JJK/Solo Leveling/Nano Machine, teto não-dinástico, princípios, campos, outros Mundos Vivos e Fendas;
+- `docs/08_sources/conversations/2026-08-31-author-martial-magic-primordials-cosmology-source.md` quando a nuance autoral de 30–31/08 for necessária;
 - `19_ACADEMY_SELECTIVITY_TALENT_MARTIAL_FORMATION_CORRECTION.md` e `20_TRAINING_ECOLOGY_LOAD_FIELDS_PERCEPTION_FUNDING_TONE.md` quando a pergunta envolver treino/percepção.
 
 Estado atual:
@@ -95,7 +99,11 @@ Estado atual:
 - interfaces de expressão em teste, NÃO como níveis: acoplamento interno, condução pela arma, emissão de contato, projeção livre, modelagem ambiental, campo contestado e acoplamento com Besta;
 - progressão deve ser percebida por coerência, precisão, compressão, potência, duração, recuperação, concorrência, adaptação, integração, leitura, repertório e cooperação, sem rank universal obrigatório;
 - elemento define affordances físicas/ressonantes, não uma personalidade nem uma arte marcial universal; dois usuários do mesmo elemento precisam poder ter estilos radicalmente diferentes;
-- amplificação interna + possível emissão externa permanecem hipótese fértil, sem converter isso em escada automática de evolução;
+- delta 31/08 reforça: **a Besta não entrega golpes prontos; altera as condições pelas quais o guerreiro consegue lutar**;
+- Sangue/Bênção não deve monopolizar o teto: poder efetivo precisa depender da interseção hardware + Ressonância + Forma + compreensão + arma/interface + experiência/contexto;
+- hipótese do Diretor em teste: talento marcial extremo pode preceder plena integração ressonante; Bênção Primordial reorganiza coerência/interface sem instalar maestria;
+- alto domínio pode produzir **predominância local/campo contestado**, sem barreira obrigatória nem acerto garantido;
+- regeneração deve depender de metabolismo, matéria, integridade do padrão corporal e custo real;
 - custo deve aparecer em falhas concretas: fisiologia, tecido, precisão, arma, ambiente, Ressonância, recuperação e exposição tática;
 - Diretor usa katana, mas não é “samurai genérico”;
 - assinatura cinética ainda é exploração;
@@ -109,25 +117,39 @@ Estado atual:
 Carregar:
 - `docs/09_reviews/chatgpt/2026-08-28/14_TRIAGE_MANUS_THREE_DOCS_STORY_FIRST.md`
 - `docs/09_reviews/chatgpt/2026-08-29/26_AUTHOR_BRANCH_MAGIC_AS_MARTIAL_GRAMMAR_LIVING_STARS_IMPACT_ASSESSMENT.md`
-- gate pertinente em `V5_RECONCILIATION_STATE.md`
+- `docs/09_reviews/chatgpt/2026-08-29/28_THIRD_PASS_QUINTESSENCE_BOND_LINEAGE_PROTAGONIST_META_RED_TEAM.md`
+- `docs/09_reviews/chatgpt/2026-08-31/30_COMBAT_CORE_ENGINE_PRIMORDIALS_LIVING_WORLDS_PASS.md`
+- `docs/08_sources/conversations/2026-08-31-author-martial-magic-primordials-cosmology-source.md` para proveniência;
+- gate pertinente em `V5_RECONCILIATION_STATE.md`.
 
 Estado:
 - hipótese fértil: Primordiais podem ser organismos soberanos extremamente integrados ao Mundo Vivo e exercer função sistêmica/ecológica territorial;
-- não reduzir a quatro “baterias elementais” nem mapear quatro dinastias automaticamente a quatro biomas/classes;
+- **não reduzir a quatro baterias elementais** nem mapear quatro dinastias automaticamente a quatro biomas/classes;
+- delta 31/08 propõe stress-test das quatro como possíveis funções profundas do Mundo Vivo — transformação, propagação, continuidade e estrutura — com elementos como manifestações derivadas; isso continua `NOT-CANON`;
+- Quintessência como substrato universal e Primordiais como manifestações biológicas profundamente coerentes do Mundo Vivo são hipóteses líderes de integração, não fatos;
 - concessão Primordial direta aos fundadores é hipótese autoral de alto valor, mas evitar `pureza` numérica/linear;
+- Bênção direta pode ser qualitativamente diferente de Sangue armazenado/diluído e de Vínculo;
 - não transformar Diretor em intérprete universal nem Primordial em arma estatal;
-- não-intervenção humana continua hipótese a testar por limiar ecológico/existencial.
+- não-intervenção humana continua hipótese a testar por limiar ecológico/existencial;
+- número quatro, mapeamento funcional, avatares/manifestações e relação exata entre corpo colossal e Mundo Vivo permanecem em laboratório.
 
 ### Fendas / outros mundos / cosmologia comparada
 Carregar:
 - `docs/09_reviews/chatgpt/2026-08-29/26_AUTHOR_BRANCH_MAGIC_AS_MARTIAL_GRAMMAR_LIVING_STARS_IMPACT_ASSESSMENT.md`
+- `docs/09_reviews/chatgpt/2026-08-31/30_COMBAT_CORE_ENGINE_PRIMORDIALS_LIVING_WORLDS_PASS.md`
+- `docs/08_sources/conversations/2026-08-31-author-martial-magic-primordials-cosmology-source.md` quando a nuance autoral for necessária;
 - materiais de cosmologia V5 apenas quando necessários.
 
 Estado:
 - outros mundos/estrelas com manifestações distintas são horizonte fértil de saga, não justificativa para `portal da semana`;
-- hipótese líder de coerência: invariantes cosmológicos profundos compartilhados + formas locais diferentes de acoplamento/transdução;
+- hipótese líder de coerência: **um substrato/invariantes profundos compartilhados + assinaturas locais de Mundos Vivos + interfaces culturais/biológicas diferentes**;
+- delta 31/08 explora tradições cultivadoras, infernais/entrópicas, celestiais/ordenadoras, tecnológicas e espécies naturalmente ressonantes como interfaces diferentes da mesma realidade — `NOT-CANON`;
+- Fendas podem ser stress-testadas como **acoplamentos bilaterais** entre Mundos Vivos, não simples portas;
+- BeastWorld pode ser especial pela **coerência/completude de sua assinatura**, não por ser literalmente centro cósmico ou maior fonte bruta;
+- mundos degradados podem buscar fusão/acoplamento por sobrevivência, permitindo inimigos, refugiados, negociadores e alianças internas;
 - atravessar Fenda não deve garantir funcionamento idêntico do poder;
-- identidade da estrela natal precisa amadurecer antes da expansão multiworld.
+- identidade da estrela natal precisa amadurecer antes da expansão multiworld;
+- escala futura deve crescer por assimetria de conhecimento/interface, não por rank numérico vazio.
 
 ### Dragões / design visual
 Usar a trilha visual específica e sempre respeitar:
@@ -216,6 +238,10 @@ Não duplicar a conversa inteira em todos os níveis.
 
 Notion deve apontar para o estado versionado, não competir com ele. Páginas humanas podem ser bonitas, didáticas e relacionais; decisões estruturais e memória operacional devem manter referência à branch/arquivo/commit correspondente.
 
+Delta 31/08 também está espelhado sob a página Notion `V5 — Ponte de Reconciliação — 26/08/2026` em:
+- `Laboratório 08 — Combate, Core Engine, Primordiais e Mundos Vivos — 31/08/2026`;
+- `Fonte de Conversa — Magia Marcial, Gojo estrutural, Primordiais e Cosmologia — 30–31/08/2026`.
+
 ## 9. Uso de outras IAs
 
 Agentes externos recebem:
@@ -233,11 +259,12 @@ Resultados voltam ao Integrador para triagem. Nenhuma IA externa mantém um Beas
 Fluxo principal de convergência:
 
 1. executar um **Core Engine Gate** curto: acesso → Sangue → Ressonância → Intenção/Forma → corpo/arma → ambiente;
-2. provar esse engine em **scene-proofs embutidos em história**, com personagem, objetivo, consequência e identidade cinética;
-3. abrir novamente a câmera para Casas, cidades, fronteiras, missões, Bestas e implicações civilizacionais;
-4. manter Primordiais/Mundo Vivo e Fendas em stress-test sem expandir cedo para cosmologia infinita;
-5. formular promessa/gravidade da saga e espinha inicial do Livro 1;
-6. produzir treatment de laboratório antes de capítulos definitivos;
-7. deixar prosa fina voltar ao centro apenas quando cenas reais do livro exigirem.
+2. stress-testar o delta 31/08 em provas concretas: quatro Primordiais vs alternativas; não-dinástico chegando ao teto; Diretor antes/depois da Bênção; campo contestado; primeiro contato com Mundo Vivo estrangeiro; luta de ápice ainda marcial e legível;
+3. provar esse engine em **scene-proofs embutidos em história**, com personagem, objetivo, consequência e identidade cinética;
+4. abrir novamente a câmera para Casas, cidades, fronteiras, missões, Bestas e implicações civilizacionais;
+5. manter Primordiais/Mundo Vivo e Fendas em stress-test sem expandir cedo para cosmologia infinita;
+6. formular promessa/gravidade da saga e espinha inicial do Livro 1;
+7. produzir treatment de laboratório antes de capítulos definitivos;
+8. deixar prosa fina voltar ao centro apenas quando cenas reais do livro exigirem.
 
 > **O cérebro externo existe para devolver liberdade criativa, não para transformar criação em administração.**
