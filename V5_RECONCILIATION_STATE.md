@@ -1,6 +1,6 @@
 # BeastWorld — V5 Reconciliation State
 
-**Data:** 27/08/2026  
+**Data:** 31/08/2026  
 **Branch ativa:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
 **Base:** V4 ChatGPT `34fabdb98875bdcb680bb77e4b0492459fc93f44`  
 **Estado:** `RECONCILIATION / NOT-CANON`
@@ -20,6 +20,14 @@
 9. `docs/09_reviews/chatgpt/2026-08-27/12_COUNCIL_MISSIONS_CIVILIZATIONAL_CLUSTER.md` quando houver agentes auxiliares.
 10. `docs/09_reviews/chatgpt/2026-08-27/13_CREATIVE_OPERATING_DIRECTIVE_STORY_FIRST.md`
 
+Para tarefas de **Core Engine / magia marcial / Diretor / Primordiais / Fendas / Mundos Vivos**, depois da entrada mínima leia também, nesta ordem:
+
+11. `docs/09_reviews/chatgpt/2026-08-28/24_MARTIAL_MAGIC_OPERATIONAL_MODEL_FIRST_PASS.md`
+12. `docs/09_reviews/chatgpt/2026-08-29/28_THIRD_PASS_QUINTESSENCE_BOND_LINEAGE_PROTAGONIST_META_RED_TEAM.md`
+13. `docs/09_reviews/chatgpt/2026-08-30/29_CORE_ENGINE_PLAIN_LANGUAGE_AND_NEXT_GATES.md`
+14. `docs/09_reviews/chatgpt/2026-08-31/30_COMBAT_CORE_ENGINE_PRIMORDIALS_LIVING_WORLDS_PASS.md`
+15. `docs/08_sources/conversations/2026-08-31-author-martial-magic-primordials-cosmology-source.md` quando precisar recuperar nuance/proveniência da rodada de 30–31/08.
+
 Depois reancore normalmente no HOT histórico definido por `START_HERE_FOR_AI.md` quando precisar de causalidade antiga.
 
 ## Não faça
@@ -27,11 +35,12 @@ Depois reancore normalmente no HOT histórico definido por `START_HERE_FOR_AI.md
 - não use a branch Claude como ancestral da V5;
 - não mergeie Claude/Manus;
 - não mergeie automaticamente a branch consultora de meta-análise como sequência da V5;
-- não transforme cada frase da fonte de 26/08 em decisão;
-- não transforme conclusões da meta-análise paralela em decisão por repetição;
+- não transforme cada frase da fonte de 26/08 ou 30–31/08 em decisão;
+- não transforme conclusões de pesquisa/referência em decisão por repetição;
 - não atualize Lore Registry para WORKING-CANON/CANON antes dos gates;
 - não reutilize imagens atuais do Dragão Primordial como model sheet aprovado;
-- não trate “Gota Primordial” como nomenclatura/unidade válida.
+- não trate “Gota Primordial” como nomenclatura/unidade válida;
+- não trate `Quintessência`, quatro Primordiais funcionais, predominância local, origem proposta do Diretor, taxonomia de outros Mundos Vivos ou cosmologia das Fendas como cânone por estarem bem articulados.
 
 ## Correção explícita — Sangue Primordial
 
@@ -99,6 +108,7 @@ Especialmente o modo de **blind review**: cada agente recebe a fonte autoral + e
 5. Taxonomia do mundo inimigo.
 6. Fendas/Interstício e travessia de entidades de ápice.
 7. Metabolismo/capacidade de suporte das Primordiais e Bestas de ápice, porque agora interfere diretamente no sanity check civilizacional.
+8. Core Engine / Magia Marcial / teto não-dinástico / relação Primordiais–Mundo Vivo, agora enriquecidos pelo delta 30–31/08 e ainda sujeitos a stress-test.
 
 ## Estado da captura da fonte de 26/08
 
@@ -144,9 +154,39 @@ A V5 **não reinicia**. A pesquisa acrescenta constraints que agora precisam est
 - o mundo inimigo precisa continuar sendo civilização densa, não horda;
 - World Bible, Series Bible, Novel Architecture, Adaptation Bible, Visual Development e Rights/Localization permanecem superfícies distintas.
 
+## Delta criativo integrado — 30–31/08/2026
+
+A rodada de 30–31/08 foi preservada em duas camadas versionadas:
+
+- **fonte/proveniência:** `docs/08_sources/conversations/2026-08-31-author-martial-magic-primordials-cosmology-source.md`;
+- **síntese de laboratório:** `docs/09_reviews/chatgpt/2026-08-31/30_COMBAT_CORE_ENGINE_PRIMORDIALS_LIVING_WORLDS_PASS.md`.
+
+Ela parte de referências funcionais (*Jujutsu Kaisen*, *Solo Leveling*, *Nano Machine*, *Avatar*, *Bleach*, *Fullmetal Alchemist*) para testar um motor próprio do BeastWorld, sem importar conteúdo/IP.
+
+### Convergências de trabalho — ainda NOT-CANON
+
+- uma única física/substrato universal provisoriamente chamada **Quintessência**;
+- Mundos Vivos como assinaturas organizadas desse substrato;
+- Primordiais como possíveis manifestações biológicas profundamente coerentes do próprio Mundo Vivo, não meras baterias elementais;
+- quatro Primordiais podem ser testadas como funções fundamentais (transformação, propagação, continuidade, estrutura), mas **número e mapeamento continuam abertos**;
+- Sangue/Bênção altera hardware/interface; não deve monopolizar o teto nem instalar domínio;
+- poder efetivo depende da interseção corpo + Ressonância + Forma + compreensão + arma/interface + experiência/contexto;
+- Diretor pode ter se tornado marcialmente monstruoso antes da plena integração ressonante; Bênção Primordial pode reorganizar coerência sem entregar maestria pronta;
+- elementos são manifestações de mecanismos mais profundos, não “classes” rígidas;
+- alto domínio pode produzir **predominância local/campo contestado**, sem copiar Domain Expansion e sem acerto garantido;
+- regeneração, armas, alquimia e materiais estrangeiros devem obedecer causalidade concreta/custos;
+- outros Mundos Vivos podem usar o mesmo substrato por interfaces cultivadoras, infernais, celestiais, tecnológicas ou biológicas distintas;
+- Fendas podem ser acoplamentos bilaterais entre Mundos Vivos, não simples portais;
+- BeastWorld pode ser especial pela **coerência/completude da assinatura**, não por ser literalmente o maior ou centro cósmico;
+- saga futura deve escalar por assimetria de conhecimento e interfaces, não por “nível 300”.
+
+### Guardrail
+
+Nenhuma dessas convergências entra em cânone por elegância ou repetição. Próximos passos são scene-proofs e stress-tests: quatro Primordiais vs alternativas; teto não-dinástico; Diretor antes/depois da Bênção; campo contestado; primeiro contato com Mundo Vivo estrangeiro; luta de alto nível ainda marcial/legível.
+
 ## Próxima missão recomendada — revisada
 
-Atacar o cluster **Existência Civilizacional do Mundo Vivo** como um sistema acoplado, não uma fila rígida de perguntas:
+Atacar o cluster **Existência Civilizacional do Mundo Vivo** como um sistema acoplado, não uma fila rígida de perguntas, enquanto o novo Core Engine é testado em paralelo apenas quando necessário à história.
 
 ### Núcleo
 
@@ -164,7 +204,8 @@ Atacar o cluster **Existência Civilizacional do Mundo Vivo** como um sistema ac
 - G22 — story engine institucional;
 - G23 — urbanismo/habitação/infraestrutura;
 - mundo inimigo;
-- Fendas.
+- Fendas;
+- novo delta 30–31/08 sobre teto não-dinástico, Primordiais–Mundo Vivo e interfaces intermundos.
 
 A missão deve comparar, no mínimo, **Modelo A — Monarquia Composta** e **Modelo B — Coroas Pactuadas + Assentos**, sem promover B apenas porque é o líder atual de pesquisa.
 
@@ -188,27 +229,20 @@ Usar pesquisa externa profunda, sanity checks quantitativos e Impact Cones. Núm
 
 ## Notion
 
-Command Center possui a página `V5 — Ponte de Reconciliação — 26/08/2026`, agora com subpágina `Meta-análise paralela 27/08 — auditoria e integração V5`.
+Command Center possui a página `V5 — Ponte de Reconciliação — 26/08/2026`.
 
-`BEASTWORLD — Source Library` recebeu registros para a meta-análise paralela e a retomada civilizacional.
+Sob a Ponte V5 foram adicionadas em 31/08:
 
-`BEASTWORLD — Research & Open Questions` recebeu novos gates de pesquisa para:
+- `Laboratório 08 — Combate, Core Engine, Primordiais e Mundos Vivos — 31/08/2026`;
+- `Fonte de Conversa — Magia Marcial, Gojo estrutural, Primordiais e Cosmologia — 30–31/08/2026`.
 
-- metabolismo Primordial (`BW-V5-G19-PRIMORDIAL-METABOLISM`);
-- Sangue/Essência em escala civilizacional (`BW-V5-G20-BLOOD-GOVERNANCE-SCALE`);
-- ontologia operacional da Magia Marcial/Campo (`BW-V5-G21-MARTIAL-MAGIC-ONTOLOGY`);
-- instituições como story engines (`BW-V5-G22-INSTITUTIONAL-STORY-ENGINE`);
-- urbanismo/habitação/infraestrutura (`BW-V5-G23-URBANISM-INFRASTRUCTURE`).
-
-Gates políticos antigos relevantes também foram atualizados com a nova pesquisa sem mudança de status para DECIDED.
-
-Nenhum lore foi promovido.
+Essas páginas espelham respectivamente a síntese de laboratório e a proveniência da rodada no GitHub. Nenhum lore foi promovido.
 
 ## Retomada em conversa nova
 
 Prompt mínimo recomendado agora:
 
-`Reancore o BeastWorld no GitHub/Notion. Leia START_HERE_FOR_AI.md e V5_RECONCILIATION_STATE.md na branch chatgpt/beastworld-v5-reconciliation-2026-08-26 e siga toda a ordem V5, inclusive a auditoria de 27/08 e a diretriz criativa Story-First. Não promova hipótese. Retome pelo cluster civilizacional acoplado, mantendo engenharia invisível e traduzindo resultados em consequências narrativas; compare os Modelos A e B por stress-tests antes de pedir decisão autoral.`
+`Reancore o BeastWorld no GitHub/Notion. Leia START_HERE_FOR_AI.md, V5_RECONCILIATION_STATE.md e V5_CONTEXT_ROUTER.md na branch chatgpt/beastworld-v5-reconciliation-2026-08-26. Para Core Engine/magia/Primordiais/Fendas, leia também os passes 24, 28, 29 e 30 e a fonte autoral de 31/08. Não promova hipótese. Preserve Story-First. Retome com stress-tests do Core Engine e do cluster civilizacional antes de pedir decisão autoral.`
 
 A conversa nova não deve depender da memória do chat anterior; deve provar reidratação lendo as fontes versionadas.
 
