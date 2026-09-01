@@ -1,5 +1,18 @@
 # BeastWorld — V5 Context Router
 
+
+## Raw recovery route — Pass 43
+
+HOT: `docs/00_governance/CURRENT_SESSION_POINTER.json` (session 003).  
+WARM: Pass 43 + corrected Passes 39/41 + current checkpoint.  
+COLD: PDF source manifest; load the full extracted transcript only for exact wording/provenance.
+
+CE-05 must test:
+- immediate/obligatory versus delayed/voluntary autonomous birth;
+- biological Beast humanoid↔bestial forms versus the human's retained War-Body/Magic-Beast-Knight-like configuration;
+- mass economy without temporary biological soma.
+
+Status: `NOT-CANON / NOT-PROMOTED`.
 ## Current operational pointer — 01/09/2026
 
 Read `docs/00_governance/CURRENT_SESSION_POINTER.json` first for resumable state. For the active Core Engine cluster, then load the 01/09 source record, Passes 41–42, corrected Passes 39–40 and the current creative checkpoint. The Context Engineering OS v2 governs capture, provenance, supersession and closeout.
