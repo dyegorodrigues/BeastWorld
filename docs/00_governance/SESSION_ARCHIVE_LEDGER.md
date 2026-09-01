@@ -54,3 +54,12 @@ Se o projeto utilizar o `BEASTWORLD — Session & Sync Ledger` no Notion, este a
 |---|---|---|---|---|---|---|
 | BW-SESSION-2026-09-01-001 | V5 reconciliation through Pass 40 / Notion Labs 01–13 | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | RAW-PARTIAL + SUMMARY-ONLY | PARTIAL-SYNC / AUDIT-REQUIRED | no | Retrospective catch-up: substantive artifacts existed, but the ledger was not closed transactionally. This gap enabled a D3 provenance drift. |
 | BW-SESSION-2026-09-01-002 | Author corrections; Passes 39–42; CE-04; Context Engineering OS v2 | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | RAW-PARTIAL | CAPTURED / COVERED / MODELED / RECONCILED / HOT-UPDATED / NOTION-LINKED / VERIFIED / SYNCED / AUDITED | no | Final Git HEAD is resolved by the closeout receipt and stored in the Notion ledger; do not infer PROMOTED. |
+
+
+## Raw-backup recovery — 01/09/2026
+
+| Session ID | Scope | Branch | Fidelity | Lifecycle | Canon change | Notes |
+|---|---|---|---|---|---|---|
+| BW-SESSION-2026-09-01-003 | Recover 71-page CE-01→CE-04 conversation backup; reconcile active derivatives and raw-capture policy | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | RAW-AVAILABLE FOR CAPTURED SPAN | RAW-ARCHIVED / CAPTURED / COVERED / MODELED / RECONCILING | no | PDF SHA-256 `fee99baca17a5e37287c10681667165944011652e6d915728c7689bc104c2bb6`; exact span/limits in source manifest. |
+
+Session 003 supersedes the **fidelity classification only** for the CE-01→CE-04 visible span previously summarized in sessions 001–002. It does not rewrite their historical lifecycle or claim recovery outside the PDF.
