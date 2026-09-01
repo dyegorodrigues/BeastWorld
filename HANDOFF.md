@@ -1,3 +1,14 @@
+# ACTIVE V5 HANDOFF OVERRIDE — 01/09/2026
+
+**Current branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
+**State:** RECONCILIATION / NOT-CANON / NOT-PROMOTED
+
+For active work, read `START_HERE_FOR_AI.md` → `V5_RECONCILIATION_STATE.md` → `V5_CONTEXT_ROUTER.md` → `docs/00_governance/CURRENT_SESSION_POINTER.json`. The material below is a **historical handoff** and must not override the V5 pointer.
+
+Current correction: mixed/temporary biological soma was an AI inference and is removed. CE-04 regeneration is modeled but not closed. Next gate is autonomous incarnation, mass economy and biological humanoid↔bestial transformation.
+
+---
+
 # HANDOFF — BeastWorld
 
 **Atualizado:** 2026-08-22
