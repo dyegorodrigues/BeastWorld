@@ -69,4 +69,4 @@ Session 003 supersedes the **fidelity classification only** for the CE-01→CE-0
 
 | Session ID | Scope | Branch | Fidelity | Lifecycle | Canon change | Notes |
 |---|---|---|---|---|---|---|
-| BW-SESSION-2026-09-01-004 | Author role correction; CE-05 autonomous birth, mass economy and biological transformation | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | RAW-AVAILABLE FOR VISIBLE SESSION SPAN | RAW-ARCHIVED / CAPTURED / MODELED / RECONCILED / HOT-UPDATED / IN-PROGRESS | no | Pass 44 identifies a leader with an OPEN reentrant-living-anatomy hinge; no lore promoted. |
+| BW-SESSION-2026-09-01-004 | Author role correction; CE-05 autonomous birth, mass economy and biological transformation | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | RAW-AVAILABLE FOR VISIBLE SESSION SPAN | RAW-ARCHIVED / CAPTURED / COVERED / MODELED / RECONCILED / HOT-UPDATED / NOTION-LINKED / VERIFIED / SYNCED / AUDITED | no | Pass 44 identifies a leader with an OPEN reentrant-living-anatomy hinge; no lore promoted. |
