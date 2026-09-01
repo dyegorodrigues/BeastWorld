@@ -1,5 +1,7 @@
 # BeastWorld — Session Closeout Receipt — BW-SESSION-2026-09-01-002
 
+> **POST-CLOSEOUT FIDELITY AMENDMENT — session 003:** a 71-page PDF later recovered the complete visible CE-01→CE-04 span. The original lifecycle receipt remains historically accurate for session 002, but its `RAW-PARTIAL` boundary is superseded for that exact span by `BW-SRC-TRANSCRIPT-2026-09-01-CE01-CE04-PDF-01` and Pass 43. No canon status changed.
+
 **Date:** 01/09/2026  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
 **Scope:** author corrections, autonomous incarnation, regeneration CE-04 and context-production audit  
