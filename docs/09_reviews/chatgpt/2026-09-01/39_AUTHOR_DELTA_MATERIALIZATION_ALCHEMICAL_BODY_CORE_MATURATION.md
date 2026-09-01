@@ -1,114 +1,105 @@
-# BeastWorld — Author Delta — Materialization, Alchemical Body, Core Maturation — 01/09/2026
+# BeastWorld — Author Delta — Field Manifestation, Definitive Body and Core Maturation — 01/09/2026
 
 **Status:** AUTHOR BRAINSTORM / RESEARCH DELTA / NOT-CANON / NO PROMOTION  
-**Parent:** CE-01 + CE-02 / after Pass 38
+**Parent:** CE-01 + CE-02 / after Pass 38  
+**Provenance correction:** revised after explicit author correction on 01/09/2026.
 
-> Preserve the author’s 01/09/2026 brainstorm without converting it into canon. The major correction is that manifestation density/morphology and developmental autonomy are separate axes.
+> **ERRATUM:** the prior version incorrectly attributed a `mixed/alchemical temporary biological soma` to the author. The author explicitly stated that he never proposed a mixed body or temporary biological body. Those were AI interpolations and are removed. Before autonomous birth, the generated Beast uses field manifestations; the biological organism is built at completion as a definitive body.
 
-## 1. Author source — extracted points
+## 1. Author source — corrected extracted points
 
-1. Spectral manifestation should be able to act physically without being ordinary flesh; a denser manifestation can strike, cut, carry, block and kill while remaining primarily Quintessence-pattern rather than a stable biological body.
-2. Increasing materialization may recruit external matter through an alchemy-like/transmutative process. Candidate feedstocks include minerals, water, salts, carbon/organic matter, volcanic material, environmental substrate and other world resources depending on Beast lineage and environment.
-3. A fully materialized temporary soma can become genuinely biological/corporeal (tissue, organs, blood-like fluids, mass) while the Beast’s identity/core is still protected/anchored in the human during the developmental cycle. Destruction of that soma therefore need not equal true death, but reconstruction must be costly.
-4. Bestial morphology and humanoid/warrior/Magic-Beast-Knight-like morphology can both exist spectrally or at different densities. Morphology is not equivalent to maturity tier.
-5. The persistent bond itself is low-cost. Major cost belongs to formation/densification/materialization, rebuilding, active support and high-bandwidth joint action.
-6. Reintegration can return remaining organized Quintessence/resources and restore the human proportionally; this is not free energy because what returns was still present in the coupled system.
-7. Generated Beast development is reciprocal: human gains permanent interface/body/sensory/magical changes; Beast gains human plasticity, cognition, language, culture, martial knowledge and a path toward fully autonomous life.
-8. The author visualizes a growing bestial core beginning extremely small and maturing while protected within/through the human. Exact anatomy is unresolved.
-9. At full maturation, the Beast may complete an autonomous body and place/carry its own mature core in that body, ending existential dependence on the host. It can still keep the bond and cooperate deeply.
-10. After autonomous maturation, body death becomes qualitatively more dangerous because the identity anchor is no longer safely housed in the host. Exact true-death/reconstruction rules remain later-gate work.
-11. The author raises a new reciprocal hypothesis: at exceptional mutual maturation, the human might also form a durable transformed-human/bestial identity anchor/core capable of major longevity or, in rare cases, body reconstruction after death. This is explicitly OPEN and must not be universalized.
-12. No automatic immortality. Longevity differences between humans, natural Beasts and generated ancestral Beasts must remain meaningful.
-13. Spectral forms do not require ordinary eating. Materialized/biological forms can eat; high-coherence beings (natural or generated) may progressively reduce ordinary food dependence through Quintessence sustain. Food can remain pleasure/culture and extraordinary foods can carry useful material/Quintessence.
-14. Natural Beasts and generated Beasts remain distinct ontogenies. Natural Beasts begin autonomous; generated Beasts are born through the reciprocal human–Matrix/Mark–Living World cycle. A later voluntary bond with an already-existing Beast is a third relationship class.
-15. Mature generated Beasts are expected to develop humanoid-capable embodiment as part of the new evolutionary branch, but bestial and humanoid forms remain task-dependent rather than a simple superiority ladder.
-16. Generated Beasts can reproduce and form descendants/clades; exact heredity/reproduction remains a future ecological gate.
+1. Spectral/field manifestation can act physically without being ordinary flesh. A dense manifestation can strike, cut, carry, block and kill while remaining a Quintessence-organized field body.
+2. Bestial morphology and humanoid/warrior/Magic-Beast-Knight-like morphology can both be field manifestations. They are horizontal functional choices, not automatic maturity ranks.
+3. There is no ordinary `mixed body` tier and no routine `temporary biological soma` before birth.
+4. Field density and morphology are separate from developmental autonomy. A mature person may choose a small/light projection; a developing person may sustain a powerful dense field body.
+5. The persistent bond itself is low-cost. Major cost belongs to forming/densifying a field body, combat, remote projection, active support, repair and reconstruction.
+6. Generated Beast development is reciprocal: the human gains permanent interface/body/sensory/magical changes; the Beast gains human plasticity, cognition, language, culture, martial knowledge and a path toward autonomous life.
+7. The author visualizes a growing bestial Core beginning extremely small and maturing while protected within/through the human. Exact anatomy remains unresolved.
+8. At full maturation, the Beast constructs a **definitive biological body**, initially in an efficient humanoid scale/form, and transfers/houses its mature continuity/Core in that organism. This ends existential dependence on the host.
+9. The newly born autonomous Beast then adapts to its body and develops the capacity to transition between biological humanoid and biological bestial forms. Exact mass storage/recruitment/accounting remains an open gate.
+10. After autonomous maturation, body destruction is qualitatively more dangerous because the identity anchor is no longer safely housed in the human.
+11. A mature autonomous Beast does not dissolve its true organism into a ghost. It can, however, allocate a limited reserve to a remote field manifestation/avatar for a task while its biological body remains elsewhere.
+12. A reciprocal human continuity-Core remains an exceptional open hypothesis. It must not be universalized or treated as automatic immortality.
+13. Regeneration is expected to scale with Matrix quality/compatibility, integration, training, development and available resources. High regeneration is not universal.
+14. Natural Beasts and generated Beasts remain distinct ontogenies. Natural Beasts begin autonomous; generated Beasts are born through the reciprocal human–Matrix/Mark–Living World cycle.
+15. Post-autonomy somatic fusion/Convergence is not routine. If retained at all, it belongs to a rare late/cosmological apex and may first occur under an unprecedented threat.
 
-## 2. Scientific red-team correction
+## 2. Corrected axis separation
 
-Do **not** state as real physics that ordinary matter is simply “energy vibrating at different frequencies.” Real physics supports mass–energy equivalence (`E=mc²`) and quantum-field descriptions in which particles are excitations/waves of fields, but the popular frequency/vibration formula is not a scientific explanation of ordinary matter.
+### Axis A — field manifestation density
+Independent of maturity:
+- light spectral/field presence;
+- shaped spectral body;
+- dense force-bearing field body;
+- remote field avatar with pre-allocated finite reserve.
 
-For BeastWorld, the author’s intuition can be retained as **fictional metaphysics** instead:
-- Quintessence = supernatural substrate/field available to pattern and drive matter;
-- Resonance = coupling/selection/organization rule;
-- Form/Intent = execution grammar;
-- external matter = building material;
-- alchemy/transmutation = controlled conversion/reorganization of available substrate into a bestial soma.
+These are **not biological bodies**. Damage disrupts the manifestation and consumes invested reserve; it does not leave an ordinary corpse.
 
-Useful analogy: biomineralization demonstrates that living systems can recruit environmental ions/minerals and organize them into highly structured tissues. This is analogy only; BeastWorld can take the principle far beyond biology.
-
-## 3. Crucial axis separation
-
-### Axis A — manifestation / embodiment density
-Independent of age/maturity:
-- field/spectral;
-- dense spectral;
-- mixed/substantial (Quintessence + recruited matter);
-- alchemically materialized temporary soma;
-- stable living soma.
-
-### Axis B — morphology / combat configuration
-Independent of density:
+### Axis B — morphology/configuration
+Independent of field density:
 - partial organ/limb;
 - bestial body;
 - humanoid/warrior body;
-- social/compressed humanoid body;
-- Convergence/War-Body with human.
+- armor/weapon/wing extensions;
+- paired tactical configuration with the human.
 
-### Axis C — developmental autonomy / core anchoring
-Independent of the two above:
+Bestial and humanoid field morphologies are horizontal, task-dependent modulations.
+
+### Axis C — developmental autonomy
 - nascent identity deeply host-anchored;
-- stable but host-protected core/pattern;
-- advanced core capable of long external operation but still host-anchored;
-- autonomous mature core housed in/with Beast’s own body;
-- post-host ancestral/free life.
+- stable host-protected identity/Core;
+- advanced host-anchored identity capable of long external field operation;
+- definitive autonomous biological incarnation, initially humanoid/efficient;
+- development of stable biological bestial↔humanoid transition;
+- post-host free/ancestral life.
 
-This prevents the false inference `corporeal = fully mature` or `spectral = novice`.
+## 3. Field body
 
-## 4. Proposed embodiment logic to stress-test
+A field body is structured Quintessence coupled to matter strongly enough to exchange force. It requires no ordinary organs. Damage is loss of form/organization and reserve. The person’s continuity remains protected through the developing Core/host relationship until autonomous birth.
 
-### Spectral body
-A structured Quintessence body. It can exchange momentum/force with matter because Quintessence couples to physical matter under Beast pattern/Resonance. No ordinary organs are required. Damage is pattern disruption/decoherence; identity remains in the protected core/pattern.
+This preserves the author’s comparison to a physically effective spectral combatant without importing necromantic summon logic or infinite respawn. Reconstitution costs Quintessence, time, attention and recovery; supply during battle can slow depletion without matching peak expenditure.
 
-### Mixed / alchemical body
-The spectral template recruits water, carbon, salts, minerals, dust, organic matter or lineage/environment-specific feedstock. The Beast uses those as sacrificial soma. More matter and finer structure increases formation time/cost but decreases continuous field-cost and increases mechanical persistence.
+## 4. Definitive autonomous incarnation
 
-### Temporary corporeal soma while host-anchored
-At high development, a body may be biologically convincing and fully physical while the identity anchor remains protected in the host. Destruction causes huge shock/resource loss but does not automatically kill the person. Rebuilding requires material + Quintessence + time + coherent pattern.
+At developmental completion, the Beast and its human/ritual specialists build a true living organism. Current author direction:
+- it is constructed deliberately rather than exploding into giant flesh;
+- it begins at an efficient humanoid scale/form;
+- it contains the Beast’s own mature continuity/Core;
+- it can metabolize, heal, sleep, learn, travel, reproduce if applicable and die;
+- autonomy is a birth, not a higher-density combat summon.
 
-### Autonomous incarnation
-At developmental completion, the mature identity/core becomes self-housed in the Beast’s own stable body. This is closer to completed birth than to a combat transformation. The Beast can now live anywhere, independent of the host’s survival. The old partner-bond remains but is no longer an existential umbilical.
+The organism later develops the capacity to assume its biological bestial form. Exact mechanism for large mass differences is unresolved and must receive its own conservation/logistics stress-test rather than being hidden under `magic`.
 
-## 5. Core hypothesis reopened, not decided
+## 5. Remote field projection after autonomy
 
-CE-01’s distributed-core leader is not discarded. A promising reconciliation is:
-- identity begins as a distributed self-maintaining pattern across Mark/host–Beast system;
-- a microscopic condensate/seed may gradually emerge as the pattern stabilizes;
-- the condensate grows into a mature portable Core only later;
-- therefore the Core can be both **function first** and **physical structure later**.
+An autonomous Beast may invest a bounded amount of its own reserve in a field avatar or spectral manifestation at distance. The avatar can carry instructions, perceive and perform limited tasks according to its sophistication. The biological person remains in its body; the avatar’s destruction consumes the invested reserve and may return impressions/shock, but is not automatic death.
 
-Exact position (brain/pineal, heart, chest, etc.) remains OPEN. Do not lock to pineal; it carries strong external esoteric baggage and creates unnecessary anatomical constraints unless story evidence later justifies it.
+This is projection, not dematerialization, teleportation or return to fetal dependence.
 
-## 6. Human reciprocal-core fork — NEW / OPEN
+## 6. Core hypothesis remains open
 
-Three variants must be stress-tested later:
-- **H0 — no separate human Core:** human receives permanent body/interface evolution and increased longevity, but remains mortal through ordinary identity/body continuity.
-- **H1 — human coherence-kernel:** rare advanced pairs condense a durable transformed-human identity anchor that greatly improves regeneration/longevity but cannot resurrect a truly dead human.
-- **H2 — reciprocal mature Core:** exceptional completed symbiogenesis gives both partners durable identity anchors; one might reconstruct the other after body death if the Core survives, over years and enormous material/ecological cost.
+CE-01’s distributed-function leader is preserved:
+- identity can begin as a distributed self-maintaining pattern across Mark/host–Beast system;
+- a microscopic condensate/seed may later emerge;
+- the structure matures into a portable Core able to anchor an autonomous organism;
+- therefore Core may be **function first, structure later**.
 
-H2 is narratively powerful but high-risk because it can destroy death stakes. It must remain rare/late and requires a future true-death gate before any promotion.
+Exact anatomy remains OPEN. Do not lock the Core to pineal, heart or chest without later evidence.
 
-## 7. Personhood clarification
+## 7. Human reciprocal-Core fork — OPEN
 
-Do not treat all natural Beasts as non-persons or cognitively inferior. Natural Beast sapience can vary by species/individual; Primordials/ancients may be highly sapient. The generated branch’s distinctive feature is **human-mediated cultural/cognitive co-development**, making mature generated Beasts especially adapted to language, martial culture, humanoid embodiment and human society.
+- **H0 — no separate human Core:** permanent body/interface evolution, regeneration and longevity; ordinary destruction of the central continuity-bearing system remains death.
+- **H1 — human continuity kernel:** rare advanced integration enables extreme regeneration/longevity but not postmortem resurrection.
+- **H2 — reciprocal mature Core:** exceptional symbiogenesis may allow reconstruction of a destroyed body if the Core/continuity survived, over years and enormous cost.
 
-The author’s protective-adult intuition can survive as a relationship tendency toward less culturally/cognitively developed wild kin, not as a universal metaphysical hierarchy.
+`Coherence` is backstage engineering language for successful coordination among body, Matrix, Mark, nervous system, Quintessence and identity. It is not currently an in-world rank or reader-facing term.
 
 ## 8. Gate impact
 
-- CE-02 leader must be amended from generic embodiment cost to **field body → matter recruitment → temporary soma → autonomous incarnation** as separate possibilities.
-- CE-03 must test distance differently for (a) host-anchored generated Beast, (b) autonomous mature generated Beast, and (c) naturally autonomous bonded Beast.
-- Regeneration/true death must later distinguish destruction of external soma from destruction of autonomous Core-bearing body.
-- Human reciprocal-core/longevity is parked for later stress-test.
+- CE-02 must use **field body → definitive autonomous biological incarnation**, not field → mixed → temporary biological soma.
+- CE-03 must replace every `mixed/alchemical soma` reference with dense/locally sustained field manifestation.
+- CE-04 must test injury, regeneration, interference, Core preservation and true death.
+- biological humanoid↔bestial mass transition needs a later dedicated gate.
+- post-autonomy somatic Convergence remains PARKED / apex-only hypothesis.
 
 **No canon promotion.**
