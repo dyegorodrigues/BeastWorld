@@ -46,3 +46,11 @@ Uma sessão só pode usar `SYNCED` quando o commit remoto foi verificado e os ar
 ## 4. Relação com Notion
 
 Se o projeto utilizar o `BEASTWORLD — Session & Sync Ledger` no Notion, este arquivo continua sendo a referência versionada. O Notion pode exibir uma cópia relacional, mas deve apontar para o commit e para o Source Record correspondente. Divergências recebem `DRIFT`, nunca são resolvidas silenciosamente.
+
+
+## V5 catch-up — 01/09/2026
+
+| Session ID | Scope | Branch | Fidelity | Lifecycle | Canon change | Notes |
+|---|---|---|---|---|---|---|
+| BW-SESSION-2026-09-01-001 | V5 reconciliation through Pass 40 / Notion Labs 01–13 | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | RAW-PARTIAL + SUMMARY-ONLY | PARTIAL-SYNC / AUDIT-REQUIRED | no | Retrospective catch-up: substantive artifacts existed, but the ledger was not closed transactionally. This gap enabled a D3 provenance drift. |
+| BW-SESSION-2026-09-01-002 | Author corrections; Passes 39–42; CE-04; Context Engineering OS v2 | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | RAW-PARTIAL | CAPTURED / COVERED / MODELED / RECONCILING | no | Final Git HEAD and Notion ledger are recorded at closeout; do not infer PROMOTED. |
