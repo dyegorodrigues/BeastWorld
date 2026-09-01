@@ -119,3 +119,15 @@ The V5 branch contains substantive source/review artifacts beyond the prior 22/0
 - fidelity: `RAW-AVAILABLE FOR CAPTURED SPAN`; not a native platform export and not evidence for messages outside the PDF;
 - session: `BW-SESSION-2026-09-01-003`;
 - canon promotion: none.
+
+
+## CE-05 session 004 — 01/09/2026
+
+- session: `BW-SESSION-2026-09-01-004`;
+- exact visible transcript: `docs/08_sources/conversations/2026-09-01-session-004-ce05-visible-transcript.md`;
+- author source: `BW-SRC-AUTHOR-2026-09-01-ROLE-CE05-01`;
+- source record: `docs/08_sources/conversations/2026-09-01-author-coauthor-archivist-ce05-continuation-source-record.md`;
+- modeled result: Pass 44 / CE-05;
+- content: full ChatGPT role correction plus autonomous birth, mass economy and biological transformation stress-test;
+- fidelity: `RAW-AVAILABLE FOR VISIBLE SESSION SPAN`;
+- canon promotion: none.
