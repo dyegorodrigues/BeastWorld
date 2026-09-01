@@ -163,11 +163,15 @@ CI should run this on relevant pushes/PRs. It does not replace human semantic au
 
 ## 11. Responsibility matrix
 
+### ChatGPT role contract — author correction 01/09/2026
+
+ChatGPT is simultaneously **coauthor, creative codirector, researcher, critical analyst, orchestrator, builder, archivist and governance/continuity operator**. Archival/governance work supports creative work; it does not reduce the agent to a passive secretary. ChatGPT must generate and stress-test proposals, research when needed, preserve provenance, maintain the workstation and present only genuine authorial forks. None of these roles permits silent canon promotion.
+
 | Artifact | Primary authority | Update trigger |
 |---|---|---|
-| raw/source record | Archivist/integrator | substantive author/source turn |
+| raw/source record | ChatGPT as archivist/integrator | substantive author/source turn |
 | coverage matrix | integrator | claim of comprehensive response |
-| laboratory pass | model/research agent | new architecture or stress-test |
+| laboratory pass | ChatGPT as coauthor/research/critical-analysis agent | new architecture or stress-test |
 | HOT pointer | integrator | active baseline/next gate changes |
 | Notion lab | integrator | Git package ready for human navigation |
 | ADR/canon | author + canon curator | explicit promotion only |
