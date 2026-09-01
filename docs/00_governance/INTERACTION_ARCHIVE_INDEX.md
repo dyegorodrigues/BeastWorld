@@ -106,3 +106,16 @@ The V5 branch contains substantive source/review artifacts beyond the prior 22/0
 - active HOT pointer: `docs/00_governance/CURRENT_SESSION_POINTER.json`;
 - process audit: `docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md`;
 - fidelity warning: earlier V5 conversations may be represented by curated source records/passes rather than complete raw exports; classify them individually, never as implied verbatim.
+
+
+## Full CE-01→CE-04 conversation backup — 01/09/2026
+
+- Source ID: `BW-SRC-TRANSCRIPT-2026-09-01-CE01-CE04-PDF-01`;
+- imported file: `Backup do caralho.pdf`, 71 pages, A4, Google Docs/Skia;
+- PDF SHA-256: `fee99baca17a5e37287c10681667165944011652e6d915728c7689bc104c2bb6`;
+- searchable raw extraction: `docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-extraction.txt`;
+- source manifest: `docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-source-record.md`;
+- coverage/reconciliation: `docs/09_reviews/chatgpt/2026-09-01/43_BACKUP_RECOVERY_COVERAGE_AUDIT_CE01_CE04.md`;
+- fidelity: `RAW-AVAILABLE FOR CAPTURED SPAN`; not a native platform export and not evidence for messages outside the PDF;
+- session: `BW-SESSION-2026-09-01-003`;
+- canon promotion: none.
