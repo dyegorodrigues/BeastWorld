@@ -1,13 +1,17 @@
 {
   "schema_version": 2,
   "session_id": "BW-SESSION-2026-09-01-004",
-  "status": "IN_PROGRESS",
+  "status": "CLOSED",
   "lifecycle_completed": [
     "RAW-ARCHIVED",
     "CAPTURED",
     "MODELED",
     "RECONCILED",
-    "HOT-UPDATED"
+    "HOT-UPDATED",
+    "NOTION-LINKED",
+    "VERIFIED",
+    "SYNCED",
+    "AUDITED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
   "active_cluster": "Core Engine v0.9",
@@ -35,8 +39,6 @@
   ],
   "source_fidelity": "RAW-AVAILABLE FOR SESSION 004 VISIBLE SUBSTANTIVE MESSAGES",
   "promoted": false,
-  "known_drift": [
-    "Notion CE-05 laboratory/source/ledger and final session transcript/closeout still pending"
-  ],
-  "next_action": "Create Notion CE-05 comparison lab and source record; append final answer; close and audit session 004; then resume the reentrant-living-anatomy subpass."
+  "known_drift": [],
+  "next_action": "Resume CE-05 at the reentrant-living-anatomy subpass: gravity/inertia, death remains, interruption, reproduction, anti-Quintessence interaction and maximum scale."
 }
