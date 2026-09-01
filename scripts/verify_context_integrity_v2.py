@@ -59,10 +59,20 @@ def main() -> int:
         if pointer.get("promoted") is not False:
             fail("current pointer must explicitly declare promoted=false", failures)
 
-        for key in ("source_records", "passes", "corrected_artifacts"):
+        for key in ("raw_transcripts", "source_records", "passes", "corrected_artifacts", "reconciled_artifacts"):
             for relative in pointer.get(key, []):
                 if not (ROOT / relative).is_file():
                     fail(f"pointer target does not exist ({key}): {relative}", failures)
+
+        raw_transcripts = pointer.get("raw_transcripts", [])
+        if "RAW-ARCHIVED" in pointer.get("lifecycle_completed", []) and not raw_transcripts:
+            fail("RAW-ARCHIVED claimed without raw_transcripts", failures)
+        for relative in raw_transcripts:
+            target = ROOT / relative
+            if target.is_file() and target.stat().st_size == 0:
+                fail(f"raw transcript is empty: {relative}", failures)
+        if pointer.get("schema_version", 1) >= 2 and not pointer.get("source_fidelity"):
+            fail("schema v2 pointer lacks source_fidelity", failures)
 
         session_id = pointer.get("session_id")
         ledger = ROOT / "docs/00_governance/SESSION_ARCHIVE_LEDGER.md"
