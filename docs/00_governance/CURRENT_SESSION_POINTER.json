@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "session_id": "BW-SESSION-2026-09-01-002",
+  "status": "IN_PROGRESS",
+  "lifecycle_completed": [
+    "CAPTURED",
+    "COVERED",
+    "MODELED"
+  ],
+  "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
+  "active_cluster": "Core Engine v0.9",
+  "active_gate": "CE-04 Regeneration, Injury, Continuity and True Death",
+  "source_records": [
+    "docs/08_sources/conversations/2026-09-01-author-regeneration-incarnation-context-workflow-source-record.md"
+  ],
+  "passes": [
+    "docs/09_reviews/chatgpt/2026-09-01/41_AUTHOR_CORRECTIONS_REGENERATION_INCARNATION_PROJECTION_CONVERGENCE.md",
+    "docs/09_reviews/chatgpt/2026-09-01/42_CORE_ENGINE_V0_9_CE04_REGENERATION_INJURY_CONTINUITY_TRUE_DEATH.md"
+  ],
+  "corrected_artifacts": [
+    "docs/09_reviews/chatgpt/2026-09-01/39_AUTHOR_DELTA_MATERIALIZATION_ALCHEMICAL_BODY_CORE_MATURATION.md",
+    "docs/09_reviews/chatgpt/2026-09-01/40_CORE_ENGINE_V0_9_CE03_DISTANCE_TETHER_AUTONOMY_STRESS_TEST.md"
+  ],
+  "notion_targets": [
+    "V5 Ponte de Reconciliação",
+    "Source Library",
+    "Laboratory 13",
+    "Laboratory 14",
+    "Session and Sync Ledger"
+  ],
+  "promoted": false,
+  "known_drift": [
+    "Legacy generic HANDOFF/RETOMADA entrypoints require a V5 override",
+    "Session and interaction ledgers require V5 catch-up entries"
+  ],
+  "next_action": "Complete GitHub and Notion synchronization, run integrity gates, and close the session receipt."
+}
