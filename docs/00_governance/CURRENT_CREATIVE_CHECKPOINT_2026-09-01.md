@@ -15,11 +15,13 @@ This is not automatic CANON promotion. It is the preferred baseline for the next
 - Not every marked human germinates an autonomous Beast Soul; non-germinators can still become formidable through amplification, magic, Forms, weapons and training.
 - Germination may produce a **new autonomous life/person**, not a captured pet, donor copy or literal human soul.
 - Human and Beast develop reciprocally; a mature generated Beast may survive the host, live freely, remain around a Dynasty, potentially reproduce, and enrich future magical ecology.
-- Martial arts, body, weapon geometry, Resonance, Intent, Form, environment, Fôlego and Beast cooperation form one causal combat grammar.
+- Martial arts, body, weapon geometry, Resonance, Intent, Form, environment, integrated combat capacity and Beast cooperation form one causal combat grammar.
 - External Beast, partial/spectral embodiment, bestial body, possible humanoid/warrior external morphology, internal Animalidade and host Convergence/War-Body are separate configurations/axes, not one universal level ladder.
-- Fôlego is user-facing language for coupled metabolic, neural and resonant limits; no mana-bar logic.
-- Externalized Beast can possess reserve/ambient sustain; reintegration may transfer remaining usable capacity but cannot create free energy.
-- Tether/range, reconstruction after destruction and true death/Core integrity remain Gate 1 mechanics.
+- `Fôlego` is no longer preferred as final in-world terminology; naming remains open. Backstage, bodily/neural/resonant constraints can remain distinct while the character experiences exhaustion as an integrated state.
+- Externalized Beast can possess reserve/ambient sustain; reintegration may return remaining resources and strongly restore functional exhaustion in proportion to the Beast's condition, without creating free energy or automatically erasing structural trauma.
+- Manifestation density, morphology and developmental autonomy are separate axes.
+- Distance/range now has a laboratory leader: it attacks tactical bandwidth/cooperation before it attacks existence. Generated host-anchored Beasts retain a deeper existential root; natural and fully autonomous mature Beasts do not depend existentially on a human tether.
+- Reconstruction after destruction, autonomous Core placement, human reciprocal-Core hypotheses and true death remain later mechanics.
 - Primordials are being stress-tested as sapient high-order manifestations/interfaces of the Living Star, not simple elemental batteries.
 - Human–Beast reciprocal evolution is the leading rationale for why Primordials may have initiated founder rituals.
 - Other Living Worlds/Fissures remain later-saga horizon; local BeastWorld identity must stabilize first.
@@ -54,56 +56,76 @@ The Phoenix relationship is strongest if the attraction is not merely visual. Sh
 
 `CE-01` is explicitly a **gate**, not a canonized chain. Full review: `docs/09_reviews/chatgpt/2026-09-01/36_CORE_ENGINE_V0_9_CE01_ONTOGENY_IDENTITY_STRESS_TEST.md`.
 
-Three implementations were compared:
-- `A — Distributed Developmental Grammar`;
-- `B — Living-World-mediated Triadic Co-germination`;
-- `C — Latent Bestial Propagule`.
-
 Current result:
-- **A\*** is the laboratory leader, not canon: Matrix as real/degradable carrier of bestial developmental-resonant grammar; Mark as distributed living interface/developmental niche; Germination as transition to a self-maintaining new organism; Core as identity/continuity function that need not be a permanent physical gem.
-- retain from B the Living World as ecological signature/medium, but do **not** make it an individual destiny judge that assigns souls;
-- retain from C materiality/viability of the Matrix, but do **not** make the Matrix a hidden embryo/person ready to awaken.
-- new life may begin dependent and pre-linguistic/reflexive; complex personality, autobiographical memory and operational autonomy can mature rather than arriving preloaded.
-- voluntary living grant can differ causally because the donor actively stabilizes/aligns the material; avoid “moral universe” or purity-percent mechanics.
+- **A\*** is the laboratory leader, not canon: Matrix as real/degradable carrier of bestial developmental-resonant grammar; Mark as distributed living interface/developmental niche; Germination as transition to a self-maintaining new organism; Core as identity/continuity function that need not be a permanent physical gem from the start.
+- retain the Living World as ecological signature/medium without making it an individual destiny judge;
+- retain materiality/viability of the Matrix without making it a hidden embryo/person;
+- new life may begin dependent and pre-linguistic/reflexive; complex personality, autobiographical memory and operational autonomy mature rather than arriving preloaded.
 - external references are collision/red-team tools only; they do not have authority to prune a stronger original BeastWorld solution.
 
 ### Open Director fork preserved
-The ancestral Core/remnant remains unresolved:
 - `D1 scaffold incomplete` — current leader: architecture/echoes remain but old person no longer persists;
 - `D2 dormant person` — would be re-partnering/return of the ancestor and conflicts with current new-person baseline unless explicitly reopened;
 - `D3 threshold remnant` — partial memory/sensory echoes without intact old person; viable but needs strict rules.
 
-**No author decision is required yet.** CE-01 is `LEADER IDENTIFIED / NOT CLOSED / NOT PROMOTED`. It must survive energy, tether, externalization, reconstruction and true-death tests.
+**No author decision required.** CE-01 remains `LEADER IDENTIFIED / NOT CLOSED / NOT PROMOTED`.
 
-## CE-02 delta — coupling economy and Fôlego stress-test — 01/09/2026
+## CE-02 delta — coupling economy, manifestation and reintegration — 01/09/2026
 
-Full review: `docs/09_reviews/chatgpt/2026-09-01/37_CORE_ENGINE_V0_9_CE02_COUPLING_ENERGETICS_STRESS_TEST.md`.
+Base review: `37_CORE_ENGINE_V0_9_CE02_COUPLING_ENERGETICS_STRESS_TEST.md`. Author corrections: Passes 38–39.
 
-Three implementations were compared backstage:
-- one shared reserve between human and Beast;
-- two living budgets coupled through a finite interface;
-- ambient-dominant power supplied primarily by the Living World.
+Current laboratory direction:
+- human and Beast behave as two organisms with their own reserves/maintenance/recovery, linked by finite transfer/synchronization rather than one mana bar;
+- persistent bond itself is low-cost; major costs arise from formation/densification/materialization, active support, high-bandwidth synchronization, repair and reconstruction;
+- reintegration can strongly restore functional exhaustion in proportion to resources still carried by the Beast, because the coupled system re-concentrates; structural trauma still requires regeneration;
+- externalization does not strip the human’s permanent Mark/Blood/interface adaptations;
+- two-body cognition/shared senses are a major training axis;
+- compatible ambient Quintessence is a bounded input, not an infinite plug;
+- body/manifestation state must always be explicit when discussing cost.
 
-Current result:
-- **E2\*** is the laboratory leader, not canon: human and Beast behave as two organisms with their own reserves/maintenance/recovery, linked by a finite transfer/synchronization interface;
-- `Fôlego` is not a substance. It is the user-facing/embodied perception of remaining performance under coupled bodily, neural and resonant bottlenecks;
-- reserve, instantaneous throughput, efficiency and coherence are distinct backstage variables. A fighter can still have reserve while being unable to execute a high-precision Form;
-- externalization pays separately for formation, maintenance, action, tether/communication and repair. It is a tactical second-body configuration, not a higher rank;
-- compatible ambient Quintessence is a bounded input: it can extend sustain/recovery but cannot replenish as fast as elite burst expenditure;
-- reintegration redistributes what remains and can reduce the cost of maintaining two bodies, but does not erase muscular injury, overheating, neural fatigue or loss of coherence;
-- mature Beasts require their own economy if they are to survive after host death and function as transport/social/ecological persons;
-- leading embodiment submodel: the Beast organizes Quintessence/Living-World substrate into a locally real body. The host does not convert ordinary caloric energy into the full mass of a large external Beast. Exact ordinary-matter participation remains open;
-- science references on fatigue, regeneration and symbiosis are analogy/red-team only, not metaphysical authority.
+### Materialization correction — Pass 39
+The strongest current synthesis separates three axes:
+1. **embodiment density:** field/spectral → dense spectral → mixed/substantial → alchemically materialized temporary soma → stable living soma;
+2. **morphology:** partial organ/limb, bestial, humanoid/warrior, social compressed, Convergence/War-Body;
+3. **developmental autonomy:** host-anchored germinal identity → stable protected Core → advanced host-anchored Core → autonomous Core housed in Beast’s own body → post-host free/ancestral life.
 
-### CE-02 open forks preserved
-- exact feeding/metabolism of mature Beasts;
-- how much ordinary matter enters a fully incarnate body;
-- whether human↔Beast transfer is symmetric;
-- relative direct ambient uptake by marked humans;
-- exact limiter of peak burst;
-- distance/tether cost.
+A spectral body can physically interact through supernatural Quintessence–matter coupling without ordinary organs. A mixed/alchemical body can recruit water, carbon, salts, minerals, organic matter and lineage/environment-specific substrate into temporary soma. A fully corporeal soma may still be reconstructible while identity/Core remains safely host-anchored. At autonomous maturation, the Beast becomes self-housed and existentially independent.
 
-**No author decision required yet.** CE-02 is `LEADER IDENTIFIED / NOT CLOSED / NOT PROMOTED`.
+Core reconciliation under test: **identity may begin distributed and later condense from a microscopic seed/condensate into a mature portable Core.** Exact anatomy remains open; do not lock pineal/heart/chest without a later test.
+
+### Human reciprocal-Core fork — OPEN
+- H0: no separate human Core; permanent evolution + longevity only.
+- H1: rare human coherence-kernel enabling extreme regeneration/longevity but not postmortem resurrection.
+- H2: exceptional reciprocal mature Core allowing body reconstruction after death if Core survives and enormous time/resources are available.
+
+H2 is high-risk for death stakes and is not baseline.
+
+**CE-02 remains `LEADER IDENTIFIED / NOT CLOSED / NOT PROMOTED`.**
+
+## CE-03 delta — distance, tether and operational autonomy — 01/09/2026
+
+Full review: `docs/09_reviews/chatgpt/2026-09-01/40_CORE_ENGINE_V0_9_CE03_DISTANCE_TETHER_AUTONOMY_STRESS_TEST.md`.
+
+Three implementations were tested: hard universal radius, layered bandwidth + developmental anchoring, and infinite nonlocal bond.
+
+Current leader:
+> **Distance attacks cooperation before it attacks existence.**
+
+Two links must not be conflated:
+- **tactical bond:** shared senses, intention, coordination, active resource transfer and Convergence; high-bandwidth and distance/interference sensitive;
+- **existential root:** only for generated Beasts whose Core remains developmentally protected through the human; maintains continuity between protected identity and external soma.
+
+Default degradation tendency under distance:
+1. micro-synchrony degrades;
+2. high-definition shared senses degrade;
+3. large active support/transfer becomes inefficient;
+4. communication simplifies toward coarse intent/emotion/direction;
+5. existential continuity is threatened only for still-host-anchored generated Beasts under much stronger separation/interference;
+6. natural Beasts and autonomous mature generated Beasts remain fully alive regardless of human distance.
+
+No universal metre radius is promoted. Manifestation type, maturity, training, local ecology and anti-resonance interference can change the curve. A natural bonded Beast is autonomous from the beginning; a generated Beast’s developmental anchoring is a different ontology.
+
+**CE-03 = `LEADER IDENTIFIED / NOT CLOSED / NOT PROMOTED`.**
 
 ## Visual baseline
 - Current spectral/War-Body images are visual-development references, not approved designs.
@@ -114,7 +136,7 @@ Current result:
 
 ## Workflow — current preferred sequence
 0. Source audit + coverage matrix.
-1. Core Engine v0.9 — **CE-01 and CE-02 now have laboratory leaders; next sub-gate is CE-03 Distance, Tether and Operational Autonomy**.
+1. Core Engine v0.9 — **CE-01, CE-02 and CE-03 now have laboratory leaders. Next gate: destruction, reconstruction, Core placement and true death, including the human reciprocal-Core fork.**
 2. Eight character stress-tests.
 3. Three combat scene-proofs.
 4. Civilizational consequences.
@@ -134,6 +156,9 @@ After `START_HERE_FOR_AI.md`, `V5_RECONCILIATION_STATE.md` and `V5_CONTEXT_ROUTE
 3. `docs/00_governance/SOURCE_COVERAGE_AND_FIDELITY_PROTOCOL_2026-09-01.md`
 4. this checkpoint;
 5. `docs/09_reviews/chatgpt/2026-09-01/36_CORE_ENGINE_V0_9_CE01_ONTOGENY_IDENTITY_STRESS_TEST.md`;
-6. `docs/09_reviews/chatgpt/2026-09-01/37_CORE_ENGINE_V0_9_CE02_COUPLING_ENERGETICS_STRESS_TEST.md`.
+6. `docs/09_reviews/chatgpt/2026-09-01/37_CORE_ENGINE_V0_9_CE02_COUPLING_ENERGETICS_STRESS_TEST.md`;
+7. `docs/09_reviews/chatgpt/2026-09-01/38_CE02_AUTHOR_CORRECTIONS_MANIFESTATION_REINTEGRATION_AUTONOMY.md`;
+8. `docs/09_reviews/chatgpt/2026-09-01/39_AUTHOR_DELTA_MATERIALIZATION_ALCHEMICAL_BODY_CORE_MATURATION.md`;
+9. `docs/09_reviews/chatgpt/2026-09-01/40_CORE_ENGINE_V0_9_CE03_DISTANCE_TETHER_AUTONOMY_STRESS_TEST.md`.
 
-Then resume at **CE-03 — Distance, Tether and Operational Autonomy** unless the author supplies new source material first.
+Then resume at the **destruction / reconstruction / Core placement / true-death gate** unless the author supplies new source material first.
