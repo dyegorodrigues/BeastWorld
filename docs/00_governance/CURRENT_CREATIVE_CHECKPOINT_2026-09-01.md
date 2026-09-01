@@ -151,6 +151,26 @@ Current laboratory direction:
 
 **CE-04 = `LEADER MODELED / NOT CLOSED / NOT PROMOTED`.**
 
+## Raw-backup recovery delta — Pass 43
+
+The user supplied a 71-page PDF preserving the visible CE-01→CE-04 exchange, including both author and assistant messages. This upgrades fidelity for that exact span to `RAW-AVAILABLE`; it does not prove complete recovery outside the span.
+
+Active architecture remains intact, with these explicit additions/open forks:
+- maturity may create the **capacity** for autonomous birth without forcing immediate incarnation; delayed/voluntary birth remains CE-05;
+- likely morphology asymmetry: autonomous Beast uses biological humanoid↔bestial forms, while the formative human retains Matrix/Mark and War-Body/Magic-Beast-Knight-like configurations without automatically becoming the full biological animal;
+- post-autonomy relationship remains chosen, not compulsory;
+- `human continuity anchor/high coherence` must not multiply ontological objects by jargon; use neutral backstage language until the Core gate decides;
+- Oceanic Sovereign direct-grant/purity possibility is a PARKED seed only;
+- future substantial explanations to the author begin with executive summary/table + concrete visual model, then deepen in layers;
+- prefer a few learnable causal rules over many universal defect clauses.
+
+Cold evidence:
+- `docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-source-record.md`;
+- full extracted transcript is COLD/on-demand and must not be loaded by default;
+- coverage audit: `docs/09_reviews/chatgpt/2026-09-01/43_BACKUP_RECOVERY_COVERAGE_AUDIT_CE01_CE04.md`.
+
+**No promotion.**
+
 ## Visual baseline
 - Current spectral/War-Body images are visual-development references, not approved designs.
 - Avoid franchise-wide `black armor + different glow color` skins.
@@ -187,6 +207,8 @@ After `START_HERE_FOR_AI.md`, `V5_RECONCILIATION_STATE.md` and `V5_CONTEXT_ROUTE
 10. `docs/08_sources/conversations/2026-09-01-author-regeneration-incarnation-context-workflow-source-record.md`;
 11. `docs/09_reviews/chatgpt/2026-09-01/41_AUTHOR_CORRECTIONS_REGENERATION_INCARNATION_PROJECTION_CONVERGENCE.md`;
 12. `docs/09_reviews/chatgpt/2026-09-01/42_CORE_ENGINE_V0_9_CE04_REGENERATION_INJURY_CONTINUITY_TRUE_DEATH.md`;
-13. `docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md`.
+13. `docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md`;
+14. `docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-source-record.md`;
+15. `docs/09_reviews/chatgpt/2026-09-01/43_BACKUP_RECOVERY_COVERAGE_AUDIT_CE01_CE04.md`.
 
 Then resume at the **autonomous incarnation / mass economy / biological transformation gate**, while keeping CE-04 and the human continuity fork open, unless the author supplies new source material first.
