@@ -63,3 +63,10 @@ Se o projeto utilizar o `BEASTWORLD — Session & Sync Ledger` no Notion, este a
 | BW-SESSION-2026-09-01-003 | Recover 71-page CE-01→CE-04 conversation backup; reconcile active derivatives and raw-capture policy | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | RAW-AVAILABLE FOR CAPTURED SPAN | RAW-ARCHIVED / CAPTURED / COVERED / MODELED / RECONCILED / HOT-UPDATED / NOTION-LINKED / VERIFIED / SYNCED / AUDITED | no | PDF SHA-256 `fee99baca17a5e37287c10681667165944011652e6d915728c7689bc104c2bb6`; exact span/limits in source manifest. |
 
 Session 003 supersedes the **fidelity classification only** for the CE-01→CE-04 visible span previously summarized in sessions 001–002. It does not rewrite their historical lifecycle or claim recovery outside the PDF.
+
+
+## CE-05 continuation — 01/09/2026
+
+| Session ID | Scope | Branch | Fidelity | Lifecycle | Canon change | Notes |
+|---|---|---|---|---|---|---|
+| BW-SESSION-2026-09-01-004 | Author role correction; CE-05 autonomous birth, mass economy and biological transformation | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | RAW-AVAILABLE FOR VISIBLE SESSION SPAN | RAW-ARCHIVED / CAPTURED / MODELED / RECONCILED / HOT-UPDATED / IN-PROGRESS | no | Pass 44 identifies a leader with an OPEN reentrant-living-anatomy hinge; no lore promoted. |
