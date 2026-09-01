@@ -7,6 +7,19 @@
 
 > **Se você é uma IA retomando o projeto nesta branch, leia este arquivo imediatamente depois de `START_HERE_FOR_AI.md`. A V5 está à frente dos checkpoints HOT históricos, mas ainda NÃO promoveu novo lore a cânone.**
 
+## Raw transcript recovery override — 01/09/2026 — Pass 43
+
+A user-supplied 71-page PDF now preserves the visible CE-01→CE-04 exchange, including author and assistant messages. Fidelity for that exact span is `RAW-AVAILABLE`; outside it remains separately classified.
+
+Read for active recovery context:
+1. `docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-source-record.md`;
+2. `docs/09_reviews/chatgpt/2026-09-01/43_BACKUP_RECOVERY_COVERAGE_AUDIT_CE01_CE04.md`;
+3. current pointer.
+
+The 155 KB extracted transcript is **COLD/on-demand**: load it only for exact wording, attribution or nuance disputes. Pass 43 reopens immediate-versus-delayed autonomous birth and post-birth human/Beast morphology asymmetry for CE-05. It also upgrades the workflow to preserve every available substantive author and assistant message verbatim.
+
+Nothing is promoted.
+
 ## Active override — 01/09/2026 — Passes 41–42
 
 A source-provenance audit corrected Passes 39–40 and Notion Laboratory 13. The author did **not** propose a mixed body or temporary biological soma. Active direction:
