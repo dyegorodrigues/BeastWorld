@@ -92,3 +92,17 @@ A branch Manus contém o Documento-Mestre v2, a recuperação de detalhes, o reg
 O repositório não contém, até esta atualização, uma exportação contínua e verificável de todas as mensagens anteriores do chat com cada resposta visível em ordem absoluta. Existem fontes brutas, respostas preservadas, registros de alta fidelidade, handoffs, auditorias e sínteses. A cobertura é ampla, mas não deve ser descrita como `LOSSLESS` para períodos em que o transcript original não foi arquivado.
 
 O protocolo futuro passa a fechar cada sessão com Source Record, resposta visível, handoff, asset index, hashes e commit. Isso torna a perda progressivamente menos provável e permite declarar cobertura com precisão.
+
+
+## V5 provenance catch-up — 01/09/2026
+
+The V5 branch contains substantive source/review artifacts beyond the prior 22/08 index boundary. This section restores discoverability without pretending full raw-chat fidelity where no durable export exists.
+
+- session range: `BW-SESSION-2026-09-01-001` (retrospective) and `BW-SESSION-2026-09-01-002` (transactional correction);
+- active source: `docs/08_sources/conversations/2026-09-01-author-regeneration-incarnation-context-workflow-source-record.md`;
+- corrected derivatives: Passes 39–40;
+- author delta: Pass 41;
+- active stress-test: Pass 42 / CE-04;
+- active HOT pointer: `docs/00_governance/CURRENT_SESSION_POINTER.json`;
+- process audit: `docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md`;
+- fidelity warning: earlier V5 conversations may be represented by curated source records/passes rather than complete raw exports; classify them individually, never as implied verbatim.
