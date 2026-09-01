@@ -1,0 +1,80 @@
+# BeastWorld — Current Creative Checkpoint — 01/09/2026
+
+**Status:** STRONG DIRECTION / RESEARCH BASELINE / NOT-CANON
+
+## Directional precedence
+The author explicitly states that the current `Living World + martial magic + Beast Soul + reciprocal evolution` direction is preferred over earlier incompatible models and should **not be silently regressed** in ongoing work. Older material remains preserved as provenance, but must be labeled historical/obsolete-for-current-pass where it conflicts with this checkpoint.
+
+This is not automatic CANON promotion. It is the preferred baseline for the next stress-tests.
+
+## Current engine baseline
+- Quintessence remains the candidate universal substrate.
+- A Living World organizes it into a local signature/coherence ecology.
+- Native Beasts possess high natural magical coherence; humans possess exceptional developmental/cultural/martial plasticity.
+- Bestial Matrix + Mark can alter the human biological/resonant interface.
+- Not every marked human germinates an autonomous Beast Soul; non-germinators can still become formidable through amplification, magic, Forms, weapons and training.
+- Germination may produce a **new autonomous life/person**, not a captured pet, donor copy or literal human soul.
+- Human and Beast develop reciprocally; a mature generated Beast may survive the host, live freely, remain around a Dynasty, potentially reproduce, and enrich future magical ecology.
+- Martial arts, body, weapon geometry, Resonance, Intent, Form, environment, Fôlego and Beast cooperation form one causal combat grammar.
+- External Beast, partial/spectral embodiment, bestial body, possible humanoid/warrior external morphology, internal Animalidade and host Convergence/War-Body are separate configurations/axes, not one universal level ladder.
+- Fôlego is user-facing language for coupled metabolic, neural and resonant limits; no mana-bar logic.
+- Externalized Beast can possess reserve/ambient sustain; reintegration may transfer remaining usable capacity but cannot create free energy.
+- Tether/range, reconstruction after destruction, true death/Core integrity and energy conservation remain Gate 1 mechanics.
+- Primordials are being stress-tested as sapient high-order manifestations/interfaces of the Living Star, not simple elemental batteries.
+- Human–Beast reciprocal evolution is the leading rationale for why Primordials may have initiated founder rituals.
+- Other Living Worlds/Fissures remain later-saga horizon; local BeastWorld identity must stabilize first.
+
+## Director baseline
+The protagonist/Director is an adult apex fighter whose strength must emerge from one causal chain rather than stacked chosen-one bonuses:
+- exceptional martial/technical development predates full magical integration;
+- competing inherited resonant tendencies may cause pain, instability or failed germination;
+- a Primordial may have observed him over years and later reorganized his Mark/interface rather than simply raising output;
+- an ancestral draconic Core/remnant can function as developmental scaffold, not skill/pet upload;
+- the new draconic organism remains a new person with possible fragmentary echoes, not the ancestor reincarnated wholesale;
+- he is charming, confident, teasing, visually/intellectually controlled, and becomes predatory/exhilarated under genuine violent resistance without becoming a berserker idiot;
+- his flaw must create narrative cost.
+
+## New author delta — attraction, libido and romance
+The author adds a specific character/lineage direction to preserve and stress-test:
+
+1. **Draconic drive:** Primordial/draconic Blood and bodily modification may intensify libido/reproductive drive in some draconic-line individuals. For the Director this can arrive as a strong internal “heat”/desire that he consciously regulates so outward behavior remains controlled.
+2. **Not compulsive predation:** the intended characterization is not a harassing or uncontrolled man. He contains the impulse, often appears normal, and chooses when/how to flirt.
+3. **Flirt style:** sustained eye contact, controlled physical proximity, understated double meanings and occasional directness; sometimes ambiguous enough to leave the other person unsure whether he was serious.
+4. **Attraction and power:** the author is interested in the possibility that his drive responds more strongly to highly capable/resonant/strong-blooded adult partners. Treat this as a character/physiology hypothesis, not a universal law that all draconic people desire “strong mates.”
+5. **Phoenix ancestral romance candidate:** the author visualizes a possible adult romantic/sexual tension between the Director and a mature ancestral Phoenix-form Beast/person: once a mythic Phoenix, now a long-lived autonomous sapient elder capable of humanoid embodiment, attractive/seductive, culturally embedded but not owned by the Dynasty. Mutual flirtation/chemistry is a story direction to explore.
+6. **Agency rule:** a mature ancestral Beast is a person, not a collectible or reward. Any romance must arise from reciprocal agency, personality, history and consent.
+7. **Biology/reproduction:** do not assume offspring mechanics yet. Human–mature-Beast romance is a social/story possibility; interspecies reproduction, fertility, heredity and legal implications remain a separate future gate.
+
+### Recommended calibration
+The draconic-libido idea works best as **one embodied cost/temperamental pressure of the Blood**, not as “dragon blood makes everyone horny.” Variation by individual, age, training, resonance state and circumstance preserves character diversity and avoids reducing a lineage to sexual stereotype. For the Director it can create dramatic contrast: extreme internal heat versus precise external self-command.
+
+The Phoenix relationship is strongest if the attraction is not merely visual. She should be powerful enough to refuse, challenge, embarrass or outmaneuver him; her age, memory and nonhuman perspective should create real relational asymmetry and narrative value.
+
+## Visual baseline
+- Current spectral/War-Body images are visual-development references, not approved designs.
+- Avoid franchise-wide `black armor + different glow color` skins.
+- Beast family must alter silhouette/biomechanics/material behavior.
+- Dragon should read through pressure/thermal/structural anatomy; Phoenix through lift/vane/raptor/aerodynamic grammar; serpent through continuous torsion/scale/coil grammar rather than generic demon horns.
+- Color/VFX should reinforce a morphology that remains identifiable in grayscale.
+
+## Workflow — current preferred sequence
+0. Source audit + coverage matrix.
+1. Core Engine v0.9.
+2. Eight character stress-tests.
+3. Three combat scene-proofs.
+4. Civilizational consequences.
+5. Story architecture / Director biography / Book 1 spine.
+6. Visual Development Bible.
+7. Naming / collision research / author decisions / selective canonization.
+
+### Interaction rule
+The author should not be forced into long administrative decision trees. ChatGPT should orchestrate backstage, present concrete alternatives only at real forks, and keep the visible process enjoyable, narrative and comprehensible.
+
+## Required next-session read order for this cluster
+After `START_HERE_FOR_AI.md`, `V5_RECONCILIATION_STATE.md` and `V5_CONTEXT_ROUTER.md`, read:
+1. `docs/09_reviews/chatgpt/2026-08-31/33_MAGIC_BEAST_WARRIORS_KNIGHTS_PDF_DEEP_INTEGRATION.md`
+2. `docs/09_reviews/chatgpt/2026-08-31/35_PDF_FINAL_GAP_AUDIT_AND_NEXT_WORKFLOW.md`
+3. `docs/00_governance/SOURCE_COVERAGE_AND_FIDELITY_PROTOCOL_2026-09-01.md`
+4. this checkpoint.
+
+Then resume with Core Engine v0.9 unless the author supplies new source material first.
