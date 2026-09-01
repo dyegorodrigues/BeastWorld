@@ -2,7 +2,7 @@
 
 **Data:** 01/09/2026  
 **Status:** AUTHOR DIRECTION / SOURCE COVERAGE / NOT-CANON / NO PROMOTION  
-**Source:** `BW-SRC-AUTHOR-2026-09-01-CORE-ENGINE-02`
+**Sources:** `BW-SRC-AUTHOR-2026-09-01-CORE-ENGINE-02`; raw backup `BW-SRC-TRANSCRIPT-2026-09-01-CE01-CE04-PDF-01`
 
 ## 1. Executive delta
 
@@ -37,6 +37,11 @@ The active laboratory model is corrected as follows:
 | `A41-013` | somatic Convergence doubtful/routine-no | correction/parking | only possible late unprecedented apex | PARKED | future worlds/war gate |
 | `A41-014` | natural Beast grant may create Matrix/Germination but can fail | confirmation | grant, incorporation and germination remain distinct | STRONG DIRECTION | CE-01 |
 | `A41-015` | audit and improve context workflow | operational requirement | close every substantive wave across COLD/WARM/HOT/Notion | GOVERNANCE | Context OS v2 |
+| `A41-016` | maturity may make separation/birth facultative | recovered fork | capacity for birth may precede decision/timing | OPEN / CE-05 | Pass 43; CE-05 |
+| `A41-017` | Beast biological forms and human War-Body may be asymmetric | recovered direction | Beast humanoid↔bestial; human does not automatically become full animal body | STRONG / TEST | Pass 43; CE-05 |
+| `A41-018` | executive overview/table before deep detail | UX directive | show completed architecture first, then rich explanation | GOVERNANCE | Context OS v2.1 |
+| `A41-019` | avoid twenty universal defect rules | narrative/system directive | few causal rules, species exceptions backstage | GOVERNANCE | Pass 43 |
+| `A41-020` | Oceanic Sovereign direct grant/purity possibility | confused explicit seed | preserve without inferring biography or canon | PARKED | future character/lineage gate |
 
 ## 3. Collision report
 
@@ -58,4 +63,4 @@ These must be corrected as provenance errors. Historical trace may note the erra
 
 ## 5. Status
 
-**CAPTURED + MODELED. No CANON/WORKING-CANON promotion.**
+**RAW-BACKED + CAPTURED + MODELED after Pass 43 recovery. No CANON/WORKING-CANON promotion.**
