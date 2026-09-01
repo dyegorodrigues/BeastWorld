@@ -1,40 +1,42 @@
 {
-  "schema_version": 1,
-  "session_id": "BW-SESSION-2026-09-01-002",
-  "status": "CLOSED",
+  "schema_version": 2,
+  "session_id": "BW-SESSION-2026-09-01-003",
+  "status": "IN_PROGRESS",
   "lifecycle_completed": [
+    "RAW-ARCHIVED",
     "CAPTURED",
     "COVERED",
-    "MODELED",
-    "RECONCILED",
-    "HOT-UPDATED",
-    "NOTION-LINKED",
-    "VERIFIED",
-    "SYNCED",
-    "AUDITED"
+    "MODELED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
   "active_cluster": "Core Engine v0.9",
   "active_gate": "CE-05 Autonomous Incarnation, Mass Economy and Biological Transformation",
+  "raw_transcripts": [
+    "docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-extraction.txt"
+  ],
   "source_records": [
+    "docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-source-record.md",
     "docs/08_sources/conversations/2026-09-01-author-regeneration-incarnation-context-workflow-source-record.md"
   ],
   "passes": [
-    "docs/09_reviews/chatgpt/2026-09-01/41_AUTHOR_CORRECTIONS_REGENERATION_INCARNATION_PROJECTION_CONVERGENCE.md",
-    "docs/09_reviews/chatgpt/2026-09-01/42_CORE_ENGINE_V0_9_CE04_REGENERATION_INJURY_CONTINUITY_TRUE_DEATH.md"
+    "docs/09_reviews/chatgpt/2026-09-01/43_BACKUP_RECOVERY_COVERAGE_AUDIT_CE01_CE04.md"
   ],
-  "corrected_artifacts": [
+  "reconciled_artifacts": [
     "docs/09_reviews/chatgpt/2026-09-01/39_AUTHOR_DELTA_MATERIALIZATION_ALCHEMICAL_BODY_CORE_MATURATION.md",
-    "docs/09_reviews/chatgpt/2026-09-01/40_CORE_ENGINE_V0_9_CE03_DISTANCE_TETHER_AUTONOMY_STRESS_TEST.md"
+    "docs/09_reviews/chatgpt/2026-09-01/41_AUTHOR_CORRECTIONS_REGENERATION_INCARNATION_PROJECTION_CONVERGENCE.md",
+    "docs/00_governance/CURRENT_CREATIVE_CHECKPOINT_2026-09-01.md",
+    "docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md"
   ],
   "notion_targets": [
     "V5 Ponte de Reconciliação",
     "Source Library",
-    "Laboratory 13",
-    "Laboratory 14",
+    "Backup Recovery Audit",
     "Session and Sync Ledger"
   ],
+  "source_fidelity": "RAW-AVAILABLE FOR PDF CAPTURED SPAN; historical scope outside span remains mixed",
   "promoted": false,
-  "known_drift": [],
-  "next_action": "Resume at CE-05: test the definitive humanoid birth body, matter/mass acquisition, and stable biological humanoid↔bestial transformation without reintroducing a temporary biological soma."
+  "known_drift": [
+    "Git/Notion active derivatives and workflow require reconciliation against recovered raw transcript"
+  ],
+  "next_action": "Commit raw transcript and Pass 43, reconcile active derivatives, update Notion, run cross-store integrity gates, close session 003, then resume CE-05."
 }
