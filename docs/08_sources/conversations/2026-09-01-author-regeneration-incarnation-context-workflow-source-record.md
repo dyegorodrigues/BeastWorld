@@ -2,14 +2,16 @@
 
 **Source ID:** `BW-SRC-AUTHOR-2026-09-01-CORE-ENGINE-02`  
 **Session:** `BW-SESSION-2026-09-01-002`  
-**Provenance:** AUTHOR-RAW-PARTIAL + HIGH-FIDELITY STRUCTURED EXTRACTION  
+**Provenance:** STRUCTURED EXTRACTION, now backed by `BW-SRC-TRANSCRIPT-2026-09-01-CE01-CE04-PDF-01`  
 **Authority:** primary for what the author expressed; not automatic canon  
 **Status:** CAPTURED / NEEDS-GATE / NOT-CANON  
 **Scope:** two long author turns responding to the CE-02/CE-03 synthesis and requesting an operational context-engineering audit.
 
+> **FIDELITY AMENDMENT — session 003:** the prior text incorrectly implied that complete messages were guaranteed recoverable from the originating ChatGPT conversation. A user-supplied 71-page PDF now provides raw evidence for the captured CE-01→CE-04 span. Source manifest: `docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-source-record.md`; searchable transcript: `docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-extraction.txt`.
+
 ## Fidelity declaration
 
-The author’s complete messages remain in the originating ChatGPT conversation. This repository record is a high-fidelity structured extraction with selected short verbatim phrases; it is **not** claimed as a continuous verbatim export. No missing wording is reconstructed as fact.
+This file remains a structured extraction with selected short verbatim phrases; it is not itself a continuous transcript. The complete visible-message wording for its captured span is now recoverable from the PDF-backed transcript above. No claim is made about messages outside that span, hidden tool activity or material never exported. No missing wording is reconstructed as fact.
 
 ## Explicit corrections and confirmations
 
@@ -24,6 +26,10 @@ The author’s complete messages remain in the originating ChatGPT conversation.
 9. Post-autonomy somatic fusion with the formative human is not an ordinary or currently necessary mechanic. If retained, it should be an unprecedented, temporary, extremely late/apex phenomenon under a divine/interworld-scale threat.
 10. Permanent changes in the human remain after the Beast becomes autonomous: Matrix/Mark/interface, amplified senses/reflexes/body, magical access and learned competence. Relational capabilities still require both persons.
 11. Natural Beasts may voluntarily grant blood/tissue/essence/developmental material, allowing a human to form a Matrix/Mark and possibly germinate a new life; success is not guaranteed.
+12. Reaching maturity may create the capacity for autonomous birth without proving that incarnation must occur immediately; delayed/optional birth remains a CE-05 fork.
+13. Post-birth morphology may be asymmetric: the Beast can possess biological humanoid↔bestial forms, while the human retains Magic-Beast-Knight/War-Body-like capabilities without automatically becoming the complete biological Beast.
+14. Future explanations should open with an executive summary/table and concrete scene, then expose technical theory in layers.
+15. A confused but explicit `do not forget` passage raises a possible direct-grant/purity seed for the Oceanic Sovereign/master; preserve as PARKED, not biography or canon.
 
 ## Regeneration — explicit author direction
 
@@ -90,10 +96,13 @@ The author explicitly requests a professional creative-production workflow that:
 - exact true-death threshold;
 - exact anti-regeneration mechanisms;
 - whether somatic Convergence ever occurs;
-- exact hierarchy/taxonomy of regenerative competence.
+- exact hierarchy/taxonomy of regenerative competence;
+- whether autonomous incarnation is immediate/obligatory at maturity or may be delayed voluntarily;
+- exact post-birth morphology asymmetry between generated Beast and formative human;
+- Oceanic Sovereign direct-grant/purity seed.
 
 ## Provenance incident
 
-The incorrect attribution of a mixed/temporary biological soma demonstrates a failure in forward/backward traceability. It must be recorded as a provenance regression and used as a validation case for the revised workflow.
+The incorrect attribution of a mixed/temporary biological soma demonstrates a failure in forward/backward traceability. It must be recorded as a provenance regression and used as a validation case for the revised workflow. Pass 43 additionally records the failure to archive the visible exchange verbatim before compaction.
 
 **PROMOTED:** nothing.
