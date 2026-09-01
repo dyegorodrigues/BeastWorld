@@ -1,18 +1,21 @@
 {
   "schema_version": 1,
   "session_id": "BW-SESSION-2026-09-01-002",
-  "status": "VERIFYING",
+  "status": "CLOSED",
   "lifecycle_completed": [
     "CAPTURED",
     "COVERED",
     "MODELED",
     "RECONCILED",
     "HOT-UPDATED",
-    "NOTION-LINKED"
+    "NOTION-LINKED",
+    "VERIFIED",
+    "SYNCED",
+    "AUDITED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
   "active_cluster": "Core Engine v0.9",
-  "active_gate": "CE-04 Regeneration, Injury, Continuity and True Death",
+  "active_gate": "CE-05 Autonomous Incarnation, Mass Economy and Biological Transformation",
   "source_records": [
     "docs/08_sources/conversations/2026-09-01-author-regeneration-incarnation-context-workflow-source-record.md"
   ],
@@ -33,5 +36,5 @@
   ],
   "promoted": false,
   "known_drift": [],
-  "next_action": "Run automated and manual integrity gates, record the final Git HEAD in the Notion Session and Sync Ledger, and close the session receipt."
+  "next_action": "Resume at CE-05: test the definitive humanoid birth body, matter/mass acquisition, and stable biological humanoid↔bestial transformation without reintroducing a temporary biological soma."
 }
