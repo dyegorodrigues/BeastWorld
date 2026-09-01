@@ -1,12 +1,18 @@
 {
   "schema_version": 2,
   "session_id": "BW-SESSION-2026-09-01-003",
-  "status": "IN_PROGRESS",
+  "status": "CLOSED",
   "lifecycle_completed": [
     "RAW-ARCHIVED",
     "CAPTURED",
     "COVERED",
-    "MODELED"
+    "MODELED",
+    "RECONCILED",
+    "HOT-UPDATED",
+    "NOTION-LINKED",
+    "VERIFIED",
+    "SYNCED",
+    "AUDITED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
   "active_cluster": "Core Engine v0.9",
@@ -36,8 +42,6 @@
   ],
   "source_fidelity": "RAW-AVAILABLE FOR PDF CAPTURED SPAN; historical scope outside span remains mixed",
   "promoted": false,
-  "known_drift": [
-    "Git/Notion active derivatives and workflow require reconciliation against recovered raw transcript"
-  ],
-  "next_action": "Commit raw transcript and Pass 43, reconcile active derivatives, update Notion, run cross-store integrity gates, close session 003, then resume CE-05."
+  "known_drift": [],
+  "next_action": "Resume CE-05: test immediate versus delayed autonomous birth, matter/mass economy and biological humanoid↔bestial transformation without temporary biological soma."
 }
