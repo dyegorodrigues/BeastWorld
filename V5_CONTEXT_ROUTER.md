@@ -1,5 +1,12 @@
 # BeastWorld — V5 Context Router
 
+## Current operational pointer — 01/09/2026
+
+Read `docs/00_governance/CURRENT_SESSION_POINTER.json` first for resumable state. For the active Core Engine cluster, then load the 01/09 source record, Passes 41–42, corrected Passes 39–40 and the current creative checkpoint. The Context Engineering OS v2 governs capture, provenance, supersession and closeout.
+
+Active gate: **autonomous incarnation / mass economy / biological transformation**, with CE-04 regeneration and human continuity anatomy still open. Status: **NOT-CANON / NOT-PROMOTED**.
+
+
 **Status:** GOVERNANCE / HOT MEMORY / NOT LORE  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
 **Atualizado:** 2026-08-31  
