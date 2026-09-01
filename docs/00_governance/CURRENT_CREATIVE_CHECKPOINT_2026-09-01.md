@@ -171,6 +171,25 @@ Cold evidence:
 
 **No promotion.**
 
+## CE-05 delta — autonomous birth, mass economy and biological transformation — Pass 44
+
+**Laboratory leader / not canon:** maturity opens a capacity for autonomous birth rather than forcing immediate separation. Birth timing remains elective, but indefinite host-protected maturity does not grant unlimited consequence-free growth: autonomous development stalls, host risks remain and full biological life requires handoff.
+
+The embodiment leader separates three operations:
+- birth/growth/repair import and organize real matter;
+- one autonomous biological organism can later reorganize between humanoid and bestial morphogenetic attractors;
+- finite field projection spends capacity while the true body remains elsewhere.
+
+Backstage economy now has three independent accounts: **matter/substrate**, **Quintessence capacity/flow** and **organization/control**. Direct energy-to-flesh conversion, transformation-as-healing and two spare interchangeable bodies are rejected as baseline.
+
+Near-equal transformations use ordinary redistribution, fluid/air volume and mutable tissue. Large size disparities currently lead with an explicitly supernatural but still OPEN hinge: **reentrant living anatomy / folded owned biomass**. It preserves one body and real material acquisition, but gravity, death remains, interruption, reproduction, anti-Quintessence zones and maximum scale require the next subpass.
+
+Human/Beast asymmetry remains: the generated Beast may become a dual-morph biological organism because human morphology participated in its ontogeny; the formative human retains Matrix/Mark, altered biology, partial traits and War-Body configurations without automatically becoming the full animal.
+
+Trace: `docs/09_reviews/chatgpt/2026-09-01/44_CORE_ENGINE_V0_9_CE05_AUTONOMOUS_BIRTH_MASS_ECONOMY_BIOLOGICAL_TRANSFORMATION.md`.
+
+**Nothing promoted.**
+
 ## Visual baseline
 - Current spectral/War-Body images are visual-development references, not approved designs.
 - Avoid franchise-wide `black armor + different glow color` skins.
@@ -180,7 +199,7 @@ Cold evidence:
 
 ## Workflow — current preferred sequence
 0. Source audit + coverage matrix.
-1. Core Engine v0.9 — **CE-01 to CE-04 now have laboratory leaders. Next gate: autonomous incarnation, mass economy and biological humanoid↔bestial transformation; human continuity anatomy remains an open sub-fork.**
+1. Core Engine v0.9 — **CE-01 to CE-05 now have laboratory leaders. Next subpass: reentrant living anatomy, gravity/inertia, death remains and interruption; human continuity anatomy remains an open sub-fork.**
 2. Eight character stress-tests.
 3. Three combat scene-proofs.
 4. Civilizational consequences.
@@ -189,7 +208,7 @@ Cold evidence:
 7. Naming / collision research / author decisions / selective canonization.
 
 ### Interaction rule
-The author should not be forced into long administrative decision trees. ChatGPT should orchestrate backstage, present concrete alternatives only at real forks, and keep the visible process enjoyable, narrative and comprehensible.
+The author should not be forced into long administrative decision trees. ChatGPT acts as coauthor, creative codirector, researcher, critical analyst, orchestrator, builder, archivist and governance/continuity operator. It should create and challenge alongside the author, orchestrate backstage, present concrete alternatives only at real forks, and keep the visible process enjoyable, narrative and comprehensible.
 
 **Visual-first rule added 01/09/2026:** when explaining a Core Engine block to the author, first show what happens to a person, Beast or scene in ordinary natural language. Technical labels (`CE-xx`, model letters, stress matrices, taxonomy) belong mainly backstage and should follow only when they clarify rather than obscure.
 
@@ -209,6 +228,8 @@ After `START_HERE_FOR_AI.md`, `V5_RECONCILIATION_STATE.md` and `V5_CONTEXT_ROUTE
 12. `docs/09_reviews/chatgpt/2026-09-01/42_CORE_ENGINE_V0_9_CE04_REGENERATION_INJURY_CONTINUITY_TRUE_DEATH.md`;
 13. `docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md`;
 14. `docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-source-record.md`;
-15. `docs/09_reviews/chatgpt/2026-09-01/43_BACKUP_RECOVERY_COVERAGE_AUDIT_CE01_CE04.md`.
+15. `docs/09_reviews/chatgpt/2026-09-01/43_BACKUP_RECOVERY_COVERAGE_AUDIT_CE01_CE04.md`;
+16. `docs/08_sources/conversations/2026-09-01-author-coauthor-archivist-ce05-continuation-source-record.md`;
+17. `docs/09_reviews/chatgpt/2026-09-01/44_CORE_ENGINE_V0_9_CE05_AUTONOMOUS_BIRTH_MASS_ECONOMY_BIOLOGICAL_TRANSFORMATION.md`.
 
-Then resume at the **autonomous incarnation / mass economy / biological transformation gate**, while keeping CE-04 and the human continuity fork open, unless the author supplies new source material first.
+Then resume at the **CE-05 reentrant-living-anatomy subpass: gravity/inertia, death remains, interrupted transformation, reproduction and maximum scale**, while keeping CE-04 and the human continuity fork open, unless the author supplies new source material first.
