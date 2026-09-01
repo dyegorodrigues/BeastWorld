@@ -1,5 +1,19 @@
 # RETOMADA — Porta de Entrada
 
+## ACTIVE V5 OVERRIDE — 01/09/2026
+
+The bootstrap instructions below remain historical governance context. Active creative work is on `chatgpt/beastworld-v5-reconciliation-2026-08-26`.
+
+Mandatory active read order:
+1. `START_HERE_FOR_AI.md`;
+2. `V5_RECONCILIATION_STATE.md`;
+3. `V5_CONTEXT_ROUTER.md`;
+4. `docs/00_governance/CURRENT_SESSION_POINTER.json`;
+5. only the routed WARM/COLD artifacts for the current gate.
+
+Do not merge or promote without explicit author authority. Current source/provenance correction and CE-04 remain `NOT-CANON / NOT-PROMOTED`.
+
+
 > **LATEST MAINTENANCE — 20/08/2026:** uma auditoria externa identificou drift real entre documentação, grafo e Notion. A manutenção subsequente está registrada em `docs/00_governance/MAINTENANCE_CHECKPOINT_2026-08-20.md`. Antes de qualquer novo bloco, leia também `INTEGRITY_GATES.md`, `EXTERNAL_AGENT_QUARANTINE.md` e, para criação, `CREATOR_COMPASS.md`. **Não interprete os drifts corrigidos como prova de que o lore inteiro estava errado.**
 
 ## Reancoragem obrigatória
