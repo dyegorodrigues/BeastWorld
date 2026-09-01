@@ -20,6 +20,23 @@ The 155 KB extracted transcript is **COLD/on-demand**: load it only for exact wo
 
 Nothing is promoted.
 
+## CE-05 active override — 01/09/2026 — Pass 44
+
+CE-05 now has a laboratory leader, still `NOT-CANON / NOT-PROMOTED`:
+
+- mature continuity gains capacity for elective autonomous birth; remaining host-protected has real developmental tradeoffs rather than an arbitrary instant deadline;
+- definitive birth constructs one biological organism at efficient humanoid scale from real matter;
+- post-birth humanoid↔bestial forms belong to one dual-morph organism; injury and death remain shared across the body map;
+- three-account economy: matter/substrate, Quintessence capacity/flow, organization/control;
+- direct energy-to-flesh conversion and transformation-as-healing are rejected as baseline;
+- large mass differences currently lead with an OPEN `reentrant living anatomy / folded owned biomass` hinge;
+- human/Beast morphology remains asymmetric;
+- ChatGPT's operational role includes coauthor, creative codirector, researcher, analyst, orchestrator, builder, archivist and governance/continuity operator.
+
+Next subpass: gravity/inertia, death remains, interrupted transformation, reproduction, anti-Quintessence interaction and maximum scale.
+
+Trace: `docs/09_reviews/chatgpt/2026-09-01/44_CORE_ENGINE_V0_9_CE05_AUTONOMOUS_BIRTH_MASS_ECONOMY_BIOLOGICAL_TRANSFORMATION.md`.
+
 ## Active override — 01/09/2026 — Passes 41–42
 
 A source-provenance audit corrected Passes 39–40 and Notion Laboratory 13. The author did **not** propose a mixed body or temporary biological soma. Active direction:
