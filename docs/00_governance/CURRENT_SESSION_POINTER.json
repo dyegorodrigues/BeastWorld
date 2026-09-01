@@ -1,47 +1,42 @@
 {
   "schema_version": 2,
-  "session_id": "BW-SESSION-2026-09-01-003",
-  "status": "CLOSED",
+  "session_id": "BW-SESSION-2026-09-01-004",
+  "status": "IN_PROGRESS",
   "lifecycle_completed": [
     "RAW-ARCHIVED",
     "CAPTURED",
-    "COVERED",
     "MODELED",
     "RECONCILED",
-    "HOT-UPDATED",
-    "NOTION-LINKED",
-    "VERIFIED",
-    "SYNCED",
-    "AUDITED"
+    "HOT-UPDATED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
   "active_cluster": "Core Engine v0.9",
-  "active_gate": "CE-05 Autonomous Incarnation, Mass Economy and Biological Transformation",
+  "active_gate": "CE-05 Reentrant Living Anatomy: Gravity, Death Remains, Interruption, Reproduction and Maximum Scale",
   "raw_transcripts": [
-    "docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-extraction.txt",
-    "docs/08_sources/conversations/2026-09-01-session-003-backup-recovery-visible-transcript.md"
+    "docs/08_sources/conversations/2026-09-01-session-004-ce05-visible-transcript.md"
   ],
   "source_records": [
-    "docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-source-record.md",
-    "docs/08_sources/conversations/2026-09-01-author-regeneration-incarnation-context-workflow-source-record.md"
+    "docs/08_sources/conversations/2026-09-01-author-coauthor-archivist-ce05-continuation-source-record.md"
   ],
   "passes": [
-    "docs/09_reviews/chatgpt/2026-09-01/43_BACKUP_RECOVERY_COVERAGE_AUDIT_CE01_CE04.md"
+    "docs/09_reviews/chatgpt/2026-09-01/44_CORE_ENGINE_V0_9_CE05_AUTONOMOUS_BIRTH_MASS_ECONOMY_BIOLOGICAL_TRANSFORMATION.md"
   ],
   "reconciled_artifacts": [
-    "docs/09_reviews/chatgpt/2026-09-01/39_AUTHOR_DELTA_MATERIALIZATION_ALCHEMICAL_BODY_CORE_MATURATION.md",
-    "docs/09_reviews/chatgpt/2026-09-01/41_AUTHOR_CORRECTIONS_REGENERATION_INCARNATION_PROJECTION_CONVERGENCE.md",
     "docs/00_governance/CURRENT_CREATIVE_CHECKPOINT_2026-09-01.md",
-    "docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md"
+    "docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md",
+    "V5_RECONCILIATION_STATE.md",
+    "V5_CONTEXT_ROUTER.md"
   ],
   "notion_targets": [
     "V5 Ponte de Reconciliação",
     "Source Library",
-    "Backup Recovery Audit",
+    "Laboratory 15 CE-05",
     "Session and Sync Ledger"
   ],
-  "source_fidelity": "RAW-AVAILABLE FOR PDF CAPTURED SPAN; historical scope outside span remains mixed",
+  "source_fidelity": "RAW-AVAILABLE FOR SESSION 004 VISIBLE SUBSTANTIVE MESSAGES",
   "promoted": false,
-  "known_drift": [],
-  "next_action": "Resume CE-05: test immediate versus delayed autonomous birth, matter/mass economy and biological humanoid↔bestial transformation without temporary biological soma."
+  "known_drift": [
+    "Notion CE-05 laboratory/source/ledger and final session transcript/closeout still pending"
+  ],
+  "next_action": "Create Notion CE-05 comparison lab and source record; append final answer; close and audit session 004; then resume the reentrant-living-anatomy subpass."
 }
