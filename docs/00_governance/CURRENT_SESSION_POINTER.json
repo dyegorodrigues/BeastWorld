@@ -12,7 +12,8 @@
   "active_cluster": "Core Engine v0.9",
   "active_gate": "CE-05 Autonomous Incarnation, Mass Economy and Biological Transformation",
   "raw_transcripts": [
-    "docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-extraction.txt"
+    "docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-extraction.txt",
+    "docs/08_sources/conversations/2026-09-01-session-003-backup-recovery-visible-transcript.md"
   ],
   "source_records": [
     "docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-source-record.md",
