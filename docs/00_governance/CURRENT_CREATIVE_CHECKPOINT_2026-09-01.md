@@ -1,6 +1,7 @@
 # BeastWorld — Current Creative Checkpoint — 01/09/2026
 
 **Status:** STRONG DIRECTION / RESEARCH BASELINE / NOT-CANON
+**Branch ativa:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`
 
 ## Directional precedence
 The author explicitly states that the current `Living World + martial magic + Beast Soul + reciprocal evolution` direction is preferred over earlier incompatible models and should **not be silently regressed** in ongoing work. Older material remains preserved as provenance, but must be labeled historical/obsolete-for-current-pass where it conflicts with this checkpoint.
@@ -83,20 +84,25 @@ Current laboratory direction:
 - compatible ambient Quintessence is a bounded input, not an infinite plug;
 - body/manifestation state must always be explicit when discussing cost.
 
-### Materialization correction — Pass 39
-The strongest current synthesis separates three axes:
-1. **embodiment density:** field/spectral → dense spectral → mixed/substantial → alchemically materialized temporary soma → stable living soma;
-2. **morphology:** partial organ/limb, bestial, humanoid/warrior, social compressed, Convergence/War-Body;
-3. **developmental autonomy:** host-anchored germinal identity → stable protected Core → advanced host-anchored Core → autonomous Core housed in Beast’s own body → post-host free/ancestral life.
+### Materialization correction — Passes 39 and 41
 
-A spectral body can physically interact through supernatural Quintessence–matter coupling without ordinary organs. A mixed/alchemical body can recruit water, carbon, salts, minerals, organic matter and lineage/environment-specific substrate into temporary soma. A fully corporeal soma may still be reconstructible while identity/Core remains safely host-anchored. At autonomous maturation, the Beast becomes self-housed and existentially independent.
+The author explicitly rejected the inferred intermediate regimes `mixed body` and `temporary biological soma`. The corrected architecture separates:
 
-Core reconciliation under test: **identity may begin distributed and later condense from a microscopic seed/condensate into a mature portable Core.** Exact anatomy remains open; do not lock pineal/heart/chest without a later test.
+1. **pre-birth manifestation intensity:** light field/spectral ↔ dense field/spectral;
+2. **morphology:** bestial ↔ humanoid/warrior, selected horizontally by function and preference;
+3. **developmental autonomy:** host-protected continuity → complete autonomous biological organism.
 
-### Human reciprocal-Core fork — OPEN
-- H0: no separate human Core; permanent evolution + longevity only.
-- H1: rare human coherence-kernel enabling extreme regeneration/longevity but not postmortem resurrection.
-- H2: exceptional reciprocal mature Core allowing body reconstruction after death if Core survives and enormous time/resources are available.
+Before autonomous birth, the generated Beast expresses field bodies. They can exert real force and spend finite stored/transferred/ambiently gathered capacity, but they do not leave a biological corpse when coherence is lost. The end of the developmental cycle is a **regime change**, not one more density step: one definitive biological body is constructed, initially at an efficient humanoid scale. The autonomous Beast later learns stable biological humanoid↔bestial transformation through adaptation, matter acquisition and regulation; exact mass accounting remains open.
+
+After birth, the true organism does not become a ghost. It may emit a finite field projection/avatar while its biological body remains elsewhere. This is remote action, not disembodiment. Routine post-birth reintegration into the former host is removed; any future somatic Convergence is parked as an exceptional late-saga hypothesis.
+
+Core reconciliation under test: identity may begin distributed and later condense into a mature continuity organ/function. Exact anatomy remains open; do not lock pineal/heart/chest without a later test.
+
+### Human continuity fork — OPEN
+
+- H0: no separate human continuity organ; permanent Matrix/Mark evolution and graded regeneration operate while the living neural/biological network remains viable.
+- H1: a rare human continuity condensate/anchor survives some otherwise fatal bodily destruction. This is a working hypothesis; whether it is ontologically the same as a Beast Core remains unresolved.
+- H2: exceptional reciprocal maturation permits reconstruction of the human body if that anchor survives and the Beast sustains it through enormous time, matter and sanctuary resources. This is not resurrection after completed death: continuity never finished breaking.
 
 H2 is high-risk for death stakes and is not baseline.
 
@@ -113,7 +119,7 @@ Current leader:
 
 Two links must not be conflated:
 - **tactical bond:** shared senses, intention, coordination, active resource transfer and Convergence; high-bandwidth and distance/interference sensitive;
-- **existential root:** only for generated Beasts whose Core remains developmentally protected through the human; maintains continuity between protected identity and external soma.
+- **existential root:** only for generated Beasts whose Core remains developmentally protected through the human; maintains continuity between protected identity and external field manifestation.
 
 Default degradation tendency under distance:
 1. micro-synchrony degrades;
@@ -127,6 +133,24 @@ No universal metre radius is promoted. Manifestation type, maturity, training, l
 
 **CE-03 = `LEADER IDENTIFIED / NOT CLOSED / NOT PROMOTED`.**
 
+## CE-04 delta — regeneration, injury, continuity and true death — 01/09/2026
+
+Full review: `docs/09_reviews/chatgpt/2026-09-01/42_CORE_ENGINE_V0_9_CE04_REGENERATION_INJURY_CONTINUITY_TRUE_DEATH.md`.
+
+Regeneration is now modeled as a graded biological-supernatural competence, not a binary spell and not a numeric mana bar. It requires enough of six things: continuity, positional pattern, competent tissue/interface, regulation, material substrate and capacity/time.
+
+Current laboratory direction:
+- minor tissue/vascular/bone damage may repair automatically and visibly in developed marked humans;
+- complex organs and small peripheral structures require greater maturity and recovery;
+- full limbs and major organs may regenerate only at exceptional levels, slowly and with protected rest, biomass, minerals, Quintessence, healers and/or Sanctuary support;
+- donor Matrix quality/compatibility matters, but does not guarantee success; ritual quality, integration, training and resources remain causal;
+- pattern-severing, resonance interference, hostile fixation/corruption, substrate denial, damage rate and central-network interruption can stall or defeat regeneration;
+- partial brain injury may be survivable at the apex while continuity and control remain; complete destruction of the continuity-bearing central network is normally true death unless the rare human-anchor fork is later validated.
+
+`High coherence` is backstage explanatory language, not a proposed rank or public-facing power tier. `Fôlego` remains an intelligible explanatory placeholder, not final martial terminology.
+
+**CE-04 = `LEADER MODELED / NOT CLOSED / NOT PROMOTED`.**
+
 ## Visual baseline
 - Current spectral/War-Body images are visual-development references, not approved designs.
 - Avoid franchise-wide `black armor + different glow color` skins.
@@ -136,7 +160,7 @@ No universal metre radius is promoted. Manifestation type, maturity, training, l
 
 ## Workflow — current preferred sequence
 0. Source audit + coverage matrix.
-1. Core Engine v0.9 — **CE-01, CE-02 and CE-03 now have laboratory leaders. Next gate: destruction, reconstruction, Core placement and true death, including the human reciprocal-Core fork.**
+1. Core Engine v0.9 — **CE-01 to CE-04 now have laboratory leaders. Next gate: autonomous incarnation, mass economy and biological humanoid↔bestial transformation; human continuity anatomy remains an open sub-fork.**
 2. Eight character stress-tests.
 3. Three combat scene-proofs.
 4. Civilizational consequences.
@@ -159,6 +183,10 @@ After `START_HERE_FOR_AI.md`, `V5_RECONCILIATION_STATE.md` and `V5_CONTEXT_ROUTE
 6. `docs/09_reviews/chatgpt/2026-09-01/37_CORE_ENGINE_V0_9_CE02_COUPLING_ENERGETICS_STRESS_TEST.md`;
 7. `docs/09_reviews/chatgpt/2026-09-01/38_CE02_AUTHOR_CORRECTIONS_MANIFESTATION_REINTEGRATION_AUTONOMY.md`;
 8. `docs/09_reviews/chatgpt/2026-09-01/39_AUTHOR_DELTA_MATERIALIZATION_ALCHEMICAL_BODY_CORE_MATURATION.md`;
-9. `docs/09_reviews/chatgpt/2026-09-01/40_CORE_ENGINE_V0_9_CE03_DISTANCE_TETHER_AUTONOMY_STRESS_TEST.md`.
+9. `docs/09_reviews/chatgpt/2026-09-01/40_CORE_ENGINE_V0_9_CE03_DISTANCE_TETHER_AUTONOMY_STRESS_TEST.md`;
+10. `docs/08_sources/conversations/2026-09-01-author-regeneration-incarnation-context-workflow-source-record.md`;
+11. `docs/09_reviews/chatgpt/2026-09-01/41_AUTHOR_CORRECTIONS_REGENERATION_INCARNATION_PROJECTION_CONVERGENCE.md`;
+12. `docs/09_reviews/chatgpt/2026-09-01/42_CORE_ENGINE_V0_9_CE04_REGENERATION_INJURY_CONTINUITY_TRUE_DEATH.md`;
+13. `docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md`.
 
-Then resume at the **destruction / reconstruction / Core placement / true-death gate** unless the author supplies new source material first.
+Then resume at the **autonomous incarnation / mass economy / biological transformation gate**, while keeping CE-04 and the human continuity fork open, unless the author supplies new source material first.
