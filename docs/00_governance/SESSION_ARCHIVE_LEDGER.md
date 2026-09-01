@@ -60,6 +60,6 @@ Se o projeto utilizar o `BEASTWORLD — Session & Sync Ledger` no Notion, este a
 
 | Session ID | Scope | Branch | Fidelity | Lifecycle | Canon change | Notes |
 |---|---|---|---|---|---|---|
-| BW-SESSION-2026-09-01-003 | Recover 71-page CE-01→CE-04 conversation backup; reconcile active derivatives and raw-capture policy | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | RAW-AVAILABLE FOR CAPTURED SPAN | RAW-ARCHIVED / CAPTURED / COVERED / MODELED / RECONCILING | no | PDF SHA-256 `fee99baca17a5e37287c10681667165944011652e6d915728c7689bc104c2bb6`; exact span/limits in source manifest. |
+| BW-SESSION-2026-09-01-003 | Recover 71-page CE-01→CE-04 conversation backup; reconcile active derivatives and raw-capture policy | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | RAW-AVAILABLE FOR CAPTURED SPAN | RAW-ARCHIVED / CAPTURED / COVERED / MODELED / RECONCILED / HOT-UPDATED / NOTION-LINKED / VERIFIED / SYNCED / AUDITED | no | PDF SHA-256 `fee99baca17a5e37287c10681667165944011652e6d915728c7689bc104c2bb6`; exact span/limits in source manifest. |
 
 Session 003 supersedes the **fidelity classification only** for the CE-01→CE-04 visible span previously summarized in sessions 001–002. It does not rewrite their historical lifecycle or claim recovery outside the PDF.
