@@ -1,6 +1,23 @@
 # BeastWorld — V5 Context Router
 
 
+## CE-05 active route — Pass 44
+
+HOT: current session pointer + current creative checkpoint.  
+WARM: Pass 44, with Passes 39/41–43 and CE-04 as immediate dependencies.  
+COLD: session 003 recovered transcript and session 004 visible transcript; load only for exact wording/provenance.
+
+Current leader:
+- elective autonomous birth under developmental tension;
+- definitive biological organism first at humanoid-efficient scale;
+- one dual-morph biological body, not two bodies and not post-birth ghosting;
+- mass/substrate + capacity/flow + organization/control kept separate;
+- large form disparity uses an OPEN reentrant-living-anatomy hinge.
+
+Next retrieval target: M4 gravity/inertia, death remains, interruption, reproduction, anti-Quintessence and maximum scale.
+
+Status: `NOT-CANON / NOT-PROMOTED`.
+
 ## Raw recovery route — Pass 43
 
 HOT: `docs/00_governance/CURRENT_SESSION_POINTER.json` (session 003).  
