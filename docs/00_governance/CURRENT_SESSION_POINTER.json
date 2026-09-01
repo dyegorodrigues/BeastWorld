@@ -1,11 +1,14 @@
 {
   "schema_version": 1,
   "session_id": "BW-SESSION-2026-09-01-002",
-  "status": "IN_PROGRESS",
+  "status": "VERIFYING",
   "lifecycle_completed": [
     "CAPTURED",
     "COVERED",
-    "MODELED"
+    "MODELED",
+    "RECONCILED",
+    "HOT-UPDATED",
+    "NOTION-LINKED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
   "active_cluster": "Core Engine v0.9",
@@ -29,9 +32,6 @@
     "Session and Sync Ledger"
   ],
   "promoted": false,
-  "known_drift": [
-    "Legacy generic HANDOFF/RETOMADA entrypoints require a V5 override",
-    "Session and interaction ledgers require V5 catch-up entries"
-  ],
-  "next_action": "Complete GitHub and Notion synchronization, run integrity gates, and close the session receipt."
+  "known_drift": [],
+  "next_action": "Run automated and manual integrity gates, record the final Git HEAD in the Notion Session and Sync Ledger, and close the session receipt."
 }
