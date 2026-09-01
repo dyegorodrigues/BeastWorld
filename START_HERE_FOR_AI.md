@@ -1,5 +1,12 @@
 # BeastWorld — START HERE FOR AI
 
+## Current V5 resumable pointer — 01/09/2026
+
+If working on branch `chatgpt/beastworld-v5-reconciliation-2026-08-26`, the current HOT entry is `docs/00_governance/CURRENT_SESSION_POINTER.json`. Then read `V5_RECONCILIATION_STATE.md`, `V5_CONTEXT_ROUTER.md` and only the routed active cluster. Capture/sync/closeout follows `docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md`.
+
+The generic historical HANDOFF/RETOMADA files do not override this V5 route.
+
+
 > Porta universal de onboarding para qualquer IA/agente externo que entre no projeto.
 >
 > **Não confie em memória de chats anteriores. Reancore no estado remoto atual. Rascunho não é cânone. Hipótese não vira verdade por repetição.**
