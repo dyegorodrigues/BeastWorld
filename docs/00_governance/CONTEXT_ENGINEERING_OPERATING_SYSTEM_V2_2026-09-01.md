@@ -1,6 +1,7 @@
 # BeastWorld — Context Engineering Operating System v2 — 01/09/2026
 
 **Status:** WORKING-GOVERNANCE / ACTIVE PROCESS  
+**Revision:** v2.1 raw-transcript amendment after PDF recovery  
 **Scope:** conversations, research, creative models, GitHub, Notion, handoffs and canonization  
 **Trigger:** D3 provenance regression discovered in Passes 39–40 (`mixed/temporary biological soma` attributed to the author without source support).
 
@@ -56,6 +57,8 @@ ADR, decision record, Bible, promoted entity/graph/timeline. Nothing arrives her
 
 ## 4. Atomic closeout transaction
 
+A substantive wave cannot begin at `CAPTURED` if visible raw messages were technically available. It first passes `RAW-ARCHIVED`: each author message and substantive assistant response is preserved verbatim in an append-only transcript batch or receives an explicit unavailable/partial fidelity label.
+
 Every substantive wave follows:
 
 ```text
@@ -76,17 +79,18 @@ If interrupted, `CURRENT_SESSION_POINTER.json` records the last completed state 
 
 Minimum for a substantive creative round:
 
-1. `docs/08_sources/conversations/<date>-<topic>-source-record.md`;
-2. `docs/09_reviews/chatgpt/<date>/<NN>_<DELTA_OR_GATE>.md`;
-3. coverage matrix inside the pass or a dedicated file;
-4. update to `CURRENT_CREATIVE_CHECKPOINT` only when the active baseline changed;
-5. update to `V5_CONTEXT_ROUTER` and `V5_RECONCILIATION_STATE` reading order;
-6. Session Archive Ledger row;
-7. Notion Source Library record;
-8. Notion lab/source page and Session & Sync Ledger record;
-9. integrity receipt with branch, HEAD, files and exact lifecycle claims.
+1. append-only raw transcript/export containing every visible author message and substantive assistant response available for the wave;
+2. `docs/08_sources/conversations/<date>-<topic>-source-record.md` with hash/fidelity/backlink to raw evidence;
+3. `docs/09_reviews/chatgpt/<date>/<NN>_<DELTA_OR_GATE>.md`;
+4. coverage matrix inside the pass or a dedicated file;
+5. update to `CURRENT_CREATIVE_CHECKPOINT` only when the active baseline changed;
+6. update to `V5_CONTEXT_ROUTER` and `V5_RECONCILIATION_STATE` reading order;
+7. Session Archive Ledger row;
+8. Notion Source Library record;
+9. Notion lab/source page and Session & Sync Ledger record;
+10. integrity receipt with branch, HEAD, files and exact lifecycle claims.
 
-Visible AI answers do not all need a full standalone archive. Preserve them when they contain structural reasoning, naming decisions, rejected alternatives or explanatory language likely to be reused. Routine acknowledgements can remain only in the conversation.
+Every substantive visible AI answer must be preserved verbatim alongside the author messages it answers. This includes structural reasoning, examples, rejected alternatives, explanations and operational commitments. Routine tool-progress commentary or acknowledgements may be omitted only when they contain no substantive reasoning or commitment. A summary/pass never substitutes for this raw layer.
 
 ## 6. Delta-first capture
 
@@ -146,6 +150,7 @@ The objective is not maximal context. It is maximal **relevant, trustworthy cont
 `scripts/verify_context_integrity_v2.py` checks at minimum:
 
 - required entrypoints exist;
+- `raw_transcripts` in the current pointer resolve and are non-empty for sessions claiming `RAW-ARCHIVED`;
 - current pointer paths resolve;
 - V5 branch appears in active entry documents;
 - the current session appears in the Git ledger;
@@ -172,6 +177,7 @@ CI should run this on relevant pushes/PRs. It does not replace human semantic au
 
 Always report the scope:
 
+- `RAW-ARCHIVED`: available visible author/substantive-assistant messages are durably preserved with explicit span and fidelity;
 - `CAPTURED`: source record exists;
 - `COVERED`: atomic items traced;
 - `MODELED`: pass/lab exists;
@@ -181,3 +187,13 @@ Always report the scope:
 - `PROMOTED`: status changed through explicit authority.
 
 Never claim “everything is saved/perfect”.
+
+
+## 13. Recovery amendment — session 003
+
+The 71-page source `BW-SRC-TRANSCRIPT-2026-09-01-CE01-CE04-PDF-01` demonstrated that derived passes can be semantically strong while raw conversational fidelity is still missing. Future closure must therefore report two independent dimensions:
+
+1. **semantic coverage** — were ideas modeled/traced?;
+2. **raw fidelity** — can the exact visible exchange be recovered?
+
+Neither dimension substitutes for the other. The author must not be required to recreate an available transcript manually again.
