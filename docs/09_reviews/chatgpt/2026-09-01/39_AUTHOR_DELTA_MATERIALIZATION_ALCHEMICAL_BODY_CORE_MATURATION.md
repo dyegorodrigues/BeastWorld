@@ -15,7 +15,7 @@
 5. The persistent bond itself is low-cost. Major cost belongs to forming/densifying a field body, combat, remote projection, active support, repair and reconstruction.
 6. Generated Beast development is reciprocal: the human gains permanent interface/body/sensory/magical changes; the Beast gains human plasticity, cognition, language, culture, martial knowledge and a path toward autonomous life.
 7. The author visualizes a growing bestial Core beginning extremely small and maturing while protected within/through the human. Exact anatomy remains unresolved.
-8. At full maturation, the Beast constructs a **definitive biological body**, initially in an efficient humanoid scale/form, and transfers/houses its mature continuity/Core in that organism. This ends existential dependence on the host.
+8. At full maturation, the Beast becomes capable of a **definitive biological birth**, initially in an efficient humanoid scale/form, and can transfer/house its mature continuity/Core in that organism. This ends existential dependence on the host. The recovered raw source reopens whether birth is immediate/obligatory at the threshold or may be deliberately delayed.
 9. The newly born autonomous Beast then adapts to its body and develops the capacity to transition between biological humanoid and biological bestial forms. Exact mass storage/recruitment/accounting remains an open gate.
 10. After autonomous maturation, body destruction is qualitatively more dangerous because the identity anchor is no longer safely housed in the human.
 11. A mature autonomous Beast does not dissolve its true organism into a ghost. It can, however, allocate a limited reserve to a remote field manifestation/avatar for a task while its biological body remains elsewhere.
@@ -49,6 +49,7 @@ Bestial and humanoid field morphologies are horizontal, task-dependent modulatio
 - nascent identity deeply host-anchored;
 - stable host-protected identity/Core;
 - advanced host-anchored identity capable of long external field operation;
+- maturity threshold / capability for definitive biological birth;
 - definitive autonomous biological incarnation, initially humanoid/efficient;
 - development of stable biological bestial↔humanoid transition;
 - post-host free/ancestral life.
@@ -61,12 +62,13 @@ This preserves the author’s comparison to a physically effective spectral comb
 
 ## 4. Definitive autonomous incarnation
 
-At developmental completion, the Beast and its human/ritual specialists build a true living organism. Current author direction:
+At or after developmental completion, the Beast and its human/ritual specialists can build a true living organism through a deliberate birth event. Current author direction:
 - it is constructed deliberately rather than exploding into giant flesh;
 - it begins at an efficient humanoid scale/form;
 - it contains the Beast’s own mature continuity/Core;
 - it can metabolize, heal, sleep, learn, travel, reproduce if applicable and die;
-- autonomy is a birth, not a higher-density combat summon.
+- autonomy is a birth, not a higher-density combat summon;
+- whether a mature host-protected Beast may delay this birth for further protected development is OPEN for CE-05.
 
 The organism later develops the capacity to assume its biological bestial form. Exact mechanism for large mass differences is unresolved and must receive its own conservation/logistics stress-test rather than being hidden under `magic`.
 
@@ -99,7 +101,8 @@ Exact anatomy remains OPEN. Do not lock the Core to pineal, heart or chest witho
 - CE-02 must use **field body → definitive autonomous biological incarnation**, not field → mixed → temporary biological soma.
 - CE-03 must replace every `mixed/alchemical soma` reference with dense/locally sustained field manifestation.
 - CE-04 must test injury, regeneration, interference, Core preservation and true death.
-- biological humanoid↔bestial mass transition needs a later dedicated gate.
+- biological humanoid↔bestial mass transition needs a later dedicated gate;
+- CE-05 must compare immediate/obligatory birth against delayed/voluntary autonomous incarnation.
 - post-autonomy somatic Convergence remains PARKED / apex-only hypothesis.
 
 **No canon promotion.**
