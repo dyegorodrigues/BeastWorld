@@ -50,6 +50,31 @@ The draconic-libido idea works best as **one embodied cost/temperamental pressur
 
 The Phoenix relationship is strongest if the attraction is not merely visual. She should be powerful enough to refuse, challenge, embarrass or outmaneuver him; her age, memory and nonhuman perspective should create real relational asymmetry and narrative value.
 
+## CE-01 delta — ontogeny and identity stress-test — 01/09/2026
+
+`CE-01` is explicitly a **gate**, not a canonized chain. Full review: `docs/09_reviews/chatgpt/2026-09-01/36_CORE_ENGINE_V0_9_CE01_ONTOGENY_IDENTITY_STRESS_TEST.md`.
+
+Three implementations were compared:
+- `A — Distributed Developmental Grammar`;
+- `B — Living-World-mediated Triadic Co-germination`;
+- `C — Latent Bestial Propagule`.
+
+Current result:
+- **A\*** is the laboratory leader, not canon: Matrix as real/degradable carrier of bestial developmental-resonant grammar; Mark as distributed living interface/developmental niche; Germination as transition to a self-maintaining new organism; Core as identity/continuity function that need not be a permanent physical gem.
+- retain from B the Living World as ecological signature/medium, but do **not** make it an individual destiny judge that assigns souls;
+- retain from C materiality/viability of the Matrix, but do **not** make the Matrix a hidden embryo/person ready to awaken.
+- new life may begin dependent and pre-linguistic/reflexive; complex personality, autobiographical memory and operational autonomy can mature rather than arriving preloaded.
+- voluntary living grant can differ causally because the donor actively stabilizes/aligns the material; avoid “moral universe” or purity-percent mechanics.
+- external references are collision/red-team tools only; they do not have authority to prune a stronger original BeastWorld solution.
+
+### Open Director fork preserved
+The ancestral Core/remnant remains unresolved:
+- `D1 scaffold incomplete` — current leader: architecture/echoes remain but old person no longer persists;
+- `D2 dormant person` — would be re-partnering/return of the ancestor and conflicts with current new-person baseline unless explicitly reopened;
+- `D3 threshold remnant` — partial memory/sensory echoes without intact old person; viable but needs strict rules.
+
+**No author decision is required yet.** CE-01 is `LEADER IDENTIFIED / NOT CLOSED / NOT PROMOTED`. It must survive energy, tether, externalization, reconstruction and true-death tests.
+
 ## Visual baseline
 - Current spectral/War-Body images are visual-development references, not approved designs.
 - Avoid franchise-wide `black armor + different glow color` skins.
@@ -59,7 +84,7 @@ The Phoenix relationship is strongest if the attraction is not merely visual. Sh
 
 ## Workflow — current preferred sequence
 0. Source audit + coverage matrix.
-1. Core Engine v0.9.
+1. Core Engine v0.9 — **CE-01 now has a laboratory leader; next sub-gate is CE-02 Conservation and Economy of Coupling**.
 2. Eight character stress-tests.
 3. Three combat scene-proofs.
 4. Civilizational consequences.
@@ -75,6 +100,7 @@ After `START_HERE_FOR_AI.md`, `V5_RECONCILIATION_STATE.md` and `V5_CONTEXT_ROUTE
 1. `docs/09_reviews/chatgpt/2026-08-31/33_MAGIC_BEAST_WARRIORS_KNIGHTS_PDF_DEEP_INTEGRATION.md`
 2. `docs/09_reviews/chatgpt/2026-08-31/35_PDF_FINAL_GAP_AUDIT_AND_NEXT_WORKFLOW.md`
 3. `docs/00_governance/SOURCE_COVERAGE_AND_FIDELITY_PROTOCOL_2026-09-01.md`
-4. this checkpoint.
+4. this checkpoint;
+5. `docs/09_reviews/chatgpt/2026-09-01/36_CORE_ENGINE_V0_9_CE01_ONTOGENY_IDENTITY_STRESS_TEST.md`.
 
-Then resume with Core Engine v0.9 unless the author supplies new source material first.
+Then resume at **CE-02 — Conservation and Economy of Coupling** unless the author supplies new source material first.
