@@ -1,0 +1,32 @@
+name: Context integrity
+
+on:
+  pull_request:
+    paths:
+      - "START_HERE_FOR_AI.md"
+      - "V5_*.md"
+      - "docs/00_governance/**"
+      - "docs/08_sources/**"
+      - "docs/09_reviews/**"
+      - "scripts/verify_context_integrity_v2.py"
+  push:
+    paths:
+      - "START_HERE_FOR_AI.md"
+      - "V5_*.md"
+      - "docs/00_governance/**"
+      - "docs/08_sources/**"
+      - "docs/09_reviews/**"
+      - "scripts/verify_context_integrity_v2.py"
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/verify_context_integrity_v2.py
