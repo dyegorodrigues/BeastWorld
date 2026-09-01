@@ -19,7 +19,7 @@ This is not automatic CANON promotion. It is the preferred baseline for the next
 - External Beast, partial/spectral embodiment, bestial body, possible humanoid/warrior external morphology, internal Animalidade and host Convergence/War-Body are separate configurations/axes, not one universal level ladder.
 - Fôlego is user-facing language for coupled metabolic, neural and resonant limits; no mana-bar logic.
 - Externalized Beast can possess reserve/ambient sustain; reintegration may transfer remaining usable capacity but cannot create free energy.
-- Tether/range, reconstruction after destruction, true death/Core integrity and energy conservation remain Gate 1 mechanics.
+- Tether/range, reconstruction after destruction and true death/Core integrity remain Gate 1 mechanics.
 - Primordials are being stress-tested as sapient high-order manifestations/interfaces of the Living Star, not simple elemental batteries.
 - Human–Beast reciprocal evolution is the leading rationale for why Primordials may have initiated founder rituals.
 - Other Living Worlds/Fissures remain later-saga horizon; local BeastWorld identity must stabilize first.
@@ -75,6 +75,36 @@ The ancestral Core/remnant remains unresolved:
 
 **No author decision is required yet.** CE-01 is `LEADER IDENTIFIED / NOT CLOSED / NOT PROMOTED`. It must survive energy, tether, externalization, reconstruction and true-death tests.
 
+## CE-02 delta — coupling economy and Fôlego stress-test — 01/09/2026
+
+Full review: `docs/09_reviews/chatgpt/2026-09-01/37_CORE_ENGINE_V0_9_CE02_COUPLING_ENERGETICS_STRESS_TEST.md`.
+
+Three implementations were compared backstage:
+- one shared reserve between human and Beast;
+- two living budgets coupled through a finite interface;
+- ambient-dominant power supplied primarily by the Living World.
+
+Current result:
+- **E2\*** is the laboratory leader, not canon: human and Beast behave as two organisms with their own reserves/maintenance/recovery, linked by a finite transfer/synchronization interface;
+- `Fôlego` is not a substance. It is the user-facing/embodied perception of remaining performance under coupled bodily, neural and resonant bottlenecks;
+- reserve, instantaneous throughput, efficiency and coherence are distinct backstage variables. A fighter can still have reserve while being unable to execute a high-precision Form;
+- externalization pays separately for formation, maintenance, action, tether/communication and repair. It is a tactical second-body configuration, not a higher rank;
+- compatible ambient Quintessence is a bounded input: it can extend sustain/recovery but cannot replenish as fast as elite burst expenditure;
+- reintegration redistributes what remains and can reduce the cost of maintaining two bodies, but does not erase muscular injury, overheating, neural fatigue or loss of coherence;
+- mature Beasts require their own economy if they are to survive after host death and function as transport/social/ecological persons;
+- leading embodiment submodel: the Beast organizes Quintessence/Living-World substrate into a locally real body. The host does not convert ordinary caloric energy into the full mass of a large external Beast. Exact ordinary-matter participation remains open;
+- science references on fatigue, regeneration and symbiosis are analogy/red-team only, not metaphysical authority.
+
+### CE-02 open forks preserved
+- exact feeding/metabolism of mature Beasts;
+- how much ordinary matter enters a fully incarnate body;
+- whether human↔Beast transfer is symmetric;
+- relative direct ambient uptake by marked humans;
+- exact limiter of peak burst;
+- distance/tether cost.
+
+**No author decision required yet.** CE-02 is `LEADER IDENTIFIED / NOT CLOSED / NOT PROMOTED`.
+
 ## Visual baseline
 - Current spectral/War-Body images are visual-development references, not approved designs.
 - Avoid franchise-wide `black armor + different glow color` skins.
@@ -84,7 +114,7 @@ The ancestral Core/remnant remains unresolved:
 
 ## Workflow — current preferred sequence
 0. Source audit + coverage matrix.
-1. Core Engine v0.9 — **CE-01 now has a laboratory leader; next sub-gate is CE-02 Conservation and Economy of Coupling**.
+1. Core Engine v0.9 — **CE-01 and CE-02 now have laboratory leaders; next sub-gate is CE-03 Distance, Tether and Operational Autonomy**.
 2. Eight character stress-tests.
 3. Three combat scene-proofs.
 4. Civilizational consequences.
@@ -95,12 +125,15 @@ The ancestral Core/remnant remains unresolved:
 ### Interaction rule
 The author should not be forced into long administrative decision trees. ChatGPT should orchestrate backstage, present concrete alternatives only at real forks, and keep the visible process enjoyable, narrative and comprehensible.
 
+**Visual-first rule added 01/09/2026:** when explaining a Core Engine block to the author, first show what happens to a person, Beast or scene in ordinary natural language. Technical labels (`CE-xx`, model letters, stress matrices, taxonomy) belong mainly backstage and should follow only when they clarify rather than obscure.
+
 ## Required next-session read order for this cluster
 After `START_HERE_FOR_AI.md`, `V5_RECONCILIATION_STATE.md` and `V5_CONTEXT_ROUTER.md`, read:
 1. `docs/09_reviews/chatgpt/2026-08-31/33_MAGIC_BEAST_WARRIORS_KNIGHTS_PDF_DEEP_INTEGRATION.md`
 2. `docs/09_reviews/chatgpt/2026-08-31/35_PDF_FINAL_GAP_AUDIT_AND_NEXT_WORKFLOW.md`
 3. `docs/00_governance/SOURCE_COVERAGE_AND_FIDELITY_PROTOCOL_2026-09-01.md`
 4. this checkpoint;
-5. `docs/09_reviews/chatgpt/2026-09-01/36_CORE_ENGINE_V0_9_CE01_ONTOGENY_IDENTITY_STRESS_TEST.md`.
+5. `docs/09_reviews/chatgpt/2026-09-01/36_CORE_ENGINE_V0_9_CE01_ONTOGENY_IDENTITY_STRESS_TEST.md`;
+6. `docs/09_reviews/chatgpt/2026-09-01/37_CORE_ENGINE_V0_9_CE02_COUPLING_ENERGETICS_STRESS_TEST.md`.
 
-Then resume at **CE-02 — Conservation and Economy of Coupling** unless the author supplies new source material first.
+Then resume at **CE-03 — Distance, Tether and Operational Autonomy** unless the author supplies new source material first.
