@@ -7,6 +7,27 @@
 
 > **Se você é uma IA retomando o projeto nesta branch, leia este arquivo imediatamente depois de `START_HERE_FOR_AI.md`. A V5 está à frente dos checkpoints HOT históricos, mas ainda NÃO promoveu novo lore a cânone.**
 
+## Active override — 01/09/2026 — Passes 41–42
+
+A source-provenance audit corrected Passes 39–40 and Notion Laboratory 13. The author did **not** propose a mixed body or temporary biological soma. Active direction:
+
+- pre-birth: light/dense field manifestations, with bestial and humanoid morphology as horizontal choices;
+- completed cycle: one definitive autonomous biological organism, initially efficient humanoid-sized, later adapting stable biological bestial transformation;
+- post-birth: finite field projection is possible, but the true body does not become a ghost;
+- routine return into the former host is removed; somatic Convergence is parked as a possible unprecedented late-saga event;
+- regeneration is graded by continuity + pattern + competent tissue/interface + regulation + substrate + capacity/time;
+- no numerical mana bar; `Fôlego` and `high coherence` are not final public ranks;
+- nothing in this wave is canonized.
+
+Mandatory continuation package:
+1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
+2. `docs/08_sources/conversations/2026-09-01-author-regeneration-incarnation-context-workflow-source-record.md`
+3. `docs/09_reviews/chatgpt/2026-09-01/41_AUTHOR_CORRECTIONS_REGENERATION_INCARNATION_PROJECTION_CONVERGENCE.md`
+4. `docs/09_reviews/chatgpt/2026-09-01/42_CORE_ENGINE_V0_9_CE04_REGENERATION_INJURY_CONTINUITY_TRUE_DEATH.md`
+5. `docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md`
+
+Next gate: autonomous incarnation, mass economy and biological humanoid↔bestial transformation.
+
 ## Leia nesta ordem para a V5
 
 1. `docs/08_sources/conversations/2026-08-26-author-v5-reconciliation-verbatim.md`
