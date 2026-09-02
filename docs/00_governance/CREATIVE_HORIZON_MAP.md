@@ -96,6 +96,22 @@ The schema supports adaptation; it must not turn prose drafting into a form-fill
 - “every scene changes something” is applied in revision, not as robotic prose generation;
 - the author receives only meaningful forks; backstage complexity remains routed here.
 
+## H6 — Authorial signature and finite route — Pass 46
+
+Creative evaluation must preserve:
+
+- spectacle with consequence;
+- progression that remains bodily, martial and intelligible;
+- magic enlarging rather than erasing physical competence;
+- deep foundations without endless exposition;
+- powerful characters with presence, desire, contradiction and agency;
+- rewarding chapters without cheap cliffhanger dependence;
+- active critique, research and proposal from the assistant rather than passive validation.
+
+Planned route: close CE-05 → consolidate Core Engine v0.9 → character proofs → three combat proofs → civilizational propagation → Director/Book 1 architecture. Round numbers are estimates and disappear when no real fork remains.
+
 ## Next action
 
 Finish CE-05 with a plain-language stress-test of Deep Body against gravity, death, interruption and reproduction. Then prove the result through a causally earned Full-Form scene with the right character before moving to the three combat proofs. The rejected Phoenix attraction-test transformation must not be revived by drift.
+
+Current clean front door: `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`.

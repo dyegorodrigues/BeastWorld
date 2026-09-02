@@ -1,5 +1,11 @@
 # RETOMADA — Porta de Entrada
 
+## CLEAN CURRENT ENTRY — PASS 46 — 02/09/2026
+
+Read `docs/00_governance/CURRENT_SESSION_POINTER.json`, then `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`. These supersede chronological browsing as the recovery method.
+
+The approved second synthesis is stored verbatim and modeled in Pass 46. Next task is Round 47: CE-05 physical stress-test. No canon promotion.
+
 ## ACTIVE V5 OVERRIDE — 02/09/2026 — PASS 45
 
 Resume from `docs/00_governance/CURRENT_SESSION_POINTER.json`, then load Pass 45 and the author-delta source. Pass 45 supersedes the Pass 44 claim that mature integrated residence must stall or become inefficient.

@@ -60,6 +60,22 @@ The author strongly accepts:
 - The likely Chinese reference is *I'm an Evil God*, centered on Xie Yan and multiple martial worlds; use as selective reference, not structural template.
 - The likely *Solo Leveling* opponent name is Beru, not Beerus.
 
+## Subsequent author confirmation — 2026-09-02
+
+The author explicitly approved the second synthesis, its language and its alignment with his creative vision. He reinforced:
+
+- substantive nuances from brainstorm and assistant analysis must persist without manual copy/paste;
+- Notion had become difficult to navigate because historical hypotheses remained visible before current corrections;
+- the project needs a finite route with named next rounds and exit criteria;
+- apparent digressions may contain creative criteria, reference DNA or future design insight and must be analyzed rather than dismissed;
+- the assistant must research, critique, propose, direct, organize and archive—not only validate;
+- praise/approval does not itself promote lore.
+
+The approved assistant synthesis is preserved verbatim at:
+`docs/08_sources/conversations/2026-09-02-session-005-assistant-second-synthesis-verbatim.md`.
+
+Its structured model is Pass 46.
+
 ## Operational consequences
 
 - Pass 45 supersedes Pass 44's universal developmental-tension penalties.

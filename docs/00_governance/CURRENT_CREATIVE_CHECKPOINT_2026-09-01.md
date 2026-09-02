@@ -1,5 +1,23 @@
 # BeastWorld — Current Creative Checkpoint — 01/09/2026
 
+## Pass 46 — second synthesis + finite roadmap — 02/09/2026
+
+The author approved and requested preservation of the broader creative synthesis:
+
+- humanoid form is authentic life, not only efficiency;
+- Full Form is functional rather than automatically superior;
+- age is not rank;
+- magic anticipates while anatomy follows;
+- transformation pain signals failure/haste/interference;
+- escalating combat preserves martial contact and readable geography;
+- the Director's army entry is a system/character proof, not empty spectacle;
+- story-mother protects literary prose while enabling adaptation views;
+- scene-state change is used in revision after living composition;
+- apparent digressions are mined for authorial signature and future design;
+- the assistant must challenge, research and propose—not merely validate.
+
+A clean dashboard now leads retrieval: `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`. Historical blocks below preserve provenance and may be superseded. No canon promotion.
+
 ## Active correction — Pass 45 / 02/09/2026
 
 | Point | Active direction |

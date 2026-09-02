@@ -1,5 +1,16 @@
 # BeastWorld — V5 Context Router
 
+## HOT front door — Pass 46 — 02/09/2026
+
+**Mandatory minimal load:** pointer → `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md` → Pass 46 → Pass 45 → current checkpoint.
+
+Load raw transcripts, PDFs, historical passes and rejected experiments only on provenance/wording need. This implements HOT/WARM/COLD retrieval and prevents Notion chronology from masquerading as current truth.
+
+Current Notion entry: [Painel Atual / Comece Aqui](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24).  
+Current synthesis: [Laboratório 16](https://app.notion.com/p/3cf42424cdbc81f0b96dc93a8df736e5).
+
+Pass 46 preserves the approved second synthesis and bounded route through rounds 47–55; round numbers disappear when no real fork remains.
+
 ## CE-05 active route — Pass 45 — 02/09/2026
 
 **HOT order:** current session pointer → current creative checkpoint → Pass 45 → author delta source → Creative Horizon Map.

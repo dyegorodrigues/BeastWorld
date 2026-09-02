@@ -1,5 +1,20 @@
 # ACTIVE V5 HANDOFF OVERRIDE — 01/09/2026
 
+## PASS 46 HANDOFF — 02/09/2026
+
+Resume from the current session pointer and `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`. The author's approved second synthesis is preserved verbatim and modeled in Pass 46.
+
+Active next round: **47 — CE-05 physical stress-test** covering gravity/inertia, remains/death, interruption, reproduction, anti-Quintessence and maximum scale. Exit with one leader, explicit rejected alternatives and open true forks.
+
+Do not:
+- revive Phoenix-as-natural/millennia-old or the rejected transformation scene;
+- reduce humanoid morphology to an economical shell;
+- equate age with rank;
+- turn anti-filler into formulaic drafting;
+- load the full archive when HOT/WARM routing suffices.
+
+Nothing promoted.
+
 ## ACTIVE V5 HANDOFF OVERRIDE — 02/09/2026 — PASS 45
 
 - Branch: `chatgpt/beastworld-v5-reconciliation-2026-08-26`
