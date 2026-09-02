@@ -1,5 +1,21 @@
 # BeastWorld — Current Creative Checkpoint — 01/09/2026
 
+## Active correction — Pass 45 / 02/09/2026
+
+| Point | Active direction |
+|---|---|
+| adult state | integrated and autonomous are both valid completed modes |
+| reason for birth | independent embodiment, geography, reproduction and history—not symbiotic failure |
+| mass language | Deep Body / Full Form for readers; reentrant living anatomy backstage/scholarly |
+| Phoenix Elder | Generated Beast from an older/important generation; exact age/rank/matriarch remains open |
+| rejected drift | primordial/millennia-old Phoenix interpretation and attraction-test transformation scene |
+| production | one story-mother plus medium-specific novel/webcomic/animation/live-action views |
+| canon | nothing promoted |
+
+The existing Pass 44 material below remains historical laboratory context. Where it claims mature integration must stall, compete or lose efficiency, Pass 45 supersedes it.
+
+Notion: [Creative Horizon Map](https://app.notion.com/p/3cf42424cdbc811fa049c5286e2a379f) · [author delta](https://app.notion.com/p/3cf42424cdbc81a1b903c29ae9e728df).
+
 **Status:** STRONG DIRECTION / RESEARCH BASELINE / NOT-CANON
 **Branch ativa:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`
 

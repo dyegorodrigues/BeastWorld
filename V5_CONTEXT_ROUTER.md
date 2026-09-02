@@ -1,5 +1,17 @@
 # BeastWorld — V5 Context Router
 
+## CE-05 active route — Pass 45 — 02/09/2026
+
+**HOT order:** current session pointer → current creative checkpoint → Pass 45 → author delta source → Creative Horizon Map.
+
+Pass 45 supersedes the Pass 44 universal penalty for remaining integrated. Two adult modes now lead: integrated and autonomous. The Phoenix Elder is a Generated Beast of an older/important generation; the natural-millennial interpretation and the contrived transformation scene are rejected.
+
+Read:
+- `docs/09_reviews/chatgpt/2026-09-02/45_CORE_ENGINE_V0_9_CE05_AUTHOR_CORRECTIONS_TWO_ADULT_MODES_DEEP_BODY_TRANSMEDIA.md`
+- `docs/08_sources/conversations/2026-09-02-author-delta-ce05-phoenix-transmedia-source-record.md`
+- `docs/00_governance/CREATIVE_HORIZON_MAP.md`
+
+Use the Horizon Map only for future-facing design routing. It is not canon and must not contaminate unresolved gates.
 
 ## CE-05 active route — Pass 44
 

@@ -1,5 +1,13 @@
 # RETOMADA — Porta de Entrada
 
+## ACTIVE V5 OVERRIDE — 02/09/2026 — PASS 45
+
+Resume from `docs/00_governance/CURRENT_SESSION_POINTER.json`, then load Pass 45 and the author-delta source. Pass 45 supersedes the Pass 44 claim that mature integrated residence must stall or become inefficient.
+
+Key guardrail: the Phoenix Elder is a Generated Beast from an older/important generation—not a primordial/millennia-old natural Beast—and the proposed attraction-test transformation scene is rejected. Future-facing ideas live in `docs/00_governance/CREATIVE_HORIZON_MAP.md` and remain non-canon.
+
+No promotion occurred.
+
 ## ACTIVE V5 OVERRIDE — 01/09/2026
 
 The bootstrap instructions below remain historical governance context. Active creative work is on `chatgpt/beastworld-v5-reconciliation-2026-08-26`.

@@ -1,5 +1,19 @@
 # ACTIVE V5 HANDOFF OVERRIDE — 01/09/2026
 
+## ACTIVE V5 HANDOFF OVERRIDE — 02/09/2026 — PASS 45
+
+- Branch: `chatgpt/beastworld-v5-reconciliation-2026-08-26`
+- Session: `BW-SESSION-2026-09-02-005`
+- Status: checkpointed/open; no lore promotion.
+- Primary correction: two valid adult modes; remove universal mature-stagnation/regulatory-competition penalty.
+- Phoenix Elder: Generated Beast from an older/important generation; not primordial/millennia-old. Exact age, house rank and possible matriarch/Sovereign origin remain open.
+- Rejected scene: do not revive a transformation staged merely to test attraction or explain the system.
+- Reader language: Deep Body / Full Form; scholarly candidate: reentrant living anatomy.
+- Production layer: story-mother + adaptation views; future hypotheses route through `docs/00_governance/CREATIVE_HORIZON_MAP.md`.
+- Next action: finish CE-05 stress-test for gravity/inertia, corpse behavior, interruption, reproduction, anti-Quintessence and maximum scale.
+
+Mandatory HOT package: pointer → checkpoint → Pass 45 → author delta source → Horizon Map.
+
 **Current branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
 **State:** RECONCILIATION / NOT-CANON / NOT-PROMOTED
 

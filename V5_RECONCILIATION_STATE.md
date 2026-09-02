@@ -1,5 +1,28 @@
 # BeastWorld — V5 Reconciliation State
 
+## CE-05 active correction — 02/09/2026 — Pass 45
+
+This section supersedes conflicting Pass 44 claims while remaining `NOT-CANON / NOT-PROMOTED`:
+
+- mature integration inside the human does not universally stall growth, create regulatory competition or reduce joint efficiency;
+- integrated adulthood and autonomous adulthood are both valid completed modes;
+- autonomy is elected for independent geography, reproduction, embodiment and personal history—not forced by pathological symbiosis;
+- reader-facing mass language leads with `Deep Body / Full Form`; `reentrant living anatomy` remains scholarly/backstage;
+- the Phoenix Elder is a **Generated Beast** from an older/important generation, not a primordial natural Beast or a millennia-old creature;
+- `Elder` denotes house standing, maturity and power; exact generation, age, rank and possible matriarch/Sovereign origin remain open;
+- the proposed Phoenix attraction-test transformation scene is rejected and must not return by drift;
+- story-mother + medium-specific adaptation views and a separate non-canon Creative Horizon Map now guide transmedia development.
+
+Load:
+1. `docs/00_governance/CURRENT_SESSION_POINTER.json`;
+2. `docs/08_sources/conversations/2026-09-02-author-delta-ce05-phoenix-transmedia-source-record.md`;
+3. `docs/09_reviews/chatgpt/2026-09-02/45_CORE_ENGINE_V0_9_CE05_AUTHOR_CORRECTIONS_TWO_ADULT_MODES_DEEP_BODY_TRANSMEDIA.md`;
+4. `docs/00_governance/CREATIVE_HORIZON_MAP.md`.
+
+Notion mirrors: Laboratory 15, current checkpoint, [Creative Horizon Map](https://app.notion.com/p/3cf42424cdbc811fa049c5286e2a379f) and [author delta source](https://app.notion.com/p/3cf42424cdbc81a1b903c29ae9e728df).
+
+Next gate remains gravity/inertia, death remains, interruption, reproduction, anti-Quintessence and maximum scale. Nothing is promoted.
+
 **Data:** 31/08/2026  
 **Branch ativa:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
 **Base:** V4 ChatGPT `34fabdb98875bdcb680bb77e4b0492459fc93f44`  
