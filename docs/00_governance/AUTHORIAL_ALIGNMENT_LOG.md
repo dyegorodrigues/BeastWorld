@@ -37,20 +37,28 @@ A failure in language does not automatically reject the idea. A good idea does n
 - treating a brainstorm as canon;
 - deleting a candidate because its first explanation failed;
 - dialogue built to state a thesis;
-- claiming perfect synchronization without evidence.
+- claiming perfect synchronization without evidence;
+- using outcome words (“reorganizes”, “stabilizes”, “restores rhythm”, “contains pressure”) where visible actions are required;
+- assigning ethical blame before showing proportional harm;
+- moving to beatboard/animatic before causal mechanics pass.
 
-## Current correction example — Pass 50B
+## Current correction example — Pass 50C
 
 - Academy emergency: good candidate idea.
-- Previous explanation: bad and confusing.
+- Pass 50B's “repaired” status: false; the causal execution still failed.
+- Scene status: OPEN; mechanics before storyboard.
 - Previous dialogue: rejected.
-- Dominance mechanism: retained.
+- Dominance mechanism: retained and expanded by intensity.
 - “Primordial Precedence”: retired.
-- Lesson: repair the explanation and staging; do not erase the discovery.
+- Lesson: replacing unclear nouns with abstract verbs is not a repair. Every rescue must show the threat, trajectory, body, action and result.
 
 ## Generated-Beast invariant
 
-A Generated Beast is a new person. Donor Matrix is developmental architecture, not reincarnation, memory upload or personality copy. Protected development may include field manifestation. Autonomous birth produces a functionally developed definitive body, not a baby body.
+A Generated Beast is a new person. Donor Matrix is developmental architecture, not reincarnation, memory upload or personality copy. Protected development may include field manifestation. Autonomous birth produces a functionally developed definitive body, not a baby body. Early autonomous adaptation or physical fragility may occur without mental regression.
+
+## Mandatory scene-causality audit
+
+Before prose or storyboard, require explicit answers for: actors, normal activity, trigger, physical danger, threatened body, responder action, why it works, immediate result and aftermath. If any answer is an abstract verb, the scene remains open.
 
 ## Updating this log
 
