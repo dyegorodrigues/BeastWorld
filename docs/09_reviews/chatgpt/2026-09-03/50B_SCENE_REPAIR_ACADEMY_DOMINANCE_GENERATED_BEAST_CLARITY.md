@@ -1,10 +1,13 @@
 # Pass 50B — Scene Repair — Academy Emergency, Dominance and Generated-Beast Clarity
 
 **Date:** 2026-09-03  
-**Status:** RECONCILIATION / SCENE CANDIDATE REPAIRED / NOT-CANON / NO PROMOTION  
+**Status:** SUPERSEDED / CAUSAL EXECUTION FAILED / PREMISE RETAINED / NOT-CANON  
 **Supersedes:** Pass 50A's blanket rejection of the Academy-scene concept  
 **Preserves:** Pass 50's creative core, with rewritten causality and terminology  
 **Source:** BW-SRC-AUTHOR-2026-09-03-PASS50B
+
+> [!CAUTION]
+> **SUPERSEDED BY PASS 50C FOR CAUSAL STAGING.** The Academy premise remains retained, but the “scene repaired” claim below failed author audit. Undefined threat, abstract rescue actions, unexplained Phoenix intervention and unearned political culpability are not current project state. Load `50C_CAUSAL_AUDIT_ACADEMY_DOMINANCE_SPECTRUM_MORPHOLOGY_EXPRESSION.md` instead.
 
 ## 1. Executive correction
 
