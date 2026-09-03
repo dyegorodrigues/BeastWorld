@@ -9,7 +9,9 @@
     "RECONCILED",
     "HOT-UPDATED",
     "NOTION-LINKED",
-    "SYNCED"
+    "SYNCED",
+    "VERIFIED",
+    "AUDITED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
   "active_cluster": "Character proof: formative human × Generated Beast",
