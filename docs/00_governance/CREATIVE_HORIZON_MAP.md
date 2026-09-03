@@ -1,3 +1,16 @@
+## Pass 50 horizon delta — 03/09/2026
+
+- Preserve the Academy maturation emergency as a reusable proof vehicle; do not force it into Book 1 yet.
+- Phoenix may become the most credible external evaluator of the Director without becoming his regulator, subordinate or automatic ally.
+- Future war councils can split over using Primordial precedence against hostile Beast systems.
+- Natural-Beast character palette may include Ancient non-Mythic teachers, younger Mythic isolates, non-Mythic acquired humanoids and Mythic Sovereigns.
+- Round 52 must combine sustained readable exchanges with selective compression peaks; intermediate blows carry adaptation, fatigue and personality.
+- Wen Ren Yu Xuan vs Wrath and Rider vs Saber Alter are confirmed strong action references; Sword of the Stranger remains a partial contact-mechanics reference.
+
+All remain non-canon and routed to character, combat and civilizational proofs.
+
+---
+
 ## Pass 49 horizon delta — 03/09/2026
 
 - Test Mythic as a true metamorphic threshold of Natural-Beast Matrix, body and Quintessence regulation; keep age and sovereignty separate.
