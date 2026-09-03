@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **SUPERSEDED BY PASS 50B.** Pass 50A overcorrected: the Academy scene's creative core is retained; only its failed explanation/staging/dialogue are rejected. Generated-Beast donor-memory and baby-body forks are closed regressions. Use **Dominance**, not “Primordial Precedence.”
+
 # Pass 50A — Correction — Mythic Passage, Reversible Morphology and Rejected Academy Proof
 
 **Date:** 2026-09-03  
