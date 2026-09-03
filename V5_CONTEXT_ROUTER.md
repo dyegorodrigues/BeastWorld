@@ -1,3 +1,13 @@
+## Pass 50A current route — 03/09/2026
+
+HOT: current pointer → dashboard → Pass 50A correction.  
+WARM on demand: Pass 49 Core Engine; corrected research note; Pass 50 source/correction source; visual horizon.  
+COLD only for provenance: rejected Pass 50 Academy scene and exact Work transcript.
+
+Active task: replace the rejected character proof with one concrete hostile encounter and visualize the action through beatboard → animatic. Do not treat readiness as Mythic, do not conflate reversible humanoid use with irreversible Mythic passage, and do not infer Generated-Beast cognitive infancy from embodiment age. Round 51 is paused. Nothing promoted.
+
+---
+
 ## Pass 50 current route — 03/09/2026
 
 HOT: current pointer → dashboard → Pass 50.  
