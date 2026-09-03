@@ -1,3 +1,16 @@
+## Pass 50A correction — 03/09/2026
+
+- Pass 50 Academy emergency and its candidate dialogue are rejected as active direction.
+- Natural-Beast readiness is not Mythic status.
+- Completed Mythic passage is irreversible; humanoid modulation afterward is reversible and facultative.
+- Natural Mythic bestial form remains native/home; Generated Beast humanoid and bestial forms are both native.
+- “Young” must identify the maturity axis: identity age, cognition, field control or autonomous embodiment.
+- Phoenix mandate and bounded Primordial-presence hypotheses remain, but no scene-proof is approved.
+- Combat synthesis must be shown through beatboard and animatic, not accepted from prose alone.
+- Round 51 is paused. Nothing promoted.
+
+---
+
 ## Pass 50 checkpoint — Director × Phoenix
 
 - Academy rescue is the current character-proof leader, not a fixed story event.
