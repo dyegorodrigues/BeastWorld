@@ -1,3 +1,9 @@
+## PASS 50A ACTIVE CORRECTION — 03/09/2026
+
+Pass 50's Academy emergency and candidate dialogue are REJECTED/COLD. Current HOT direction: readiness is not Mythic status; completed Mythic passage is an irreversible qualitative reorganization; reversible humanoid modulation becomes an intrinsic capability afterward and its use is optional. Natural Mythic bestial form remains home/native. Generated Beast humanoid and bestial forms are both native. Separate identity age, cognition, field control and autonomous-body maturity. Round 51 is paused; next proof is concrete and visual (beat map → beatboard → animatic). Nothing promoted.
+
+---
+
 ## Pass 50 — Director × Phoenix character proof — 03/09/2026
 
 A character-proof leader is identified. During an Academy maturation emergency, the Director releases a minimal pulse of Primordial precedence to arrest a destabilizing young Generated-Beast manifestation for one heartbeat. The pulse does not command; it imposes salience and resonant/autonomic cost. Movement, technical reading and care complete the rescue.
