@@ -1,3 +1,14 @@
+## Pass 50A horizon correction — 03/09/2026
+
+- Visual action proof moves forward: beat map → 8–12-panel beatboard → 10–20 second animatic.
+- Pass 50 Academy crisis, collateral protocol and candidate dialogue are rejected, not future seeds.
+- Preserve future Director × Phoenix proof as two possible clean beats: legitimate diplomatic encounter and concrete hostile danger.
+- Natural Mythic: irreversible passage unlocks reversible humanoid modulation; bestial remains native/home.
+- Generated Beast: humanoid and bestial are both native; maturity axes must be separated.
+- No canon promotion.
+
+---
+
 ## Pass 50 horizon delta — 03/09/2026
 
 - Preserve the Academy maturation emergency as a reusable proof vehicle; do not force it into Book 1 yet.
