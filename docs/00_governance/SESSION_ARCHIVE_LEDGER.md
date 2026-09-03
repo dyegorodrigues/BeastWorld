@@ -82,3 +82,5 @@ Session 003 supersedes the **fidelity classification only** for the CE-01→CE-0
 | BW-SESSION-2026-09-03-009 | Director × Phoenix character proof; Mythic choice; action-reference confirmation | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | HIGH-FIDELITY DERIVATIVE + external research | CAPTURED / RESEARCHED / MODELED / RECONCILED / HOT-UPDATED / NOTION-LINKED / SYNCED / VERIFIED / AUDITED | no | Pass 50 leader identified; Round 51 formative pair next. Content commit 5e6768d83c63f5bbf7d72a813ef3513cdfc82464. |
 
 | 2026-09-03 | BW-SESSION-2026-09-03-010 | Pass 50A correction: Mythic passage vs reversible modulation; rejected Academy proof; visual proof priority | HIGH-FIDELITY DERIVATIVE / RAW IN WORK | source + correction pass + HOT governance + Notion mirror | NOT-CANON / NOT-PROMOTED |
+
+| 2026-09-03 | BW-SESSION-2026-09-03-011 | Pass 50B: Academy idea retained; explanation repaired; Dominance rename; Generated-Beast regression closed; AI animatic research; Authorial Alignment Log created | HIGH-FIDELITY DERIVATIVE / RAW IN WORK | source + pass + research + HOT governance + Notion mirror | NOT-CANON / NOT-PROMOTED |
