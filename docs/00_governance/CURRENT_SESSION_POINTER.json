@@ -1,6 +1,6 @@
 {
-  "schema_version": 2,
-  "session_id": "BW-SESSION-2026-09-03-011",
+  "schema_version": 3,
+  "session_id": "BW-SESSION-2026-09-03-012",
   "status": "OPEN",
   "lifecycle_completed": [
     "CAPTURED",
@@ -9,18 +9,16 @@
     "RECONCILED",
     "HOT-UPDATED",
     "NOTION-LINKED",
-    "SYNCED",
-    "VERIFIED",
-    "AUDITED"
+    "SYNCED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "active_cluster": "Pass 50B: preserve Academy candidate, repair explanation, Dominance terminology and visual proof",
-  "active_gate": "Rebuild and previsualize the Academy emergency before advancing Round 51",
+  "active_cluster": "Pass 50C: causal audit of Academy candidate, Dominance intensity and morphology expression",
+  "active_gate": "Choose and validate a mechanically explicit Academy incident before tactical map, beatboard or animatic",
   "source_records": [
-    "docs/08_sources/conversations/2026-09-03-author-correction-pass-50b-preserve-academy-idea-repair-explanation.md"
+    "docs/08_sources/conversations/2026-09-03-author-audit-pass-50c-academy-causality-dominance-spectrum.md"
   ],
   "passes": [
-    "docs/09_reviews/chatgpt/2026-09-03/50B_SCENE_REPAIR_ACADEMY_DOMINANCE_GENERATED_BEAST_CLARITY.md"
+    "docs/09_reviews/chatgpt/2026-09-03/50C_CAUSAL_AUDIT_ACADEMY_DOMINANCE_SPECTRUM_MORPHOLOGY_EXPRESSION.md"
   ],
   "research": [
     "docs/06_research/2026-09-03-dominance-ai-animatic-action-reference-queue.md"
@@ -37,30 +35,32 @@
   ],
   "notion_targets": [
     "https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24",
-    "https://app.notion.com/p/3d042424cdbc813bae02fd2e49c780d9",
-    "https://app.notion.com/p/3d042424cdbc81c6a3c3d4a789838546",
-    "https://app.notion.com/p/3d042424cdbc81d89180f5d18ee2fda0"
+    "https://app.notion.com/p/3d042424cdbc8152a4a9c2efa95fca61",
+    "https://app.notion.com/p/3d042424cdbc813bae02fd2e49c780d9"
   ],
   "source_fidelity": "HIGH-FIDELITY DERIVATIVE for visible author correction; exact wording remains recoverable in ChatGPT Work",
   "promoted": false,
   "current_locks": [
-    "Academy emergency creative core retained; failed explanation/dialogue rejected",
-    "Reader-facing working term is Dominance; Primordial describes origin only when needed",
+    "Academy premise retained; Pass 50B physical rescue and dialogue failed causal audit",
+    "Scene remains OPEN; no storyboard or animatic until incident mechanics pass",
+    "Reader-facing working term is Dominance; Precedence is retired",
+    "Dominance intensity may escalate from attention capture to freeze, suppression, collapse and exceptional lethal overload",
+    "Dominance does not manufacture belief, love, loyalty, desire or consent",
     "Generated Beast is a new person, never donor reincarnation or memory/personality copy",
-    "Autonomous birth produces a functionally developed definitive body, never a baby body",
-    "Phoenix is a centuries-old autonomous Generated Beast; Academy developing Beast is a separate person",
-    "Natural Mythic passage is irreversible; humanoid modulation is reversible and optional",
-    "Natural Mythic bestial form remains home morphology; humanoid form is stable but more actively regulated",
-    "Feedback must be classified by idea, mechanism, staging, language and canon",
-    "Nothing in Pass 50B is canon"
+    "Autonomous birth preserves maturity; early bodily adaptation/fragility may occur without infant reset",
+    "Natural Mythic bestial form is home morphology; acquired humanoid modulation is stable and optional",
+    "Generated Beast humanoid and bestial morphologies are both native",
+    "Humanoid fine-control versus bestial mass/elemental expression is a leading hypothesis, not canon",
+    "Action reference stack has been recalibrated from author evaluations",
+    "Nothing in Pass 50C is canon"
   ],
-  "next_action": "Create the Academy scene tactical map and 8–12 frame beatboard. Validate who acts, why the accident occurs, what Dominance changes and how Phoenix/Director physically save the pair. Then produce a short animatic.",
+  "next_action": "Stress-test candidate A: a controlled divided-defense drill where Director stops new bestial acceleration with Dominance and Phoenix physically handles remaining momentum. Reject it if any actor, danger or action remains abstract.",
   "roadmap": {
-    "51": "formative human × Generated Beast proof paused until Pass 50B stabilizes",
+    "51": "formative human × Generated Beast proof paused",
     "52": "duel, hunt and battlefield combat proofs",
     "53": "civilizational propagation",
-    "50B": "active repaired character/scene proof",
-    "visual": "beat map → beatboard → animatic prioritized now",
+    "50C": "active causal audit and candidate incident",
+    "visual": "blocked until incident mechanics pass",
     "54-55": "Director and Book 1 architecture"
   }
 }
