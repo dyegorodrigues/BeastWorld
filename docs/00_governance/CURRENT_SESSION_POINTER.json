@@ -7,7 +7,11 @@
     "RESEARCHED",
     "MODELED",
     "RECONCILED",
-    "HOT-UPDATED"
+    "HOT-UPDATED",
+    "NOTION-LINKED",
+    "SYNCED",
+    "VERIFIED",
+    "AUDITED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
   "active_cluster": "Pass 50A correction: Mythic modulation, Generated maturity axes and visual character/combat proof",
@@ -34,6 +38,7 @@
   ],
   "notion_targets": [
     "https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24",
+    "https://app.notion.com/p/3d042424cdbc81d89180f5d18ee2fda0",
     "https://app.notion.com/p/3d042424cdbc81c6a3c3d4a789838546"
   ],
   "source_fidelity": "HIGH-FIDELITY DERIVATIVE for visible author corrections; exact wording remains recoverable from ChatGPT Work",
@@ -56,5 +61,15 @@
     "50A": "correction active; replace rejected proof and clarify maturity axes",
     "54-55": "Director and Book 1 architecture",
     "visual": "parallel previsualization now prioritized"
+  },
+  "audit": {
+    "github_hot_pointer": "VERIFIED",
+    "github_dashboard": "VERIFIED",
+    "pass_50a": "VERIFIED",
+    "pass_50_supersession": "VERIFIED",
+    "notion_dashboard": "VERIFIED",
+    "notion_lab_20_rejected": "VERIFIED",
+    "notion_correction_50a": "VERIFIED",
+    "promoted": false
   }
 }
