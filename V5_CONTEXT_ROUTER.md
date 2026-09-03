@@ -1,3 +1,13 @@
+## Pass 50C current route — 03/09/2026
+
+HOT: current pointer → dashboard → Pass 50C.  
+WARM: Pass 49 Core Engine; Authorial Alignment Log; calibrated Dominance/AI/action research.  
+COLD: Pass 50/50A/50B and exact Work transcript for correction history only.
+
+Active task: Academy premise retained, but Pass 50B causal repair failed. Choose and validate an explicit incident before tactical map, beatboard or animatic. Current candidate A: controlled divided-defense drill; Director's Dominance stops new bestial acceleration; Phoenix physically handles remaining momentum. Treat morphology fine-control vs mass/elemental expression as a leading hypothesis. Nothing promoted.
+
+---
+
 ## Pass 50B current route — 03/09/2026
 
 HOT: current pointer → dashboard → Pass 50B.  
