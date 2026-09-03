@@ -3,7 +3,8 @@
 **Date:** 2026-09-03  
 **Status:** RESEARCH / CHARACTER LABORATORY LEADER / NOT-CANON / NO PROMOTION  
 **Depends on:** Pass 49 Core Engine v0.9 unified synthesis  
-**Source:** BW-SRC-AUTHOR-2026-09-03-PASS50
+**Source:** BW-SRC-AUTHOR-2026-09-03-PASS50  
+**Formal concept IDs:** UNMODELED at this pass; Primordial precedence and Phoenix mandate remain pass-local hypotheses
 
 ## 1. Executive result
 
