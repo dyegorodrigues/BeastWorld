@@ -1,30 +1,28 @@
 {
   "schema_version": 2,
-  "session_id": "BW-SESSION-2026-09-03-006",
+  "session_id": "BW-SESSION-2026-09-03-007",
   "status": "OPEN",
   "lifecycle_completed": [
     "CAPTURED",
     "RESEARCHED",
     "MODELED",
     "RECONCILED",
-    "HOT-UPDATED",
-    "NOTION-LINKED",
-    "SYNCED",
-    "VERIFIED"
+    "HOT-UPDATED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "active_cluster": "Core Engine v0.9 + CE-05 Deep Body / Full Form",
-  "active_gate": "Round 48 / CE-05 reader-facing and narrative proof",
+  "active_cluster": "Core Engine v0.9 synthesis",
+  "active_gate": "Round 49 / CE-01→CE-05 unification",
   "source_records": [
-    "docs/08_sources/conversations/2026-09-03-author-delta-pass-47-local-weight-phoenix-director-workflow.md"
+    "docs/08_sources/conversations/2026-09-03-author-delta-pass-48-regeneration-mythic-beasts-combat-visuals.md"
   ],
   "passes": [
-    "docs/09_reviews/chatgpt/2026-09-02/45_CORE_ENGINE_V0_9_CE05_AUTHOR_CORRECTIONS_TWO_ADULT_MODES_DEEP_BODY_TRANSMEDIA.md",
     "docs/09_reviews/chatgpt/2026-09-02/46_CE05_CREATIVE_SYNTHESIS_SPECIES_TRANSFORMATION_COMBAT_AUTHORIAL_SIGNATURE.md",
-    "docs/09_reviews/chatgpt/2026-09-03/47_CE05_PHYSICAL_STRESS_TEST_DEEP_BODY_DEATH_REGENERATION_REPRODUCTION_SCALE.md"
+    "docs/09_reviews/chatgpt/2026-09-03/47_CE05_PHYSICAL_STRESS_TEST_DEEP_BODY_DEATH_REGENERATION_REPRODUCTION_SCALE.md",
+    "docs/09_reviews/chatgpt/2026-09-03/48_CE05_NARRATIVE_PROOF_REGENERATION_MYTHIC_BEASTS_COMBAT_VISUAL_HORIZON.md"
   ],
   "research": [
-    "docs/06_research/2026-09-03-ce05-physical-biological-constraints-research-note.md"
+    "docs/06_research/2026-09-03-ce05-physical-biological-constraints-research-note.md",
+    "docs/06_research/2026-09-03-action-animation-regeneration-visual-design-research-note.md"
   ],
   "reconciled_artifacts": [
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
@@ -36,25 +34,25 @@
     "docs/00_governance/RETOMADA.md"
   ],
   "notion_targets": [
-    "https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24",
-    "https://app.notion.com/p/3d042424cdbc814ab007c3e5fc73c256",
-    "https://app.notion.com/p/3d042424cdbc818fb4b0c53828b3f00f"
+    "Pass 48 Laboratory/Source creation pending"
   ],
-  "source_fidelity": "HIGH-FIDELITY DERIVATIVE for current author direction; exact author wording remains in the ChatGPT Work thread",
+  "source_fidelity": "HIGH-FIDELITY DERIVATIVE for current author direction; exact wording remains in ChatGPT Work thread",
   "promoted": false,
   "known_drift": [
-    "Pass 44 mature-stagnation/regulatory-competition penalty is superseded",
-    "Phoenix as natural primordial/millennia-old Beast is rejected for this character, not as a universal ban on natural-Beast humanoid forms",
-    "Director 35 supersedes 35–40 as the strongest provisional seed",
-    "hidden local tonnes in humanoid form are rejected"
+    "Mythic is not a universal level above Ancient; origin, age, morphology, coherence, office and combat capacity remain separate axes",
+    "Phoenix First/Second Elder naming remains open and must not be silently fixed",
+    "Regeneration can include organs and limbs; power alone does not guarantee mastery",
+    "Sakuga and genga are production terms, not BeastWorld martial styles",
+    "Director hair control cannot erase physical cutting/growth chronology"
   ],
-  "next_action": "Execute Round 48: one natural mass-explanation scene and one causally earned Full-Form proof; no Phoenix demonstration by convenience.",
+  "next_action": "Execute Round 49: unify CE-01 through CE-05 into Core Engine v0.9 with reader language, backstage invariants and regression tests.",
   "roadmap": {
-    "48": "CE-05 reader-facing and narrative proof",
-    "49": "Core Engine v0.9 synthesis",
+    "48": "CE-05 laboratory closure complete",
+    "49": "Core Engine v0.9 synthesis active",
     "52": "duel, hunt and battlefield combat proofs",
     "53": "civilizational propagation",
     "50-51": "character proofs",
-    "54-55": "Director and Book 1 architecture"
+    "54-55": "Director and Book 1 architecture",
+    "visual": "parallel visual/adaptation bible after reference-image intake"
   }
 }

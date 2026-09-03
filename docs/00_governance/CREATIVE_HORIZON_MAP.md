@@ -1,3 +1,17 @@
+## Pass 48 horizon delta — 03/09/2026
+
+- Test mythic Natural Beasts as a rare ecological/coherence condition independent of age, office, morphology and combat rank.
+- Build Phoenix office around maturation, safety and ecological continuity; do not default to First/Second Elder nomenclature.
+- Develop a BeastWorld visual thesis from epic Western institutional weight, late-antique silhouette logic, neo-ronin movement engineering and lineage/ecological material culture.
+- Treat the Director’s hair length as visual chronology: accelerated regrowth, physical cutting and limited somatic guidance.
+- Combat research vocabulary: action choreography, kinetic staging, spatial geography, genga/key poses, timing/spacing, frame-rate modulation, effects animation and character acting.
+- Director battlefield seed: breach → sword traversal → close-quarters dominion, with strategic and political consequence.
+- Future regeneration gate: automatic repair → directed regeneration → exceptional reconstitution, with lineage/Matrix ceiling separated from trained healing control.
+
+All items remain non-canon candidates and are routed to the visual, combat, character and civilizational proofs.
+
+---
+
 ## Pass 47 horizon delta — 03/09/2026
 
 Non-canon candidates: Phoenix as institutional First/Second Elder and one of the House’s strongest/highest-potential figures; serious public demeanor with genuine selective attraction to the 35-year-old Director; natural Beasts acquiring stable humanoid biology; autonomous Generated Beasts founding naturally born lineages; human × Generated-Beast fertility as a future fork; exceptional funerary/forensic exposure of recollected anatomy; and combat key moments that turn image, tactic, character and consequence together.
@@ -120,6 +134,6 @@ Planned route: close CE-05 → consolidate Core Engine v0.9 → character proofs
 
 ## Next action
 
-Finish CE-05 with a plain-language stress-test of Deep Body against gravity, death, interruption and reproduction. Then prove the result through a causally earned Full-Form scene with the right character before moving to the three combat proofs. The rejected Phoenix attraction-test transformation must not be revived by drift.
+Round 49 consolidates CE-01→CE-05 into Core Engine v0.9. Then character and combat proofs may activate the Phoenix office, Director/Phoenix chemistry, mythic Natural-Beast candidate and Director battlefield staging without prematurely fixing their final names.
 
 Current clean front door: `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`.

@@ -1,3 +1,22 @@
+## PASS 48 HANDOFF — 03/09/2026
+
+Resume from the current pointer, dashboard and Pass 48. CE-05 is closed at laboratory level and remains NOT-CANON.
+
+Next task: **Round 49 — Core Engine v0.9 synthesis**, unifying CE-01→CE-05 into one causal chain with reader language, backstage invariants, open forks and regression tests.
+
+New guardrails:
+- regeneration includes organs and rare limb reconstitution; distinguish automatic repair, directed regeneration and exceptional reconstitution;
+- Matrix/Blood quality influences ceiling but does not upload healing mastery;
+- mythic Natural-Beast condition is not a universal rank above Ancient;
+- age, origin, morphology, coherence, office and demonstrated combat capacity stay separate;
+- Phoenix final office/title remains open; no First/Second Elder drift;
+- Director battlefield seed is breach → traversal → dominion;
+- sakuga/genga are production vocabulary, not martial-system names;
+- preserve physical hair cutting/growth as visual chronology;
+- no canon promotion.
+
+---
+
 ## PASS 47 HANDOFF — 03/09/2026
 
 Resume from the current session pointer and dashboard. Pass 47 supplies the CE-05 physical laboratory leader and preserves the author’s latest corrections.

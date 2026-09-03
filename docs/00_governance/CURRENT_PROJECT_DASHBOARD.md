@@ -9,11 +9,12 @@
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. this dashboard
-3. `docs/09_reviews/chatgpt/2026-09-03/47_CE05_PHYSICAL_STRESS_TEST_DEEP_BODY_DEATH_REGENERATION_REPRODUCTION_SCALE.md`
-4. `docs/09_reviews/chatgpt/2026-09-02/46_CE05_CREATIVE_SYNTHESIS_SPECIES_TRANSFORMATION_COMBAT_AUTHORIAL_SIGNATURE.md`
-5. `docs/09_reviews/chatgpt/2026-09-02/45_CORE_ENGINE_V0_9_CE05_AUTHOR_CORRECTIONS_TWO_ADULT_MODES_DEEP_BODY_TRANSMEDIA.md`
-6. `docs/00_governance/CURRENT_CREATIVE_CHECKPOINT_2026-09-01.md`
-7. only then load older passes or raw sources on demand.
+3. `docs/09_reviews/chatgpt/2026-09-03/48_CE05_NARRATIVE_PROOF_REGENERATION_MYTHIC_BEASTS_COMBAT_VISUAL_HORIZON.md`
+4. `docs/09_reviews/chatgpt/2026-09-03/47_CE05_PHYSICAL_STRESS_TEST_DEEP_BODY_DEATH_REGENERATION_REPRODUCTION_SCALE.md`
+5. `docs/09_reviews/chatgpt/2026-09-02/46_CE05_CREATIVE_SYNTHESIS_SPECIES_TRANSFORMATION_COMBAT_AUTHORIAL_SIGNATURE.md`
+6. `docs/09_reviews/chatgpt/2026-09-02/45_CORE_ENGINE_V0_9_CE05_AUTHOR_CORRECTIONS_TWO_ADULT_MODES_DEEP_BODY_TRANSMEDIA.md`
+7. `docs/00_governance/CURRENT_CREATIVE_CHECKPOINT_2026-09-01.md`
+8. only then load older passes or raw sources on demand.
 
 ## Current creative direction
 
@@ -24,8 +25,10 @@
 - Autonomous birth opens an own biological body, geography, reproduction and history; it does not rescue a failing symbiosis.
 - Autonomous Generated Beasts possess one definitive dual-morph organism: authentic humanoid life and functional bestial Full Form.
 - Deep Body / Full Form are current reader-facing candidates; reentrant living anatomy is scholarly/backstage.
-- Combat must remain fast, physical, martial, lethal and spatially legible as power grows.
-- The Phoenix Elder is a Generated Beast from an older/important generation, not a natural primordial or millennia-old creature; an institutional First/Second Elder title remains a candidate.
+- Combat remains fast, physical, weapon-rich, magical, lethal and spatially legible: decision → trajectory → contact → consequence.
+- Regeneration now has three regimes: automatic repair, directed regeneration and exceptional reconstitution.
+- A possible mythic Natural-Beast condition is a separate coherence axis, never an automatic rank above ancient.
+- The Phoenix is a Generated Beast from an older/important generation and a candidate high non-sovereign curator of maturation/ecological continuity; her final title remains open.
 - The Director’s strongest provisional age seed is now 35; age is not a power rank.
 - Scene-state change is a revision diagnostic after living composition, not a drafting formula.
 - The assistant must co-create, research, criticize, challenge, direct, organize and archive—not merely validate.
@@ -49,20 +52,18 @@ Do not revive as current direction:
 
 ## Active gate
 
-**Round 48 — CE-05 reader-facing and narrative proof**
+**Round 49 — Core Engine v0.9 synthesis**
 
-Pass 47 now provides a physical laboratory leader: humanoid form has normal local weight; only opened anatomy carries local gravity/inertia; last-open form remains as corpse; coupling is the short interruption window; anti-resonance suppresses organization rather than deleting flesh; regeneration is graded; descendants inherit developmental capacity rather than adult mass/power; maximum scale is grown and ecological.
+Passes 47–48 close CE-05 at laboratory level: normal humanoid local weight; one wound/death map; short coupling vulnerability; anti-resonance without matter deletion; graded regeneration; inherited developmental grammar; ecological scale; story-proofed Deep Body/Full Form; and Natural mythic-state candidate separated from age/rank. Nothing is promoted.
 
-Natural Beasts may also acquire stable biological humanoid morphology through a distinct, difficult developmental route. Nothing is promoted.
-
-Notion: [current dashboard](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24) · [Laboratory 17](https://app.notion.com/p/3d042424cdbc814ab007c3e5fc73c256) · [author delta](https://app.notion.com/p/3d042424cdbc818fb4b0c53828b3f00f).
+Notion sync for Pass 48 is pending this commit.
 
 ## Bounded roadmap
 
 | Phase | Planned rounds | Exit |
 |---|---:|---|
-| close CE-05 | 48 | reader/narrative proof of the Pass 47 physical leader |
-| consolidate Core Engine v0.9 | 49 | CE-01→CE-05 unified |
+| close CE-05 | 48 | **complete at laboratory level**; reader/narrative proof passed |
+| consolidate Core Engine v0.9 | 49 | **active**; CE-01→CE-05 unified |
 | character proofs | 50–51 | eight proof roles stress-tested |
 | combat proofs | 52 | duel, hunt and battlefield |
 | civilizational propagation | 53 | Houses, Academy, medicine, war, law and ecology reconciled |
@@ -87,7 +88,7 @@ Notion is the navigable studio/wiki mirror. Its clean dashboard points to curren
 
 ## Promotion
 
-No discovery in Passes 45–46 has been promoted to canon. Promotion still follows:
+No discovery in Passes 45–48 has been promoted to canon. Promotion still follows:
 
 > Source preserves → intake classifies → research tests → gate compares → decision records → lore promotes.
 

@@ -1,3 +1,13 @@
+# Pass 48 narrative closure — 03/09/2026
+
+CE-05 has passed a reader-facing proof without another mass-only round. Deep Body can be explained in one short Academy exchange; Full Form is opened only when a concrete task requires its reach, lift surfaces, local mass or biomechanics.
+
+New leaders: three regeneration regimes; organs may regrow if life/continuity are stabilized; “mythic” is a provisional Natural-Beast coherence state rather than a rank above Ancient; combat grammar uses decision → trajectory → contact → consequence; Director battlefield staging is breach → traversal → dominion; visual/hair deltas are routed to the horizon.
+
+Pass: `docs/09_reviews/chatgpt/2026-09-03/48_CE05_NARRATIVE_PROOF_REGENERATION_MYTHIC_BEASTS_COMBAT_VISUAL_HORIZON.md`. Research: `docs/06_research/2026-09-03-action-animation-regeneration-visual-design-research-note.md`. No canon promotion. Round 49 now unifies CE-01→CE-05.
+
+---
+
 # Pass 47 physical leader — 03/09/2026
 
 The author corrected local weight decisively: an autonomous Generated Beast in humanoid form has normal humanoid-scale weight; recollected Deep Body anatomy is not locally coupled to ordinary gravity/inertia. Pass 47 stress-tested the complete CE-05 cluster, not inertia alone.

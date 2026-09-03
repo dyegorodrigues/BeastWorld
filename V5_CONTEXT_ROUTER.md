@@ -1,3 +1,13 @@
+## Pass 48 current route — 03/09/2026
+
+HOT: current pointer → dashboard → Pass 48.  
+WARM on demand: Pass 47 physical constraints; Pass 46 creative synthesis; action/regeneration research note; Creative Horizon Map.  
+COLD only for wording disputes: exact Work thread / uploaded backup.
+
+Active task: Round 49 unifies CE-01→CE-05. Do not reopen mass unless a real scene contradiction appears. Route mythic Natural Beasts, visual civilization, Phoenix office, Director combat and hair through later character/combat/visual proofs. Nothing promoted.
+
+---
+
 ## HOT front door — Pass 47 — 03/09/2026
 
 **Mandatory minimal load:** pointer → dashboard → Pass 47 → Pass 46 → only direct dependencies.
