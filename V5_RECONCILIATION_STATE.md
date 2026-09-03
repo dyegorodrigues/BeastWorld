@@ -1,3 +1,9 @@
+## PASS 50B ACTIVE CORRECTION — 03/09/2026
+
+Pass 50A overcorrected. The Academy emergency remains a strong scene candidate; its first explanation, dialogue and overloaded consequences failed. Working term is **Dominance**. Generated Beast remains a new person with no donor memory/personality and no baby autonomous body. Natural Mythic passage is irreversible; later humanoid modulation is reversible and optional. Feedback must be classified by idea/mechanism/staging/language/canon before changing state. Visual proof is active. Nothing promoted.
+
+---
+
 ## PASS 50A ACTIVE CORRECTION — 03/09/2026
 
 Pass 50's Academy emergency and candidate dialogue are REJECTED/COLD. Current HOT direction: readiness is not Mythic status; completed Mythic passage is an irreversible qualitative reorganization; reversible humanoid modulation becomes an intrinsic capability afterward and its use is optional. Natural Mythic bestial form remains home/native. Generated Beast humanoid and bestial forms are both native. Separate identity age, cognition, field control and autonomous-body maturity. Round 51 is paused; next proof is concrete and visual (beat map → beatboard → animatic). Nothing promoted.
