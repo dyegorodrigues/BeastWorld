@@ -4,6 +4,8 @@
 **Status:** CAPTURED / RESEARCHED / MODELED / CE-05 LABORATORY CLOSURE / NOT-CANON / NO PROMOTION  
 **Purpose:** prove the Pass 47 physical leader in story, absorb the author’s new deltas and stop CE-05 from becoming an endless mass laboratory.
 
+**Correction after author clarification — 2026-09-03:** SUPERSEDED-IN-PART. Section 5 correctly separated origin, age, morphology, office and capacity, but under-modeled Mythic as mainly a coherence/ecological descriptor. The current leader in Pass 49 treats Mythic as a real qualitative developmental/metamorphic transition of Natural-Beast biology, Matrix, Quintessence regulation and ecological function. Age and sovereignty remain separate axes. No canon promotion.  
+
 ## 1. Executive result
 
 | Question | Leader after Pass 48 |
