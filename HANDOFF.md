@@ -1,3 +1,9 @@
+## CURRENT HANDOFF — PASS 50B — 03/09/2026
+
+The author liked the Academy-scene idea and rejected its confusing explanation. Do not discard the scene. Resume from pointer → dashboard → Pass 50B → Authorial Alignment Log. Use **Dominance**, not “Primordial Precedence.” Generated Beast = new person; Matrix does not transmit donor memory/personality; autonomous birth does not create a baby body. Phoenix and the cadet's developing Beast are distinct people. Rebuild the scene through clear setup, coordination accident, sub-second Dominance opening, Phoenix containment and Director stabilization. Validate visually through beatboard/animatic. Nothing promoted.
+
+---
+
 ## CURRENT HANDOFF — PASS 50A — 03/09/2026
 
 Pass 50's Academy emergency and dialogue are rejected. Resume from the current pointer, dashboard and Pass 50A. Current biological leader: a Natural Beast becomes Mythic only after the qualitative passage; that passage unlocks reversible humanoid modulation, whose use is optional. Natural Mythic bestial form remains home/native; Generated Beast dual morphology is native to its ontogenesis. Separate identity age, cognition, manifestation control and autonomous-body maturity. Phoenix mandate and Primordial presence remain hypotheses without an approved scene. Next proof is concrete and visual: beat map → 8–12-panel beatboard → 10–20 second animatic. Round 51 paused. Nothing promoted.
