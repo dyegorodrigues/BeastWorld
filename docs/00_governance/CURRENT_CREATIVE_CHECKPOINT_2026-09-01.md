@@ -1,3 +1,16 @@
+## Pass 50B correction — 03/09/2026
+
+- Academy emergency creative core RETAINED; prior explanation/staging/dialogue rejected.
+- Pass 50A blanket rejection superseded.
+- Working term: **Dominance**; “primordial” describes origin only when needed.
+- Generated Beast remains a new person: no donor memory/personality and no autonomous baby body.
+- Phoenix = centuries-old autonomous Generated Beast; Academy candidate = separate developing person anchored in a cadet.
+- Natural Mythic passage is irreversible; humanoid modulation is reversible/optional; bestial remains home morphology.
+- Next proof is visual: tactical map → beatboard → animatic.
+- Nothing promoted.
+
+---
+
 ## Pass 50A correction — 03/09/2026
 
 - Pass 50 Academy emergency and its candidate dialogue are rejected as active direction.
