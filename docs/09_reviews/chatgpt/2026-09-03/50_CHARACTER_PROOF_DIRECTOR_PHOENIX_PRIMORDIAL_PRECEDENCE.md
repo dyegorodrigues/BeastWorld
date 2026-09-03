@@ -1,5 +1,5 @@
-> [!CAUTION]
-> **SUPERSEDED / REJECTED AS LEADER — 2026-09-03, Pass 50A.** The Academy emergency, collateral protocol, property dispute and candidate dialogue below are preserved only as COLD laboratory history. Do not use them as current direction. Read `50A_CORRECTION_MYTHIC_MODULATION_AND_REJECTED_ACADEMY_PROOF.md`.
+> [!IMPORTANT]
+> **CORE IDEA RETAINED / EXECUTION SUPERSEDED — 2026-09-03, Pass 50B.** The Academy emergency remains a strong scene candidate. The explanation, ambiguous actors, overloaded institutional consequences, “Primordial Precedence” label and candidate dialogue below are rejected. Read `50B_SCENE_REPAIR_ACADEMY_DOMINANCE_GENERATED_BEAST_CLARITY.md`. Working term: **Dominance**.
 
 # Pass 50 — Character Proof — Director × Phoenix, Authority, Desire and Primordial Precedence
 
