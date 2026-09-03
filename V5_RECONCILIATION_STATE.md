@@ -1,3 +1,15 @@
+## Pass 49 — Core Engine v0.9 unified — 03/09/2026
+
+CE-01→CE-05 are reconciled into one non-canon laboratory engine. Current chain: Matrix → Mark → Germination → protected development → integrated or autonomous adulthood → definitive dual-morph organism → chosen Resonance. Distance attacks cooperation before existence; regeneration is graded competence; one organism carries one wound map and one death.
+
+Pass 48 is SUPERSEDED-IN-PART on Mythic. The current leader is a real qualitative Natural-Beast metamorphosis involving Matrix, biology, Quintessence regulation and ecological function. Ancient remains age/history; sovereignty remains office/recognition.
+
+New forward hypotheses: bounded Primordial precedence for the Director; Phoenix diplomatic/representative authority; visual intake indexed with image 05 leading and explicit anti-references preserved.
+
+Next action: Round 50 Director × Phoenix character proof. Nothing promoted.
+
+---
+
 ## Pass 48 — CE-05 narrative closure — 03/09/2026
 
 CE-05 passed reader-facing and narrative proof. Deep Body mass is explainable without exposition dump; Full Form is opened for concrete biomechanics. Regeneration now separates automatic repair, directed regeneration and exceptional reconstitution. Organs may regrow under stabilization; high power does not automatically confer healing mastery.

@@ -1,3 +1,15 @@
+# Pass 49 — Core Engine v0.9 unified — 03/09/2026
+
+CE-01→CE-05 now form one non-canon laboratory architecture: Matrix changes developmental possibility; Mark builds the living interface; Germination creates a new person; protected development allows field expression; integrated and autonomous adulthood are both valid; autonomous birth relocates continuity into one dual-morph biological organism; Resonance remains a chosen relationship.
+
+Correction: Mythic is a real qualitative metamorphosis available to exceptionally competent Natural-Beast lineages, not merely high coherence, old age, office or a generic combat rank. Generated humanoid grammar is native without implying instant Full-Form mastery.
+
+New character/visual hypotheses: Director Primordial pressure as bounded precedence rather than mind control; Phoenix diplomatic/representative function; image 05 as predatory-elegance pole; oversized coat and bulky gold ceremonial armor as explicit anti-references.
+
+Pass: docs/09_reviews/chatgpt/2026-09-03/49_CORE_ENGINE_V0_9_UNIFIED_SYNTHESIS.md. Nothing promoted. Round 50 tests Director × Phoenix.
+
+---
+
 # Pass 48 narrative closure — 03/09/2026
 
 CE-05 has passed a reader-facing proof without another mass-only round. Deep Body can be explained in one short Academy exchange; Full Form is opened only when a concrete task requires its reach, lift surfaces, local mass or biomechanics.

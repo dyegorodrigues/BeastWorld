@@ -1,3 +1,13 @@
+## Pass 49 current route — 03/09/2026
+
+HOT: current pointer → dashboard → Pass 49.  
+WARM on demand: Pass 48 correction, visual source manifest, mythic/dominance/action research note, current checkpoint and horizon map.  
+COLD only for exact wording/provenance: Work thread, recovered CE transcript and historical passes.
+
+Active task: Round 50 Director × Phoenix character proof. Test diplomacy, House authority, desire and regulated Primordial precedence. Do not reopen CE mass mechanics without a scene contradiction. Nothing promoted.
+
+---
+
 ## Pass 48 current route — 03/09/2026
 
 HOT: current pointer → dashboard → Pass 48.  

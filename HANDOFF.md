@@ -1,3 +1,21 @@
+## PASS 49 HANDOFF — 03/09/2026
+
+Resume from current pointer, dashboard and Pass 49. Core Engine v0.9 is unified at laboratory level and remains NOT-CANON.
+
+Next task: **Round 50 — Director × Phoenix character proof**.
+
+Guardrails:
+- Mythic is a real Natural-Beast metamorphosis; age, office and power stay separate.
+- Generated humanoid grammar is native, not proof of Mythic status or instant mastery.
+- Director Primordial pressure may impose salience/coordination cost but never automatic obedience.
+- Phoenix may represent the House diplomatically and in war councils without being Sovereign.
+- their desire is reciprocal; public coldness and private initiative can coexist.
+- long hair/predatory elegance leads the Director visual; no constant haircut gimmick.
+- Sword of the Stranger supplies blade-contact study only; final tempo requires selective higher-octane tracking.
+- no canon promotion.
+
+---
+
 ## PASS 48 HANDOFF — 03/09/2026
 
 Resume from the current pointer, dashboard and Pass 48. CE-05 is closed at laboratory level and remains NOT-CANON.

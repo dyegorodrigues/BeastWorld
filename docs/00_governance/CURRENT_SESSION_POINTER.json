@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "session_id": "BW-SESSION-2026-09-03-007",
+  "session_id": "BW-SESSION-2026-09-03-008",
   "status": "OPEN",
   "lifecycle_completed": [
     "CAPTURED",
@@ -13,19 +13,17 @@
     "VERIFIED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "active_cluster": "Core Engine v0.9 synthesis",
-  "active_gate": "Round 49 / CE-01→CE-05 unification",
+  "active_cluster": "Character proof: Director × Phoenix",
+  "active_gate": "Round 50 / authority, desire, diplomacy and Primordial precedence",
   "source_records": [
-    "docs/08_sources/conversations/2026-09-03-author-delta-pass-48-regeneration-mythic-beasts-combat-visuals.md"
+    "docs/08_sources/conversations/2026-09-03-author-delta-pass-49-mythic-presence-combat-visual-intake.md",
+    "docs/08_sources/visual/2026-09-03-director-hair-wardrobe-environment-brainstorm/ASSET_INDEX.md"
   ],
   "passes": [
-    "docs/09_reviews/chatgpt/2026-09-02/46_CE05_CREATIVE_SYNTHESIS_SPECIES_TRANSFORMATION_COMBAT_AUTHORIAL_SIGNATURE.md",
-    "docs/09_reviews/chatgpt/2026-09-03/47_CE05_PHYSICAL_STRESS_TEST_DEEP_BODY_DEATH_REGENERATION_REPRODUCTION_SCALE.md",
-    "docs/09_reviews/chatgpt/2026-09-03/48_CE05_NARRATIVE_PROOF_REGENERATION_MYTHIC_BEASTS_COMBAT_VISUAL_HORIZON.md"
+    "docs/09_reviews/chatgpt/2026-09-03/49_CORE_ENGINE_V0_9_UNIFIED_SYNTHESIS.md"
   ],
   "research": [
-    "docs/06_research/2026-09-03-ce05-physical-biological-constraints-research-note.md",
-    "docs/06_research/2026-09-03-action-animation-regeneration-visual-design-research-note.md"
+    "docs/06_research/2026-09-03-mythic-metamorphosis-dominance-combat-grammar-research-note.md"
   ],
   "reconciled_artifacts": [
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
@@ -38,26 +36,29 @@
   ],
   "notion_targets": [
     "https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24",
-    "https://app.notion.com/p/3d042424cdbc81bab649f25045bd92a2",
-    "https://app.notion.com/p/3d042424cdbc81c99d08e322565cf5e3"
+    "https://app.notion.com/p/3d042424cdbc81e8bce9d3ca169acb2f",
+    "https://app.notion.com/p/3d042424cdbc8177b66ec5fadb83ce4d",
+    "https://app.notion.com/p/3d042424cdbc81c0adc7ce00fb6a8695"
   ],
-  "source_fidelity": "HIGH-FIDELITY DERIVATIVE for current author direction; exact wording remains in ChatGPT Work thread",
+  "source_fidelity": "HIGH-FIDELITY DERIVATIVE for current author delta; exact wording and ten attachments remain recoverable from ChatGPT Work/Library; visual hashes and file IDs indexed",
   "promoted": false,
   "known_drift": [
-    "Mythic is not a universal level above Ancient; origin, age, morphology, coherence, office and combat capacity remain separate axes",
-    "Phoenix First/Second Elder naming remains open and must not be silently fixed",
-    "Regeneration can include organs and limbs; power alone does not guarantee mastery",
-    "Sakuga and genga are production terms, not BeastWorld martial styles",
-    "Director hair control cannot erase physical cutting/growth chronology"
+    "Pass 48 Mythic wording is SUPERSEDED-IN-PART: Mythic now leads as qualitative Natural-Beast metamorphosis, not mainly a coherence label",
+    "Ancient remains an age/history descriptor; final biological tier vocabulary is OPEN",
+    "Generated humanoid grammar is native, but immediate Full-Form mastery at autonomous birth remains an implementation detail",
+    "Director Primordial pressure is a character-proof hypothesis with anti-coercion guardrails",
+    "Phoenix office/title and exact generation remain OPEN",
+    "Visual references are mixed: image 05 leads; oversized coat and bulky gold ceremonial armor are explicit anti-references",
+    "Nothing in Pass 49 is canon"
   ],
-  "next_action": "Execute Round 49: unify CE-01 through CE-05 into Core Engine v0.9 with reader language, backstage invariants and regression tests.",
+  "next_action": "Execute Round 50: Director × Phoenix character proof testing House diplomacy, mutual desire, non-sovereign authority and regulated Primordial precedence.",
   "roadmap": {
-    "48": "CE-05 laboratory closure complete",
-    "49": "Core Engine v0.9 synthesis active",
+    "49": "Core Engine v0.9 unified laboratory synthesis complete",
+    "50": "Director × Phoenix character proof active next",
+    "51": "formative human × Generated Beast proof",
     "52": "duel, hunt and battlefield combat proofs",
     "53": "civilizational propagation",
-    "50-51": "character proofs",
     "54-55": "Director and Book 1 architecture",
-    "visual": "parallel visual/adaptation bible after reference-image intake"
+    "visual": "parallel visual/adaptation bible after visual grammar selection"
   }
 }

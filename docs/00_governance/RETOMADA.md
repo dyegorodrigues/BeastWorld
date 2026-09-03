@@ -1,3 +1,9 @@
+## CLEAN CURRENT ENTRY — PASS 49 — 03/09/2026
+
+Read docs/00_governance/CURRENT_SESSION_POINTER.json, then CURRENT_PROJECT_DASHBOARD.md, then Pass 49. CE-01→CE-05 are unified at laboratory level. Round 50 tests Director × Phoenix. No canon promotion.
+
+---
+
 ## CLEAN CURRENT ENTRY — PASS 48 — 03/09/2026
 
 Read `docs/00_governance/CURRENT_SESSION_POINTER.json`, then `CURRENT_PROJECT_DASHBOARD.md`, then Pass 48. CE-05 is closed at laboratory level; Round 49 consolidates Core Engine v0.9. No canon promotion.

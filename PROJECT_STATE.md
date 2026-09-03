@@ -1,3 +1,9 @@
+## Current V5 override — Pass 49 — 03/09/2026
+
+Core Engine v0.9 has one non-canon laboratory synthesis. Mythic is corrected to a real qualitative Natural-Beast metamorphosis; Pass 48 wording is superseded in part. Active next gate is Director × Phoenix character proof, including diplomacy, desire and bounded Primordial precedence. Visual reference set 01 is indexed. No lore promotion.
+
+---
+
 # PROJECT_STATE — BeastWorld
 
 **Data de referência:** 2026-08-22

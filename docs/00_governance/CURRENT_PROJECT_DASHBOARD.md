@@ -9,12 +9,10 @@
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. this dashboard
-3. `docs/09_reviews/chatgpt/2026-09-03/48_CE05_NARRATIVE_PROOF_REGENERATION_MYTHIC_BEASTS_COMBAT_VISUAL_HORIZON.md`
-4. `docs/09_reviews/chatgpt/2026-09-03/47_CE05_PHYSICAL_STRESS_TEST_DEEP_BODY_DEATH_REGENERATION_REPRODUCTION_SCALE.md`
-5. `docs/09_reviews/chatgpt/2026-09-02/46_CE05_CREATIVE_SYNTHESIS_SPECIES_TRANSFORMATION_COMBAT_AUTHORIAL_SIGNATURE.md`
-6. `docs/09_reviews/chatgpt/2026-09-02/45_CORE_ENGINE_V0_9_CE05_AUTHOR_CORRECTIONS_TWO_ADULT_MODES_DEEP_BODY_TRANSMEDIA.md`
-7. `docs/00_governance/CURRENT_CREATIVE_CHECKPOINT_2026-09-01.md`
-8. only then load older passes or raw sources on demand.
+3. `docs/09_reviews/chatgpt/2026-09-03/49_CORE_ENGINE_V0_9_UNIFIED_SYNTHESIS.md`
+4. `docs/00_governance/CURRENT_CREATIVE_CHECKPOINT_2026-09-01.md`
+5. Pass 48 and older CE passes only when routed.
+6. raw sources only for nuance/provenance disputes.
 
 ## Current creative direction
 
@@ -27,9 +25,11 @@
 - Deep Body / Full Form are current reader-facing candidates; reentrant living anatomy is scholarly/backstage.
 - Combat remains fast, physical, weapon-rich, magical, lethal and spatially legible: decision → trajectory → contact → consequence.
 - Regeneration now has three regimes: automatic repair, directed regeneration and exceptional reconstitution.
-- A possible mythic Natural-Beast condition is a separate coherence axis, never an automatic rank above ancient.
-- The Phoenix is a Generated Beast from an older/important generation and a candidate high non-sovereign curator of maturation/ecological continuity; her final title remains open.
-- The Director’s strongest provisional age seed is now 35; age is not a power rank.
+- Mythic now leads as a real qualitative metamorphosis of Natural-Beast biology, Matrix and Quintessence regulation; it remains separate from age, office and demonstrated combat capacity.
+- The Phoenix is a Generated Beast from an older/important generation and may combine high non-sovereign stewardship with diplomatic, representative and war-council authority; her final title remains open.
+- The Director’s strongest provisional age seed is 35; age is not a power rank.
+- His Primordial-derived presence is a character-proof hypothesis: involuntary salience and coordination pressure, never automatic obedience.
+- Director visual leader: long hair and predatory elegance; styling varies by situation, while cuts remain physical chronology.
 - Scene-state change is a revision diagnostic after living composition, not a drafting formula.
 - The assistant must co-create, research, criticize, challenge, direct, organize and archive—not merely validate.
 
@@ -52,19 +52,19 @@ Do not revive as current direction:
 
 ## Active gate
 
-**Round 49 — Core Engine v0.9 synthesis**
+**Round 50 — Director × Phoenix character proof**
 
-Passes 47–48 close CE-05 at laboratory level: normal humanoid local weight; one wound/death map; short coupling vulnerability; anti-resonance without matter deletion; graded regeneration; inherited developmental grammar; ecological scale; story-proofed Deep Body/Full Form; and Natural mythic-state candidate separated from age/rank. Nothing is promoted.
+Pass 49 unified CE-01→CE-05 into one causal architecture and corrected Mythic as a qualitative Natural-Beast metamorphosis. Round 50 tests authority, diplomacy, mutual desire and the Director’s regulated Primordial precedence. Nothing is promoted.
 
-Notion: [current dashboard](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24) · [Laboratory 18](https://app.notion.com/p/3d042424cdbc81bab649f25045bd92a2) · [author delta](https://app.notion.com/p/3d042424cdbc81c99d08e322565cf5e3).
+Notion: [current dashboard](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24) · [Laboratory 19](https://app.notion.com/p/3d042424cdbc81e8bce9d3ca169acb2f) · [source](https://app.notion.com/p/3d042424cdbc8177b66ec5fadb83ce4d) · [visual references](https://app.notion.com/p/3d042424cdbc81c0adc7ce00fb6a8695).
 
 ## Bounded roadmap
 
 | Phase | Planned rounds | Exit |
 |---|---:|---|
 | close CE-05 | 48 | **complete at laboratory level**; reader/narrative proof passed |
-| consolidate Core Engine v0.9 | 49 | **active**; CE-01→CE-05 unified |
-| character proofs | 50–51 | eight proof roles stress-tested |
+| consolidate Core Engine v0.9 | 49 | **complete at laboratory synthesis level** |
+| character proofs | 50–51 | **active next**: Director/Phoenix, then formative pair |
 | combat proofs | 52 | duel, hunt and battlefield |
 | civilizational propagation | 53 | Houses, Academy, medicine, war, law and ecology reconciled |
 | Director / Book 1 architecture | 54–55 | dramatic spine, act/season motion and ending pressure |

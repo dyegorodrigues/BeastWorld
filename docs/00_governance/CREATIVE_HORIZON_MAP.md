@@ -1,3 +1,16 @@
+## Pass 49 horizon delta — 03/09/2026
+
+- Test Mythic as a true metamorphic threshold of Natural-Beast Matrix, body and Quintessence regulation; keep age and sovereignty separate.
+- Test Director Primordial pressure as attention/coordination precedence with resistance, ethical cost and no automatic command.
+- Give the Phoenix external statecraft: diplomacy, House representation and war-council participation alongside maturation/ecology stewardship.
+- Visual leader: long hair and predatory elegance; image 05 leads. Image 07 preserves explicit rejects: engulfing coat and bulky gold ceremony.
+- Combat reference stack separates contact mechanics from acceleration: Sword of the Stranger for blade contact; JJK/Fate/Fog Hill/Solo Leveling/Bleach/Madara for selective speed, tracking, pressure and scale.
+- Architecture/costume must become BeastWorld-specific rather than literal Greco-Roman collage.
+
+All remain non-canon and route to Rounds 50–53 plus the later visual bible.
+
+---
+
 ## Pass 48 horizon delta — 03/09/2026
 
 - Test mythic Natural Beasts as a rare ecological/coherence condition independent of age, office, morphology and combat rank.
