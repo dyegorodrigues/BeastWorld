@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "session_id": "BW-SESSION-2026-09-03-010",
+  "session_id": "BW-SESSION-2026-09-03-011",
   "status": "OPEN",
   "lifecycle_completed": [
     "CAPTURED",
@@ -9,67 +9,56 @@
     "RECONCILED",
     "HOT-UPDATED",
     "NOTION-LINKED",
-    "SYNCED",
-    "VERIFIED",
-    "AUDITED"
+    "SYNCED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "active_cluster": "Pass 50A correction: Mythic modulation, Generated maturity axes and visual character/combat proof",
-  "active_gate": "Round 50 reopened / replace rejected Academy proof with a concrete comprehensible proof",
+  "active_cluster": "Pass 50B: preserve Academy candidate, repair explanation, Dominance terminology and visual proof",
+  "active_gate": "Rebuild and previsualize the Academy emergency before advancing Round 51",
   "source_records": [
-    "docs/08_sources/conversations/2026-09-03-author-delta-pass-50-combat-confirmation-mythic-choice.md",
-    "docs/08_sources/conversations/2026-09-03-author-correction-pass-50a-mythic-modulation-scene-rejection.md"
+    "docs/08_sources/conversations/2026-09-03-author-correction-pass-50b-preserve-academy-idea-repair-explanation.md"
   ],
   "passes": [
-    "docs/09_reviews/chatgpt/2026-09-03/50_CHARACTER_PROOF_DIRECTOR_PHOENIX_PRIMORDIAL_PRECEDENCE.md",
-    "docs/09_reviews/chatgpt/2026-09-03/50A_CORRECTION_MYTHIC_MODULATION_AND_REJECTED_ACADEMY_PROOF.md"
+    "docs/09_reviews/chatgpt/2026-09-03/50B_SCENE_REPAIR_ACADEMY_DOMINANCE_GENERATED_BEAST_CLARITY.md"
   ],
   "research": [
-    "docs/06_research/2026-09-03-mythic-choice-autonomic-agency-diplomatic-mandate-action-cadence.md"
+    "docs/06_research/2026-09-03-dominance-ai-animatic-action-reference-queue.md"
   ],
-  "reconciled_artifacts": [
+  "governance": [
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
+    "docs/00_governance/AUTHORIAL_ALIGNMENT_LOG.md",
+    "V5_CONTEXT_ROUTER.md",
     "docs/00_governance/CURRENT_CREATIVE_CHECKPOINT_2026-09-01.md",
     "docs/00_governance/CREATIVE_HORIZON_MAP.md",
     "V5_RECONCILIATION_STATE.md",
-    "V5_CONTEXT_ROUTER.md",
     "HANDOFF.md",
     "docs/00_governance/RETOMADA.md"
   ],
   "notion_targets": [
     "https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24",
-    "https://app.notion.com/p/3d042424cdbc81d89180f5d18ee2fda0",
-    "https://app.notion.com/p/3d042424cdbc81c6a3c3d4a789838546"
+    "https://app.notion.com/p/3d042424cdbc813bae02fd2e49c780d9",
+    "https://app.notion.com/p/3d042424cdbc81c6a3c3d4a789838546",
+    "https://app.notion.com/p/3d042424cdbc81d89180f5d18ee2fda0"
   ],
-  "source_fidelity": "HIGH-FIDELITY DERIVATIVE for visible author corrections; exact wording remains recoverable from ChatGPT Work",
+  "source_fidelity": "HIGH-FIDELITY DERIVATIVE for visible author correction; exact wording remains recoverable in ChatGPT Work",
   "promoted": false,
-  "known_drift": [
-    "Pass 50 Academy emergency and candidate dialogue are REJECTED and COLD",
-    "Readiness is not Mythic status",
-    "Completed Mythic passage and reversible humanoid modulation are distinct",
-    "Generated-Beast cognition, identity age, embodiment age and inherited memory are not interchangeable",
-    "Primordial precedence remains a bounded hypothesis without an approved scene-proof",
-    "Phoenix mandate remains a useful hypothesis; exact title and authority remain OPEN",
-    "Combat-reference synthesis is not approved until visually previsualized",
-    "Nothing in Pass 50A is canon"
+  "current_locks": [
+    "Academy emergency creative core retained; failed explanation/dialogue rejected",
+    "Reader-facing working term is Dominance; Primordial describes origin only when needed",
+    "Generated Beast is a new person, never donor reincarnation or memory/personality copy",
+    "Autonomous birth produces a functionally developed definitive body, never a baby body",
+    "Phoenix is a centuries-old autonomous Generated Beast; Academy developing Beast is a separate person",
+    "Natural Mythic passage is irreversible; humanoid modulation is reversible and optional",
+    "Natural Mythic bestial form remains home morphology; humanoid form is stable but more actively regulated",
+    "Feedback must be classified by idea, mechanism, staging, language and canon",
+    "Nothing in Pass 50B is canon"
   ],
-  "next_action": "Create a small visual proof package: tactical beat map plus 8–12-panel beatboard; only then test timing in a 10–20 second animatic. Use a concrete hostile encounter, not the rejected Academy incident.",
+  "next_action": "Create the Academy scene tactical map and 8–12 frame beatboard. Validate who acts, why the accident occurs, what Dominance changes and how Phoenix/Director physically save the pair. Then produce a short animatic.",
   "roadmap": {
-    "51": "formative human × Generated Beast proof paused until maturity vocabulary is stable",
-    "52": "visual combat proof can begin early as beatboard/animatic because prose cannot validate timing",
+    "51": "formative human × Generated Beast proof paused until Pass 50B stabilizes",
+    "52": "duel, hunt and battlefield combat proofs",
     "53": "civilizational propagation",
-    "50A": "correction active; replace rejected proof and clarify maturity axes",
-    "54-55": "Director and Book 1 architecture",
-    "visual": "parallel previsualization now prioritized"
-  },
-  "audit": {
-    "github_hot_pointer": "VERIFIED",
-    "github_dashboard": "VERIFIED",
-    "pass_50a": "VERIFIED",
-    "pass_50_supersession": "VERIFIED",
-    "notion_dashboard": "VERIFIED",
-    "notion_lab_20_rejected": "VERIFIED",
-    "notion_correction_50a": "VERIFIED",
-    "promoted": false
+    "50B": "active repaired character/scene proof",
+    "visual": "beat map → beatboard → animatic prioritized now",
+    "54-55": "Director and Book 1 architecture"
   }
 }
