@@ -1,3 +1,15 @@
+## Pass 50 — Director × Phoenix character proof — 03/09/2026
+
+A character-proof leader is identified. During an Academy maturation emergency, the Director releases a minimal pulse of Primordial precedence to arrest a destabilizing young Generated-Beast manifestation for one heartbeat. The pulse does not command; it imposes salience and resonant/autonomic cost. Movement, technical reading and care complete the rescue.
+
+The Phoenix is present under a bounded extraordinary House mandate over maturation safety, representation and negotiation. She resists the pressure, confronts collateral effects and forces safeguards without becoming subordinate or claiming ownership of Generated persons. Their attraction remains reciprocal and is explicitly distinguished from involuntary bodily response.
+
+Mythic competence may be delayed or refused; Mythic condition and humanoid morphology remain independent. Combat horizon now preserves sustained readable exchange plus selective acceleration peaks, with Wen Ren Yu Xuan vs Wrath and Rider vs Saber Alter confirmed as strong references.
+
+Next action: Round 51 formative human × Generated Beast proof. Nothing promoted.
+
+---
+
 ## Pass 49 — Core Engine v0.9 unified — 03/09/2026
 
 CE-01→CE-05 are reconciled into one non-canon laboratory engine. Current chain: Matrix → Mark → Germination → protected development → integrated or autonomous adulthood → definitive dual-morph organism → chosen Resonance. Distance attacks cooperation before existence; regeneration is graded competence; one organism carries one wound map and one death.
