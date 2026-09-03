@@ -8,102 +8,96 @@
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. this dashboard
-3. `docs/09_reviews/chatgpt/2026-09-03/50B_SCENE_REPAIR_ACADEMY_DOMINANCE_GENERATED_BEAST_CLARITY.md`
-4. `docs/00_governance/AUTHORIAL_ALIGNMENT_LOG.md` when interpreting creative feedback
+3. `docs/09_reviews/chatgpt/2026-09-03/50C_CAUSAL_AUDIT_ACADEMY_DOMINANCE_SPECTRUM_MORPHOLOGY_EXPRESSION.md`
+4. `docs/00_governance/AUTHORIAL_ALIGNMENT_LOG.md`
 5. Pass 49 Core Engine v0.9
 6. older passes only when routed.
 
-## Pass 50B correction
+## Pass 50C correction
 
-The Academy emergency remains a strong scene candidate. The original explanation, ambiguous actors, overloaded consequences, “Primordial Precedence” label and candidate dialogue failed. Pass 50A then overcorrected by rejecting the whole idea. Pass 50B preserves the discovery and rewrites the causal presentation.
+The Academy emergency remains a valuable candidate. Pass 50B correctly refused to discard the idea but falsely marked its staging as repaired. Undefined threat, abstract rescue verbs, unexplained Phoenix action and unearned political culpability failed the author's causal audit.
 
-Working reader-facing term: **Dominance**.
+**Current state:** premise retained; scene mechanics OPEN; no storyboard yet.
+
+Working reader-facing term: **Dominance**. “Precedence” is retired.
 
 ## Current creative direction
 
 - A Natural Beast may be prepared for Mythic passage without yet being Mythic.
-- Mythic passage is one real irreversible qualitative reorganization.
-- After that passage, reversible humanoid modulation belongs to the organism.
-- Using humanoid form is optional.
-- A Natural Mythic Beast's bestial form remains home morphology and normally the most natural/efficient expression.
-- Its humanoid form is a stable active equilibrium: sustainable and useful, but more continuously demanding.
-- Generated Beasts have native humanoid and bestial morphologies.
-- Generated Beasts are new persons. Donor Matrix carries developmental architecture/tendencies, not soul, memory or personality.
-- Protected development may include spectral/dense field manifestation while continuity remains anchored in the human.
-- Autonomous birth completes a functionally developed definitive organism. It never creates a baby body or resets the person.
-- The Phoenix is a separate centuries-old autonomous Generated Beast.
-- The Academy cadet's developing Beast is another new person still anchored in that cadet.
-- Dominance may capture bestial attention and provoke fear, hesitation, focus loss or temporary freezing.
-- Dominance cannot implant commands, loyalty, desire or consent.
+- Mythic passage is one irreversible qualitative reorganization.
+- Humanoid modulation afterward is reversible, stable and optional.
+- Natural Mythic bestial form remains home morphology; humanoid form is acquired and actively organized.
+- Generated Beasts have native humanoid and bestial morphologies; many may genuinely prefer humanoid life.
+- Morphology is functional, not an evolution rank.
+- Leading combat hypothesis: humanoid favors fine Quintessence control, weapons and technical combinations; bestial/full favors mass, leverage, species organs and bodily/elemental output. Exact efficiency remains open.
+- Generated Beasts are new persons. Donor Matrix carries architecture/tendencies, never soul, memory, personality or reincarnation.
+- Protected development may include spectral/dense field manifestations while Core/continuity remains in the human.
+- Autonomous birth completes a developed definitive organism, never a baby body.
+- Early autonomous-body adaptation/fragility may occur without mental regression.
+- Phoenix is a centuries-old autonomous Generated Beast.
+- The cadet's developing Beast is a separate new person still anchored in the cadet.
+- Dominance can range from attention capture to freeze, suppression, collapse and exceptional lethal overload.
+- Dominance cannot manufacture belief, loyalty, love, desire or consent.
 - Combat remains fast, physical, magical and spatially legible.
-- The combined reference grammar remains unapproved until shown through beatboard/animatic.
 
-## Academy scene candidate — clear spine
+## Academy candidate — current leader, not approved
 
-1. A small supervised group practices high-density externalization under moving threat.
-2. One cadet tries to recollect their Beast while the Beast simultaneously expands to protect the cadet.
-3. The opposite actions destabilize one manifested limb/wing.
-4. The Director releases Dominance for less than a second, forcing bestial attention toward him.
-5. The Phoenix remains agentic, contains the outward pressure and shields nearby pairs.
-6. The Director reaches the central pair and restores one shared physical/resonant rhythm.
-7. The pair recollects safely.
-8. Ethical/political safeguards are discussed afterward, not dumped into the rescue.
+A controlled divided-defense drill uses a visible, cancellable training projectile. One cadet chooses recall while their developing Beast chooses intercept; both decisions are protective, but simultaneous opposite commands cause the dense external body to lose its axis. The instructor cancels the projectile. A dense wing/forelimb already carries enough momentum to crush nearby cadets.
 
-## Explicitly rejected/superseded
+- The Director releases a short Dominance pulse. Bestial motor output freezes and stops adding force.
+- Dominance does not erase existing momentum.
+- The Phoenix physically catches/deflects the dense limb with a field brace.
+- The floor/barrier cracks, showing the force she absorbed.
+- Instructors clear the lane; the central pair receives medical/resonant assessment.
 
-- rejection of the Academy idea itself;
-- Pass 50's unclear explanation and dialogue;
-- “Primordial Precedence” as current term;
-- inherited donor memory/personality;
-- autonomous baby body;
-- ambiguous “young Generated Beast” without specifying development;
-- property dispute and full policy redesign forced into the rescue;
-- mixed/temporary biological soma;
-- universal mana bar;
-- transformation heal/reset;
-- age as power rank.
+Director stops new acceleration; Phoenix handles remaining inertia. This is the first rescue mechanism that is visually causal enough to continue testing.
+
+## What remains open in the Academy scene
+
+- exact training apparatus and decision protocol;
+- exact visual design of the field brace;
+- distance/positions of Director, Phoenix, cadets and instructor;
+- consequences to central pair;
+- whether broad Dominance leakage startles or forces recollection in other manifestations;
+- aftermath and dialogue;
+- whether this scene belongs in Book 1 at all.
 
 ## Active gate
 
-**Pass 50B — validate the repaired Academy candidate visually.**
+**Pass 50C — incident mechanics before visual proof.**
 
-Next production proof:
+1. stress-test candidate A against containment breach and sabotage alternatives;
+2. draw a tactical map only after choosing the incident;
+3. build an 8–12 panel beatboard;
+4. create a short animatic/AI shot proof;
+5. test causal readability without narration;
+6. only then write scene prose.
 
-1. tactical map;
-2. 8–12 frame beatboard;
-3. 10–20 second animatic at 24 fps container rate using held panels/key poses;
-4. short AI-assisted shot tests;
-5. edit and correction;
-6. polished art only after the motion reads.
+Round 51 remains paused until the incident passes.
 
-Round 51 remains paused until this correction is stable.
+## Reference stack
 
-Notion: [current dashboard](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24) · [Pass 50B](https://app.notion.com/p/3d042424cdbc813bae02fd2e49c780d9).
-
-## Reference queue
-
-| Reference | Extraction |
-|---|---|
-| `Sword of the Stranger` | feet, weight, guard and blade contact |
-| `Fog Hill of Five Elements` | sustained exchange and chained adaptation |
-| `Heaven's Feel III` | tracked extreme speed and escalation |
-| `The God of High School — Jin Mori vs Han Daewi` | hand-to-hand rhythm and readable acceleration |
-| `Fate/Apocrypha — Achilles vs Chiron` | speed with bodily weight |
-| `Kakashi vs Obito` | clean geography and emotional choreography |
-| `Naruto & Sasuke vs Momoshiki` | two-versus-one cooperation |
-| `Mob Psycho 100 II — Shimazaki` | multi-combatant clarity under extreme movement |
-| `Castlevania — trio vs Dracula` | weapons + magic + team geometry |
+| Status | Reference | Job |
+|---|---|---|
+| strong | `Fog Hill of Five Elements — Wen Ren Yu Xuan vs Wrath` | sustained exchange/adaptation |
+| strong | `Heaven's Feel III — Rider vs Saber Alter` | tracked extreme speed |
+| strong | `Solo Leveling — Jinwoo vs Beru` | silhouette, acceleration, impact |
+| strong | `Naruto/Boruto` selected fights | hand-to-hand and multi-actor geography |
+| strong | `Tengen vs Gyutaro` | chained weapons, speed and sound |
+| partial | `Sword of the Stranger` | feet, weight, guard, blade contact |
+| rejected | `Achilles vs Chiron`, `trio vs Dracula`, `group vs Shimazaki` | not target references |
+| pending | `Jin Mori vs Han Daewi`, `Zhen Dao Ge`, `Hitori no Shita S3E2`, `Legend of Hei`, `Ruthless Blade`, `Vivy vs Elizabeth` | inspect before adoption |
 
 ## Memory architecture
 
 | Temperature | Load |
 |---|---|
-| HOT | pointer, dashboard, Pass 50B |
+| HOT | pointer, dashboard, Pass 50C |
 | WARM | Pass 49, alignment log, research, horizon |
-| COLD | raw chats/PDFs, Pass 50/50A correction history |
+| COLD | raw chats/PDFs, Pass 50/50A/50B correction history |
 
 ## Promotion
 
-Nothing in Pass 50B is canon.
+Nothing in Pass 50C is canon.
 
 > Source preserves → research tests → gate compares → decision records → lore promotes.
