@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **CORRECTED BY AUTHOR IN PASS 50B.** This record misclassified criticism of the scene's explanation as rejection of its idea. Preserve it as evidence of the correction process; current source is `2026-09-03-author-correction-pass-50b-preserve-academy-idea-repair-explanation.md`.
+
 # Source Record — Author Correction Pass 50A — Mythic Modulation, Generated Maturity and Scene Rejection
 
 **Source ID:** BW-SRC-AUTHOR-2026-09-03-PASS50A  
