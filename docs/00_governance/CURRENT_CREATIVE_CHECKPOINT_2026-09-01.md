@@ -1,3 +1,15 @@
+## Pass 50 checkpoint — Director × Phoenix
+
+- Academy rescue is the current character-proof leader, not a fixed story event.
+- Primordial precedence creates involuntary salience and coordination cost but cannot command identity, loyalty, desire or consent.
+- The Director accepts responsibility without apologizing for saving a life; the Phoenix forces safeguards without losing authority or attraction.
+- Phoenix authority is mandate-based and non-sovereign: maturation, representation, negotiation and war-council competence.
+- Mythic competence can be delayed/refused; humanoid morphology remains separate.
+- Combat grammar adds sustained kinetic density and wave cadence.
+- Round 51 is active next. Nothing promoted.
+
+---
+
 # Pass 49 — Core Engine v0.9 unified — 03/09/2026
 
 CE-01→CE-05 now form one non-canon laboratory architecture: Matrix changes developmental possibility; Mark builds the living interface; Germination creates a new person; protected development allows field expression; integrated and autonomous adulthood are both valid; autonomous birth relocates continuity into one dual-morph biological organism; Resonance remains a chosen relationship.
