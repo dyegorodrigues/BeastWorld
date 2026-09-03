@@ -1,3 +1,9 @@
+## CLEAN CURRENT ENTRY — PASS 50A — 03/09/2026
+
+Read `docs/00_governance/CURRENT_SESSION_POINTER.json`, then `CURRENT_PROJECT_DASHBOARD.md`, then Pass 50A. Pass 50's Academy emergency and dialogue are rejected/COLD. Mythic passage is irreversible; humanoid modulation unlocked afterward is reversible and optional. Round 51 is paused while a concrete visual proof replaces the failed scene. Nothing promoted.
+
+---
+
 ## CLEAN CURRENT ENTRY — PASS 50 — 03/09/2026
 
 Read `docs/00_governance/CURRENT_SESSION_POINTER.json`, then `CURRENT_PROJECT_DASHBOARD.md`, then Pass 50. Director × Phoenix has a character-proof leader; Round 51 tests the formative human/Generated-Beast pair. Nothing promoted.
