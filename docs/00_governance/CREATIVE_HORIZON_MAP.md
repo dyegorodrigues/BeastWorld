@@ -1,3 +1,11 @@
+## Pass 47 horizon delta — 03/09/2026
+
+Non-canon candidates: Phoenix as institutional First/Second Elder and one of the House’s strongest/highest-potential figures; serious public demeanor with genuine selective attraction to the 35-year-old Director; natural Beasts acquiring stable humanoid biology; autonomous Generated Beasts founding naturally born lineages; human × Generated-Beast fertility as a future fork; exceptional funerary/forensic exposure of recollected anatomy; and combat key moments that turn image, tactic, character and consequence together.
+
+These are routing candidates, not canon or fixed Book 1 events.
+
+---
+
 # BeastWorld — Creative Horizon Map
 
 **Date:** 2026-09-02  

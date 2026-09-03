@@ -1,6 +1,6 @@
 # BeastWorld — Current Project Dashboard
 
-**Updated:** 2026-09-02  
+**Updated:** 2026-09-03  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
 **Mode:** RECONCILIATION / STORY-FIRST / NOT-CANON  
 **Purpose:** one clean current-state front door. Historical pages remain evidence; they are not automatically current.
@@ -9,10 +9,11 @@
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. this dashboard
-3. `docs/09_reviews/chatgpt/2026-09-02/46_CE05_CREATIVE_SYNTHESIS_SPECIES_TRANSFORMATION_COMBAT_AUTHORIAL_SIGNATURE.md`
-4. `docs/09_reviews/chatgpt/2026-09-02/45_CORE_ENGINE_V0_9_CE05_AUTHOR_CORRECTIONS_TWO_ADULT_MODES_DEEP_BODY_TRANSMEDIA.md`
-5. `docs/00_governance/CURRENT_CREATIVE_CHECKPOINT_2026-09-01.md`
-6. only then load older passes or raw sources on demand.
+3. `docs/09_reviews/chatgpt/2026-09-03/47_CE05_PHYSICAL_STRESS_TEST_DEEP_BODY_DEATH_REGENERATION_REPRODUCTION_SCALE.md`
+4. `docs/09_reviews/chatgpt/2026-09-02/46_CE05_CREATIVE_SYNTHESIS_SPECIES_TRANSFORMATION_COMBAT_AUTHORIAL_SIGNATURE.md`
+5. `docs/09_reviews/chatgpt/2026-09-02/45_CORE_ENGINE_V0_9_CE05_AUTHOR_CORRECTIONS_TWO_ADULT_MODES_DEEP_BODY_TRANSMEDIA.md`
+6. `docs/00_governance/CURRENT_CREATIVE_CHECKPOINT_2026-09-01.md`
+7. only then load older passes or raw sources on demand.
 
 ## Current creative direction
 
@@ -24,8 +25,8 @@
 - Autonomous Generated Beasts possess one definitive dual-morph organism: authentic humanoid life and functional bestial Full Form.
 - Deep Body / Full Form are current reader-facing candidates; reentrant living anatomy is scholarly/backstage.
 - Combat must remain fast, physical, martial, lethal and spatially legible as power grows.
-- The Phoenix Elder is a Generated Beast from an older/important generation, not a natural primordial or millennia-old creature.
-- The Director remains provisionally 35–40; age is not a power rank.
+- The Phoenix Elder is a Generated Beast from an older/important generation, not a natural primordial or millennia-old creature; an institutional First/Second Elder title remains a candidate.
+- The Director’s strongest provisional age seed is now 35; age is not a power rank.
 - Scene-state change is a revision diagnostic after living composition, not a drafting formula.
 - The assistant must co-create, research, criticize, challenge, direct, organize and archive—not merely validate.
 
@@ -48,22 +49,17 @@ Do not revive as current direction:
 
 ## Active gate
 
-**CE-05 — Deep Body / Full Form**
+**Round 48 — CE-05 reader-facing and narrative proof**
 
-Open tests:
+Pass 47 now provides a physical laboratory leader: humanoid form has normal local weight; only opened anatomy carries local gravity/inertia; last-open form remains as corpse; coupling is the short interruption window; anti-resonance suppresses organization rather than deleting flesh; regeneration is graded; descendants inherit developmental capacity rather than adult mass/power; maximum scale is grown and ecological.
 
-1. gravity and inertia;
-2. death and remains across morphs;
-3. transformation interruption;
-4. anti-Quintessence interaction;
-5. reproduction and inheritance;
-6. maximum scale and ecology.
+Natural Beasts may also acquire stable biological humanoid morphology through a distinct, difficult developmental route. Nothing is promoted.
 
 ## Bounded roadmap
 
 | Phase | Planned rounds | Exit |
 |---|---:|---|
-| close CE-05 | 47–48 | physical leader + reader/narrative proof |
+| close CE-05 | 48 | reader/narrative proof of the Pass 47 physical leader |
 | consolidate Core Engine v0.9 | 49 | CE-01→CE-05 unified |
 | character proofs | 50–51 | eight proof roles stress-tested |
 | combat proofs | 52 | duel, hunt and battlefield |

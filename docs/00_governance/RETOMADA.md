@@ -1,3 +1,9 @@
+## CLEAN CURRENT ENTRY — PASS 47 — 03/09/2026
+
+Read `docs/00_governance/CURRENT_SESSION_POINTER.json`, then `CURRENT_PROJECT_DASHBOARD.md`, then Pass 47. The CE-05 physical laboratory leader is modeled; Round 48 must prove it through story. No canon promotion.
+
+---
+
 # RETOMADA — Porta de Entrada
 
 ## CLEAN CURRENT ENTRY — PASS 46 — 02/09/2026

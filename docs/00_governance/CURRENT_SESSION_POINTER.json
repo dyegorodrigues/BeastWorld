@@ -1,28 +1,27 @@
 {
   "schema_version": 2,
-  "session_id": "BW-SESSION-2026-09-02-005",
+  "session_id": "BW-SESSION-2026-09-03-006",
   "status": "OPEN",
   "lifecycle_completed": [
     "CAPTURED",
-    "NORMALIZED",
+    "RESEARCHED",
     "MODELED",
     "RECONCILED",
-    "HOT-UPDATED",
-    "NOTION-LINKED",
-    "DASHBOARDED",
-    "SYNCED",
-    "VERIFIED"
+    "HOT-UPDATED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "active_cluster": "Core Engine v0.9 + authorial signature + story-mother",
-  "active_gate": "Round 47 / CE-05 physical stress-test: gravity, inertia, death remains, interruption, reproduction, anti-Quintessence and maximum scale",
-  "raw_transcripts": [],
+  "active_cluster": "Core Engine v0.9 + CE-05 Deep Body / Full Form",
+  "active_gate": "Round 48 / CE-05 reader-facing and narrative proof",
   "source_records": [
-    "docs/08_sources/conversations/2026-09-02-author-delta-ce05-phoenix-transmedia-source-record.md"
+    "docs/08_sources/conversations/2026-09-03-author-delta-pass-47-local-weight-phoenix-director-workflow.md"
   ],
   "passes": [
     "docs/09_reviews/chatgpt/2026-09-02/45_CORE_ENGINE_V0_9_CE05_AUTHOR_CORRECTIONS_TWO_ADULT_MODES_DEEP_BODY_TRANSMEDIA.md",
-    "docs/09_reviews/chatgpt/2026-09-02/46_CE05_CREATIVE_SYNTHESIS_SPECIES_TRANSFORMATION_COMBAT_AUTHORIAL_SIGNATURE.md"
+    "docs/09_reviews/chatgpt/2026-09-02/46_CE05_CREATIVE_SYNTHESIS_SPECIES_TRANSFORMATION_COMBAT_AUTHORIAL_SIGNATURE.md",
+    "docs/09_reviews/chatgpt/2026-09-03/47_CE05_PHYSICAL_STRESS_TEST_DEEP_BODY_DEATH_REGENERATION_REPRODUCTION_SCALE.md"
+  ],
+  "research": [
+    "docs/06_research/2026-09-03-ce05-physical-biological-constraints-research-note.md"
   ],
   "reconciled_artifacts": [
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
@@ -35,26 +34,19 @@
   ],
   "notion_targets": [
     "BeastWorld Painel Atual Comece Aqui 2026-09-02",
-    "Laboratory 16 creative synthesis",
-    "V5 Ponte de Reconciliação",
-    "Source Library author delta 2026-09-02",
-    "Laboratory 15 CE-05",
-    "Current checkpoint",
-    "Creative Horizon Map 2026-09-02"
+    "Laboratory 17 CE-05 physical stress-test",
+    "Source Pass 47 author delta"
   ],
-  "source_fidelity": "VERBATIM for the approved assistant second synthesis; HIGH-FIDELITY DERIVATIVE for current author direction; exact author wording remains in the ChatGPT Work thread and full RAW export is deferred",
+  "source_fidelity": "HIGH-FIDELITY DERIVATIVE for current author direction; exact author wording remains in the ChatGPT Work thread",
   "promoted": false,
   "known_drift": [
     "Pass 44 mature-stagnation/regulatory-competition penalty is superseded",
-    "Phoenix as natural primordial/millennia-old Beast is rejected",
-    "Phoenix attraction-test transformation scene is rejected"
+    "Phoenix as natural primordial/millennia-old Beast is rejected for this character, not as a universal ban on natural-Beast humanoid forms",
+    "Director 35 supersedes 35–40 as the strongest provisional seed",
+    "hidden local tonnes in humanoid form are rejected"
   ],
-  "next_action": "Execute Round 47 and return an executive table plus plain-language leader; split only if a real authorial fork remains.",
-  "verbatim_records": [
-    "docs/08_sources/conversations/2026-09-02-session-005-assistant-second-synthesis-verbatim.md"
-  ],
+  "next_action": "Execute Round 48: one natural mass-explanation scene and one causally earned Full-Form proof; no Phoenix demonstration by convenience.",
   "roadmap": {
-    "47": "CE-05 physical stress-test",
     "48": "CE-05 reader-facing and narrative proof",
     "49": "Core Engine v0.9 synthesis",
     "52": "duel, hunt and battlefield combat proofs",

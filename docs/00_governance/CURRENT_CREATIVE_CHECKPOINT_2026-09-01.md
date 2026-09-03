@@ -1,3 +1,17 @@
+# Pass 47 physical leader — 03/09/2026
+
+The author corrected local weight decisively: an autonomous Generated Beast in humanoid form has normal humanoid-scale weight; recollected Deep Body anatomy is not locally coupled to ordinary gravity/inertia. Pass 47 stress-tested the complete CE-05 cluster, not inertia alone.
+
+Laboratory leader: local-only weight; no free momentum multiplication; last-open-form remains; brief coupling vulnerability; anti-resonant suppression rather than matter deletion; graded regeneration; descendants inherit developmental grammar rather than adult mass/power; maximum scale must be grown and ecologically supported.
+
+Director age 35 is the strongest current seed. The Phoenix remains a Generated Beast and may hold a House office such as First Elder without turning age into a universal tier. Natural Beasts are not barred from acquiring biological humanoid forms through a distinct developmental route.
+
+Pass: `docs/09_reviews/chatgpt/2026-09-03/47_CE05_PHYSICAL_STRESS_TEST_DEEP_BODY_DEATH_REGENERATION_REPRODUCTION_SCALE.md`.  
+Research: `docs/06_research/2026-09-03-ce05-physical-biological-constraints-research-note.md`.  
+No canon promotion.
+
+---
+
 # BeastWorld — Current Creative Checkpoint — 01/09/2026
 
 ## Pass 46 — second synthesis + finite roadmap — 02/09/2026

@@ -1,3 +1,11 @@
+## Pass 47 — CE-05 physical leader — 03/09/2026
+
+Current non-canon leader: normal humanoid local weight; locally opened anatomy alone carries gravity/inertia; no free momentum multiplication; last locally expressed morphology remains as visible corpse; brief coupling interval is the transformation vulnerability; anti-resonance suppresses organization without deleting flesh; graded regeneration depends on retained pattern, viable tissue, matter, Quintessence, time and control; descendants inherit developmental capacity rather than adult mass/personality/power; maximum scale is grown, controlled and ecological.
+
+Latest author corrections: Director seed 35; Phoenix may be a high institutional Elder while remaining a Generated Beast; natural Beasts may acquire humanoid biology through a distinct route. Next action is Round 48 story proof. No promotion.
+
+---
+
 # BeastWorld — V5 Reconciliation State
 
 ## Pass 46 + clean current-state dashboard — 02/09/2026

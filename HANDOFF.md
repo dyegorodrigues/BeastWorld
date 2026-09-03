@@ -1,3 +1,20 @@
+## PASS 47 HANDOFF — 03/09/2026
+
+Resume from the current session pointer and dashboard. Pass 47 supplies the CE-05 physical laboratory leader and preserves the author’s latest corrections.
+
+Next task: **Round 48 — reader-facing proof**. Write/test one natural apprentice–teacher exchange for Deep Body mass and one causally earned Full-Form scene. Do not use the Phoenix merely to demonstrate transformation.
+
+Hard guardrails:
+- humanoid Generated Beast = normal humanoid local weight;
+- no hidden tonnes, free momentum multiplication or transformation-healing reset;
+- anti-Quintessence does not delete existing flesh;
+- Director seed = 35;
+- this Phoenix = Generated Beast; natural Beasts may still acquire humanoid biology;
+- institutional Elder title must not silently become a universal power tier;
+- no canon promotion.
+
+---
+
 # ACTIVE V5 HANDOFF OVERRIDE — 01/09/2026
 
 ## PASS 46 HANDOFF — 02/09/2026

@@ -1,3 +1,11 @@
+## HOT front door — Pass 47 — 03/09/2026
+
+**Mandatory minimal load:** pointer → dashboard → Pass 47 → Pass 46 → only direct dependencies.
+
+Pass 47 closes the physical laboratory leader for Deep Body and routes the next task to Round 48 reader/narrative proof. Raw conversation and historical ontology remain COLD unless wording/provenance is disputed. Nothing promoted.
+
+---
+
 # BeastWorld — V5 Context Router
 
 ## HOT front door — Pass 46 — 02/09/2026
