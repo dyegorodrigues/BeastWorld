@@ -7,7 +7,10 @@
     "RESEARCHED",
     "MODELED",
     "RECONCILED",
-    "HOT-UPDATED"
+    "HOT-UPDATED",
+    "NOTION-LINKED",
+    "SYNCED",
+    "VERIFIED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
   "active_cluster": "Core Engine v0.9 synthesis",
@@ -34,7 +37,9 @@
     "docs/00_governance/RETOMADA.md"
   ],
   "notion_targets": [
-    "Pass 48 Laboratory/Source creation pending"
+    "https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24",
+    "https://app.notion.com/p/3d042424cdbc81bab649f25045bd92a2",
+    "https://app.notion.com/p/3d042424cdbc81c99d08e322565cf5e3"
   ],
   "source_fidelity": "HIGH-FIDELITY DERIVATIVE for current author direction; exact wording remains in ChatGPT Work thread",
   "promoted": false,

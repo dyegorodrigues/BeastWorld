@@ -56,7 +56,7 @@ Do not revive as current direction:
 
 Passes 47–48 close CE-05 at laboratory level: normal humanoid local weight; one wound/death map; short coupling vulnerability; anti-resonance without matter deletion; graded regeneration; inherited developmental grammar; ecological scale; story-proofed Deep Body/Full Form; and Natural mythic-state candidate separated from age/rank. Nothing is promoted.
 
-Notion sync for Pass 48 is pending this commit.
+Notion: [current dashboard](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24) · [Laboratory 18](https://app.notion.com/p/3d042424cdbc81bab649f25045bd92a2) · [author delta](https://app.notion.com/p/3d042424cdbc81c99d08e322565cf5e3).
 
 ## Bounded roadmap
 
