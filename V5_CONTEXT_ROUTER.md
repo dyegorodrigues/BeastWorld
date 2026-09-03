@@ -1,3 +1,13 @@
+## Pass 50 current route — 03/09/2026
+
+HOT: current pointer → dashboard → Pass 50.  
+WARM on demand: Pass 49 Core Engine; Pass 50 source/research; current checkpoint and horizon map.  
+COLD only for exact wording/provenance: Work thread and recovered transcripts.
+
+Active task: Round 51 formative human × Generated Beast proof. Preserve the Academy rescue as a proof vehicle, not a fixed Book 1 event. Do not promote Primordial precedence, Phoenix office, Mythic-choice rules or action heuristics.
+
+---
+
 ## Pass 49 current route — 03/09/2026
 
 HOT: current pointer → dashboard → Pass 49.  
