@@ -7,7 +7,10 @@
     "RESEARCHED",
     "MODELED",
     "RECONCILED",
-    "HOT-UPDATED"
+    "HOT-UPDATED",
+    "NOTION-LINKED",
+    "SYNCED",
+    "VERIFIED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
   "active_cluster": "Core Engine v0.9 + CE-05 Deep Body / Full Form",
@@ -33,9 +36,9 @@
     "docs/00_governance/RETOMADA.md"
   ],
   "notion_targets": [
-    "BeastWorld Painel Atual Comece Aqui 2026-09-02",
-    "Laboratory 17 CE-05 physical stress-test",
-    "Source Pass 47 author delta"
+    "https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24",
+    "https://app.notion.com/p/3d042424cdbc814ab007c3e5fc73c256",
+    "https://app.notion.com/p/3d042424cdbc818fb4b0c53828b3f00f"
   ],
   "source_fidelity": "HIGH-FIDELITY DERIVATIVE for current author direction; exact author wording remains in the ChatGPT Work thread",
   "promoted": false,

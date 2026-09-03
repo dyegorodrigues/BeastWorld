@@ -55,6 +55,8 @@ Pass 47 now provides a physical laboratory leader: humanoid form has normal loca
 
 Natural Beasts may also acquire stable biological humanoid morphology through a distinct, difficult developmental route. Nothing is promoted.
 
+Notion: [current dashboard](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24) · [Laboratory 17](https://app.notion.com/p/3d042424cdbc814ab007c3e5fc73c256) · [author delta](https://app.notion.com/p/3d042424cdbc818fb4b0c53828b3f00f).
+
 ## Bounded roadmap
 
 | Phase | Planned rounds | Exit |
