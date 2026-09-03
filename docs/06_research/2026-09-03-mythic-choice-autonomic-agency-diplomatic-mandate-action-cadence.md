@@ -1,3 +1,10 @@
+> [!CAUTION]
+> **CORRECTION — Pass 50A.** The section below that allowed a Natural Beast to delay/refuse Mythic passage after complete competence is no longer the active interpretation. Current leader: readiness is not Mythic; the completed Mythic passage is an irreversible qualitative reorganization; reversible humanoid modulation becomes an intrinsic capability afterward, and only its use is facultative. Phenotypic plasticity remains an analogy for multiple possible forms, not proof of BeastWorld mechanics.
+>
+> Added research boundary: reviews of phenotypic plasticity distinguish lifetime flexibility and distinct phenotypes from permanent evolutionary sequence change. This supports keeping irreversible threshold and reversible adult modulation conceptually separate without treating biology as literal proof. See https://pmc.ncbi.nlm.nih.gov/articles/PMC6987144/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC7198268/.
+>
+> Production note: visual combat validation should move from thumbnails/boards to timed animatic because camera movement and timing are preproduction questions, not prose-only questions. See https://www.toonboom.com/products/storyboard-pro.
+
 # Research Note — Mythic Choice, Autonomic Agency, Diplomatic Mandate and Action Cadence
 
 **Date:** 2026-09-03  
