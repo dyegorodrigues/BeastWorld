@@ -2,114 +2,108 @@
 
 **Updated:** 2026-09-03  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Mode:** RECONCILIATION / STORY-FIRST / NOT-CANON  
-**Purpose:** clean current-state front door. Historical pages preserve evidence but do not lead retrieval.
+**Mode:** RECONCILIATION / STORY-FIRST / NOT-CANON
 
 ## Read this first
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. this dashboard
-3. `docs/09_reviews/chatgpt/2026-09-03/50A_CORRECTION_MYTHIC_MODULATION_AND_REJECTED_ACADEMY_PROOF.md`
-4. Pass 49 Core Engine v0.9
-5. current creative checkpoint
+3. `docs/09_reviews/chatgpt/2026-09-03/50B_SCENE_REPAIR_ACADEMY_DOMINANCE_GENERATED_BEAST_CLARITY.md`
+4. `docs/00_governance/AUTHORIAL_ALIGNMENT_LOG.md` when interpreting creative feedback
+5. Pass 49 Core Engine v0.9
 6. older passes only when routed.
 
-## Current correction
+## Pass 50B correction
 
-Pass 50's Academy emergency is **REJECTED as the character-proof leader**. Its cadet/Generated-Beast crisis, affected manifestations, rescue mechanics, policy dispute and candidate dialogue were not causally earned. The original file remains COLD history with a supersession warning.
+The Academy emergency remains a strong scene candidate. The original explanation, ambiguous actors, overloaded consequences, “Primordial Precedence” label and candidate dialogue failed. Pass 50A then overcorrected by rejecting the whole idea. Pass 50B preserves the discovery and rewrites the causal presentation.
+
+Working reader-facing term: **Dominance**.
 
 ## Current creative direction
 
-- Generated Beasts are new persons born through Bestial Matrix × human plasticity × Living World ecology.
-- Integrated and autonomous adulthood are both complete valid modes.
-- Autonomous Generated Beasts have one dual-morph biological organism; humanoid and bestial morphologies are both native.
-- A Natural Beast is not Mythic merely because it is ready.
-- A successful Mythic passage is an irreversible qualitative reorganization.
-- After that passage, reversible humanoid modulation becomes an intrinsic available capability.
-- The Natural Mythic Beast chooses whether and when to use humanoid form.
-- Natural Mythic bestial morphology remains its original/home expression and normally its most native efficient form.
-- Humanoid modulation offers compact maintenance, logistics, architecture, culture and diplomacy; it need not match native bestial efficiency.
-- A Generated Beast may be especially comfortable/efficient in humanoid life because humanity participated in its ontogenesis.
-- Age of identity, cognitive competence, manifestation skill and autonomous-body maturity are separate axes.
-- Literal inherited centuries of personal memory are not assumed.
-- Phoenix remains a Generated Beast of an important older generation. Mandate-based diplomacy/representation is retained; exact title and authority remain open.
-- Primordial presence remains a bounded hypothesis: it may affect attention and physiology but not loyalty, desire, consent or adult choice.
-- Combat reference stack is retained, but the combined grammar is not treated as proven until shown visually.
-- Biology remains the invisible skeleton; magic, beauty, terror, sensuality and martial spectacle remain the audience experience.
-- The assistant must co-create, research, criticize, direct, organize and archive—not merely validate.
+- A Natural Beast may be prepared for Mythic passage without yet being Mythic.
+- Mythic passage is one real irreversible qualitative reorganization.
+- After that passage, reversible humanoid modulation belongs to the organism.
+- Using humanoid form is optional.
+- A Natural Mythic Beast's bestial form remains home morphology and normally the most natural/efficient expression.
+- Its humanoid form is a stable active equilibrium: sustainable and useful, but more continuously demanding.
+- Generated Beasts have native humanoid and bestial morphologies.
+- Generated Beasts are new persons. Donor Matrix carries developmental architecture/tendencies, not soul, memory or personality.
+- Protected development may include spectral/dense field manifestation while continuity remains anchored in the human.
+- Autonomous birth completes a functionally developed definitive organism. It never creates a baby body or resets the person.
+- The Phoenix is a separate centuries-old autonomous Generated Beast.
+- The Academy cadet's developing Beast is another new person still anchored in that cadet.
+- Dominance may capture bestial attention and provoke fear, hesitation, focus loss or temporary freezing.
+- Dominance cannot implant commands, loyalty, desire or consent.
+- Combat remains fast, physical, magical and spatially legible.
+- The combined reference grammar remains unapproved until shown through beatboard/animatic.
 
-## Explicitly superseded or rejected
+## Academy scene candidate — clear spine
 
-- Pass 50 Academy maturation emergency as leader;
-- the dialogue “Meu corpo te ouviu antes de mim”;
-- preparedness treated as Mythic status;
-- choosing humanoid use confused with choosing Mythic passage;
-- “young Generated Beast” used without naming the maturity axis;
+1. A small supervised group practices high-density externalization under moving threat.
+2. One cadet tries to recollect their Beast while the Beast simultaneously expands to protect the cadet.
+3. The opposite actions destabilize one manifested limb/wing.
+4. The Director releases Dominance for less than a second, forcing bestial attention toward him.
+5. The Phoenix remains agentic, contains the outward pressure and shields nearby pairs.
+6. The Director reaches the central pair and restores one shared physical/resonant rhythm.
+7. The pair recollects safely.
+8. Ethical/political safeguards are discussed afterward, not dumped into the rescue.
+
+## Explicitly rejected/superseded
+
+- rejection of the Academy idea itself;
+- Pass 50's unclear explanation and dialogue;
+- “Primordial Precedence” as current term;
+- inherited donor memory/personality;
+- autonomous baby body;
+- ambiguous “young Generated Beast” without specifying development;
+- property dispute and full policy redesign forced into the rescue;
 - mixed/temporary biological soma;
-- direct energy-to-flesh baseline;
-- transformation heal/reset;
 - universal mana bar;
-- compulsory autonomous birth;
-- mature-integration stagnation as universal law;
-- routine post-autonomy return into former host;
-- Phoenix as natural primordial/millennia-old;
-- humanoid form as strength meter;
-- age as automatic power rank;
-- prose-only approval of combat timing.
+- transformation heal/reset;
+- age as power rank.
 
 ## Active gate
 
-**Round 50A — repair the character proof and make the action visible.**
+**Pass 50B — validate the repaired Academy candidate visually.**
 
-Next useful proof:
+Next production proof:
 
-1. define a concrete hostile encounter with no unexplained cadet crisis;
-2. make Director and Phoenix actions physically legible;
-3. preserve bodily response without mind control;
-4. use natural dialogue only after the dramatic causality works;
-5. translate the combat into an 8–12-panel beatboard;
-6. test timing through a 10–20 second animatic before polished art.
+1. tactical map;
+2. 8–12 frame beatboard;
+3. 10–20 second animatic at 24 fps container rate using held panels/key poses;
+4. short AI-assisted shot tests;
+5. edit and correction;
+6. polished art only after the motion reads.
 
-Round 51 remains paused until Generated-Beast maturity vocabulary is stable.
+Round 51 remains paused until this correction is stable.
 
-Notion: [current dashboard](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24) · [Laboratory 20](https://app.notion.com/p/3d042424cdbc81c6a3c3d4a789838546).
+Notion: [current dashboard](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24) · [Pass 50B](https://app.notion.com/p/3d042424cdbc813bae02fd2e49c780d9).
 
-## Reference extraction retained
+## Reference queue
 
-| Reference | Production use |
+| Reference | Extraction |
 |---|---|
-| `Sword of the Stranger` | feet, weight transfer, guard, blade contact |
-| `Fog Hill of Five Elements — Wen Ren Yu Xuan vs Wrath` | sustained readable exchange and chained transitions |
-| `Heaven's Feel III — Rider vs Saber Alter` | tracked extreme speed and escalation |
-| `Jujutsu Kaisen` | tactical interaction and close-range transitions |
-| `Bleach` | weapon identity, arrival pressure and release rhythm |
-| Madara | one-versus-many geography and tempo variation |
-| `Solo Leveling` | silhouette, speed ramps and impact punctuation |
-
-The desired synthesis remains a hypothesis until the author can see it.
-
-## Bounded roadmap
-
-| Phase | Status / exit |
-|---|---|
-| CE-05 | complete at laboratory level |
-| Core Engine v0.9 | complete at synthesis level |
-| Pass 50A | active correction and concrete proof |
-| Round 51 | paused; formative pair after maturity axes |
-| visual combat proof | prioritized now as beatboard → animatic |
-| civilizational propagation | later Round 53 |
-| Director / Book 1 | later Rounds 54–55 |
+| `Sword of the Stranger` | feet, weight, guard and blade contact |
+| `Fog Hill of Five Elements` | sustained exchange and chained adaptation |
+| `Heaven's Feel III` | tracked extreme speed and escalation |
+| `The God of High School — Jin Mori vs Han Daewi` | hand-to-hand rhythm and readable acceleration |
+| `Fate/Apocrypha — Achilles vs Chiron` | speed with bodily weight |
+| `Kakashi vs Obito` | clean geography and emotional choreography |
+| `Naruto & Sasuke vs Momoshiki` | two-versus-one cooperation |
+| `Mob Psycho 100 II — Shimazaki` | multi-combatant clarity under extreme movement |
+| `Castlevania — trio vs Dracula` | weapons + magic + team geometry |
 
 ## Memory architecture
 
-| Temperature | Load rule | Contents |
-|---|---|---|
-| HOT | every resumption | pointer, dashboard, correction pass |
-| WARM | by cluster | Core Engine, research, dossiers, horizon |
-| COLD | wording/provenance only | raw chats, PDFs, rejected Pass 50 scene |
+| Temperature | Load |
+|---|---|
+| HOT | pointer, dashboard, Pass 50B |
+| WARM | Pass 49, alignment log, research, horizon |
+| COLD | raw chats/PDFs, Pass 50/50A correction history |
 
 ## Promotion
 
-Nothing in Pass 50A is canon.
+Nothing in Pass 50B is canon.
 
-> Source preserves → intake classifies → research tests → gate compares → decision records → lore promotes.
+> Source preserves → research tests → gate compares → decision records → lore promotes.
