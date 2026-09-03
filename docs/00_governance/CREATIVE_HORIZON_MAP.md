@@ -1,3 +1,14 @@
+## Pass 50B horizon correction — 03/09/2026
+
+- Preserve Academy emergency as a candidate.
+- Build a visual proof of Director + Phoenix cooperation during a cadet/Generated-Beast coordination accident.
+- Use Dominance as attention/fear/hesitation pressure, never command.
+- Keep political safeguards as earned aftermath, not rescue exposition.
+- Curated visual queue expanded: Jin Mori vs Han Daewi; Achilles vs Chiron; Kakashi vs Obito; Naruto/Sasuke vs Momoshiki; Shimazaki; Tengen vs Gyutaro; Castlevania trio vs Dracula.
+- Nothing promoted.
+
+---
+
 ## Pass 50A horizon correction — 03/09/2026
 
 - Visual action proof moves forward: beat map → 8–12-panel beatboard → 10–20 second animatic.
