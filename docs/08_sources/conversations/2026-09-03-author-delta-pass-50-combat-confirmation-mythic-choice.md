@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **AUTHOR CORRECTION — Pass 50A.** Rows A50-06/A50-07 and the derived “Mythic choice” interpretation below were superseded. Readiness is not Mythic status; completed Mythic passage unlocks reversible humanoid modulation, whose use is facultative. The Academy proof and its dialogue were rejected. See `2026-09-03-author-correction-pass-50a-mythic-modulation-scene-rejection.md`.
+
 # Source Record — Author Delta Pass 50 — Combat Confirmation, Mythic Choice and Character Continuity
 
 **Source ID:** BW-SRC-AUTHOR-2026-09-03-PASS50  
