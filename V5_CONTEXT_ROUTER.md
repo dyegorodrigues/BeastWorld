@@ -1,3 +1,13 @@
+## Pass 50B current route — 03/09/2026
+
+HOT: current pointer → dashboard → Pass 50B.  
+WARM: Pass 49 Core Engine; Authorial Alignment Log; Dominance/AI-animatic research; Pass 50/50A only for correction history.  
+COLD: exact Work transcript and rejected dialogue.
+
+Active task: preserve the Academy emergency as a scene candidate while replacing its explanation with visible causality. Use **Dominance** as working language. Generated Beast = new person, no donor memory/personality, no baby autonomous body. Validate combat through beatboard and animatic. Nothing promoted.
+
+---
+
 ## Pass 50A current route — 03/09/2026
 
 HOT: current pointer → dashboard → Pass 50A correction.  
