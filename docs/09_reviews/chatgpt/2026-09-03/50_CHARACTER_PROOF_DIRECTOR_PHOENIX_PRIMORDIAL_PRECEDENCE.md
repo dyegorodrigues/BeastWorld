@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **SUPERSEDED / REJECTED AS LEADER — 2026-09-03, Pass 50A.** The Academy emergency, collateral protocol, property dispute and candidate dialogue below are preserved only as COLD laboratory history. Do not use them as current direction. Read `50A_CORRECTION_MYTHIC_MODULATION_AND_REJECTED_ACADEMY_PROOF.md`.
+
 # Pass 50 — Character Proof — Director × Phoenix, Authority, Desire and Primordial Precedence
 
 **Date:** 2026-09-03  
