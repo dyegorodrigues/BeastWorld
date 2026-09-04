@@ -48,4 +48,12 @@ The author first reads and responds to the prior integrator answer and Pass 54. 
 
 Do not resume the external council before the premise receipt is author-approved.
 
+## Notion links
+
+- source: https://app.notion.com/p/3d142424cdbc81709c34d1186e7cc102
+- Pass 54: https://app.notion.com/p/3d142424cdbc816da8c9cc92f50d925f
+- Claude quarantine: https://app.notion.com/p/3d142424cdbc81a4be26ef60dcd620f4
+- session 017: https://app.notion.com/p/3d142424cdbc8122874ddbaa8a897171
+- current dashboard: https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24
+
 **PROMOTED:** nothing.
