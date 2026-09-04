@@ -82,3 +82,17 @@ Add only durable interpretation lessons. Do not archive entire conversations her
 - Command and solo action are not opposites: he may command at campaign/mission level and enter the highest-intensity point as an autonomous rupture element.
 - Avoid universal blood-purity percentages. Separate hereditary founder architecture, voluntary/processed Beast material and direct Primordial concession.
 - The creator receives a compiled task packet, not the entire accumulating archive.
+
+
+## 2026-09-04 — Pass 52 reanchor: age 15–16, Primordial Aspect and coevolution
+
+**Primary source:** `BW-SRC-AUTHOR-2026-09-04-AGE16-ASPECT-COEVOLUTION`
+
+- Restored to HOT: hidden childhood/adolescent contact with a Primordial manifestation/Aspect capable of human form.
+- Restored to HOT: Choice/direct concession around age 15–16, linked to Academy entry.
+- Restored as core research model: reciprocal evolution among Living Star, Beasts and humans.
+- Temporal correction: age 15–16 is the founding wound; Book 1 needs a new adult consequence.
+- Status correction: the 29/08 author correction supersedes the old bastard path; maternal lineage remains open.
+- Language correction: `fractured dynastic legitimacy` is backstage diagnosis only.
+- Process: representative Eastern/epic corpus and controlled external council required before incident selection.
+- Scene status: blocked. **PROMOTED: nothing.**
