@@ -1,9 +1,12 @@
 # Pass 50C — Academy Causal Audit, Dominance Spectrum and Morphology Expression
 
 **Date:** 2026-09-03  
-**Status:** RECONCILIATION / CAUSAL AUDIT / SCENE OPEN / NOT-CANON  
+**Status:** SUPERSEDED / CANDIDATE A REJECTED / NOT-CANON  
 **Source:** BW-SRC-AUTHOR-2026-09-03-PASS50C  
 **Corrects:** Pass 50B's false “scene repaired” status
+
+> [!CAUTION]
+> **SUPERSEDED BY PASS 50D.** The projectile/divided-defense/dense-wing rescue was rejected in full. Do not reuse it as an active candidate. Preserve only the accepted Dominance spectrum, morphology affordances and autonomous-body adaptation.
 
 ## 1. Executive verdict
 
@@ -67,7 +70,7 @@ All those phrases are retired from the candidate.
 | B — containment breach | a real training creature breaks control | immediate stakes and simple danger | coincidence can overshadow the symbiosis problem |
 | C — resonance sabotage | an external device forces contradictory signals | plot hook and political stakes | introduces antagonist machinery too early |
 
-**Current leader:** A. It remains provisional.
+**Historical result:** Candidate A was later rejected by the author. No Academy rescue candidate is active.
 
 ## 6. Candidate A — causal skeleton v0.1
 
