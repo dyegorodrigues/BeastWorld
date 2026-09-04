@@ -1,17 +1,20 @@
 {
   "schema_version": 5,
-  "session_id": "BW-SESSION-2026-09-04-014",
-  "status": "READY_FOR_CONTEXT_COMPILED_CONTINUATION",
+  "session_id": "BW-SESSION-2026-09-04-015",
+  "status": "READY_FOR_EXTERNAL_COUNCIL_AND_ADULT_INCIDENT_SELECTION",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "base_head": "232006b0343c87c8109b91b4837d8773e8e09282",
-  "active_cluster": "Pass 51: Book 1 fractured dynastic legitimacy + context compiler v3",
-  "active_gate": "Choose the present-tense incident that reopens the old succession wound before any scene",
-  "epistemic_state": "RECONCILIATION / PREFERRED PROTOTYPE / NOT-CANON",
+  "base_head": "99f7ffaada93209df7025a6d5848ba2c87102ff3",
+  "active_cluster": "Pass 52: age-15/16 Choice + reciprocal evolution + representative corpus + external council",
+  "active_gate": "Integrate independent council proposal cards, red-team the leader and select one adult incident before any scene",
+  "epistemic_state": "RECONCILIATION / RESEARCHED CANDIDATES / NOT-CANON",
   "source_records": [
-    "docs/08_sources/conversations/2026-09-04-author-context-system-dynastic-state-director-command-source-record.md"
+    "docs/08_sources/conversations/2026-09-04-author-context-system-dynastic-state-director-command-source-record.md",
+    "docs/08_sources/conversations/2026-09-04-author-age16-primordial-aspect-coevolution-source-record.md"
   ],
   "passes": [
-    "docs/09_reviews/chatgpt/2026-09-04/51_BOOK1_DYNASTIC_LEGITIMACY_CONTEXT_COMPILER_RESET.md"
+    "docs/09_reviews/chatgpt/2026-09-04/51_BOOK1_DYNASTIC_LEGITIMACY_CONTEXT_COMPILER_RESET.md",
+    "docs/09_reviews/chatgpt/2026-09-04/52_AGE16_COEVOLUTION_REFERENCE_CORPUS_AND_COUNCIL_GATE.md",
+    "docs/09_reviews/external-council/2026-09-04/ROUND_01_AGE16_COEVOLUTION_BOOK1.md"
   ],
   "governance": [
     "docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json",
@@ -19,34 +22,42 @@
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
     "docs/00_governance/CREATIVE_SCENE_GATE.md",
     "docs/00_governance/AUTHORIAL_ALIGNMENT_LOG.md",
+    "docs/00_governance/SESSION_CLOSEOUT_2026-09-04_BW-SESSION-2026-09-04-015.md",
     "V5_CONTEXT_ROUTER.md",
     "START_HERE_FOR_AI.md"
   ],
   "notion_targets": [
     "https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24",
-    "https://app.notion.com/p/3d142424cdbc81d58f33edf1e18feb33",
-    "https://app.notion.com/p/3d142424cdbc816db6c4fef6e5121c52",
-    "https://app.notion.com/p/3d142424cdbc81b690e4cb4ebaad1c42"
+    "https://app.notion.com/p/3d142424cdbc81028ef7c79967e6a0e9",
+    "https://app.notion.com/p/3d142424cdbc81e796e5cfbe9ad92a77",
+    "https://app.notion.com/p/3d142424cdbc81aa91afdb08e559238b",
+    "https://app.notion.com/p/3d142424cdbc81f3bf75dcf90aaf344a"
   ],
   "current_locks": [
-    "Founding Dynasty may itself be the sovereign territorial State",
-    "Crown is not a separate superior government in the preferred prototype",
-    "Seat is retired as an independent third jurisdiction",
-    "Director is son of sovereign's brother, nephew of sovereign and cousin of competent principal heir",
-    "Director truly does not want to govern",
-    "Director can command collective operations and operate as an autonomous rupture element",
-    "Direct Primordial concession is qualitative, not a purity percentage, automatic mastery or automatic office",
-    "No scene before the present-tense incident passes architecture and competence gates",
+    "The age-15/16 Primordial Choice is the founding wound; Book 1 needs a new adult consequence",
+    "A Primordial manifestation/Aspect capable of human form observed and interacted with the Director during childhood/adolescence; exact ontology remains open",
+    "Reciprocal Star-Beast-human evolution is restored as a core research model",
+    "Interworld war is not presumed to be the sole founding cause",
+    "The author's 2026-08-29 correction supersedes the old bastard path; maternal lineage remains open",
+    "The competent principal heir must not be weakened to elevate the Director",
+    "The Director truly does not want sovereignty, although he values power, autonomy and command",
+    "Crown is not a separate superior government and Seat is not an independent third jurisdiction in the preferred prototype",
+    "Fractured dynastic legitimacy is backstage diagnosis only",
+    "Representative Eastern and epic-fantasy comparison is required by narrative function",
+    "External AI output remains quarantined until reduced to source-backed proposal cards",
+    "No scene before one adult incident passes architecture, agency, competence and escalation gates",
     "Nothing promoted"
   ],
   "excluded_context": [
     "Passes 50A-50C except regression checks",
     "rejected Academy projectile/wing rescue",
-    "full historical dossiers and unrelated Core Engine clusters"
+    "full V5 accumulation and unrelated Core Engine clusters",
+    "raw external-AI prose after proposal-card extraction",
+    "old full-chat transcripts unless authorship or wording is disputed"
   ],
-  "next_action": "Stress-test and select one present-tense Book 1 incident; then define opening state, pressure chain and irreversible end state before scene prose",
+  "next_action": "Run or receive the controlled external council; integrate proposal cards; select one adult incident from war mandate, Academy inversion, limited evolutionary proof or external recognition; only then design sequence and scene",
   "promoted": false,
-  "previous_session": "BW-SESSION-2026-09-04-013",
+  "previous_session": "BW-SESSION-2026-09-04-014",
   "lifecycle_completed": [
     "CAPTURED",
     "RESEARCHED",
@@ -57,29 +68,32 @@
     "VERIFIED",
     "SYNCED"
   ],
-  "content_commit": "c9b6839378a93d7ec4737422fed8f85b2a911c89",
-  "notion_session_ledger": "https://app.notion.com/p/3d142424cdbc8112a243de60315d28db",
+  "content_commit": "1c1bf9481cc2a325263f3a0204660d7fffc285ee",
+  "notion_session_ledger": "https://app.notion.com/p/3d142424cdbc81f3bf75dcf90aaf344a",
   "verification": {
     "result": "PASS",
-    "verified_remote_head": "c9b6839378a93d7ec4737422fed8f85b2a911c89",
+    "verified_remote_head": "1c1bf9481cc2a325263f3a0204660d7fffc285ee",
     "json_parsed": [
       "docs/00_governance/CURRENT_SESSION_POINTER.json",
       "docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json"
     ],
     "github_files_checked": [
-      "docs/00_governance/CURRENT_SESSION_POINTER.json",
-      "docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json",
+      "START_HERE_FOR_AI.md",
+      "V5_CONTEXT_ROUTER.md",
+      "V5_RECONCILIATION_STATE.md",
       "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
-      "docs/00_governance/CONTEXT_COMPILER_PROTOCOL_V3_2026-09-04.md",
-      "docs/08_sources/conversations/2026-09-04-author-context-system-dynastic-state-director-command-source-record.md",
-      "docs/09_reviews/chatgpt/2026-09-04/51_BOOK1_DYNASTIC_LEGITIMACY_CONTEXT_COMPILER_RESET.md"
+      "docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json",
+      "docs/08_sources/conversations/2026-09-04-author-age16-primordial-aspect-coevolution-source-record.md",
+      "docs/09_reviews/chatgpt/2026-09-04/52_AGE16_COEVOLUTION_REFERENCE_CORPUS_AND_COUNCIL_GATE.md",
+      "docs/09_reviews/external-council/2026-09-04/ROUND_01_AGE16_COEVOLUTION_BOOK1.md"
     ],
     "notion_pages_written": [
       "3cf42424-cdbc-8108-8a9d-fd653674ae24",
-      "3d142424-cdbc-81d5-8f33-edf1e18feb33",
-      "3d142424-cdbc-816d-b6c4-fef6e5121c52",
-      "3d142424-cdbc-81b6-90e4-cb4ebaad1c42",
-      "3d142424-cdbc-8112-a243-de60315d28db"
+      "3c942424-cdbc-8124-90ff-c75930674447",
+      "3d142424-cdbc-8102-8ef7-c79967e6a0e9",
+      "3d142424-cdbc-81e7-96e5-cfbe9ad92a77",
+      "3d142424-cdbc-81aa-91af-db08e559238b",
+      "3d142424-cdbc-81f3-bf75-dcf90aaf344a"
     ],
     "scene_created": false,
     "promoted": false
