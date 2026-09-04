@@ -1,3 +1,15 @@
+## PASS 52 — AGE-15–16 CHOICE + RECIPROCAL EVOLUTION + EXTERNAL COUNCIL — 04/09/2026
+
+Source recovery confirms: a Primordial manifestation/Aspect could assume human form; it observed and partially interacted with the future Director during childhood/adolescence without fully revealing itself; the Choice/direct concession occurred around age 15–16 at Academy entry; and the deeper model under investigation is reciprocal evolution among Living Star, Beasts and humans. The old bastard path is superseded by the author's 29/08 correction; maternal lineage and marriage configuration remain open.
+
+Temporal architecture: the adolescent Choice is the founding wound. Book 1 requires a new adult variable that makes the old containment impossible to maintain. Current working sentence: **The Choice made at 15–16 produced an authority that human succession never absorbed; in the present, one consequence of that act makes it impossible to keep pretending the problem ended.**
+
+`fractured dynastic legitimacy` is retained only as a technical backstage diagnosis, not a story-facing name. Four adult incident architectures remain separate candidates: war mandate, Academy inversion, limited evolutionary proof and external recognition. Evolutionary proof is first to investigate, not selected.
+
+Representative cross-media research and scaling controls are recorded in Pass 52. External council responses must be independent, read-only, source-receipted and reduced to proposal cards before integration. No scene. Nothing promoted.
+
+---
+
 ## PASS 51 — BOOK 1 DYNASTIC LEGITIMACY + CONTEXT COMPILER — 04/09/2026
 
 Author correction: prefer a simplified prototype in which each founding Dynasty is itself a sovereign territorial State. `Crown` is comparative/backstage language, not a separate superior government. `Seat` is retired as an independent third jurisdiction in the preferred prototype. A narrow inter-dynastic pact may sustain the Academy and defined joint crises without becoming a super-State.
