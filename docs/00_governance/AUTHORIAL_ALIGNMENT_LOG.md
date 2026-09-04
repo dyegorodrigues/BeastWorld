@@ -69,3 +69,16 @@ Before prose or storyboard, require: dramatic purpose, viewpoint, desire, resist
 ## Updating this log
 
 Add only durable interpretation lessons. Do not archive entire conversations here. Exact wording remains in source records/COLD history; this file stays compact.
+
+
+## Durable author corrections — Pass 51 — 04/09/2026
+
+- Do not reintroduce `Crown` as a separate superior government when the active prototype treats each founding Dynasty as its own sovereign State.
+- Do not preserve `Seat` as a third permanent jurisdiction merely because an older A/B model used it. In the current preferred prototype it is retired as an independent layer.
+- The Director is the son of the sovereign's brother, nephew of the sovereign and cousin of the competent principal heir.
+- The father is a principal political/military pillar; `First Elder` is not approved nomenclature.
+- The principal heir remains competent. Rival legitimacy must not be manufactured through his stupidity.
+- The Director truly does not want to govern. He may value power, autonomy and command without desiring sovereignty.
+- Command and solo action are not opposites: he may command at campaign/mission level and enter the highest-intensity point as an autonomous rupture element.
+- Avoid universal blood-purity percentages. Separate hereditary founder architecture, voluntary/processed Beast material and direct Primordial concession.
+- The creator receives a compiled task packet, not the entire accumulating archive.

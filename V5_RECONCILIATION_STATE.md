@@ -1,3 +1,15 @@
+## PASS 51 — BOOK 1 DYNASTIC LEGITIMACY + CONTEXT COMPILER — 04/09/2026
+
+Author correction: prefer a simplified prototype in which each founding Dynasty is itself a sovereign territorial State. `Crown` is comparative/backstage language, not a separate superior government. `Seat` is retired as an independent third jurisdiction in the preferred prototype. A narrow inter-dynastic pact may sustain the Academy and defined joint crises without becoming a super-State.
+
+Director: son of the sovereign's brother, nephew of the sovereign and cousin of the competent principal heir. His father is the Dynasty's principal political/military pillar; final title remains open. The Director truly does not want to govern, although he values power, autonomy and temporary command. Direct Primordial concession is qualitatively distinct from inherited/processed Beast blood and may make him appear as a possible second founder; it does not install mastery or confer office.
+
+Active Book 1 axis: fractured dynastic legitimacy. Next gate: choose the present-tense incident that reopens the old succession wound in the adult Director's life. No scene yet.
+
+Creative execution now follows `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json` and `docs/00_governance/CONTEXT_COMPILER_PROTOCOL_V3_2026-09-04.md`. Nothing promoted.
+
+---
+
 ## PASS 50D CREATIVE RESET — 04/09/2026
 
 The Pass 50C projectile/divided-defense/dense-wing Academy rescue is REJECTED in full and belongs to COLD history. The Academy remains selective, martial and competent; no Academy rescue candidate is active. Do not patch or regenerate that vehicle.

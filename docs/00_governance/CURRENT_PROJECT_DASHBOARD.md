@@ -2,99 +2,79 @@
 
 **Updated:** 2026-09-04  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Mode:** CREATIVE RESET / STORY-FIRST / NOT-CANON
+**Mode:** `BOOK 1 ARCHITECTURE / CONTEXT-COMPILED / NOT-CANON`
 
-## Read this first
+## Read first
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
-2. this dashboard
-3. `docs/09_reviews/chatgpt/2026-09-04/50D_CREATIVE_RESET_ACADEMY_REJECTION_SCENE_QUALITY_SAFEGUARDS.md`
-4. `docs/00_governance/CREATIVE_SCENE_GATE.md`
-5. `docs/00_governance/AUTHORIAL_ALIGNMENT_LOG.md`
-6. Pass 49 Core Engine v0.9 only when the next task needs it.
+2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
+3. this dashboard
+4. `docs/09_reviews/chatgpt/2026-09-04/51_BOOK1_DYNASTIC_LEGITIMACY_CONTEXT_COMPILER_RESET.md`
+5. only files listed in the manifest.
 
-Passes 50A–50C are COLD correction history. Do not load them by default.
+Do not load the full V5 history, Passes 50A–50C or rejected Academy attempts into creative generation.
 
-## Current correction
+## Current creative axis
 
-The Pass 50C Academy construction is rejected in full:
+**Book 1: fractured dynastic legitimacy.**
 
-- no controlled projectile;
-- no divided-defense drill;
-- no dense wing threatening helpless advanced cadets;
-- no artificial Director + Phoenix rescue;
-- no invented moral guilt;
-- no claim that the scene is repaired.
+The Director does not want to govern. Human law supports the competent principal heir; direct Primordial concession marks the Director without naming him ruler; demonstrated authority and public confidence can accumulate around the Director's actions.
 
-The Academy remains a selective, martial, military and competent institution. No Academy rescue candidate is active.
+No scene is active. The next gate is to choose the present-tense incident that reopens this old wound in the adult Director's life.
 
-## Preserved creative direction
+## Preferred political prototype — not canon
 
-- Natural Mythic passage remains an irreversible qualitative reorganization.
-- Humanoid modulation is reversible, stable and optional after the passage.
-- Generated Beasts are new persons; donor Matrix carries architecture/tendencies, never soul, memory or personality.
-- Autonomous biological birth preserves maturity and may require a simple adaptation/stabilization period.
-- Morphologies create affordances, not hard exclusions. Either humanoid or bestial form may execute sophisticated and large-scale magic.
-- Dominance remains the working term.
-- Dominance may escalate from attention and fear through hesitation, submission, suppression, collapse and exceptional destructive/lethal overload.
-- Dominance may overwhelm the ability to act but does not manufacture morality, belief, love, desire, loyalty or consent.
-- Combat-reference calibration remains independent from the rejected scene.
+- each founding Dynasty is a sovereign territorial State;
+- the ruling lineage is not the whole population;
+- `Crown` is comparative language for dynastic sovereignty, not a separate government;
+- `Seat` is retired as an independent third jurisdiction;
+- a narrow inter-dynastic pact handles the treaty Academy and defined common crises;
+- each Dynasty keeps its own bureaucracy, governors, law, revenue, logistics and armed forces;
+- Primordials remain sovereign living beings outside human command.
 
-## Diagnosed process failure
+## Director locks
 
-1. mechanism-first writing;
-2. too many discoveries forced into one demonstration scene;
-3. competence collapse;
-4. stakes inflation;
-5. undefined props and changing danger;
-6. artificial jobs for Director and Phoenix;
-7. abstract action verbs;
-8. local patching instead of structural rejection;
-9. premature “repaired” status.
+- son of the sovereign's brother;
+- nephew of the sovereign;
+- cousin of the competent principal heir;
+- father = principal political/military pillar; final title open;
+- does not want sovereignty;
+- values power, autonomy and command;
+- can command joint operations but often fights as an autonomous rupture element;
+- direct Primordial concession is qualitatively distinct, not a percentage purity meter and not automatic mastery or office.
 
-## Active gate
+## Context runtime v3
 
-**Creative reset before any new scene.**
+`docs/00_governance/CONTEXT_COMPILER_PROTOCOL_V3_2026-09-04.md` separates four execution roles:
 
-The next session must choose one real layer to advance:
+1. Archivist captures source;
+2. Integrator reconciles status and compiles the manifest;
+3. Creator receives only the clean task packet;
+4. Validator checks the output against external constraints and may reject the vehicle.
 
-- Book 1 dramatic architecture;
-- Director's character engine;
-- Academy as lived institution;
-- Dominance as an independent rule;
-- or the remaining Core Engine gate.
+Reset is mandatory after two structural failures, three patch rounds without a new causal spine, domain change, authority conflict or creator-packet overflow.
 
-Then load only that cluster and apply `CREATIVE_SCENE_GATE.md`.
+## Notion
 
-## Scene-quality rule
+- [Current dashboard](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24)
+- [Pass 51](https://app.notion.com/p/3d142424cdbc81d58f33edf1e18feb33)
+- [Context Compiler v3](https://app.notion.com/p/3d142424cdbc816db6c4fef6e5121c52)
+- [Author source](https://app.notion.com/p/3d142424cdbc81b690e4cb4ebaad1c42)
 
-A scene begins with dramatic purpose, viewpoint, desire, resistance, competence floor and state change. It does not begin with a mechanic that needs a demonstration.
+## Preserved guardrails from Pass 50D
 
-After two structural failures, quarantine the scene vehicle. Never mark a scene repaired or validated without explicit author acceptance.
+- the Academy is selective, martial and competent;
+- no Academy rescue candidate is active;
+- scene purpose, POV, desire, resistance, competence floor, change and causal spine precede prose;
+- two structural failures quarantine the vehicle;
+- never label a scene repaired or validated before explicit author acceptance.
 
-## Reference stack
+## Epistemic state
 
-| Status | Reference | Job |
-|---|---|---|
-| strong | `Fog Hill of Five Elements — Wen Ren Yu Xuan vs Wrath` | sustained exchange/adaptation |
-| strong | `Heaven's Feel III — Rider vs Saber Alter` | tracked extreme speed |
-| strong | `Solo Leveling — Jinwoo vs Beru` | silhouette, acceleration, impact |
-| strong | selected `Naruto/Boruto` fights | hand-to-hand and multi-actor geography |
-| strong | `Tengen vs Gyutaro` | chained weapons, speed and sound |
-| partial | `Sword of the Stranger` | feet, weight, guard, blade contact |
-| rejected | `Achilles vs Chiron`, `trio vs Dracula`, `group vs Shimazaki` | not target references |
-| pending | `Jin Mori vs Han Daewi`, `Zhen Dao Ge`, `Hitori no Shita S3E2`, `Legend of Hei`, `Ruthless Blade`, `Vivy vs Elizabeth` | inspect before adoption |
-
-## Memory architecture
-
-| Temperature | Load |
+| Layer | Current state |
 |---|---|
-| HOT | pointer, dashboard, Pass 50D, Creative Scene Gate |
-| WARM | Pass 49, alignment log, research, horizon |
-| COLD | raw chats/PDFs and Passes 50A–50C |
-
-## Promotion
-
-Nothing in Pass 50D is canon.
-
-> Source preserves → research tests → gate compares → author validates → decision records → lore promotes.
+| author-confirmed direction | Director does not want to govern; family position; competent heir; command + autonomous rupture |
+| preferred prototype | sovereign Dynasties + narrow pact + treaty Academy |
+| open | titles, founding crisis detail, age/circumstance of concession, present Book 1 incident |
+| rejected | separate decorative Crown, independent Seat layer, purity meter, incompetent heir, automatic Primordial coronation |
+| promoted | nothing |

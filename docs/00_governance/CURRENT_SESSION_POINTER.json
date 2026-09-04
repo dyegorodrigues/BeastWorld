@@ -1,94 +1,50 @@
 {
-  "schema_version": 4,
-  "session_id": "BW-SESSION-2026-09-04-013",
-  "status": "READY_FOR_CLEAN_RESTART",
-  "lifecycle_completed": [
-    "CAPTURED",
-    "RESEARCHED",
-    "DIAGNOSED",
-    "RECONCILED",
-    "HOT-UPDATED",
-    "NOTION-LINKED",
-    "SYNCED",
-    "VERIFIED",
-    "AUDITED"
-  ],
+  "schema_version": 5,
+  "session_id": "BW-SESSION-2026-09-04-014",
+  "status": "ACTIVE_ARCHITECTURE_GATE",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "active_cluster": "Pass 50D: creative reset after rejection of Academy Candidate A",
-  "active_gate": "Choose one real story layer before creating another scene",
+  "base_head": "232006b0343c87c8109b91b4837d8773e8e09282",
+  "active_cluster": "Pass 51: Book 1 fractured dynastic legitimacy + context compiler v3",
+  "active_gate": "Choose the present-tense incident that reopens the old succession wound before any scene",
+  "epistemic_state": "RECONCILIATION / PREFERRED PROTOTYPE / NOT-CANON",
   "source_records": [
-    "docs/08_sources/conversations/2026-09-04-author-rejection-pass-50d-academy-candidate-creative-reset.md"
+    "docs/08_sources/conversations/2026-09-04-author-context-system-dynastic-state-director-command-source-record.md"
   ],
   "passes": [
-    "docs/09_reviews/chatgpt/2026-09-04/50D_CREATIVE_RESET_ACADEMY_REJECTION_SCENE_QUALITY_SAFEGUARDS.md"
-  ],
-  "research": [
-    "docs/06_research/2026-09-03-dominance-ai-animatic-action-reference-queue.md"
+    "docs/09_reviews/chatgpt/2026-09-04/51_BOOK1_DYNASTIC_LEGITIMACY_CONTEXT_COMPILER_RESET.md"
   ],
   "governance": [
+    "docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json",
+    "docs/00_governance/CONTEXT_COMPILER_PROTOCOL_V3_2026-09-04.md",
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
     "docs/00_governance/CREATIVE_SCENE_GATE.md",
     "docs/00_governance/AUTHORIAL_ALIGNMENT_LOG.md",
     "V5_CONTEXT_ROUTER.md",
-    "V5_RECONCILIATION_STATE.md",
     "START_HERE_FOR_AI.md"
   ],
   "notion_targets": [
     "https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24",
-    "https://app.notion.com/p/3d142424cdbc81be9cd1cf125e418b81",
-    "https://app.notion.com/p/3d042424cdbc8152a4a9c2efa95fca61"
-  ],
-  "source_fidelity": "HIGH-FIDELITY DERIVATIVE; exact author wording remains in ChatGPT Work and rejected construction remains traceable in COLD history",
-  "promoted": false,
-  "rejected": [
-    "Pass 50C Candidate A in full",
-    "controlled projectile",
-    "divided-defense drill",
-    "dense wing threatening advanced cadets",
-    "artificial Director plus Phoenix rescue",
-    "invented moral guilt",
-    "any claim that the Academy scene is repaired"
+    "https://app.notion.com/p/3d142424cdbc81d58f33edf1e18feb33",
+    "https://app.notion.com/p/3d142424cdbc816db6c4fef6e5121c52",
+    "https://app.notion.com/p/3d142424cdbc81b690e4cb4ebaad1c42"
   ],
   "current_locks": [
-    "Academy remains selective, martial, military and competent",
-    "No Academy rescue candidate is active",
-    "Dominance is the working term; Precedence remains retired",
-    "Dominance may escalate through attention, fear, hesitation, submission, suppression, collapse and exceptional destructive/lethal overload",
-    "Dominance does not manufacture morality, belief, love, desire, loyalty or consent",
-    "Generated Beast is a new person; donor Matrix does not transfer soul, memory or personality",
-    "Autonomous birth preserves maturity and may require simple bodily adaptation/stabilization",
-    "Morphologies create affordances, not prohibitions; either form may execute sophisticated or large-scale magic",
-    "Scene creation must load CREATIVE_SCENE_GATE.md",
-    "After two structural failures, quarantine the scene vehicle",
-    "Never mark a scene repaired or validated before explicit author acceptance",
-    "Nothing in Pass 50D is canon"
+    "Founding Dynasty may itself be the sovereign territorial State",
+    "Crown is not a separate superior government in the preferred prototype",
+    "Seat is retired as an independent third jurisdiction",
+    "Director is son of sovereign's brother, nephew of sovereign and cousin of competent principal heir",
+    "Director truly does not want to govern",
+    "Director can command collective operations and operate as an autonomous rupture element",
+    "Direct Primordial concession is qualitative, not a purity percentage, automatic mastery or automatic office",
+    "No scene before the present-tense incident passes architecture and competence gates",
+    "Nothing promoted"
   ],
-  "next_action": "In a clean conversation, select one actual narrative layer (Book 1 architecture, Director character engine, Academy lived institution, Dominance rule, or remaining Core Engine gate). Load only its direct cluster and do not attempt another Academy rescue.",
-  "restart_prompt": "Reancore o BeastWorld na branch chatgpt/beastworld-v5-reconciliation-2026-08-26. Leia START_HERE_FOR_AI.md, V5_RECONCILIATION_STATE.md, CURRENT_SESSION_POINTER.json, CURRENT_PROJECT_DASHBOARD.md, o Pass 50D e CREATIVE_SCENE_GATE.md. Não carregue os Passes 50A–50C salvo para evitar repetição. Não promova hipótese. Retome escolhendo um único eixo narrativo real antes de criar qualquer cena.",
-  "roadmap": {
-    "51": "paused until next narrative layer is selected",
-    "52": "duel, hunt and battlefield proofs remain future work",
-    "50D": "active creative reset",
-    "academy_rescue": "quarantined; no active candidate",
-    "visual": "paused until an organic scene passes purpose and competence gates",
-    "54-55": "Director and Book 1 architecture remain available next directions"
-  },
-  "verification": {
-    "result": "PASS",
-    "github_files_checked": [
-      "START_HERE_FOR_AI.md",
-      "V5_RECONCILIATION_STATE.md",
-      "V5_CONTEXT_ROUTER.md",
-      "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
-      "docs/00_governance/CREATIVE_SCENE_GATE.md",
-      "docs/00_governance/AUTHORIAL_ALIGNMENT_LOG.md",
-      "docs/09_reviews/chatgpt/2026-09-04/50D_CREATIVE_RESET_ACADEMY_REJECTION_SCENE_QUALITY_SAFEGUARDS.md"
-    ],
-    "notion_pages_checked": [
-      "3cf42424-cdbc-8108-8a9d-fd653674ae24",
-      "3d142424-cdbc-81be-9cd1-cf125e418b81",
-      "3d042424-cdbc-8152-a4a9-c2efa95fca61"
-    ],
-    "restart_ready": true
-  }
+  "excluded_context": [
+    "Passes 50A-50C except regression checks",
+    "rejected Academy projectile/wing rescue",
+    "full historical dossiers and unrelated Core Engine clusters"
+  ],
+  "next_action": "Stress-test and select one present-tense Book 1 incident; then define opening state, pressure chain and irreversible end state before scene prose",
+  "promoted": false,
+  "previous_session": "BW-SESSION-2026-09-04-013"
 }

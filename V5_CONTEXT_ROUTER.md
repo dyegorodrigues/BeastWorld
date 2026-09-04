@@ -1,3 +1,13 @@
+## Pass 51 current route — 04/09/2026
+
+**HOT:** current pointer → `ACTIVE_CONTEXT_MANIFEST.json` → current dashboard → Pass 51.  
+**WARM:** only the story/entity records explicitly listed in the manifest.  
+**COLD:** Passes 50A–50C, rejected Academy attempts, full Core Engine history, external-AI dossiers and raw transcripts unless wording/provenance is disputed.
+
+Active task: Book 1 architecture through **fractured dynastic legitimacy**. Preferred political prototype: sovereign founding Dynasties + narrow inter-dynastic pact + treaty Academy. `Crown` is not a separate government; `Seat` is not an independent third jurisdiction. Select the present-tense incident before any scene prose. Nothing promoted.
+
+---
+
 ## Pass 50D current route — 04/09/2026
 
 HOT: current pointer → dashboard → Pass 50D → Creative Scene Gate.  

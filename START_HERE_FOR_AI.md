@@ -1,3 +1,21 @@
+## Current Context Compiler route — Pass 51 — 04/09/2026
+
+For current creative work, do **not** load the accumulating V5 history into the creator context.
+
+Read in this order:
+
+1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
+2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
+3. `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`
+4. `docs/09_reviews/chatgpt/2026-09-04/51_BOOK1_DYNASTIC_LEGITIMACY_CONTEXT_COMPILER_RESET.md`
+5. only the directly included story/entity files declared by the manifest.
+
+Pass 50D remains a quality guardrail. Passes 50A–50C and the rejected Academy rescue remain COLD. `V5_RECONCILIATION_STATE.md` is now WARM history for reconciliation/provenance, not a default creative packet.
+
+Nothing promoted.
+
+---
+
 # BeastWorld — START HERE FOR AI
 
 ## Current creative reset — 04/09/2026

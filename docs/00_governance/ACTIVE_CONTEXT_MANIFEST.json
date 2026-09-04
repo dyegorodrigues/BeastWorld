@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-04",
+  "session_id": "BW-SESSION-2026-09-04-014",
+  "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
+  "mode": "BOOK1_ARCHITECTURE_CLEAN_ROOM",
+  "epistemic_state": "RECONCILIATION_NOT_CANON",
+  "task": "Resolve the Book 1 political engine around dynastic legitimacy before any scene prose",
+  "output_type": "architecture_and_real_fork_only",
+  "primary_axis": "dynastic_legitimacy",
+  "working_label": "Sovereign Dynasties Pact",
+  "author_locks": [
+    "Each founding Dynasty may itself be a sovereign territorial State; do not assume a separate superior Crown",
+    "The Director is the son of the sovereign's brother and the cousin of the competent principal heir",
+    "The Director's father is a principal political and military pillar, not the sovereign; final office title is open",
+    "The principal heir is competent and must not be weakened to elevate the Director",
+    "The Director truly does not want to govern, although he values power, autonomy and command",
+    "The Director can command collective operations but often fights as an autonomous rupture element when weaker allies would become liabilities or collateral risks",
+    "Direct Primordial concession is qualitatively different from hereditary or processed Beast blood; no percentage purity meter",
+    "Nothing is promoted"
+  ],
+  "include": [
+    "docs/09_reviews/chatgpt/2026-09-04/50D_CREATIVE_RESET_ACADEMY_REJECTION_SCENE_QUALITY_SAFEGUARDS.md",
+    "docs/08_sources/conversations/2026-09-04-author-context-system-dynastic-state-director-command-source-record.md",
+    "docs/09_reviews/chatgpt/2026-09-04/51_BOOK1_DYNASTIC_LEGITIMACY_CONTEXT_COMPILER_RESET.md",
+    "docs/04_story/THEMATIC_SPINE.md",
+    "docs/04_story/PROTAGONIST_SUCCESSION_PRESSURE.md",
+    "docs/03_entities/characters/DRAGON_DYNASTY_PILLAR_PROTAGONIST.md",
+    "docs/00_governance/CREATIVE_SCENE_GATE.md"
+  ],
+  "exclude": [
+    "Passes 50A-50C except an explicit regression check",
+    "rejected Academy projectile or wing rescue",
+    "full Core Engine history",
+    "unrelated visual-development clusters",
+    "external AI dossiers",
+    "old full-chat transcripts unless authorship or wording is disputed"
+  ],
+  "open_questions": [
+    "What present-tense incident reopens the dormant succession pressure in Book 1?",
+    "At what age and under what exact circumstances did the Director receive the direct Primordial concession?",
+    "What final in-world titles replace Crown, Seat and First Elder placeholders?",
+    "What is the limited common pact's exact authority over the Academy and joint war?"
+  ],
+  "token_budget": {
+    "hot_and_manifest_target": 3000,
+    "active_warm_target": 8000,
+    "creator_packet_target": 12000,
+    "creator_packet_hard_stop": 20000
+  },
+  "reset_triggers": [
+    "two structural failures",
+    "three patch rounds without a new causal spine",
+    "domain change",
+    "authority conflict",
+    "creator packet above hard stop"
+  ],
+  "scene_status": "BLOCKED_UNTIL_PRESENT_INCIDENT_AND_BOOK1_STATE_CHANGE_ARE_SELECTED",
+  "promoted": false
+}
