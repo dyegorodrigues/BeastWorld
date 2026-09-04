@@ -1,3 +1,5 @@
+> **HISTORICAL HYPOTHESIS / NOT CURRENT PREMISE — 2026-09-04.** Ownership, inheritance and dynastic access in this file must not be treated as the active saga engine. Use only for provenance or direct thematic comparison against Pass 54. Nothing promoted.
+
 # THEMATIC SPINE — BeastWorld
 
 **Status:** `HYPOTHESIS / META-DESIGN`
