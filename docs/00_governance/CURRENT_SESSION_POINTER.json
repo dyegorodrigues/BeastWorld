@@ -1,63 +1,65 @@
 {
   "schema_version": 5,
-  "session_id": "BW-SESSION-2026-09-04-015",
-  "status": "READY_FOR_EXTERNAL_COUNCIL_AND_ADULT_INCIDENT_SELECTION",
+  "session_id": "BW-SESSION-2026-09-04-016",
+  "status": "READY_FOR_FULL_INDEPENDENT_EXTERNAL_COUNCIL_AND_ADULT_INCIDENT_SELECTION",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "base_head": "99f7ffaada93209df7025a6d5848ba2c87102ff3",
-  "active_cluster": "Pass 52: age-15/16 Choice + reciprocal evolution + representative corpus + external council",
-  "active_gate": "Integrate independent council proposal cards, red-team the leader and select one adult incident before any scene",
-  "epistemic_state": "RECONCILIATION / RESEARCHED CANDIDATES / NOT-CANON",
+  "base_head": "1f39934f94c823a4fef3179d916cc5bffd705368",
+  "active_cluster": "Pass 53: full-spectrum evolution + cousin/Oceanic reconciliation + Primordial embodiment + Council Round 02",
+  "active_gate": "Receive complete independent external reports, reduce them to comparable proposal cards and select one adult incident before any scene",
+  "epistemic_state": "RECONCILIATION / RESEARCHED PREFERRED MODELS / NOT-CANON",
   "source_records": [
-    "docs/08_sources/conversations/2026-09-04-author-context-system-dynastic-state-director-command-source-record.md",
-    "docs/08_sources/conversations/2026-09-04-author-age16-primordial-aspect-coevolution-source-record.md"
+    "docs/08_sources/conversations/2026-09-04-author-cousin-oceanic-primordial-organs-evolution-full-council-source-record.md",
+    "docs/08_sources/conversations/2026-09-04-author-age16-primordial-aspect-coevolution-source-record.md",
+    "docs/08_sources/conversations/2026-09-04-author-context-system-dynastic-state-director-command-source-record.md"
   ],
   "passes": [
-    "docs/09_reviews/chatgpt/2026-09-04/51_BOOK1_DYNASTIC_LEGITIMACY_CONTEXT_COMPILER_RESET.md",
-    "docs/09_reviews/chatgpt/2026-09-04/52_AGE16_COEVOLUTION_REFERENCE_CORPUS_AND_COUNCIL_GATE.md",
-    "docs/09_reviews/external-council/2026-09-04/ROUND_01_AGE16_COEVOLUTION_BOOK1.md"
+    "docs/09_reviews/chatgpt/2026-09-04/53_FULL_SPECTRUM_EVOLUTION_PRIMORDIAL_EMBODIMENT_AND_COUNCIL_RESET.md",
+    "docs/09_reviews/external-council/2026-09-04/ROUND_02_FULL_INDEPENDENT_RESEARCH_COPY_PASTE_PROMPT.md",
+    "docs/09_reviews/chatgpt/2026-09-04/52_AGE16_COEVOLUTION_REFERENCE_CORPUS_AND_COUNCIL_GATE.md"
   ],
   "governance": [
     "docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json",
-    "docs/00_governance/CONTEXT_COMPILER_PROTOCOL_V3_2026-09-04.md",
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
     "docs/00_governance/CREATIVE_SCENE_GATE.md",
     "docs/00_governance/AUTHORIAL_ALIGNMENT_LOG.md",
-    "docs/00_governance/SESSION_CLOSEOUT_2026-09-04_BW-SESSION-2026-09-04-015.md",
+    "docs/00_governance/SESSION_CLOSEOUT_2026-09-04_BW-SESSION-2026-09-04-016.md",
+    "V5_RECONCILIATION_STATE.md",
     "V5_CONTEXT_ROUTER.md",
     "START_HERE_FOR_AI.md"
   ],
   "notion_targets": [
     "https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24",
-    "https://app.notion.com/p/3d142424cdbc81028ef7c79967e6a0e9",
-    "https://app.notion.com/p/3d142424cdbc81e796e5cfbe9ad92a77",
-    "https://app.notion.com/p/3d142424cdbc81aa91afdb08e559238b",
-    "https://app.notion.com/p/3d142424cdbc81f3bf75dcf90aaf344a"
+    "https://app.notion.com/p/3d142424cdbc81938785c2262a9c5786",
+    "https://app.notion.com/p/3d142424cdbc81d3af23e2338d4ff4bc",
+    "https://app.notion.com/p/3d142424cdbc810c8ab8dea592487bf9",
+    "https://app.notion.com/p/3d142424cdbc81aea322d590398970b4"
   ],
   "current_locks": [
-    "The age-15/16 Primordial Choice is the founding wound; Book 1 needs a new adult consequence",
-    "A Primordial manifestation/Aspect capable of human form observed and interacted with the Director during childhood/adolescence; exact ontology remains open",
-    "Reciprocal Star-Beast-human evolution is restored as a core research model",
-    "Interworld war is not presumed to be the sole founding cause",
-    "The author's 2026-08-29 correction supersedes the old bastard path; maternal lineage remains open",
-    "The competent principal heir must not be weakened to elevate the Director",
-    "The Director truly does not want sovereignty, although he values power, autonomy and command",
-    "Crown is not a separate superior government and Seat is not an independent third jurisdiction in the preferred prototype",
-    "Fractured dynastic legitimacy is backstage diagnosis only",
-    "Representative Eastern and epic-fantasy comparison is required by narrative function",
-    "External AI output remains quarantined until reduced to source-backed proposal cards",
-    "No scene before one adult incident passes architecture, agency, competence and escalation gates",
+    "The age-15/16 Primordial Choice is the founding wound; Book 1 requires one new adult consequence",
+    "The saga motor is full-spectrum coevolution under pressure from ownership, control and weaponization",
+    "The cousin is good, just, prepared and formidable; the current adult relationship direction is mutual loyalty and support without automatic political agreement",
+    "The Director remains loyal to his Dynasty and supports the cousin's sovereignty while protecting his autonomy",
+    "The cousin may be the more complete orthodox talent while the Director is exceptional in body, combat and adaptation but ressonantly constrained",
+    "Literal bastardy remains withdrawn by the 2026-08-29 correction; current reuse is an unresolved ambiguity",
+    "Oceanic maternal lineage, mixed-pattern interference and foreign formation are recovered hypotheses, not canon",
+    "Primordial world-organs, distributed embodiment and golden condensed Blood remain models under stress-test",
+    "Real physical growth is allowed but individual, ensemble, institutional, ecological and civilizational evolution must remain causally coupled",
+    "Fog Hill is quarantined to action grammar because its five-family elemental/Qilin lore overlaps too closely",
+    "Council Round 01 is superseded; every external AI now performs the complete mission independently from Round 02",
+    "No scene before one adult incident passes architecture, agency, competence, originality and escalation gates",
     "Nothing promoted"
   ],
   "excluded_context": [
     "Passes 50A-50C except regression checks",
     "rejected Academy projectile/wing rescue",
+    "Council Round 01 except provenance",
     "full V5 accumulation and unrelated Core Engine clusters",
     "raw external-AI prose after proposal-card extraction",
     "old full-chat transcripts unless authorship or wording is disputed"
   ],
-  "next_action": "Run or receive the controlled external council; integrate proposal cards; select one adult incident from war mandate, Academy inversion, limited evolutionary proof or external recognition; only then design sequence and scene",
+  "next_action": "Send the same Round 02 prompt unchanged to each external AI; collect complete reports; integrate proposal cards; choose one adult incident; only then design sequence and scene",
   "promoted": false,
-  "previous_session": "BW-SESSION-2026-09-04-014",
+  "previous_session": "BW-SESSION-2026-09-04-015",
   "lifecycle_completed": [
     "CAPTURED",
     "RESEARCHED",
@@ -68,11 +70,11 @@
     "VERIFIED",
     "SYNCED"
   ],
-  "content_commit": "1c1bf9481cc2a325263f3a0204660d7fffc285ee",
-  "notion_session_ledger": "https://app.notion.com/p/3d142424cdbc81f3bf75dcf90aaf344a",
+  "content_commit": "95ee6a7c67cac57cc19c7a9b68da569929da6275",
+  "notion_session_ledger": "https://app.notion.com/p/3d142424cdbc81aea322d590398970b4",
   "verification": {
     "result": "PASS",
-    "verified_remote_head": "1c1bf9481cc2a325263f3a0204660d7fffc285ee",
+    "verified_remote_head_before_pointer_update": "95ee6a7c67cac57cc19c7a9b68da569929da6275",
     "json_parsed": [
       "docs/00_governance/CURRENT_SESSION_POINTER.json",
       "docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json"
@@ -83,17 +85,17 @@
       "V5_RECONCILIATION_STATE.md",
       "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
       "docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json",
-      "docs/08_sources/conversations/2026-09-04-author-age16-primordial-aspect-coevolution-source-record.md",
-      "docs/09_reviews/chatgpt/2026-09-04/52_AGE16_COEVOLUTION_REFERENCE_CORPUS_AND_COUNCIL_GATE.md",
-      "docs/09_reviews/external-council/2026-09-04/ROUND_01_AGE16_COEVOLUTION_BOOK1.md"
+      "docs/08_sources/conversations/2026-09-04-author-cousin-oceanic-primordial-organs-evolution-full-council-source-record.md",
+      "docs/09_reviews/chatgpt/2026-09-04/53_FULL_SPECTRUM_EVOLUTION_PRIMORDIAL_EMBODIMENT_AND_COUNCIL_RESET.md",
+      "docs/09_reviews/external-council/2026-09-04/ROUND_02_FULL_INDEPENDENT_RESEARCH_COPY_PASTE_PROMPT.md"
     ],
     "notion_pages_written": [
       "3cf42424-cdbc-8108-8a9d-fd653674ae24",
       "3c942424-cdbc-8124-90ff-c75930674447",
-      "3d142424-cdbc-8102-8ef7-c79967e6a0e9",
-      "3d142424-cdbc-81e7-96e5-cfbe9ad92a77",
-      "3d142424-cdbc-81aa-91af-db08e559238b",
-      "3d142424-cdbc-81f3-bf75-dcf90aaf344a"
+      "3d142424-cdbc-8193-8785-c2262a9c5786",
+      "3d142424-cdbc-81d3-af23-e2338d4ff4bc",
+      "3d142424-cdbc-810c-8ab8-dea592487bf9",
+      "3d142424-cdbc-81ae-a322-d590398970b4"
     ],
     "scene_created": false,
     "promoted": false
