@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "generated_at": "2026-09-04",
-  "session_id": "BW-SESSION-2026-09-04-014",
+  "session_id": "BW-SESSION-2026-09-04-015",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "mode": "BOOK1_ARCHITECTURE_CLEAN_ROOM",
+  "mode": "BOOK1_AGE16_COEVOLUTION_COUNCIL_GATE",
   "epistemic_state": "RECONCILIATION_NOT_CANON",
-  "task": "Resolve the Book 1 political engine around dynastic legitimacy before any scene prose",
-  "output_type": "architecture_and_real_fork_only",
-  "primary_axis": "dynastic_legitimacy",
-  "working_label": "Sovereign Dynasties Pact",
+  "task": "Reconcile the age-15/16 Primordial Choice, reciprocal evolution and the adult Book 1 consequence before selecting any scene",
+  "output_type": "architecture_research_and_external_council_packet_only",
+  "primary_axis": "adult_consequence_of_the_adolescent_primordial_choice",
+  "working_label": "A Escolha que a sucessão não conseguiu absorver",
   "author_locks": [
     "Each founding Dynasty may itself be a sovereign territorial State; do not assume a separate superior Crown",
     "The Director is the son of the sovereign's brother and the cousin of the competent principal heir",
@@ -17,12 +17,22 @@
     "The Director truly does not want to govern, although he values power, autonomy and command",
     "The Director can command collective operations but often fights as an autonomous rupture element when weaker allies would become liabilities or collateral risks",
     "Direct Primordial concession is qualitatively different from hereditary or processed Beast blood; no percentage purity meter",
+    "The foundational Choice/concession occurred around age 15-16, connected to entry or early life at the Academy; exact circumstances remain open",
+    "A Primordial manifestation observed and interacted with the Director during childhood/adolescence without ordinary public knowledge; exact Aspect ontology remains open",
+    "Reciprocal Star-Beast-human evolution is an author-recalled and previously modeled strong hypothesis; do not reduce the founding motive to interworld war alone",
+    "The adult Book 1 incident must reactivate a consequence of the adolescent Choice, not repeat a new Choice",
+    "The older bastard version was withdrawn by the author on 2026-08-29; maternal lineage and marriage configuration remain open",
+    "Fractured dynastic legitimacy is a backstage historical diagnostic, not an in-world title or front-facing label",
+    "Research must include representative novels, webnovels, manga/manhua/manhwa, anime and epic fantasy alongside history and science",
     "Nothing is promoted"
   ],
   "include": [
     "docs/09_reviews/chatgpt/2026-09-04/50D_CREATIVE_RESET_ACADEMY_REJECTION_SCENE_QUALITY_SAFEGUARDS.md",
     "docs/08_sources/conversations/2026-09-04-author-context-system-dynastic-state-director-command-source-record.md",
     "docs/09_reviews/chatgpt/2026-09-04/51_BOOK1_DYNASTIC_LEGITIMACY_CONTEXT_COMPILER_RESET.md",
+    "docs/08_sources/conversations/2026-09-04-author-age16-primordial-aspect-coevolution-source-record.md",
+    "docs/09_reviews/chatgpt/2026-09-04/52_AGE16_COEVOLUTION_REFERENCE_CORPUS_AND_COUNCIL_GATE.md",
+    "docs/09_reviews/external-council/2026-09-04/ROUND_01_AGE16_COEVOLUTION_BOOK1.md",
     "docs/04_story/THEMATIC_SPINE.md",
     "docs/04_story/PROTAGONIST_SUCCESSION_PRESSURE.md",
     "docs/03_entities/characters/DRAGON_DYNASTY_PILLAR_PROTAGONIST.md",
@@ -33,12 +43,17 @@
     "rejected Academy projectile or wing rescue",
     "full Core Engine history",
     "unrelated visual-development clusters",
-    "external AI dossiers",
+    "external AI dossiers until the integrator extracts source-backed proposal cards",
     "old full-chat transcripts unless authorship or wording is disputed"
   ],
   "open_questions": [
     "What present-tense incident reopens the dormant succession pressure in Book 1?",
-    "At what age and under what exact circumstances did the Director receive the direct Primordial concession?",
+    "Under what exact circumstances did the age-15/16 Primordial Choice/concession occur?",
+    "What relationship already existed between the young Director and the Primordial Aspect, and when did each understand the other's identity?",
+    "What family or institutional settlement contained the immediate consequences of the adolescent Choice?",
+    "Which new adult variable reactivates the old wound: collective authority, political community, evolutionary function or external recognition?",
+    "Is interworld war the cause, an accelerator or a consequence of reciprocal Star-Beast-human cooperation?",
+    "What maternal lineage and marriage configuration replace the withdrawn bastard version?",
     "What final in-world titles replace Crown, Seat and First Elder placeholders?",
     "What is the limited common pact's exact authority over the Academy and joint war?"
   ],
@@ -55,6 +70,6 @@
     "authority conflict",
     "creator packet above hard stop"
   ],
-  "scene_status": "BLOCKED_UNTIL_PRESENT_INCIDENT_AND_BOOK1_STATE_CHANGE_ARE_SELECTED",
+  "scene_status": "BLOCKED_UNTIL_EXTERNAL_COUNCIL_IS_INTEGRATED_AND_ONE_ADULT_INCIDENT_IS_SELECTED",
   "promoted": false
 }
