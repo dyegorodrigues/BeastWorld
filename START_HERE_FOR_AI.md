@@ -1,3 +1,18 @@
+## Current route — Pass 52 — 04/09/2026
+
+For current creative work, load only:
+
+1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
+2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
+3. `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`
+4. `docs/08_sources/conversations/2026-09-04-author-age16-primordial-aspect-coevolution-source-record.md`
+5. `docs/09_reviews/chatgpt/2026-09-04/52_AGE16_COEVOLUTION_REFERENCE_CORPUS_AND_COUNCIL_GATE.md`
+6. the external-council packet only when running or integrating that round.
+
+The age-15–16 Choice is the origin wound; the active Book 1 gate is to select one **adult consequence** of that wound. Pass 50D remains the creative-quality guardrail. Passes 50A–50C remain COLD except to prevent repetition. No scene. Nothing promoted.
+
+---
+
 ## Current Context Compiler route — Pass 51 — 04/09/2026
 
 For current creative work, do **not** load the accumulating V5 history into the creator context.
