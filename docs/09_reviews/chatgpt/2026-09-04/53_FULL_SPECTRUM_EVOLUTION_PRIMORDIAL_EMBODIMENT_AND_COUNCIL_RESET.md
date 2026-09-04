@@ -1,5 +1,7 @@
 # Pass 53 — Full-spectrum evolution, Primordial embodiment and full independent council reset
 
+> **SUPERSEDED-IN-PART BY PASS 54.** The evolution, cousin/Oceanic and Primordial research remains available as WARM hypothesis. Its Book 1 axis, ownership/control emphasis and instruction to run Council Round 02 are no longer active. Do not use this file as the current creative front door.
+
 **Date:** 2026-09-04  
 **Status:** `RECONCILIATION / RESEARCH / PREFERRED MODELS / NOT-CANON / NO PROMOTION / NO SCENE`  
 **Primary source:** `BW-SRC-AUTHOR-2026-09-04-COUSIN-OCEANIC-WORLD-ORGANS-EVOLUTION`  
@@ -369,4 +371,3 @@ Send the universal Round 02 prompt unchanged to each external AI. Receive comple
 Only then design a sequence or scene.
 
 **PROMOTED:** nothing.
-
