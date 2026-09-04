@@ -2,74 +2,91 @@
 
 **Updated:** 2026-09-04  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Mode:** `BOOK 1 AXIS / FULL-SPECTRUM EVOLUTION / COUNCIL ROUND 02 / NOT-CANON`
+**Mode:** `PREMISE RECONSTRUCTION / PORTAL-ACTION GATE / NOT-CANON`
 
 ## Read first
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
 3. this dashboard
-4. `docs/08_sources/conversations/2026-09-04-author-cousin-oceanic-primordial-organs-evolution-full-council-source-record.md`
-5. `docs/09_reviews/chatgpt/2026-09-04/53_FULL_SPECTRUM_EVOLUTION_PRIMORDIAL_EMBODIMENT_AND_COUNCIL_RESET.md`
-6. only files declared by the manifest.
+4. `docs/08_sources/conversations/2026-09-04-author-purpose-portals-progression-and-council-failure-source-record.md`
+5. `docs/09_reviews/chatgpt/2026-09-04/54_PREMISE_FAILURE_AUDIT_PORTAL_WAR_DIRECTOR_PURPOSE_AND_ACTION_RESET.md`
+6. Pass 50D as the creative-quality guardrail.
 
-Pass 50D remains the quality guardrail. Passes 50A–50C, rejected Academy attempts and Council Round 01 remain COLD. Do not write a scene.
+Passes 50A–50C remain COLD except to prevent regression. Do not write a scene. Nothing promoted.
 
-## Two scales, one work
+## Current correction
 
-- **Book 1 axis:** one adult consequence of the age-15/16 Choice makes the old dynastic accommodation impossible to maintain.
-- **Saga motor:** humans, Bestas, Primordials, institutions, civilization and Living Worlds transform one another while systems of power try to own, freeze or weaponize living relations.
-- **Epic horizon:** other Living Worlds embody different strategies of survival and evolution, not simply higher ranks.
+Round 02 was structurally biased toward succession, cousin/Oceanic material and Primordial embodiment. Claude and Grok therefore reconstructed a dynastic-court work with no sufficient outward engine. Claude's post-mortem correctly identified the omission but then overcorrected by treating an author-raw 22/08 `NOT-CANON` brainstorm as definitive.
 
-The succession problem is the Book 1 human pressure chamber for the deeper evolutionary problem. It is not the whole saga.
+Both frames are blocked:
 
-## Current author directions — not promoted
+- not `palace drama as the whole book`;
+- not `automatic restoration of every old demon-war idea`.
 
-- the cousin is good, just, prepared, formidable and necessary as sovereign;
-- adult relationship leader: mutual loyalty and support, with real political disagreement still possible;
-- adolescent envy or hurt is possible only as a specific human wound, not generic villainy;
-- the Director remains loyal to the Dynasty and supports the cousin's sovereignty;
-- talent leader: cousin more complete in orthodox dynastic criteria; Director exceptional in body, combat and adaptation but ressonantly limited;
-- literal bastardy remains withdrawn; the current reuse of the word is an unresolved ambiguity.
+Pass 54 is the current premise reset.
 
-## Oceanic route
+## Three required engines
 
-Maternal high Oceanic lineage, mixed-pattern interference and foreign formation are recovered hypotheses from Laboratory 07. First chronology to investigate: Academy entry/Choice → crisis → bounded Academy-affiliated Oceanic residence or formation → return. An Oceanic sovereign can be relative and occasional high-level mentor; daily formation should belong to a wider network.
+- **operational/action:** portals, missions, incursions, monsters, investigation, infiltration, discovery and interworld contact;
+- **personal:** the Director protects the Living Star and its life, desires power and worthy challenge, and may confront the void of becoming unnecessary;
+- **saga/civilizational:** the Director, ensemble, Beasts, enemies, institutions, civilization and Living Worlds continue to evolve through contact and conflict.
 
-## Primordials and Blood
+## Single current axis leader — hypothesis only
 
-- presence: numinous;
-- ontology: metabiological conscious world-functions;
-- leader for stress-test: distributed domain + real bounded Aspects + rare sovereign embodiment;
-- bestial and humanoid-bestial bodies are functional configurations, not skins or a universal transformation tree;
-- embodiments require matter, attention, range, injury feedback and ecological cost;
-- Concession leader: living matter + Quintessence + pattern + agency/consent;
-- golden Blood may remain an image, not a portable item, dose or purity score.
+> A veteran protector and the Academy he leads confront a new phase of the portal conflict: the enemy is no longer merely crossing the frontier; it is learning to evolve through BeastWorld.
 
-## Progression
+This is the one axis to test. No incident, antagonist, portal mechanism or scene has been selected.
 
-Real gains in power remain allowed. Each advance must also change at least one vulnerability, relationship, institution or ecological condition. Track individual, ensemble, Beast, magical, civilizational and planetary evolution separately so the world grows with the Director instead of becoming obsolete around him.
+## Current author locks
 
-## Reference correction
+- the Director's outward purpose is protection of the Star, ecosystems, Beasts, humans and other life;
+- he continues gaining real power and capability after the adolescent Concession;
+- other characters, opponents, Beasts, institutions and civilization evolve too;
+- portals and other Worlds are foundational, not decorative late escalation;
+- the work requires fast supernatural martial action, creatures, opponents and major events as well as relationships, politics and civilization;
+- politics may pressure the story but does not automatically define its premise;
+- age 15–16 is an origin event, not the end of progression;
+- the author has not yet finished reading or validating the previous integrator response and may correct this route.
 
-Fog Hill of Five Elements enters the action corpus for choreography, rhythm, body-element integration and spatial legibility. Its official five elemental families plus ancestral Qilin premise is quarantined for similarity risk. Solo Leveling was already present in Laboratory 08; use presence, visual thresholds and legible progression, never the System. Other works remain functional references, not templates.
+## Open models
 
-## Council Round 02
+### Portal cosmology
 
-Every external AI receives the same complete self-contained prompt and performs the whole mission independently: continuity, research, architecture, brainstorm, red team and recommendation. If project access fails, it must declare `ACCESS_BLOCK` and continue only from the embedded briefing without pretending to have read inaccessible sources.
+1. resonant wound network;
+2. predatory anchoring by a dying/corrupted/expansionist World;
+3. ecological collision between incompatible Living-World survival strategies.
 
-## Open gates
+First stress-test only: A as mechanism, B as apparent attack, C as possible deeper truth.
 
-1. literal bastardy versus colloquial “outside the main line”;
-2. talent domains at age 15–16;
-3. mother’s exact rank and Oceanic relationship;
-4. Academy–Oceanic chronology;
-5. number and deep functions of Primordials;
-6. embodiment limits and Blood-transfer rules;
-7. one adult Book 1 incident.
+### Director progression
+
+Body/integration, martial technique, magic, foreign counterplay, joint combat, command, knowledge and ethical maturity. Each gain must create consequences without replacing real power growth.
+
+### Combat
+
+Real physical substrate plus fast supernatural expression. The old realistic combat note is usable for weapon geometry, injury and bodily consequence only; it no longer controls pacing or tone.
+
+## Suspended
+
+- fractured dynastic legitimacy as Book 1 leader;
+- ownership/control as assumed saga engine;
+- Round 02 prompt and reports as a valid creative basis;
+- automatic restoration of five demon kings, generic monster lists, pure-evil Infernal Star or any other 22/08 brainstorm detail;
+- external council restart;
+- scene work.
+
+## Real unresolved development gaps
+
+- present Book 1 incident;
+- named opponent constellation and enemy agency;
+- students, teachers and adult allied peers with independent arcs;
+- portal mechanics and first antagonist World's moral/ecological structure;
+- exact role of cousin/family/Oceanic material inside—not above—the outward engine;
+- chronology frame for adult present, adolescence and founders' history.
 
 ## Next action
 
-Receive external Round 02 reports, reduce them to comparable proposal cards and select **one adult incident**. Only then design sequence and scene.
+The author reads and responds to the previous answer and Pass 54. After validation, choose one incident, one opponent constellation, one portal-cosmology model and one chronology frame. Only then design sequence and scene.
 
 **PROMOTED:** nothing.
