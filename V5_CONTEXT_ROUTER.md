@@ -1,3 +1,13 @@
+## Pass 53 current route — 04/09/2026
+
+**HOT:** current pointer → `ACTIVE_CONTEXT_MANIFEST.json` → current dashboard → current author full-spectrum source → Pass 53.  
+**WARM:** Pass 52 as immediate predecessor; only the directly routed Oceanic/Primordial/evolution records; Council Round 02 only while running or integrating reports.  
+**COLD:** Passes 50A–50C, rejected Academy attempts, Council Round 01, full V5 accumulation, raw external reports after proposal-card extraction and old transcripts unless provenance is disputed.
+
+Active task: receive full independent external reports, compare them as source-backed proposal cards, then choose one adult incident that reopens the age-15/16 Choice. Preserve the competent allied cousin, literal-bastardy ambiguity, Oceanic hypotheses, world-organ embodiment tests, multidimensional progression and Fog Hill originality quarantine. Do not write a scene. Nothing promoted.
+
+---
+
 ## Pass 52 current route — 04/09/2026
 
 **HOT:** current pointer → `ACTIVE_CONTEXT_MANIFEST.json` → current dashboard → author age-15–16 source record → Pass 52.  
