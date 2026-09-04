@@ -1,3 +1,13 @@
+## Pass 54 current route — 04/09/2026
+
+**HOT:** current pointer → active manifest → current dashboard → current author purpose/portals source → Pass 54 → Pass 50D as guardrail.  
+**WARM on demand:** Pass 53's surviving evolution/Primordial research; Claude failure post-mortem and 22/08 author raw only for provenance; one direct character/mechanics cluster.  
+**COLD:** Passes 50A–50C, rejected Academy attempts, full V5 accumulation and external reports generated from the biased Round 02 packet.
+
+Active task: validate the three-engine reconstruction and the single axis leader before choosing one incident, opponent constellation, portal model or scene. Round 02 is frozen. Dynastic legitimacy is suspended as the Book 1 leader. Nothing promoted.
+
+---
+
 ## Pass 53 current route — 04/09/2026
 
 **HOT:** current pointer → `ACTIVE_CONTEXT_MANIFEST.json` → current dashboard → current author full-spectrum source → Pass 53.  
