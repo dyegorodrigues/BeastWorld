@@ -2,79 +2,75 @@
 
 **Updated:** 2026-09-04  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Mode:** `BOOK 1 ARCHITECTURE / CONTEXT-COMPILED / NOT-CANON`
+**Mode:** `BOOK 1 ARCHITECTURE / AGE-15–16 CONSEQUENCE / EXTERNAL-COUNCIL GATE / NOT-CANON`
 
 ## Read first
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
 3. this dashboard
-4. `docs/09_reviews/chatgpt/2026-09-04/51_BOOK1_DYNASTIC_LEGITIMACY_CONTEXT_COMPILER_RESET.md`
-5. only files listed in the manifest.
+4. `docs/08_sources/conversations/2026-09-04-author-age16-primordial-aspect-coevolution-source-record.md`
+5. `docs/09_reviews/chatgpt/2026-09-04/52_AGE16_COEVOLUTION_REFERENCE_CORPUS_AND_COUNCIL_GATE.md`
+6. only files declared by the manifest.
 
-Do not load the full V5 history, Passes 50A–50C or rejected Academy attempts into creative generation.
+Pass 50D remains the creative-quality guardrail. Passes 50A–50C and rejected Academy attempts remain COLD. Do not write a scene.
 
 ## Current creative axis
 
-**Book 1: fractured dynastic legitimacy.**
+**The Choice made at 15–16 produced an authority that human succession never absorbed; in the present, one consequence of that act makes it impossible to keep pretending the problem ended.**
 
-The Director does not want to govern. Human law supports the competent principal heir; direct Primordial concession marks the Director without naming him ruler; demonstrated authority and public confidence can accumulate around the Director's actions.
+The adolescent Choice is the origin wound. Book 1 must reopen it through a new adult variable, not repeat the concession. Family, Academy, war, politics and coevolution enter only when they pressure this same causal line.
 
-No scene is active. The next gate is to choose the present-tense incident that reopens this old wound in the adult Director's life.
+`fractured dynastic legitimacy` is a backstage diagnosis only, not a story-facing term.
+
+## Recovered source locks
+
+- a Primordial manifestation/Aspect could assume human form;
+- it observed and partially interacted with the future Director in childhood/adolescence without fully revealing itself;
+- Choice/direct concession occurred around age 15–16, linked to Academy entry;
+- reciprocal evolution among Living Star, Beasts and humans is restored as a core research model;
+- the author's 29/08 correction withdrew the bastard path; maternal lineage and marriage configuration remain open.
 
 ## Preferred political prototype — not canon
 
 - each founding Dynasty is a sovereign territorial State;
-- the ruling lineage is not the whole population;
-- `Crown` is comparative language for dynastic sovereignty, not a separate government;
+- `Crown` is comparative language, not a separate government;
 - `Seat` is retired as an independent third jurisdiction;
-- a narrow inter-dynastic pact handles the treaty Academy and defined common crises;
-- each Dynasty keeps its own bureaucracy, governors, law, revenue, logistics and armed forces;
-- Primordials remain sovereign living beings outside human command.
+- a narrow inter-dynastic pact sustains the treaty Academy and defined common crises;
+- the cousin remains a competent principal heir;
+- direct Primordial concession is not automatic coronation.
 
-## Director locks
+## Adult incident candidates — not selected
 
-- son of the sovereign's brother;
-- nephew of the sovereign;
-- cousin of the competent principal heir;
-- father = principal political/military pillar; final title open;
-- does not want sovereignty;
-- values power, autonomy and command;
-- can command joint operations but often fights as an autonomous rupture element;
-- direct Primordial concession is qualitatively distinct, not a percentage purity meter and not automatic mastery or office.
+1. war mandate;
+2. Academy inversion;
+3. limited evolutionary proof;
+4. external recognition.
 
-## Context runtime v3
+`limited evolutionary proof` is first to investigate because it restores the coevolutionary core, but it is not chosen and must survive anti-messianic, agency, cost and exposure tests.
 
-`docs/00_governance/CONTEXT_COMPILER_PROTOCOL_V3_2026-09-04.md` separates four execution roles:
+## Scaling control
 
-1. Archivist captures source;
-2. Integrator reconciles status and compiles the manifest;
-3. Creator receives only the clean task packet;
-4. Validator checks the output against external constraints and may reject the vehicle.
+Track potency, jurisdiction, knowledge, public exposure and intimate cost separately. Raise at most one or two per arc. Primordials do not become a boss ladder; material life, relationships, law, logistics and injury must retain causal power.
 
-Reset is mandatory after two structural failures, three patch rounds without a new causal spine, domain change, authority conflict or creator-packet overflow.
+## External council
 
-## Notion
+- [Pass 52](https://app.notion.com/p/3d142424cdbc81028ef7c79967e6a0e9)
+- [Round 01 packet](https://app.notion.com/p/3d142424cdbc81e796e5cfbe9ad92a77)
+- [Reanchored author source](https://app.notion.com/p/3d142424cdbc81aa91afdb08e559238b)
 
-- [Current dashboard](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24)
-- [Pass 51](https://app.notion.com/p/3d142424cdbc81d58f33edf1e18feb33)
-- [Context Compiler v3](https://app.notion.com/p/3d142424cdbc816db6c4fef6e5121c52)
-- [Author source](https://app.notion.com/p/3d142424cdbc81b690e4cb4ebaad1c42)
+Responses are independent, read-only and non-canonical. Integrate proposal cards, not whole answers.
 
-## Preserved guardrails from Pass 50D
+## Next gate
 
-- the Academy is selective, martial and competent;
-- no Academy rescue candidate is active;
-- scene purpose, POV, desire, resistance, competence floor, change and causal spine precede prose;
-- two structural failures quarantine the vehicle;
-- never label a scene repaired or validated before explicit author acceptance.
+Receive the external round, reduce outputs to comparable cards, red-team the leader and choose **one adult incident**. Only then design sequence and scene.
 
 ## Epistemic state
 
 | Layer | Current state |
 |---|---|
-| author-confirmed direction | Director does not want to govern; family position; competent heir; command + autonomous rupture |
+| author-confirmed/recovered | childhood hidden contact; human Aspect possible; Choice around 15–16; reciprocal-evolution motive; competent cousin; Director does not want rule |
 | preferred prototype | sovereign Dynasties + narrow pact + treaty Academy |
-| open | titles, founding crisis detail, age/circumstance of concession, present Book 1 incident |
-| rejected | separate decorative Crown, independent Seat layer, purity meter, incompetent heir, automatic Primordial coronation |
+| open | exact Choice circumstance; containment agreement; adult incident; Primordial embodiment model; maternal lineage; founding-war relation |
+| rejected/superseded | separate decorative Crown; independent Seat; purity meter; incompetent heir; automatic Primordial coronation; bastard path; rejected Academy rescues |
 | promoted | nothing |
