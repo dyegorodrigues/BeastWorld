@@ -1,15 +1,15 @@
-## Current route — Pass 52 — 04/09/2026
+## Current route — Pass 53 — 04/09/2026
 
 For current creative work, load only:
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
 3. `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`
-4. `docs/08_sources/conversations/2026-09-04-author-age16-primordial-aspect-coevolution-source-record.md`
-5. `docs/09_reviews/chatgpt/2026-09-04/52_AGE16_COEVOLUTION_REFERENCE_CORPUS_AND_COUNCIL_GATE.md`
-6. the external-council packet only when running or integrating that round.
+4. `docs/08_sources/conversations/2026-09-04-author-cousin-oceanic-primordial-organs-evolution-full-council-source-record.md`
+5. `docs/09_reviews/chatgpt/2026-09-04/53_FULL_SPECTRUM_EVOLUTION_PRIMORDIAL_EMBODIMENT_AND_COUNCIL_RESET.md`
+6. `docs/09_reviews/external-council/2026-09-04/ROUND_02_FULL_INDEPENDENT_RESEARCH_COPY_PASTE_PROMPT.md` only when running or integrating the external round.
 
-The age-15–16 Choice is the origin wound; the active Book 1 gate is to select one **adult consequence** of that wound. Pass 50D remains the creative-quality guardrail. Passes 50A–50C remain COLD except to prevent repetition. No scene. Nothing promoted.
+Book 1 remains anchored to one adult consequence of the age-15/16 Choice. The saga motor under investigation is full-spectrum coevolution under pressure from ownership, control and weaponization. Pass 50D remains the creative-quality guardrail. Passes 50A–50C and Council Round 01 remain COLD/superseded except to prevent repetition. No scene. Nothing promoted.
 
 ---
 
