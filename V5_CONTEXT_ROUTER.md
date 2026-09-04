@@ -1,3 +1,13 @@
+## Pass 50D current route — 04/09/2026
+
+HOT: current pointer → dashboard → Pass 50D → Creative Scene Gate.  
+WARM: Authorial Alignment Log; Pass 49 or one directly relevant story cluster only.  
+COLD: Passes 50A–50C, rejected Academy scene attempts and exact Work transcript.
+
+Active task: clean creative restart. The Pass 50C projectile/wing rescue is rejected in full. No Academy rescue candidate is active. Choose one actual narrative layer before creating a new scene. Preserve Academy competence, Dominance spectrum, morphology affordances and autonomous-body adaptation. Never label a scene repaired without explicit author validation. Nothing promoted.
+
+---
+
 ## Pass 50C current route — 03/09/2026
 
 HOT: current pointer → dashboard → Pass 50C.  
