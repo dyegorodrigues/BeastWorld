@@ -1,79 +1,71 @@
 {
   "schema_version": 1,
   "generated_at": "2026-09-04",
-  "session_id": "BW-SESSION-2026-09-04-016",
+  "session_id": "BW-SESSION-2026-09-04-017",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "mode": "BOOK1_FULL_SPECTRUM_EVOLUTION_COUNCIL_ROUND02_GATE",
+  "mode": "PREMISE_RECONSTRUCTION_PORTAL_ACTION_GATE",
   "epistemic_state": "RECONCILIATION_NOT_CANON",
-  "task": "Integrate the author's full-spectrum correction and independent council reports before selecting one adult Book 1 incident",
-  "output_type": "architecture_research_and_full_independent_council_packet_only",
-  "primary_axis": "adult_consequence_of_the_adolescent_primordial_choice",
-  "saga_motor": "coevolution_under_pressure_from_ownership_weaponization_and_control",
-  "epic_horizon": "encounter_between_living_worlds_with_distinct_evolutionary_strategies",
-  "working_label": "A Escolha que a sucessão não conseguiu absorver",
-  "author_locks": [
-    "Each founding Dynasty may itself be a sovereign territorial State; do not assume a separate superior Crown",
-    "The Director is the son of the sovereign's brother and the cousin of the competent principal heir",
-    "The principal heir is good, just, prepared and formidable; do not turn him into a generic jealous rival or weaken him to elevate the Director",
-    "The current author direction is an adult alliance of mutual loyalty and support between the cousins; disagreement and adolescent hurt remain possible without villainy",
-    "The Director remains loyal to his Dynasty and supports the cousin's sovereignty while preserving his own autonomy",
-    "The Director truly does not want to govern, although he values power, autonomy and command",
-    "The Director can command collective operations but often fights as an autonomous rupture element when allies would become liabilities or collateral risks",
-    "The age-15/16 Choice or concession remains the origin wound; Book 1 must reactivate an adult consequence rather than repeat a new Choice",
-    "The older literal-bastard version was withdrawn on 2026-08-29; the author's current reuse of the word is an unresolved ambiguity and does not silently reverse that correction",
-    "Oceanic maternal lineage, mixed-pattern limitation and foreign formation are recovered hypotheses, not newly invented facts and not canon",
-    "Primordials as conscious world-functions, distributed organs of the Living Star and capable of material embodiment are author-recalled or current hypotheses, not promoted lore",
-    "Primordial Blood may be explored as material plus Quintessence plus living pattern plus agency; no percentage purity meter and no portable Gota Primordial item",
-    "Evolution must remain multidimensional across the Director, ensemble, Bestas, institutions, civilization and Living Star while allowing real physical power growth",
-    "Fog Hill of Five Elements is a combat-language reference only; quarantine its five elemental families and ancestral Qilin lore because of similarity risk",
-    "Every external AI receives the same complete self-contained Round 02 prompt and performs the whole research independently",
-    "Nothing is promoted and no scene is authorized"
-  ],
-  "include": [
-    "docs/09_reviews/chatgpt/2026-09-04/50D_CREATIVE_RESET_ACADEMY_REJECTION_SCENE_QUALITY_SAFEGUARDS.md",
-    "docs/08_sources/conversations/2026-09-04-author-cousin-oceanic-primordial-organs-evolution-full-council-source-record.md",
-    "docs/09_reviews/chatgpt/2026-09-04/53_FULL_SPECTRUM_EVOLUTION_PRIMORDIAL_EMBODIMENT_AND_COUNCIL_RESET.md",
-    "docs/09_reviews/external-council/2026-09-04/ROUND_02_FULL_INDEPENDENT_RESEARCH_COPY_PASTE_PROMPT.md",
-    "docs/09_reviews/chatgpt/2026-09-04/52_AGE16_COEVOLUTION_REFERENCE_CORPUS_AND_COUNCIL_GATE.md",
-    "docs/04_story/THEMATIC_SPINE.md",
-    "docs/04_story/PROTAGONIST_SUCCESSION_PRESSURE.md",
-    "docs/03_entities/characters/DRAGON_DYNASTY_PILLAR_PROTAGONIST.md",
-    "docs/00_governance/CREATIVE_SCENE_GATE.md"
-  ],
-  "exclude": [
-    "Passes 50A-50C except an explicit regression check",
-    "rejected Academy projectile or wing rescue",
-    "Round 01 specialist-role external council packet, now superseded",
-    "full Core Engine history",
-    "unrelated visual-development clusters",
-    "external AI reports until the integrator extracts source-backed proposal cards",
-    "old full-chat transcripts unless authorship or wording is disputed"
-  ],
-  "open_questions": [
-    "Did the author's current use of bastard consciously reopen literal bastardy, or did it mean outside the principal line?",
-    "What exact domains made the cousin the more complete orthodox talent and the Director the exceptional but resonantly constrained talent at age 15-16?",
-    "Which timeline joins Academy entry, the Choice and meaningful Oceanic residence or formation without double-location?",
-    "What exact maternal rank creates real Oceanic belonging without stacking a second immediate succession claim?",
-    "How many Primordials or planetary functions exist, and which visible motifs map to which deep functions?",
-    "Which embodiment architecture survives mass, attention, injury, range and ecological-cost tests?",
-    "What does direct Primordial Concession transmit that inherited, stored, stolen or processed Blood cannot reproduce?",
-    "What present-tense incident reopens the dormant succession pressure in Book 1?",
-    "How does each increase in power alter vulnerability, relationship and institutional response?",
-    "What final in-world titles replace Crown, Seat and First Elder placeholders?"
-  ],
-  "token_budget": {
-    "hot_and_manifest_target": 3500,
-    "active_warm_target": 9000,
-    "creator_packet_target": 14000,
-    "creator_packet_hard_stop": 22000
+  "task": "Validate one integrated series premise and one real Book 1 axis before selecting any incident or scene",
+  "output_type": "premise_architecture_and_failure_audit_only",
+  "primary_axis": "portal_conflict_entering_an_adaptive_or_infiltrative_phase",
+  "axis_status": "LEADING_HYPOTHESIS_FOR_AUTHOR_TEST_NOT_SELECTED",
+  "series_engines": {
+    "operational": "portals, missions, incursions, monsters, investigation, infiltration, discovery and interworld contact",
+    "personal": "the Director protects life, craves growth and worthy opposition, and confronts the possibility of becoming unnecessary",
+    "saga": "Living Worlds, Beasts, humans, institutions and civilizations coevolve through contact and conflict"
   },
-  "reset_triggers": [
-    "two structural failures",
-    "three patch rounds without a new causal spine",
-    "domain change",
-    "authority conflict",
-    "creator packet above hard stop"
+  "include": [
+    "docs/00_governance/CURRENT_SESSION_POINTER.json",
+    "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
+    "docs/08_sources/conversations/2026-09-04-author-purpose-portals-progression-and-council-failure-source-record.md",
+    "docs/09_reviews/chatgpt/2026-09-04/54_PREMISE_FAILURE_AUDIT_PORTAL_WAR_DIRECTOR_PURPOSE_AND_ACTION_RESET.md",
+    "docs/00_governance/CREATIVE_SCENE_GATE.md",
+    "docs/09_reviews/chatgpt/2026-09-04/50D_CREATIVE_RESET_AND_INCIDENT_SELECTION_GATE.md"
   ],
-  "scene_status": "BLOCKED_UNTIL_ROUND02_REPORTS_ARE_INTEGRATED_AND_ONE_ADULT_INCIDENT_IS_SELECTED",
+  "warm_on_demand": [
+    "docs/09_reviews/chatgpt/2026-09-04/53_FULL_SPECTRUM_EVOLUTION_PRIMORDIAL_EMBODIMENT_AND_COUNCIL_RESET.md",
+    "docs/08_sources/conversations/2026-09-04-author-cousin-oceanic-primordial-organs-evolution-full-council-source-record.md",
+    "docs/09_reviews/chatgpt/2026-08-22/01-AUTHOR-RAW-ACADEMIA-PRIMORDIAIS-GUERRA-INTERMUNDOS.md",
+    "docs/09_reviews/claude/2026-09-04/CLAUDE_ROUND02_FAILURE_POSTMORTEM.md",
+    "docs/04_story/THEMATIC_SPINE.md",
+    "docs/05_visual/COMBAT_LANGUAGE.md"
+  ],
+  "author_locks": [
+    "The Director's current outward purpose is to protect the Living Star, ecosystems, Beasts, humans and other life",
+    "The Director continues to gain real power, technique, knowledge and capacity after the adolescent Concession",
+    "The ensemble, enemies, Beasts, institutions, civilization and Living Star must also evolve",
+    "Portals and other Worlds belong to the foundational horizon and cannot be reduced to late decorative escalation",
+    "The work requires real supernatural combat, opponents, creatures, missions and major events as well as relationships and civilization",
+    "The Director desires power and worthy challenge and may confront emptiness when the world no longer needs his exceptional violence",
+    "Politics and dynastic relationships may exert consequence but do not automatically define the series premise",
+    "The age-15/16 Concession is an origin event, not the end of progression",
+    "The author has not yet completed or validated the previous integrator response and may later correct this packet",
+    "No scene and nothing promoted"
+  ],
+  "open_models": [
+    "portal conflict entering an adaptive or infiltrative phase as the single axis leader",
+    "resonant wound network",
+    "predatory anchoring by a dying, corrupted or expansionist World",
+    "ecological collision between incompatible Living-World survival strategies",
+    "adult present with selective adolescent and origin revelation",
+    "Director progression across body, magic, counterplay, joint combat, command, knowledge and ethics"
+  ],
+  "explicitly_suspended": [
+    "fractured dynastic legitimacy as the Book 1 leader",
+    "ownership and control of living relations as the assumed saga motor",
+    "Round 02 external prompt and all reports generated from it",
+    "automatic restoration of the 22/08 demon-war brainstorm",
+    "old Combat Language as pacing and tone controller",
+    "scene selection"
+  ],
+  "excluded_context": [
+    "Passes 50A-50C except regression checks",
+    "rejected Academy projectile/wing rescue",
+    "full V5 accumulation",
+    "old transcripts except for provenance disputes",
+    "external-AI claims without source and status separation"
+  ],
+  "next_action": "Author validates, refutes or revises Pass 54 after reading the prior response; then choose one Book 1 incident, one opponent constellation and one portal-cosmology model before scene design",
+  "scene_status": "BLOCKED_UNTIL_AUTHOR_VALIDATES_PREMISE_AND_ONE_REAL_INCIDENT_IS_SELECTED",
   "promoted": false
 }
