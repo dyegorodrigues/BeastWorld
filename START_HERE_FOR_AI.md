@@ -1,5 +1,12 @@
 # BeastWorld — START HERE FOR AI
 
+## Current creative reset — 04/09/2026
+
+On branch `chatgpt/beastworld-v5-reconciliation-2026-08-26`, load `docs/00_governance/CURRENT_SESSION_POINTER.json`, `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`, Pass 50D and `docs/00_governance/CREATIVE_SCENE_GATE.md` before any creative scene work.
+
+Passes 50A–50C are COLD correction history. The projectile/wing Academy rescue is rejected and must not be regenerated. No Academy rescue candidate is active. Choose one actual story layer and load only its direct cluster. Never mark a scene repaired without explicit author validation. Nothing promoted.
+
+
 ## Current V5 resumable pointer — 01/09/2026
 
 If working on branch `chatgpt/beastworld-v5-reconciliation-2026-08-26`, the current HOT entry is `docs/00_governance/CURRENT_SESSION_POINTER.json`. Then read `V5_RECONCILIATION_STATE.md`, `V5_CONTEXT_ROUTER.md` and only the routed active cluster. Capture/sync/closeout follows `docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md`.
