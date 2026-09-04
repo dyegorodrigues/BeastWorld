@@ -1,5 +1,7 @@
 # BeastWorld External Research Council — Round 02
 
+> **FROZEN ON 2026-09-04 — STRUCTURALLY BIASED / DO NOT RESEND.** This packet over-weighted succession, cousin/Oceanic material and Primordial embodiment while under-specifying the portal/action engine, current Director purpose, adversary ecology, magic spectacle and continuing progression. It is retained only for provenance and failure analysis. See Pass 54. Nothing in this notice promotes lore.
+
 ## Universal copy-paste prompt
 
 Use this same prompt, unchanged, with each external AI. Every model performs the complete mission independently.
@@ -350,4 +352,3 @@ Do not finish by writing a teaser, scene or polished lore entry. Finish with the
 ---
 
 **End of copy-paste prompt.**
-
