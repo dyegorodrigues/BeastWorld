@@ -96,3 +96,10 @@ Session 003 supersedes the **fidelity classification only** for the CE-01→CE-0
 
 
 | BW-SESSION-2026-09-04-015 | Age-15/16 Primordial Choice, reciprocal evolution, cross-media corpus and controlled external council | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | HIGH-FIDELITY author derivative + source archaeology + external research | CAPTURED / RESEARCHED / RECONCILED / HOT-UPDATED / NOTION-LINKED / VERIFIED / SYNCED | no | Content checkpoint `ea86fed7c30dd48cb7b94c3187a763d83c3f01ee`; no scene; adult Book 1 incident remains OPEN pending council integration. |
+
+
+## Full-spectrum correction — 04/09/2026
+
+| Session ID | Scope | Branch | Fidelity | Lifecycle | Canon change | Notes |
+|---|---|---|---|---|---|---|
+| BW-SESSION-2026-09-04-016 | cousin alliance, Oceanic lineage/training, Primordial world-organs and embodiment, Blood condensation, multidimensional evolution, action corpus and full independent Council Round 02 | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | HIGH-FIDELITY AUTHOR DERIVATIVE + EXTERNAL RESEARCH + SIX INDEPENDENT INTERNAL READINGS | CAPTURED / RESEARCHED / MODELED / RECONCILED / HOT-UPDATED / NOTION-LINKED / SYNCED / VERIFIED | no | Pass 53 distinguishes Book 1 axis, saga motor and epic horizon. Round 01 role split is superseded. Literal bastardy remains withdrawn pending clarification. No scene; no promotion. Closeout: `docs/00_governance/SESSION_CLOSEOUT_2026-09-04_BW-SESSION-2026-09-04-016.md`. |
