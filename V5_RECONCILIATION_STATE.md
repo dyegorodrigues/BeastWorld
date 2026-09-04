@@ -1,3 +1,13 @@
+## PASS 50D CREATIVE RESET — 04/09/2026
+
+The Pass 50C projectile/divided-defense/dense-wing Academy rescue is REJECTED in full and belongs to COLD history. The Academy remains selective, martial and competent; no Academy rescue candidate is active. Do not patch or regenerate that vehicle.
+
+Preserved: Dominance spectrum including submission, suppression, collapse and exceptional destructive/lethal overload; morphology as affordances rather than prohibitions; either humanoid or bestial form may execute sophisticated or large-scale magic; autonomous-body adaptation after mature birth.
+
+Current HOT route: pointer → dashboard → Pass 50D → Creative Scene Gate. Choose one actual narrative layer before creating a scene. Never mark a scene repaired or validated before explicit author acceptance. Nothing promoted.
+
+---
+
 ## PASS 50B ACTIVE CORRECTION — 03/09/2026
 
 Pass 50A overcorrected. The Academy emergency remains a strong scene candidate; its first explanation, dialogue and overloaded consequences failed. Working term is **Dominance**. Generated Beast remains a new person with no donor memory/personality and no baby autonomous body. Natural Mythic passage is irreversible; later humanoid modulation is reversible and optional. Feedback must be classified by idea/mechanism/staging/language/canon before changing state. Visual proof is active. Nothing promoted.
