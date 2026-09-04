@@ -1,3 +1,5 @@
+> **SUPERSEDED AS PACING/TONE CONTROLLER — 2026-09-04.** Retain weapon geometry, leverage, injury continuity and bodily consequence as physical substrate only. Current expression is fast supernatural martial-magic combat; see Pass 54. Nothing promoted.
+
 # Combat Language
 
 ## Mistura alvo
