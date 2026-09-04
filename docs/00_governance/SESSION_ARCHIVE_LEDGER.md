@@ -84,3 +84,12 @@ Session 003 supersedes the **fidelity classification only** for the CE-01→CE-0
 | 2026-09-03 | BW-SESSION-2026-09-03-010 | Pass 50A correction: Mythic passage vs reversible modulation; rejected Academy proof; visual proof priority | HIGH-FIDELITY DERIVATIVE / RAW IN WORK | source + correction pass + HOT governance + Notion mirror | NOT-CANON / NOT-PROMOTED |
 
 | 2026-09-03 | BW-SESSION-2026-09-03-011 | Pass 50B: Academy idea retained; explanation repaired; Dominance rename; Generated-Beast regression closed; AI animatic research; Authorial Alignment Log created | HIGH-FIDELITY DERIVATIVE / RAW IN WORK | source + pass + research + HOT governance + Notion mirror | NOT-CANON / NOT-PROMOTED |
+
+
+## Pass 50C–51 continuity backfill — 03–04/09/2026
+
+| Session ID | Scope | Branch | Fidelity | Lifecycle | Canon change | Notes |
+|---|---|---|---|---|---|---|
+| BW-SESSION-2026-09-03-012 | Pass 50C causal audit and Academy candidate rejection route | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | HIGH-FIDELITY DERIVATIVE / RAW IN WORK | CAPTURED / MODELED / RECONCILED / HOT-UPDATED / NOTION-LINKED / VERIFIED / SYNCED | no | Candidate A moved to rejected history; final session HEAD `9000987021cd141e1792537e50bc39f5b3f1e60e`. |
+| BW-SESSION-2026-09-04-013 | Pass 50D creative reset, scene-quality gate and clean restart | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | HIGH-FIDELITY DERIVATIVE / RAW IN WORK | CAPTURED / DIAGNOSED / RECONCILED / HOT-UPDATED / NOTION-LINKED / VERIFIED / SYNCED / AUDITED | no | Academy rescue quarantined; final session HEAD `232006b0343c87c8109b91b4837d8773e8e09282`. |
+| BW-SESSION-2026-09-04-014 | Context Compiler v3; sovereign-Dynasty correction; Director lineage, desire and command; Book 1 legitimacy axis | `chatgpt/beastworld-v5-reconciliation-2026-08-26` | HIGH-FIDELITY DERIVATIVE / RAW IN WORK | CAPTURED / RESEARCHED / MODELED / RECONCILED / HOT-UPDATED / NOTION-LINKED / VERIFIED / SYNCED | no | Content commit `c9b6839378a93d7ec4737422fed8f85b2a911c89`; no scene created; present-tense Book 1 incident remains OPEN. |
