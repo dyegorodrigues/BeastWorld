@@ -1,5 +1,7 @@
 # BeastWorld — Conselho Externo — Rodada 01
 
+> **SUPERSEDED — 2026-09-04.** This role-split packet is retained only for provenance. Do not run it. The author's current instruction is that every external AI must independently perform the entire mission using `ROUND_02_FULL_INDEPENDENT_RESEARCH_COPY_PASTE_PROMPT.md`.
+
 **Tema:** Escolha aos 15–16, evolução recíproca e incidente adulto do Livro 1  
 **Modo:** `READ-ONLY / CONSULTIVE / QUARANTINE`  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
