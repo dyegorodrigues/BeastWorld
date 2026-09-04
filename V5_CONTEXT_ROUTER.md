@@ -1,3 +1,13 @@
+## Pass 52 current route — 04/09/2026
+
+**HOT:** current pointer → `ACTIVE_CONTEXT_MANIFEST.json` → current dashboard → author age-15–16 source record → Pass 52.  
+**WARM:** the specific childhood/Primordial/coevolution records routed by the manifest; external council packet only while running or integrating the council.  
+**COLD:** Passes 50A–50C, rejected Academy attempts, full V5 accumulation, external-AI prose after proposal-card extraction and raw transcripts unless provenance is disputed.
+
+Active task: integrate independent external-council cards, red-team the leader and select one adult incident that reopens the age-15–16 Choice. Keep the competent cousin, Primordial agency, reciprocal evolution and Pass 50D guardrails. Do not write a scene. Nothing promoted.
+
+---
+
 ## Pass 51 current route — 04/09/2026
 
 **HOT:** current pointer → `ACTIVE_CONTEXT_MANIFEST.json` → current dashboard → Pass 51.  
