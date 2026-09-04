@@ -96,3 +96,20 @@ Add only durable interpretation lessons. Do not archive entire conversations her
 - Language correction: `fractured dynastic legitimacy` is backstage diagnosis only.
 - Process: representative Eastern/epic corpus and controlled external council required before incident selection.
 - Scene status: blocked. **PROMOTED: nothing.**
+
+
+## 2026-09-04 — Pass 53 full-spectrum correction
+
+**Primary source:** `BW-SRC-AUTHOR-2026-09-04-COUSIN-OCEANIC-WORLD-ORGANS-EVOLUTION`
+
+- Distinguish the Book 1 axis from the saga motor; displaying one does not replace the other.
+- The cousin is good, just, prepared and formidable. Preserve the author’s adult alliance direction and do not manufacture a generic jealous-heir antagonist.
+- Use **mutual loyalty, conditional agreement** as a relationship stress-test, not as canonized dialogue.
+- Preserve complementary excellence: orthodox dynastic completeness for the cousin; body/combat/adaptation with real resonant limitation for the Director.
+- Do not reintroduce literal bastardy from a colloquial reuse after the author explicitly removed it on 29/08.
+- Oceanic maternal lineage, interference and formation are recovered prior hypotheses; cite them as such rather than presenting them as inventions or facts.
+- Primordial `world-organ`, numinous bodies, humanoid-bestial sovereign forms and golden condensed Blood are author brainstorm/model directions, not promoted lore.
+- Allow real physical progression, but make individual, relational, institutional, ecological and civilizational evolution change together.
+- Use Fog Hill for action grammar only; quarantine its unusually close five-element-family/Qilin world premise.
+- Every external AI now performs the entire mission from the same prompt. Exclusive role division is superseded.
+- Scene status remains blocked. **PROMOTED: nothing.**
