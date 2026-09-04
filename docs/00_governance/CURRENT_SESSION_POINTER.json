@@ -1,81 +1,74 @@
 {
-  "schema_version": 3,
-  "session_id": "BW-SESSION-2026-09-03-012",
-  "status": "OPEN",
+  "schema_version": 4,
+  "session_id": "BW-SESSION-2026-09-04-013",
+  "status": "READY_FOR_CLEAN_RESTART",
   "lifecycle_completed": [
     "CAPTURED",
     "RESEARCHED",
-    "MODELED",
+    "DIAGNOSED",
     "RECONCILED",
     "HOT-UPDATED",
     "NOTION-LINKED",
-    "SYNCED",
-    "VERIFIED",
-    "AUDITED"
+    "SYNCED"
   ],
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "active_cluster": "Pass 50C: causal audit of Academy candidate, Dominance intensity and morphology expression",
-  "active_gate": "Choose and validate a mechanically explicit Academy incident before tactical map, beatboard or animatic",
+  "active_cluster": "Pass 50D: creative reset after rejection of Academy Candidate A",
+  "active_gate": "Choose one real story layer before creating another scene",
   "source_records": [
-    "docs/08_sources/conversations/2026-09-03-author-audit-pass-50c-academy-causality-dominance-spectrum.md"
+    "docs/08_sources/conversations/2026-09-04-author-rejection-pass-50d-academy-candidate-creative-reset.md"
   ],
   "passes": [
-    "docs/09_reviews/chatgpt/2026-09-03/50C_CAUSAL_AUDIT_ACADEMY_DOMINANCE_SPECTRUM_MORPHOLOGY_EXPRESSION.md"
+    "docs/09_reviews/chatgpt/2026-09-04/50D_CREATIVE_RESET_ACADEMY_REJECTION_SCENE_QUALITY_SAFEGUARDS.md"
   ],
   "research": [
     "docs/06_research/2026-09-03-dominance-ai-animatic-action-reference-queue.md"
   ],
   "governance": [
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
+    "docs/00_governance/CREATIVE_SCENE_GATE.md",
     "docs/00_governance/AUTHORIAL_ALIGNMENT_LOG.md",
     "V5_CONTEXT_ROUTER.md",
-    "docs/00_governance/CURRENT_CREATIVE_CHECKPOINT_2026-09-01.md",
-    "docs/00_governance/CREATIVE_HORIZON_MAP.md",
     "V5_RECONCILIATION_STATE.md",
-    "HANDOFF.md",
-    "docs/00_governance/RETOMADA.md"
+    "START_HERE_FOR_AI.md"
   ],
   "notion_targets": [
     "https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24",
-    "https://app.notion.com/p/3d042424cdbc8152a4a9c2efa95fca61",
-    "https://app.notion.com/p/3d042424cdbc813bae02fd2e49c780d9"
+    "https://app.notion.com/p/3d142424cdbc81be9cd1cf125e418b81",
+    "https://app.notion.com/p/3d042424cdbc8152a4a9c2efa95fca61"
   ],
-  "source_fidelity": "HIGH-FIDELITY DERIVATIVE for visible author correction; exact wording remains recoverable in ChatGPT Work",
+  "source_fidelity": "HIGH-FIDELITY DERIVATIVE; exact author wording remains in ChatGPT Work and rejected construction remains traceable in COLD history",
   "promoted": false,
-  "current_locks": [
-    "Academy premise retained; Pass 50B physical rescue and dialogue failed causal audit",
-    "Scene remains OPEN; no storyboard or animatic until incident mechanics pass",
-    "Reader-facing working term is Dominance; Precedence is retired",
-    "Dominance intensity may escalate from attention capture to freeze, suppression, collapse and exceptional lethal overload",
-    "Dominance does not manufacture belief, love, loyalty, desire or consent",
-    "Generated Beast is a new person, never donor reincarnation or memory/personality copy",
-    "Autonomous birth preserves maturity; early bodily adaptation/fragility may occur without infant reset",
-    "Natural Mythic bestial form is home morphology; acquired humanoid modulation is stable and optional",
-    "Generated Beast humanoid and bestial morphologies are both native",
-    "Humanoid fine-control versus bestial mass/elemental expression is a leading hypothesis, not canon",
-    "Action reference stack has been recalibrated from author evaluations",
-    "Nothing in Pass 50C is canon"
+  "rejected": [
+    "Pass 50C Candidate A in full",
+    "controlled projectile",
+    "divided-defense drill",
+    "dense wing threatening advanced cadets",
+    "artificial Director plus Phoenix rescue",
+    "invented moral guilt",
+    "any claim that the Academy scene is repaired"
   ],
-  "next_action": "Stress-test candidate A: a controlled divided-defense drill where Director stops new bestial acceleration with Dominance and Phoenix physically handles remaining momentum. Reject it if any actor, danger or action remains abstract.",
+  "current_locks": [
+    "Academy remains selective, martial, military and competent",
+    "No Academy rescue candidate is active",
+    "Dominance is the working term; Precedence remains retired",
+    "Dominance may escalate through attention, fear, hesitation, submission, suppression, collapse and exceptional destructive/lethal overload",
+    "Dominance does not manufacture morality, belief, love, desire, loyalty or consent",
+    "Generated Beast is a new person; donor Matrix does not transfer soul, memory or personality",
+    "Autonomous birth preserves maturity and may require simple bodily adaptation/stabilization",
+    "Morphologies create affordances, not prohibitions; either form may execute sophisticated or large-scale magic",
+    "Scene creation must load CREATIVE_SCENE_GATE.md",
+    "After two structural failures, quarantine the scene vehicle",
+    "Never mark a scene repaired or validated before explicit author acceptance",
+    "Nothing in Pass 50D is canon"
+  ],
+  "next_action": "In a clean conversation, select one actual narrative layer (Book 1 architecture, Director character engine, Academy lived institution, Dominance rule, or remaining Core Engine gate). Load only its direct cluster and do not attempt another Academy rescue.",
+  "restart_prompt": "Reancore o BeastWorld na branch chatgpt/beastworld-v5-reconciliation-2026-08-26. Leia START_HERE_FOR_AI.md, V5_RECONCILIATION_STATE.md, CURRENT_SESSION_POINTER.json, CURRENT_PROJECT_DASHBOARD.md, o Pass 50D e CREATIVE_SCENE_GATE.md. Não carregue os Passes 50A–50C salvo para evitar repetição. Não promova hipótese. Retome escolhendo um único eixo narrativo real antes de criar qualquer cena.",
   "roadmap": {
-    "51": "formative human × Generated Beast proof paused",
-    "52": "duel, hunt and battlefield combat proofs",
-    "53": "civilizational propagation",
-    "50C": "active causal audit and candidate incident",
-    "visual": "blocked until incident mechanics pass",
-    "54-55": "Director and Book 1 architecture"
-  },
-  "verification": {
-    "github_files_checked": [
-      "docs/09_reviews/chatgpt/2026-09-03/50C_CAUSAL_AUDIT_ACADEMY_DOMINANCE_SPECTRUM_MORPHOLOGY_EXPRESSION.md",
-      "docs/06_research/2026-09-03-dominance-ai-animatic-action-reference-queue.md",
-      "V5_CONTEXT_ROUTER.md"
-    ],
-    "notion_pages_checked": [
-      "3cf42424-cdbc-8108-8a9d-fd653674ae24",
-      "3d042424-cdbc-8152-a4a9-c2efa95fca61",
-      "3d042424-cdbc-813b-ae02-fd2e49c780d9"
-    ],
-    "result": "PASS"
+    "51": "paused until next narrative layer is selected",
+    "52": "duel, hunt and battlefield proofs remain future work",
+    "50D": "active creative reset",
+    "academy_rescue": "quarantined; no active candidate",
+    "visual": "paused until an organic scene passes purpose and competence gates",
+    "54-55": "Director and Book 1 architecture remain available next directions"
   }
 }
