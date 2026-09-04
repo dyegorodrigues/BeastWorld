@@ -40,25 +40,31 @@ A failure in language does not automatically reject the idea. A good idea does n
 - claiming perfect synchronization without evidence;
 - using outcome words (“reorganizes”, “stabilizes”, “restores rhythm”, “contains pressure”) where visible actions are required;
 - assigning ethical blame before showing proportional harm;
-- moving to beatboard/animatic before causal mechanics pass.
+- moving to beatboard/animatic before causal mechanics pass;
+- making advanced/competent characters helpless to create a rescue;
+- inflating a small mishap into mortal stakes;
+- forcing multiple discoveries into one demonstration scene;
+- calling a revision “repaired” before author validation;
+- protecting the assistant's previous construction instead of selecting the best story.
 
-## Current correction example — Pass 50C
+## Current correction example — Pass 50D
 
-- Academy emergency: good candidate idea.
-- Pass 50B's “repaired” status: false; the causal execution still failed.
-- Scene status: OPEN; mechanics before storyboard.
-- Previous dialogue: rejected.
-- Dominance mechanism: retained and expanded by intensity.
+- Academy as institution/world: preserved.
+- Pass 50C projectile/wing rescue: rejected in full, not merely rewritten.
+- No Academy rescue candidate is active.
+- Dominance mechanism: retained and expanded through submission, suppression and exceptional lethal overload.
 - “Primordial Precedence”: retired.
-- Lesson: replacing unclear nouns with abstract verbs is not a repair. Every rescue must show the threat, trajectory, body, action and result.
+- Lesson: when a scene is structurally rejected, stop preserving its vehicle. Return to dramatic purpose or quarantine it.
 
 ## Generated-Beast invariant
 
 A Generated Beast is a new person. Donor Matrix is developmental architecture, not reincarnation, memory upload or personality copy. Protected development may include field manifestation. Autonomous birth produces a functionally developed definitive body, not a baby body. Early autonomous adaptation or physical fragility may occur without mental regression.
 
-## Mandatory scene-causality audit
+## Mandatory creative scene gate
 
-Before prose or storyboard, require explicit answers for: actors, normal activity, trigger, physical danger, threatened body, responder action, why it works, immediate result and aftermath. If any answer is an abstract verb, the scene remains open.
+Load `docs/00_governance/CREATIVE_SCENE_GATE.md` before generating or repairing a scene.
+
+Before prose or storyboard, require: dramatic purpose, viewpoint, desire, resistance, competence floor, state change and a short visible causal spine. If any answer is an abstract verb, the scene remains open. After two structural failures, quarantine the scene instead of patching it again.
 
 ## Updating this log
 
