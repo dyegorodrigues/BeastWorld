@@ -2,75 +2,74 @@
 
 **Updated:** 2026-09-04  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Mode:** `BOOK 1 ARCHITECTURE / AGE-15–16 CONSEQUENCE / EXTERNAL-COUNCIL GATE / NOT-CANON`
+**Mode:** `BOOK 1 AXIS / FULL-SPECTRUM EVOLUTION / COUNCIL ROUND 02 / NOT-CANON`
 
 ## Read first
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
 3. this dashboard
-4. `docs/08_sources/conversations/2026-09-04-author-age16-primordial-aspect-coevolution-source-record.md`
-5. `docs/09_reviews/chatgpt/2026-09-04/52_AGE16_COEVOLUTION_REFERENCE_CORPUS_AND_COUNCIL_GATE.md`
+4. `docs/08_sources/conversations/2026-09-04-author-cousin-oceanic-primordial-organs-evolution-full-council-source-record.md`
+5. `docs/09_reviews/chatgpt/2026-09-04/53_FULL_SPECTRUM_EVOLUTION_PRIMORDIAL_EMBODIMENT_AND_COUNCIL_RESET.md`
 6. only files declared by the manifest.
 
-Pass 50D remains the creative-quality guardrail. Passes 50A–50C and rejected Academy attempts remain COLD. Do not write a scene.
+Pass 50D remains the quality guardrail. Passes 50A–50C, rejected Academy attempts and Council Round 01 remain COLD. Do not write a scene.
 
-## Current creative axis
+## Two scales, one work
 
-**The Choice made at 15–16 produced an authority that human succession never absorbed; in the present, one consequence of that act makes it impossible to keep pretending the problem ended.**
+- **Book 1 axis:** one adult consequence of the age-15/16 Choice makes the old dynastic accommodation impossible to maintain.
+- **Saga motor:** humans, Bestas, Primordials, institutions, civilization and Living Worlds transform one another while systems of power try to own, freeze or weaponize living relations.
+- **Epic horizon:** other Living Worlds embody different strategies of survival and evolution, not simply higher ranks.
 
-The adolescent Choice is the origin wound. Book 1 must reopen it through a new adult variable, not repeat the concession. Family, Academy, war, politics and coevolution enter only when they pressure this same causal line.
+The succession problem is the Book 1 human pressure chamber for the deeper evolutionary problem. It is not the whole saga.
 
-`fractured dynastic legitimacy` is a backstage diagnosis only, not a story-facing term.
+## Current author directions — not promoted
 
-## Recovered source locks
+- the cousin is good, just, prepared, formidable and necessary as sovereign;
+- adult relationship leader: mutual loyalty and support, with real political disagreement still possible;
+- adolescent envy or hurt is possible only as a specific human wound, not generic villainy;
+- the Director remains loyal to the Dynasty and supports the cousin's sovereignty;
+- talent leader: cousin more complete in orthodox dynastic criteria; Director exceptional in body, combat and adaptation but ressonantly limited;
+- literal bastardy remains withdrawn; the current reuse of the word is an unresolved ambiguity.
 
-- a Primordial manifestation/Aspect could assume human form;
-- it observed and partially interacted with the future Director in childhood/adolescence without fully revealing itself;
-- Choice/direct concession occurred around age 15–16, linked to Academy entry;
-- reciprocal evolution among Living Star, Beasts and humans is restored as a core research model;
-- the author's 29/08 correction withdrew the bastard path; maternal lineage and marriage configuration remain open.
+## Oceanic route
 
-## Preferred political prototype — not canon
+Maternal high Oceanic lineage, mixed-pattern interference and foreign formation are recovered hypotheses from Laboratory 07. First chronology to investigate: Academy entry/Choice → crisis → bounded Academy-affiliated Oceanic residence or formation → return. An Oceanic sovereign can be relative and occasional high-level mentor; daily formation should belong to a wider network.
 
-- each founding Dynasty is a sovereign territorial State;
-- `Crown` is comparative language, not a separate government;
-- `Seat` is retired as an independent third jurisdiction;
-- a narrow inter-dynastic pact sustains the treaty Academy and defined common crises;
-- the cousin remains a competent principal heir;
-- direct Primordial concession is not automatic coronation.
+## Primordials and Blood
 
-## Adult incident candidates — not selected
+- presence: numinous;
+- ontology: metabiological conscious world-functions;
+- leader for stress-test: distributed domain + real bounded Aspects + rare sovereign embodiment;
+- bestial and humanoid-bestial bodies are functional configurations, not skins or a universal transformation tree;
+- embodiments require matter, attention, range, injury feedback and ecological cost;
+- Concession leader: living matter + Quintessence + pattern + agency/consent;
+- golden Blood may remain an image, not a portable item, dose or purity score.
 
-1. war mandate;
-2. Academy inversion;
-3. limited evolutionary proof;
-4. external recognition.
+## Progression
 
-`limited evolutionary proof` is first to investigate because it restores the coevolutionary core, but it is not chosen and must survive anti-messianic, agency, cost and exposure tests.
+Real gains in power remain allowed. Each advance must also change at least one vulnerability, relationship, institution or ecological condition. Track individual, ensemble, Beast, magical, civilizational and planetary evolution separately so the world grows with the Director instead of becoming obsolete around him.
 
-## Scaling control
+## Reference correction
 
-Track potency, jurisdiction, knowledge, public exposure and intimate cost separately. Raise at most one or two per arc. Primordials do not become a boss ladder; material life, relationships, law, logistics and injury must retain causal power.
+Fog Hill of Five Elements enters the action corpus for choreography, rhythm, body-element integration and spatial legibility. Its official five elemental families plus ancestral Qilin premise is quarantined for similarity risk. Solo Leveling was already present in Laboratory 08; use presence, visual thresholds and legible progression, never the System. Other works remain functional references, not templates.
 
-## External council
+## Council Round 02
 
-- [Pass 52](https://app.notion.com/p/3d142424cdbc81028ef7c79967e6a0e9)
-- [Round 01 packet](https://app.notion.com/p/3d142424cdbc81e796e5cfbe9ad92a77)
-- [Reanchored author source](https://app.notion.com/p/3d142424cdbc81aa91afdb08e559238b)
+Every external AI receives the same complete self-contained prompt and performs the whole mission independently: continuity, research, architecture, brainstorm, red team and recommendation. If project access fails, it must declare `ACCESS_BLOCK` and continue only from the embedded briefing without pretending to have read inaccessible sources.
 
-Responses are independent, read-only and non-canonical. Integrate proposal cards, not whole answers.
+## Open gates
 
-## Next gate
+1. literal bastardy versus colloquial “outside the main line”;
+2. talent domains at age 15–16;
+3. mother’s exact rank and Oceanic relationship;
+4. Academy–Oceanic chronology;
+5. number and deep functions of Primordials;
+6. embodiment limits and Blood-transfer rules;
+7. one adult Book 1 incident.
 
-Receive the external round, reduce outputs to comparable cards, red-team the leader and choose **one adult incident**. Only then design sequence and scene.
+## Next action
 
-## Epistemic state
+Receive external Round 02 reports, reduce them to comparable proposal cards and select **one adult incident**. Only then design sequence and scene.
 
-| Layer | Current state |
-|---|---|
-| author-confirmed/recovered | childhood hidden contact; human Aspect possible; Choice around 15–16; reciprocal-evolution motive; competent cousin; Director does not want rule |
-| preferred prototype | sovereign Dynasties + narrow pact + treaty Academy |
-| open | exact Choice circumstance; containment agreement; adult incident; Primordial embodiment model; maternal lineage; founding-war relation |
-| rejected/superseded | separate decorative Crown; independent Seat; purity meter; incompetent heir; automatic Primordial coronation; bastard path; rejected Academy rescues |
-| promoted | nothing |
+**PROMOTED:** nothing.
