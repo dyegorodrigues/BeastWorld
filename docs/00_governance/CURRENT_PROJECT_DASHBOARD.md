@@ -1,27 +1,28 @@
 # BeastWorld — Current Project Dashboard
 
 **Updated:** 2026-09-05  
-**Current pass:** 58  
+**Current pass:** 59  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Mode:** `STRUCTURAL WORKING-CANON / RELATIONAL + SEMANTIC + COMMUNICATION FIDELITY / NO SCENE`
+**Mode:** `STRUCTURAL WORKING-CANON / RELATIONAL + SEMANTIC + COMMUNICATION FIDELITY / WARM REFERENCE ATLAS / NO SCENE`
 
 ## Read first
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
 3. this dashboard
-4. `docs/07_decisions/ADR-0006-WORKING-CANON-ORIGIN-GRAFT-YOUNG-PROTAGONIST-ROUTE.md`
-5. `docs/01_bible/CURRENT_ORIGIN_AND_WORLD_GRAFT_WORKING_CANON.md`
+4. ADR-0006
+5. current Bible
 6. `docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`
 7. `docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md`
-8. `docs/09_reviews/chatgpt/2026-09-05/58_AUTHOR_EXPLANATION_TONE_TECHNICAL_LEXICON_AND_RESEARCH_SCAFFOLD_QA.md`
+8. Pass 58
 9. only the relevant current domain cluster.
 
-For origin/entity/research rationale, use Pass 55 WARM. For exact disputed wording, use the semantic source and then the raw 05/09 brainstorm.
+Pass 59 reference atlas is **WARM/task-specific**, not mandatory HOT:
+`docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md`
 
 ## Current authority
 
-ADR-0006 remains the lore-promotion boundary. Pass 58 promotes no new lore.
+ADR-0006 remains the lore-promotion boundary. **Pass 59 promotes no new lore.**
 
 Current spine:
 
@@ -29,71 +30,94 @@ Current spine:
 
 The protagonist's main lived story begins around fifteen. The adult Director is earned. Direct Concession occurs during the first coordinated Fissure campaign but does not install mastery. The cousin is the legitimate formidable successor. The enemy's return is independent of the protagonist.
 
-## Pass 58 correction — construction language
+## Pass 58 — communication/technical fidelity
 
-The latest audit recovered a term that existed in the author source but had been softened in the current Wiki:
+Recovered writer-room term: **`ontologia metabiológica`**.
 
-**`ontologia metabiológica`**.
+Deep entities are not spirits piloting bodies or external gods detached from nature. The construction model treats consciousness, biology, Quintessence, ecology and world-function as continuous enough that a world-integrated intelligence may, under unresolved limits, metabolize the Living World and form a real bounded material aspect.
 
-Writer-room meaning:
+Author-facing explanation rule:
+**make it visible → explain machinery → show constraint/consequence/status → add compact research/reference backstage note when useful.**
 
-> Deep entities are not spirits piloting bodies or external gods detached from nature. Consciousness, biology, Quintessence, ecology and world-function are continuous enough that a deep entity can be understood as a Living-World-integrated intelligence capable, under unresolved limits, of metabolizing the world and forming a real bounded material aspect.
+## Pass 59 — reference engineering atlas
 
-This is a **construction term**, not automatically final in-world vocabulary.
+The latest author directive expands reference study from fight choreography to **whole narrative engineering**.
 
-Related backstage vocabulary now explicitly preserved includes Mundo Vivo, world-core, world-function, ecological regulator/archive as partial lenses, material aspect/embodiment, bounded throughput/functional load, symbiogenesis, cautious holobiont analogy, niche construction, cumulative culture, reciprocal coevolution/Red Queen, adaptive continuity, calibration/coherence/ecological memory/lineage pattern and reciprocal versus forced integration.
+Permanent GitHub research:
+`docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md`
 
-## How ideas should be explained to the author
+Human Notion mirror:
+`03 — LABORATÓRIO → LAB — Atlas de Referências — Fog Hill, JJK, Solo Leveling, Nano Machine e Fullmetal`
 
-BeastWorld development must avoid two equal failures:
+### Jujutsu Kaisen is now a primary whole-story reference
+Study:
+- individualized techniques/power as character identity;
+- rules/conditions that manufacture choices and situations;
+- relationship dynamics and character pairs/trios;
+- institutional pressure shaping personal arcs;
+- irreversible turns with meaningful residue;
+- **Gojo as strongest-character strategic gravity**;
+- how an ensemble remains necessary despite an apex figure.
 
-- a strong idea made to feel weak by sterile technical prose;
-- a weak or incomplete idea perfumed by enthusiasm and adjectives.
+Do **not** import curses, cursed energy, Reverse Cursed Technique, Domains, Binding Vows or Culling Game as a renamed BeastWorld system.
 
-Preferred movement:
+### Fog Hill of Five Elements
+Study body/weapon/personality/terrain, information-gathering inside fights and high speed that remains spatially legible. Do not import five-element guardian architecture, xianxia package or ink-wash identity wholesale.
 
-**make it visible → explain the machinery → show constraint/consequence/status → add compact research/reference backstage note when useful.**
+### Solo Leveling
+Study visible progression and earned presence. Avoid System/stats and an ensemble that exists mainly to witness the protagonist.
 
-A useful term should be preserved and translated, not deleted for simplicity and not used as pseudo-scientific decoration.
+### Nano Machine
+Study pleasure of technical competence acquisition. Avoid literal nanotech/cultivation scaffold.
 
-Detailed protocol:
-`docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md`.
+### Fullmetal Alchemist
+Study **few deep rules → many personal/civilizational consequences**. This is the strongest current antidote to BeastWorld overengineering.
 
-## Research scaffold
+## Pass 59 hypotheses — NOT CANON
 
-Pass 55 remains the detailed research basis behind the origin reconstruction.
+Preserved for future stress tests:
 
-Current scientific lenses worth preserving:
+- scene-yield test / complexity budget;
+- progression by verbs;
+- biomecânica bestial;
+- corporal → hybrid → extraordinary choreography regimes as staging tool;
+- strongest-character systemic pressure;
+- ensemble competence ecology;
+- Academy field → research → medicine/weapons/doctrine → deployment → enemy-adapts loop;
+- enemy adaptation visible in scenes;
+- character design through relationship edges;
+- moment design = character want + rule pressure + relationship pressure + irreversible residue;
+- important fights must alter/reveal character, relationship, enemy model, rule, institution or plot state;
+- modern manhwa/anime clarity + Fog Hill kinetic intelligence as visual-development direction.
 
-- symbiogenesis/endosymbiosis;
-- niche construction/ecological inheritance;
-- cumulative culture;
-- microbiome/holobiont with critical caveats;
-- reciprocal coevolution / Red Queen;
-- planetary-scale intelligence as analogy.
+## Complexity-budget rule
 
-Rule: **science supplies constraints, analogies and questions; fantasy supplies the fictional mechanism.**
+Before opening another technical research cluster ask:
 
-Reference rule: **study function, not package**. For each work: what to study → why it helps → what stays quarantined → how BeastWorld remains different.
+> **What can this rule make a character do, choose, discover, fear, lose, build, fight or change that the story could not do as well without it?**
+
+Then classify as:
+- story-critical now;
+- structural but deferrable;
+- flavor/detail;
+- speculative edge case.
+
+Do not let speculative edge cases stop current story development unless they expose a genuine structural contradiction.
+
+## Adult Director / time skip
+
+The adult Director remains a strong future horizon. Exact chronology remains **OPEN**.
+
+Research models:
+1. extended youth phase;
+2. Book 1 youth → major Book 2 jump;
+3. phased aging / smaller selective jumps.
+
+No model selected. The decision should wait until the four P0 Book 1 gates make clear what development a jump would erase.
 
 ## Semantic fidelity still required
 
-Do not lose:
-
-- broad Beast biodiversity beyond Dragon/Fênix/Qilin/Oceanic motifs;
-- numinous/person-like deep entities whose original bodies died;
-- already-civilized pre-magic humans and cumulative culture;
-- reciprocal human/Beast contribution;
-- Sangue/Matriz/Bestas Geradas as bodily/developmental/relational rather than loot;
-- morphology/materialization/maturity/autonomy as distinct variables when old CE work is reopened;
-- protagonist as dangerous/talented but incomplete, capable of defeat and continued growth;
-- family/cousin nuance;
-- Academy as civilizational learning engine and social space;
-- physically readable supernatural combat;
-- Fissures as real interworld frontiers;
-- enemy as adaptive civilization;
-- resonant notation as live design thread;
-- beauty, brutality, humor, romance, family, friendship, ordinary life, wonder, horror, discovery and war.
+Do not lose broad Beast biodiversity; numinous/person-like deep entities; civilized pre-magic humans; reciprocal human/Beast contribution; bodily/developmental Sangue/Matriz/Bestas Geradas; morphology/materialization/maturity/autonomy distinction; powerful-but-incomplete protagonist; family/cousin nuance; Academy as civilizational/social engine; physically readable combat; Fissures as interworld frontiers; enemy as adaptive civilization; resonant notation; and the tonal bandwidth of beauty, brutality, humor, romance, family, friendship, everyday life, wonder, horror, discovery and war.
 
 ## Known transcription correction
 
@@ -103,36 +127,30 @@ Do not lose:
 
 Root: `🌒 BEASTWORLD — Segundo Cérebro / HOME`
 
-Current lanes:
-
 - `00 — AGORA`
 - `01 — ENCICLOPÉDIA ATUAL`
 - `02 — AUTORIDADE & CÂNONE`
 - `03 — LABORATÓRIO`
+  - `LAB — Atlas de Referências — Fog Hill, JJK, Solo Leveling, Nano Machine e Fullmetal`
 - `04 — ARQUIVO HISTÓRICO`
 - `05 — FONTES AUTORAIS`
 - `06 — GRAFO & REGISTROS`
 - `07 — MEMÓRIA AUTORAL`
   - `07A — LINGUAGEM DE CONSTRUÇÃO — Tom, termos técnicos e referências`
 
-The current Entity article explicitly includes the recovered `ontologia metabiológica` writer-room vocabulary.
-
 ## Current P0 creative gate
 
 Before sequence/scene:
+1. `BW-Q-V5-BOOK1-INCITING-001`
+2. `BW-Q-V5-PROT-ENTITY-001`
+3. `BW-Q-V5-ENEMY-CONSTRAINT-001`
+4. `BW-Q-V5-ENSEMBLE-001`
 
-1. `BW-Q-V5-BOOK1-INCITING-001`;
-2. `BW-Q-V5-PROT-ENTITY-001`;
-3. `BW-Q-V5-ENEMY-CONSTRAINT-001`;
-4. `BW-Q-V5-ENSEMBLE-001`.
-
-Stress-test against ADR-0006, Authorial Fidelity, Explanation/Technical Lexicon and Pass 50D.
+Stress-test against ADR-0006, Authorial Fidelity, Explanation/Technical Lexicon and Pass 50D. Use Pass 59 where character/ensemble/action/story architecture benefits from the atlas.
 
 ## Historical contamination guard
 
-Root `HANDOFF.md` and `PROJECT_STATE.md` are current redirects. Their former accumulated bodies are preserved under `docs/00_governance/history/`.
-
-Old V3/V4 pages/nodes remain archive/provenance unless explicitly reconciled.
+Root `HANDOFF.md` and `PROJECT_STATE.md` are current redirects. Former bodies live in `docs/00_governance/history/`. Old V3/V4 material remains archive/provenance unless explicitly reconciled.
 
 ## Access drift
 
