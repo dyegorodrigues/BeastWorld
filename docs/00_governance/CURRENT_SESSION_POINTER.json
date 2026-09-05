@@ -1,11 +1,10 @@
 {
-  "schema_version": 7,
-  "session_id": "BW-SESSION-2026-09-05-020",
-  "status": "PASS57_CLOSED_SECOND_BRAIN_RELATIONAL_AND_SEMANTIC_FIDELITY_PASS_READY_FOR_P0_BOOK1_GATE",
+  "schema_version": 8,
+  "session_id": "BW-SESSION-2026-09-05-021",
+  "status": "PASS58_COMMUNICATION_FIDELITY_LEXICON_RESEARCH_SCAFFOLD_READY_FOR_P0_BOOK1_GATE",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "active_cluster": "Pass 57 closed: current Working Canon route + relational Second Brain + Authorial Fidelity anti-drift layer",
-  "active_gate": "Resolve one concrete Book 1 inciting incident, one actionable protagonist-entity relationship, one enemy champion/agent/strategic constraint and a minimum ensemble; stress-test against ADR-0006, Authorial Fidelity Packet and Pass 50D before scene work",
-  "epistemic_state": "STRUCTURAL_ROUTE_WORKING_CANON / SEMANTIC_FIDELITY_REQUIRED / FINE_MECHANISMS_HYPOTHESIS_OR_UNRESOLVED / NO_SCENE",
+  "active_cluster": "Pass 58: Working Canon + relational Second Brain + Authorial Fidelity + author explanation/technical lexicon",
+  "epistemic_state": "STRUCTURAL_WORKING_CANON / SEMANTIC_AND_COMMUNICATION_FIDELITY_REQUIRED / FINE_MECHANISMS_OPEN / NO_SCENE",
   "mandatory_read_order": [
     "START_HERE_FOR_AI.md",
     "docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json",
@@ -13,35 +12,9 @@
     "docs/07_decisions/ADR-0006-WORKING-CANON-ORIGIN-GRAFT-YOUNG-PROTAGONIST-ROUTE.md",
     "docs/01_bible/CURRENT_ORIGIN_AND_WORLD_GRAFT_WORKING_CANON.md",
     "docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md",
-    "V5_CONTEXT_ROUTER.md",
-    "docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md"
-  ],
-  "source_records": [
-    "docs/08_sources/conversations/2026-09-05-author-origin-brainstorm-verbatim.md",
-    "docs/08_sources/conversations/2026-09-05-author-origin-world-graft-symbiogenesis-young-protagonist-source-record.md",
-    "docs/08_sources/conversations/2026-09-05-author-promotion-second-brain-cleanup-source-record.md",
-    "docs/08_sources/conversations/2026-09-05-author-second-brain-full-qa-relational-graph-source-record.md",
-    "docs/08_sources/conversations/2026-09-05-author-finalize-second-brain-fidelity-phoenix-correction-source-record.md"
-  ],
-  "decisions": [
-    "docs/07_decisions/ADR-0006-WORKING-CANON-ORIGIN-GRAFT-YOUNG-PROTAGONIST-ROUTE.md",
-    "docs/07_decisions/ADR-0007-SECOND-BRAIN-HUMAN-WIKI-RELATIONAL-GRAPH.md"
-  ],
-  "current_bible": "docs/01_bible/CURRENT_ORIGIN_AND_WORLD_GRAFT_WORKING_CANON.md",
-  "fidelity_packet": "docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md",
-  "pass57_audit": "docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md",
-  "session_closeout": "docs/00_governance/SESSION_CLOSEOUT_2026-09-05_BW-SESSION-2026-09-05-020.md",
-  "notion_current_root": "https://app.notion.com/p/3d242424cdbc81ecacf8e5be9f6f2375",
-  "notion_authorial_memory": "https://app.notion.com/p/3d242424cdbc81568061d223942631a2",
-  "notion_current_lanes": [
-    "00 — AGORA — Estado Atual e Próximo Passo",
-    "01 — ENCICLOPÉDIA ATUAL — Wiki Humana",
-    "02 — AUTORIDADE & CÂNONE — O que vale hoje",
-    "03 — LABORATÓRIO — Hipóteses, Passos e Pesquisa",
-    "04 — ARQUIVO HISTÓRICO — Versões antigas e caminhos superados",
-    "05 — FONTES AUTORAIS — Brainstorms, transcrições e proveniência",
-    "06 — GRAFO & REGISTROS — Nós, tags e relações",
-    "07 — MEMÓRIA AUTORAL — Visão, nuances e anti-drift"
+    "docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md",
+    "docs/09_reviews/chatgpt/2026-09-05/58_AUTHOR_EXPLANATION_TONE_TECHNICAL_LEXICON_AND_RESEARCH_SCAFFOLD_QA.md",
+    "V5_CONTEXT_ROUTER.md"
   ],
   "working_canon_structural_spine": [
     "Older Beast-inhabited Living World with broad biodiversity",
@@ -55,105 +28,113 @@
     "Main protagonist route begins around age fifteen and adult Director is earned",
     "Direct Concession during first coordinated Fissure campaign as current Book 1 axis",
     "Cousin remains legitimate independently formidable designated successor",
-    "Reciprocal/negotiated development versus forced/extractive incorporation as structural thematic opposition"
+    "Reciprocal or negotiated development versus forced or extractive incorporation as structural thematic opposition"
   ],
-  "semantic_fidelity_required": [
-    "Original Beast World is broad ecology not four mascot species",
-    "Deep entities retain numinous person-like agency and are not flattened to technical archives",
-    "Human host already had civilization martial culture medicine tools language and institutions before accessible magic",
-    "Sangue Matriz and Bestas Geradas are bodily developmental relational rather than loot or purity mechanics",
-    "When reopening historical CE morphology preserve spectral != immature humanoid != more evolved material density != developmental age unless later explicitly revised",
-    "Protagonist begins dangerous/talented but incomplete can lose be hurt need help and keep growing after Concession",
-    "Protagonist may desire power challenge and worthy opposition while protecting the Living World and its lives",
-    "Cousin is legitimate formidable successor not automatic jealous villain",
-    "Academy is a living civilizational engine with research medicine intelligence logistics alchemy competition social life romance humor and ordinary routines",
-    "Combat remains physically readable while supernatural expression can become extreme",
-    "Fissures are interworld frontiers not generic dungeon generators",
-    "Enemy is an adaptive civilization not a monster wave",
-    "Tone preserves beauty brutality humor romance friendship ordinary life wonder and war"
+  "communication_fidelity": {
+    "target": "Make the idea visible, then expose construction logic, then add compact research/reference backstage note when useful",
+    "avoid": [
+      "sterile specification that makes the intended world feel weak",
+      "empty superlatives or praise without mechanism",
+      "jargon without plain-language translation",
+      "poetic prose that obscures status or causality",
+      "scientific analogy presented as literal proof",
+      "reference transplantation instead of functional study"
+    ],
+    "primary_file": "docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md"
+  },
+  "writer_room_lexicon": [
+    "ontologia metabiológica",
+    "Mundo Vivo / Living World",
+    "núcleo do mundo / world-core",
+    "função do mundo / world-function",
+    "regulador or arquivo ecológico as partial lenses",
+    "aspecto material / embodiment",
+    "carga funcional / bounded throughput",
+    "simbiogênese",
+    "holobionte as cautious analogy",
+    "construção de nicho / herança ecológica",
+    "cultura cumulativa",
+    "coevolução / Red-Queen-type dynamics",
+    "continuidade adaptativa",
+    "calibração / coerência / memória ecológica / padrão de linhagem where causally justified",
+    "integração recíproca versus incorporação forçada or extrativa"
   ],
+  "metabiological_ontology_definition": "Writer-room model in which consciousness biology Quintessence ecology and world-function are materially continuous enough that a deep entity is not a spirit piloting flesh; it is a Living-World-integrated intelligence that may under unresolved limits metabolize the world and construct or condense a real material aspect.",
+  "research_scaffold": {
+    "primary": "docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md",
+    "scientific_lenses": [
+      "symbiogenesis and endosymbiosis",
+      "niche construction and ecological inheritance",
+      "human cumulative culture",
+      "host microbiome and holobiont with critical caveats",
+      "reciprocal coevolution and Red Queen",
+      "planetary-scale intelligence as analogy"
+    ],
+    "rule": "Research supplies constraints analogies and questions; fantasy supplies the fictional mechanism"
+  },
+  "reference_study_rule": "For every reference preserve what to study, why it helps, what must not be copied, and how BeastWorld remains distinct",
   "known_corrections": [
     {
       "wrong": "Fei / anciã da Fei",
       "correct": "Fênix / Fênix Anciã Gerada / anciã da Fênix",
-      "status": "CORRECTED_CURRENT_SEMANTIC_SURFACES",
       "promotion_effect": "NONE"
     }
   ],
-  "relational_overlay": {
-    "current_v5_lore_nodes": 20,
-    "current_v5_edges": 30,
-    "edge_range": "BW-EDGE-041..070",
-    "current_v5_open_questions_created": 13,
-    "p0_gate_count": 4,
-    "current_encyclopedia_modules": 12,
-    "human_lanes": 8,
-    "high_risk_conflicting_v4_nodes_marked_superseded": 6
-  },
+  "semantic_fidelity_minimum": [
+    "Original Beast World is broad ecology not mascot taxonomy",
+    "Deep entities retain numinous person-like agency and world integration",
+    "Humans already possessed civilization and cumulative culture before accessible magic",
+    "Sangue Matriz and Bestas Geradas are bodily developmental relational rather than loot mechanics",
+    "Spectral humanoid material maturity and autonomy are not automatically one ladder when historical CE mechanics are reopened",
+    "Protagonist begins talented and dangerous but incomplete and can keep growing after Concession",
+    "Cousin remains legitimate formidable successor not automatic jealous villain",
+    "Academy remains civilizational learning engine and social place",
+    "Combat remains physically readable",
+    "Fissures remain interworld frontiers",
+    "Enemy remains adaptive civilization",
+    "Tone retains beauty brutality humor romance friendship family ordinary life wonder horror discovery and war"
+  ],
   "p0_open_questions": [
     "BW-Q-V5-BOOK1-INCITING-001",
     "BW-Q-V5-PROT-ENTITY-001",
     "BW-Q-V5-ENEMY-CONSTRAINT-001",
     "BW-Q-V5-ENSEMBLE-001"
   ],
-  "blocked_as_current": [
-    "PROJECT_STATE.md",
-    "HANDOFF.md",
-    "old V3/V4 Notion encyclopedia",
-    "old V4 relational nodes unless explicitly reconciled",
-    "Passes 50A-50C except regression/history",
-    "literal bastardy",
-    "mandatory static adult-Director opening",
-    "succession/court drama as entire premise",
-    "old Five Primordial Seats / Primordial Guardian system as current truth",
-    "instant mastery from Direct Concession",
-    "visible Blood-purity power/character-worth ladder",
-    "four elemental mascot nations or automatic four/five creators of all life",
-    "unlimited entity battle avatars",
-    "protagonist causing enemy return by existing",
-    "detached Oceanic training vacation",
-    "native allied Beast hunting as generic Academy activity",
-    "universal free flight",
-    "generic portal monster-of-the-week loop",
-    "automatic win-consume-world-bigger-god escalation",
-    "rejected Pass 50A-50C Academy rescue vehicles",
-    "scene work before four P0 gates pass"
+  "scene_status": "BLOCKED_UNTIL_FOUR_P0_GATES_PASS_ADR0006_FIDELITY_EXPLANATION_PROTOCOL_AND_PASS50D",
+  "notion_current": {
+    "root": "https://app.notion.com/p/3d242424cdbc81ecacf8e5be9f6f2375",
+    "authorial_memory": "https://app.notion.com/p/3d242424cdbc81568061d223942631a2",
+    "construction_language": "https://app.notion.com/p/3d242424cdbc81bf9896f4f3f54aac88",
+    "deep_entities": "https://app.notion.com/p/3d242424cdbc81418547e5e87aa4cee7"
+  },
+  "source_records_added": [
+    "docs/08_sources/conversations/2026-09-05-author-explanation-tone-technical-lexicon-research-scaffold-source-record.md"
   ],
-  "unresolved": [
-    "exact remnant form mass travel physics and terminology",
-    "exact number domains names and forms of deep entities",
-    "exact Sangue Matriz Generated-Beast and Direct-Concession mechanics",
-    "exact protagonist limitation and actionable protagonist-entity relationship",
-    "exact Fissure chronology stabilization and interworld compatibility rules",
-    "exact maternal/Oceanic genealogy and formation duration",
-    "exact Dynastic count titles borders and governance",
-    "exact integration liberation salvage or absorption rules for other Worlds",
-    "one concrete Book 1 inciting incident",
-    "one enemy champion agent or strategic constraint",
-    "minimum peer and adult ensemble",
-    "Book 1 climax and ending"
+  "passes": [
+    "docs/09_reviews/chatgpt/2026-09-05/58_AUTHOR_EXPLANATION_TONE_TECHNICAL_LEXICON_AND_RESEARCH_SCAFFOLD_QA.md",
+    "docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md",
+    "docs/09_reviews/chatgpt/2026-09-05/56_AUTHOR_VALIDATION_WORKING_CANON_PROMOTION_AND_SECOND_BRAIN_REBUILD.md",
+    "docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md"
+  ],
+  "blocked_as_current": [
+    "old V3 V4 Notion encyclopedia",
+    "legacy HANDOFF and PROJECT_STATE bodies",
+    "old V4 relational nodes unless explicitly reconciled",
+    "literal bastardy",
+    "mandatory static adult Director opening",
+    "old Five Primordial Seats or Primordial Guardian system",
+    "instant mastery Direct Concession",
+    "four elemental mascot nations",
+    "unlimited entity battle avatars",
+    "universal free flight",
+    "generic dungeon portal loop",
+    "automatic win consume world bigger god escalation",
+    "scene work before four P0 gates"
   ],
   "open_operational_drift": [
-    "GitHub repository metadata currently reports PUBLIC while older governance said private; no visibility change was made automatically"
+    "GitHub repository metadata reports PUBLIC while older governance said private; no visibility change was made automatically"
   ],
-  "next_action": "Resolve the four P0 Book 1 gates, stress-test against ADR-0006 + Fidelity Packet + Pass 50D, then design sequence/scene candidates",
-  "scene_status": "BLOCKED_UNTIL_FOUR_P0_GATES_PASS_FIDELITY_AND_50D",
+  "next_action": "Continue the existing creative conversation from the current problem, using Pass 58 communication fidelity; resolve the four P0 Book 1 gates before scene work without reopening superseded macro models",
   "promotion_level": "WORKING-CANON_STRUCTURAL_ONLY",
-  "previous_session": "BW-SESSION-2026-09-05-019",
-  "verification": {
-    "pre_closeout_remote_head": "1aec3c373f39565d3571d021d1d393248b6a4513",
-    "post_closeout_remote_head_verified_before_final_pointer_update": "9c57609975e4d4424bd1518ea9e15e3725ac2ba6",
-    "github_start_here_readback": "PASS",
-    "github_pointer_readback_before_final_update": "PASS",
-    "github_manifest_readback": "PASS",
-    "github_dashboard_readback": "PASS",
-    "github_router_readback": "PASS",
-    "github_fidelity_packet_readback": "PASS",
-    "notion_home_readback": "PASS",
-    "notion_memory_lane_readback": "PASS",
-    "notion_fei_search": "PASS_ONLY_CORRECTION_AND_PROVENANCE_SURFACES_RETURN_FEI",
-    "raw_source_integrity": "PRESERVED",
-    "scene_created": false,
-    "final_remote_readback": "PASS"
-  }
+  "previous_session": "BW-SESSION-2026-09-05-020"
 }
