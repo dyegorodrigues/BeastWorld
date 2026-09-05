@@ -1,10 +1,10 @@
 {
-  "schema_version": 4,
+  "schema_version": 5,
   "generated_at": "2026-09-05",
-  "session_id": "BW-SESSION-2026-09-05-022",
+  "session_id": "BW-SESSION-2026-09-05-023",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "mode": "WORKING_CANON_PLUS_SEMANTIC_COMMUNICATION_FIDELITY_AND_WARM_REFERENCE_ATLAS_READY_FOR_P0_BOOK1_GATE",
-  "epistemic_state": "AUTHOR_VALIDATED_STRUCTURAL_WORKING_CANON_FINE_MECHANISMS_OPEN_REFERENCE_DERIVATIONS_RESEARCH_ONLY_NO_SCENE",
+  "mode": "WORKING_CANON_PLUS_STORY_READY_AUTHOR_ROOM_ROUND1_POWER_COMBAT",
+  "epistemic_state": "AUTHOR_VALIDATED_STRUCTURAL_WORKING_CANON / STORY_READY_SKELETON_IN_DEVELOPMENT / FINE_MECHANISMS_OPEN / REFERENCE_DERIVATIONS_RESEARCH_ONLY / NO_SCENE",
   "include": [
     "docs/00_governance/CURRENT_SESSION_POINTER.json",
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
@@ -12,26 +12,16 @@
     "docs/01_bible/CURRENT_ORIGIN_AND_WORLD_GRAFT_WORKING_CANON.md",
     "docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md",
     "docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md",
-    "docs/09_reviews/chatgpt/2026-09-05/58_AUTHOR_EXPLANATION_TONE_TECHNICAL_LEXICON_AND_RESEARCH_SCAFFOLD_QA.md",
+    "docs/00_governance/STORY_READY_AUTHOR_ROOM_WORKFLOW.md",
     "V5_CONTEXT_ROUTER.md"
   ],
   "warm_on_demand": [
     "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
     "docs/09_reviews/chatgpt/2026-09-05/59_REFERENCE_ENGINEERING_ATLAS_JJK_FOG_HILL_ENSEMBLE_ACTION_AND_COMPLEXITY_BUDGET.md",
-    "docs/08_sources/conversations/2026-09-05-author-reference-atlas-jjk-fog-hill-solo-leveling-nano-machine-fma-source-record.md",
     "docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md",
-    "docs/08_sources/conversations/2026-09-05-author-origin-world-graft-symbiogenesis-young-protagonist-source-record.md",
-    "docs/08_sources/conversations/2026-09-05-author-explanation-tone-technical-lexicon-research-scaffold-source-record.md",
-    "docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md",
+    "docs/08_sources/conversations/2026-09-05-author-story-ready-skeleton-dynamic-workflow-source-record.md",
     "docs/05_visual/COMBAT_LANGUAGE.md"
   ],
-  "warm_reference_routing": {
-    "character_ensemble_combat_progression": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
-    "academy_story_engine": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
-    "adult_director_strongest_character": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
-    "time_skip_book_architecture": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
-    "audiovisual_action": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md"
-  },
   "cold_provenance_only": [
     "docs/08_sources/conversations/2026-09-05-author-origin-brainstorm-verbatim.md",
     "docs/00_governance/history/HANDOFF_LEGACY_PRE_PASS57.md",
@@ -60,16 +50,25 @@
     "enemy is an adaptive civilization",
     "tone retains beauty brutality humor romance friendship family everyday life wonder horror discovery and war"
   ],
-  "communication_fidelity_required": [
-    "felt image before or alongside technical abstraction",
-    "construction logic identifies cause mechanism constraint consequence and status",
-    "technical terms translated into normal language on first use",
-    "no empty praise or superlatives as substitutes for analysis",
-    "compact backstage scientific or reference note when useful",
-    "research analogy states its boundary",
-    "reference study states what to study and what not to copy",
-    "writer-room term does not automatically become reader-facing or in-world vocabulary"
+  "story_ready_required_before_scene": [
+    "power and combat grammar sufficient for intelligent choice counterplay cost and visible growth",
+    "social grammar sufficient to distinguish Dynasty House lineage state order and Academy functions before naming",
+    "protagonist and minimum relationship web with independent wants and competencies",
+    "Book 1 causal spine with irreversible end state",
+    "youth to adult bridge evaluated only after Book 1 exposes what a time jump would erase"
   ],
+  "author_room_rounds": [
+    "Round 1 Power and Combat",
+    "Round 2 Society and Naming",
+    "Round 3 Protagonist and Relationship Web",
+    "Round 4 Three Book 1 Architectures",
+    "Round 5 Select Fuse and close existing scene gates",
+    "Round 6 Youth to Adult Director Bridge",
+    "Round 7 Sequence Map",
+    "Round 8 Scene Creation"
+  ],
+  "current_round": "ROUND1_POWER_AND_COMBAT_STORY_READY",
+  "round_method": "Normally generate three genuinely different models, explain felt image mechanism consequences risks reference lessons and copying hazards, allow author rejection or hybridization, stress-test, then promote only explicitly accepted pieces",
   "pass59_research_only": [
     "progression by verbs",
     "biomecânica bestial",
@@ -80,18 +79,32 @@
     "enemy adaptation loop",
     "relationship-edge character design",
     "moment design with irreversible residue",
-    "complexity budget and scene-yield test",
-    "adult Director time-skip models A B C"
+    "complexity budget and scene-yield test"
   ],
   "reference_roles": [
     "JJK: whole narrative engineering, Gojo strategic gravity, individualized power, relationships, institutions and rule-generated situations",
     "Fog Hill: body weapon personality terrain and legible kinetic choreography",
-    "Solo Leveling: visible progression and earned presence",
+    "Solo Leveling: visible progression and earned presence with ensemble-depth caution",
     "Nano Machine: competence-acquisition pleasure",
     "Fullmetal: causal compression through few deep rules and many consequences",
     "HxH and World Trigger: matchup information and ensemble specialization",
     "OPM: apex-power purpose problem"
   ],
+  "existing_scene_gates": [
+    "BW-Q-V5-BOOK1-INCITING-001",
+    "BW-Q-V5-PROT-ENTITY-001",
+    "BW-Q-V5-ENEMY-CONSTRAINT-001",
+    "BW-Q-V5-ENSEMBLE-001"
+  ],
+  "adult_director_time_skip": {
+    "status": "OPEN_RESEARCH_MODELS_ONLY",
+    "models": [
+      "extended youth phase",
+      "Book 1 youth then major Book 2 jump",
+      "phased aging with smaller jumps",
+      "optional future fragment if it improves promise without damaging uncertainty"
+    ]
+  },
   "known_corrections": [
     {
       "wrong": "Fei / anciã da Fei",
@@ -99,26 +112,17 @@
       "promotion_effect": "none"
     }
   ],
-  "p0_open_questions": [
-    "BW-Q-V5-BOOK1-INCITING-001",
-    "BW-Q-V5-PROT-ENTITY-001",
-    "BW-Q-V5-ENEMY-CONSTRAINT-001",
-    "BW-Q-V5-ENSEMBLE-001"
-  ],
-  "adult_director_time_skip_status": "OPEN_RESEARCH_MODELS_ONLY",
   "notion_current_lanes": [
-    "00 AGORA",
+    "00 AGORA with Story-Ready Route child",
     "01 ENCICLOPEDIA ATUAL",
     "02 AUTORIDADE & CANONE",
-    "03 LABORATORIO",
-    "03/LAB ATLAS DE REFERENCIAS",
+    "03 LABORATORIO with Reference Atlas",
     "04 ARQUIVO HISTORICO",
     "05 FONTES AUTORAIS",
     "06 GRAFO & REGISTROS",
-    "07 MEMORIA AUTORAL",
-    "07A LINGUAGEM DE CONSTRUCAO"
+    "07 MEMORIA AUTORAL"
   ],
-  "next_action": "Continue the prior creative conversation from the four P0 Book 1 gates; load Pass 59 only when character, ensemble, combat, progression, Academy, strongest-character, time-skip or audiovisual reference engineering materially helps",
-  "scene_status": "BLOCKED_UNTIL_FOUR_P0_GATES_PASS_ADR0006_FIDELITY_EXPLANATION_PROTOCOL_AND_PASS50D",
+  "next_action": "Run Round 1 Power and Combat: compare three story-producing skeletons connecting Quintessence Blood Matrix learned martial skill Beast relationship progression cost counterplay and Concession",
+  "scene_status": "BLOCKED_UNTIL_STORY_READY_SKELETON_AND_EXISTING_SCENE_GATES_PASS",
   "promotion_level": "WORKING-CANON_STRUCTURAL_ONLY"
 }
