@@ -1,10 +1,10 @@
 {
-  "schema_version": 5,
+  "schema_version": 6,
   "generated_at": "2026-09-05",
-  "session_id": "BW-SESSION-2026-09-05-023",
+  "session_id": "BW-SESSION-2026-09-05-024",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "mode": "WORKING_CANON_PLUS_STORY_READY_AUTHOR_ROOM_ROUND1_POWER_COMBAT",
-  "epistemic_state": "AUTHOR_VALIDATED_STRUCTURAL_WORKING_CANON / STORY_READY_SKELETON_IN_DEVELOPMENT / FINE_MECHANISMS_OPEN / REFERENCE_DERIVATIONS_RESEARCH_ONLY / NO_SCENE",
+  "mode": "WORKING_CANON_PLUS_STORY_READY_AUTHOR_ROOM_ROUND1_V2_ENTITY_GRAFT_HYPOTHESIS_RESERVOIR",
+  "epistemic_state": "AUTHOR_VALIDATED_STRUCTURAL_WORKING_CANON / STORY_READY_SKELETON_IN_DEVELOPMENT / NEW_ENTITY_GRAFT_MATERIAL_HYPOTHESIS_ONLY / NO_SCENE",
   "include": [
     "docs/00_governance/CURRENT_SESSION_POINTER.json",
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
@@ -16,19 +16,14 @@
     "V5_CONTEXT_ROUTER.md"
   ],
   "warm_on_demand": [
+    "docs/09_reviews/chatgpt/2026-09-05/61_ROUND1_AUTHOR_HYPOTHESIS_CAPTURE_ENTITY_STAR_GRAFT_AND_MODEL_REFRAME.md",
+    "docs/08_sources/conversations/2026-09-05-author-round1-entities-star-graft-sacrifice-interface-source-record.md",
     "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
     "docs/09_reviews/chatgpt/2026-09-05/59_REFERENCE_ENGINEERING_ATLAS_JJK_FOG_HILL_ENSEMBLE_ACTION_AND_COMPLEXITY_BUDGET.md",
     "docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md",
-    "docs/08_sources/conversations/2026-09-05-author-story-ready-skeleton-dynamic-workflow-source-record.md",
     "docs/05_visual/COMBAT_LANGUAGE.md"
   ],
-  "cold_provenance_only": [
-    "docs/08_sources/conversations/2026-09-05-author-origin-brainstorm-verbatim.md",
-    "docs/00_governance/history/HANDOFF_LEGACY_PRE_PASS57.md",
-    "docs/00_governance/history/PROJECT_STATE_LEGACY_PRE_PASS57.md",
-    "old V3 V4 Notion encyclopedia and relational nodes unless explicitly routed for provenance"
-  ],
-  "working_canon": [
+  "working_canon_unchanged": [
     "Present BeastWorld is a third composite reality created by a living remnant of an older Beast World grafting into an initially non-magical but already civilized human world",
     "Old predatory interworld civilization eventually reaches the refuge independently of protagonist",
     "Human cumulative culture and Beast Quintessence biology co-develop across millennia",
@@ -37,92 +32,46 @@
     "Cousin is legitimate designated successor and independently formidable",
     "Reciprocal negotiated co-development versus forced extractive incorporation is the current structural thematic opposition"
   ],
-  "semantic_fidelity_required": [
-    "broad Beast ecology beyond heraldic motifs",
-    "deep entities remain numinous person-like and integrated with Living World",
-    "humans had civilization and cumulative culture before accessible magic",
-    "Sangue Matriz and Bestas Geradas are bodily developmental relational rather than loot systems",
-    "spectral humanoid material maturity and autonomy remain distinct axes when historical CE mechanics are reopened",
-    "protagonist is powerful but incomplete and continues learning",
-    "Academy is a civilizational learning engine and social place",
-    "combat remains physically legible",
-    "Fissures are interworld frontiers",
-    "enemy is an adaptive civilization",
-    "tone retains beauty brutality humor romance friendship family everyday life wonder horror discovery and war"
-  ],
-  "story_ready_required_before_scene": [
-    "power and combat grammar sufficient for intelligent choice counterplay cost and visible growth",
-    "social grammar sufficient to distinguish Dynasty House lineage state order and Academy functions before naming",
-    "protagonist and minimum relationship web with independent wants and competencies",
-    "Book 1 causal spine with irreversible end state",
-    "youth to adult bridge evaluated only after Book 1 exposes what a time jump would erase"
-  ],
-  "author_room_rounds": [
-    "Round 1 Power and Combat",
-    "Round 2 Society and Naming",
-    "Round 3 Protagonist and Relationship Web",
-    "Round 4 Three Book 1 Architectures",
-    "Round 5 Select Fuse and close existing scene gates",
-    "Round 6 Youth to Adult Director Bridge",
-    "Round 7 Sequence Map",
-    "Round 8 Scene Creation"
-  ],
-  "current_round": "ROUND1_POWER_AND_COMBAT_STORY_READY",
-  "round_method": "Normally generate three genuinely different models, explain felt image mechanism consequences risks reference lessons and copying hazards, allow author rejection or hybridization, stress-test, then promote only explicitly accepted pieces",
-  "pass59_research_only": [
-    "progression by verbs",
-    "biomecânica bestial",
-    "corporal hybrid extraordinary choreography regimes",
-    "strongest-character strategic gravity",
-    "ensemble competence ecology",
-    "Academy civilizational feedback loop",
-    "enemy adaptation loop",
-    "relationship-edge character design",
-    "moment design with irreversible residue",
-    "complexity budget and scene-yield test"
-  ],
-  "reference_roles": [
-    "JJK: whole narrative engineering, Gojo strategic gravity, individualized power, relationships, institutions and rule-generated situations",
-    "Fog Hill: body weapon personality terrain and legible kinetic choreography",
-    "Solo Leveling: visible progression and earned presence with ensemble-depth caution",
-    "Nano Machine: competence-acquisition pleasure",
-    "Fullmetal: causal compression through few deep rules and many consequences",
-    "HxH and World Trigger: matchup information and ensemble specialization",
-    "OPM: apex-power purpose problem"
-  ],
-  "existing_scene_gates": [
-    "BW-Q-V5-BOOK1-INCITING-001",
-    "BW-Q-V5-PROT-ENTITY-001",
-    "BW-Q-V5-ENEMY-CONSTRAINT-001",
-    "BW-Q-V5-ENSEMBLE-001"
-  ],
-  "adult_director_time_skip": {
-    "status": "OPEN_RESEARCH_MODELS_ONLY",
-    "models": [
-      "extended youth phase",
-      "Book 1 youth then major Book 2 jump",
-      "phased aging with smaller jumps",
-      "optional future fragment if it improves promise without damaging uncertainty"
-    ]
+  "round1_reframe": {
+    "old_labels_not_clean_alternatives": ["Corpo Vivo","Ressonância","Gramática Pessoal"],
+    "new_rule": "Compare three genuinely different central engines; test body, resonance and personal grammar as dimensions inside each",
+    "demonstration_rule": "Use the same concrete combat or character problem for all candidate engines so differences are visible rather than terminological"
   },
-  "known_corrections": [
-    {
-      "wrong": "Fei / anciã da Fei",
-      "correct": "Fênix / Fênix Anciã Gerada / anciã da Fênix",
-      "promotion_effect": "none"
-    }
+  "pass61_hypotheses_not_promoted": [
+    "Deep Entities may function as near-civilizational gods in human experience while remaining metabiological Living-World-integrated persons",
+    "Entity-human communication may occur through semantic or resonant internal contact without becoming a literal System assistant",
+    "preserved primordial biological material may be part of protagonist history but is not automatically identical to Blood Matrix or Concession",
+    "sacrificial world-scale Quintessence/alchemical transmutation may use original Entity bodies to open a Fissure and carry real ecological continuity",
+    "Fissure crossing may be brief while the long evolutionary interval occurs after graft",
+    "host Living World may be life-rich yet pre-awakened in world-consciousness terms",
+    "host Quintessence or vital potential may provide resonant anchoring for the remnant",
+    "graft may be immediately harmonious yet generationally transformative",
+    "a non-Dynastic shamanic or magic-heavy region remains a deferred world-expansion possibility"
   ],
-  "notion_current_lanes": [
-    "00 AGORA with Story-Ready Route child",
-    "01 ENCICLOPEDIA ATUAL",
-    "02 AUTORIDADE & CANONE",
-    "03 LABORATORIO with Reference Atlas",
-    "04 ARQUIVO HISTORICO",
-    "05 FONTES AUTORAIS",
-    "06 GRAFO & REGISTROS",
-    "07 MEMORIA AUTORAL"
+  "semantic_guard": "The author's term estrela is currently ambiguous and must not be silently normalized to astronomical star planet world-core or another physical category",
+  "reference_roles": [
+    "JJK: whole narrative engineering, strongest-character strategic gravity, individualized power, relationships, institutions and rule-generated situations",
+    "Fog Hill: body weapon personality terrain and legible kinetic choreography",
+    "Solo Leveling: visible progression and earned presence",
+    "Nano Machine: competence-acquisition pleasure",
+    "Fullmetal: few deep rules generating many consequences",
+    "The Witcher and Assassin's Creed may be used selectively for living-world cultural/location/institutional flow when relevant rather than as automatic style templates"
   ],
-  "next_action": "Run Round 1 Power and Combat: compare three story-producing skeletons connecting Quintessence Blood Matrix learned martial skill Beast relationship progression cost counterplay and Concession",
+  "current_round": "ROUND1_POWER_AND_COMBAT_STORY_READY_V2",
+  "round1_questions": [
+    "What physically makes Quintessence usable by a person?",
+    "What does Blood contribute without becoming purity score or installed technique?",
+    "What does Matrix do that Blood does not?",
+    "What role does Beast or Generated Beast play?",
+    "What must be learned through martial training?",
+    "How do weapon and body interact with magic?",
+    "Can and how does an Entity communicate with a person?",
+    "How does someone visibly progress?",
+    "What costs limits and counterplay prevent universal solutions?",
+    "What exactly does Direct Concession change without granting mastery?"
+  ],
+  "context_hygiene": "Capture high-value chat insights; maintain compact current routing; proactively recommend a clean new chat when it becomes safer; provide a concise rehydration handoff; never claim visibility into hidden token/cache internals",
+  "next_action": "Run Round 1 v2 with three genuinely different central Power and Combat engines demonstrated through the same scenario and compared for story consequences",
   "scene_status": "BLOCKED_UNTIL_STORY_READY_SKELETON_AND_EXISTING_SCENE_GATES_PASS",
   "promotion_level": "WORKING-CANON_STRUCTURAL_ONLY"
 }
