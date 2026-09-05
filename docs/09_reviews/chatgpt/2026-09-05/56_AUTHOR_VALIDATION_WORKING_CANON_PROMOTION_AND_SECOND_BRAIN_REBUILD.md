@@ -6,6 +6,8 @@
 **Decision:** `docs/07_decisions/ADR-0006-WORKING-CANON-ORIGIN-GRAFT-YOUNG-PROTAGONIST-ROUTE.md`  
 **Current bible:** `docs/01_bible/CURRENT_ORIGIN_AND_WORLD_GRAFT_WORKING_CANON.md`
 
+> **05/09 semantic correction:** references introduced during reconstruction as `Fei` / `anciã da Fei` are transcription/capture errors for **Fênix**. This pass now uses the corrected referent. The correction is formally sourced in `docs/08_sources/conversations/2026-09-05-author-finalize-second-brain-fidelity-phoenix-correction-source-record.md`.
+
 ## 1. Why this pass exists
 Pass 55 successfully reconstructed a causal architecture from the author’s large origin brainstorm but left the route explicitly waiting for validation. The author has now validated the structural direction and asked for two additional corrections:
 
@@ -74,7 +76,7 @@ The second audit recovered or re-emphasized details that were present in the aut
 - preserve the developmental line from Matrix/mark/germination through manifestation/materialization to autonomous person;
 - maturation may be very long and variable;
 - autonomous Bestas create legal, political, sexual, romantic and cultural consequences;
-- the provisional `anciã da Fei` remains a useful example of an ancient, sacred, powerful Generated Beast, not a canonized name/character.
+- the provisional **Fênix Anciã Gerada / anciã da Fênix** remains a useful example of an ancient, sacred, powerful Generated Beast, not a canonized final name/character configuration.
 
 ### Family
 - mother is present;
@@ -170,3 +172,5 @@ No scene is created by Pass 56.
 
 ## 7. Integrity rule going forward
 The new Notion is an interface, not a second competing canon source. GitHub remains the versioned authority; Notion remains the detailed human/relational wiki. If the two drift, the drift must be named and repaired rather than silently choosing whichever page looks newer.
+
+For semantic recovery beyond a concise state summary, use `docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md` and Pass 57.
