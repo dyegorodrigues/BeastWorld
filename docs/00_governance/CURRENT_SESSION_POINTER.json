@@ -29,7 +29,8 @@
     "docs/00_governance/CANON_POLICY.md",
     "docs/00_governance/STATUS_MODEL.md",
     "docs/00_governance/CREATIVE_SCENE_GATE.md",
-    "docs/00_governance/SESSION_CLOSEOUT_2026-09-05_BW-SESSION-2026-09-05-019.md"
+    "docs/00_governance/SESSION_CLOSEOUT_2026-09-05_BW-SESSION-2026-09-05-019.md",
+    "docs/00_governance/ACCESS_DRIFT_2026-09-05_GITHUB_VISIBILITY.md"
   ],
   "notion_targets": [
     "https://app.notion.com/p/3d242424cdbc81ecacf8e5be9f6f2375",
@@ -107,6 +108,9 @@
     "raw transcripts unless wording or provenance is disputed",
     "external-AI claims without source and status separation"
   ],
+  "open_operational_drift": [
+    "GitHub remote metadata currently reports repository visibility PUBLIC while older BeastWorld governance text said PRIVATE; no visibility change was made automatically and author intent is required"
+  ],
   "next_action": "Define the concrete Book 1 incident, entity relationship, enemy constraint and minimum ensemble; then stress-test against ADR-0006 and Pass 50D before sequence or scene design",
   "promoted": true,
   "promotion_level": "WORKING-CANON",
@@ -120,12 +124,17 @@
     "NOTION-SECOND-BRAIN-REBUILT",
     "LEGACY-WIKI-VISUALLY-ARCHIVED",
     "HOT-POINTERS-UPDATED",
+    "FINAL-READBACK-PASSED",
     "NO-SCENE"
   ],
   "verification": {
-    "result": "PASS_PENDING_FINAL_READBACK",
-    "verified_remote_head_before_pointer_update": "85d4ac021f99a0325f6470c6a638dce504638dbf",
+    "result": "PASS",
+    "verified_remote_head_before_pointer_update": "70e6b9e3793c03eb50b0e2292085ad2c38fb836d",
     "source_integrity": "RAW_05_09_SOURCE_PRESERVED_UNCHANGED",
+    "notion_home_readback": "PASS",
+    "notion_current_encyclopedia_child_modules": 12,
+    "notion_coverage_audit_readback": "PASS",
+    "legacy_encyclopedia_archive_marker": "PASS",
     "scene_created": false,
     "promoted": true,
     "promotion_level": "WORKING-CANON"
