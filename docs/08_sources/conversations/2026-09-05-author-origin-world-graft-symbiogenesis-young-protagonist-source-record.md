@@ -128,6 +128,8 @@ Its surviving governing intelligences are currently imagined as numinous, metabi
 
 The source oscillates between these entities as progenitors of broad Beast lineages and as organs/regulators of the Living World. Both cannot be assumed simultaneously without a model. The author wants them deeply continuous with the world's material, energetic and living systems—not external deities who created nature from outside it.
 
+Their bounded aspects may remain hidden from ordinary public life, adopt human appearance and observe particular people over time. One live relationship image is that the protagonist encountered or pestered the Dragon-associated aspect repeatedly through childhood/adolescence while it studied him before any Concession. The entities can also learn: contact with humans may expand their language, social knowledge and differentiated personalities without turning them into naïve newborns.
+
 ### 4.3 Predator World
 
 The first enemy is imagined as a Living World/civilization that survives and advances through predation, absorption, corruption, parasitism, conquest or forced integration of other worlds and species. It may include humans or humanoids, demon-like evolved persons, sovereign entities, monsters and conquered populations.
@@ -181,6 +183,8 @@ The Blood carries more than DNA. It may carry:
 
 The author rejects a crude rule that processed or stored Blood is automatically worthless. Dynasties can plausibly conserve, refine and use inherited/harvested materials. Direct Concession must therefore differ through active calibration, living coherence, recognition and reciprocal relationship—not merely a larger purity percentage.
 
+The source also keeps ordinary, rare and mythical Beast-derived blood/materials in the wider advancement ecology. Such Beasts may voluntarily share substance or humans may process already available remains under rules not yet designed. Higher-potential lineage material can provide a better starting condition, but must not predetermine mastery, personhood or moral worth.
+
 ### 5.3 Bestial Matrix and human co-invention
 
 The first recipients are selected among capable humans from different regions/peoples. Direct Concession remodels them and opens a functional interface with Quintessence. The governing entities can contribute deep pattern knowledge, sensation and survival memory, but humans must translate those gifts into repeatable systems.
@@ -221,6 +225,8 @@ Dynasties form around compacts involving:
 
 This source supports Dynasties as actual crowns/sovereignties rather than a powerless crown floating above them. Exact supradynastic bureaucracy remains a separate governance problem.
 
+The governing aspects remain revered advisers/guardians across generations. People may make offerings and treat their word as carrying authority beyond an ordinary religious office, while still understanding that they are not omnipotent creator-gods. The relationship is mutually dependent: communities protect anchors and fulfill compacts; the entities guide the ecology and seek the civilization's continued development.
+
 ### 6.2 Merit and access
 
 The author does not want a closed genetic aristocracy in which only birth matters. People outside founding bloodlines can show talent, enter service, train, receive Matrix access and rise. Founding lineages retain advantages, archives, substances and long practice, but survival pressure makes competence socially necessary.
@@ -255,6 +261,8 @@ The protagonist is already unusually capable and heavily trained before the Dire
 
 At about fifteen, an extraordinary Direct Concession may reorganize that incompatibility and create an enormous new developmental ceiling. It must not grant mastery. He can be hurt, defeated, rescued, forced to retreat and required to study or train.
 
+The Concession may carry large numinous/planetary signs—the world seeming to roar, regional weather or another ecological response—but the source treats these as spectacle candidates, not mandatory effects. The prior childhood relationship with the granting aspect is a possible way to make the Choice relational and observed rather than genetically automatic.
+
 ### 7.2 Family constellation
 
 The strongest current family model recovered by the source is:
@@ -266,6 +274,8 @@ The strongest current family model recovered by the source is:
 - maternal grandfather: active sovereign whose teaching role must be compatible with actual ruling responsibilities.
 
 The author explicitly withdraws the literal-bastard path while speaking. No integrator may retain it merely because it appeared earlier in the same transcript.
+
+Further family variants preserved as open: father and sovereign uncle may be near peers in martial power; either may still carry an internal Generated Beast or be capable of a highly convincing but not yet autonomous materialization. The parents' marriage may have begun as a political bridge and become a chosen love, with the sovereign initially objecting to mixed-lineage reproductive risk. The mother can live with the protagonist's paternal Dynasty and remain present rather than being exiled to an offscreen Oceanic homeland.
 
 The protagonist and cousin can have adolescent friction, comparison or a moment of envy without becoming Cain and Abel. The adult-direction relationship is mutual loyalty: the protagonist clearly supports his cousin's sovereignty, and the cousin protects his legitimacy/autonomy when institutions try to weaponize the Direct Concession.
 
@@ -336,7 +346,7 @@ The common causal chain remains to be designed, but random unrelated spell lists
 
 Combat should remain readable through mass, distance, terrain, weapons, injury and objectives. Supernatural growth permits huge acceleration, leaps, directional bursts, temporary footholds/pressure on air and extreme environmental effects. Continuous cost-free flight should not erase geography.
 
-The author explicitly names *Fog Hill of Five Elements*, *Jujutsu Kaisen*, *Solo Leveling* and *Nano Machine* as useful reference territory for impact, choreography, visual progression and martial spectacle. These are functional references, not lore templates.
+The author explicitly names *Fog Hill of Five Elements*, *Jujutsu Kaisen*, *Solo Leveling*, *Nano Machine*, *Dragon Ball*, *Hunter × Hunter*, *World Trigger*, *Kaiju No. 8*, *One-Punch Man* and *The Beginning After the End* as useful reference territory. Two recalled combat functions are especially specific: Jin-Woo versus Beru for presence, impact, sound/reveal and escalation without importing a game System; Goku versus Beerus for discovering that the known ceiling is only local without condemning every later arc to a larger god. *Hunter × Hunter* is retained for conditions/information/matchups, and *World Trigger* for keeping teams and specialists useful. These are functional references, not lore templates.
 
 ### 9.3 Progression promise
 
