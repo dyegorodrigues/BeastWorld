@@ -1,13 +1,13 @@
 # BeastWorld — START HERE FOR AI
 
 **Updated:** 2026-09-05  
-**Current route:** Pass 58 / ADR-0006 + ADR-0007  
+**Current route:** Pass 59 / ADR-0006 + ADR-0007  
 **Expected branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Epistemic state:** `STRUCTURAL WORKING-CANON / SEMANTIC + COMMUNICATION FIDELITY REQUIRED / FINE MECHANISMS OPEN / NO SCENE YET`
+**Epistemic state:** `STRUCTURAL WORKING-CANON / SEMANTIC + COMMUNICATION FIDELITY / REFERENCE ATLAS AVAILABLE WARM / FINE MECHANISMS OPEN / NO SCENE YET`
 
-> **This is the current door.** Do not reconstruct BeastWorld by stacking old handoffs or by trusting chat memory. Summary routes; source proves; the Fidelity Packet preserves meaning; the Explanation/Technical-Lexicon packet preserves how the project must be reasoned about and explained.
+> **This is the current door.** Do not reconstruct BeastWorld by stacking old handoffs or by trusting chat memory. Summary routes; source proves; Fidelity preserves meaning; the explanation lexicon preserves how ideas must be reasoned about; reference research is loaded only when the task needs it.
 
-## 1. Mandatory read order for deep creative work
+## 1. Mandatory HOT read order
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
@@ -20,136 +20,106 @@
 9. `V5_CONTEXT_ROUTER.md`
 10. only the current Notion/GitHub domain cluster needed for the task.
 
-Before sequence/scene design additionally read:
+Pass 59's reference atlas is **WARM, not mandatory HOT**. Load it when the task involves character creation, relationships/ensemble, combat, progression, Academy narrative engineering, strongest-character problems, Director/time-skip architecture or audiovisual direction:
 
+- `docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md`
+- `docs/09_reviews/chatgpt/2026-09-05/59_REFERENCE_ENGINEERING_ATLAS_JJK_FOG_HILL_ENSEMBLE_ACTION_AND_COMPLEXITY_BUDGET.md`
+- `docs/08_sources/conversations/2026-09-05-author-reference-atlas-jjk-fog-hill-solo-leveling-nano-machine-fma-source-record.md`
+
+Before sequence/scene design additionally read:
 - `docs/00_governance/CREATIVE_SCENE_GATE.md`
 - `docs/09_reviews/chatgpt/2026-09-04/50D_CREATIVE_RESET_AND_INCIDENT_SELECTION_GATE.md`
 
-For origin/entity/science/reference rationale, WARM-load:
-
-- `docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md`
-- `docs/08_sources/conversations/2026-09-05-author-origin-world-graft-symbiogenesis-young-protagonist-source-record.md`
-
-Use the raw 05/09 brainstorm only when exact wording, omission or semantic dispute matters.
+For origin/entity/science rationale, WARM-load Pass 55 and the 05/09 semantic origin source. Use the raw brainstorm only when exact wording, omission or semantic dispute matters.
 
 ## 2. Current structural route — WORKING-CANON
 
-The current causal spine is:
-
-**older Beast-inhabited Living World → predatory interworld near-extinction → real living survival remnant → graft into an initially non-magical but already civilized human world → present BeastWorld as a third composite reality → millennia of reciprocal human–Beast/world co-development → Blood/Matrix/Generated Beasts/Dynasties/Academy as historical consequences → the original predator eventually reaches the refuge again.**
+**Older Beast-inhabited Living World → predatory interworld near-extinction → real living survival remnant → graft into an initially non-magical but already civilized human world → present BeastWorld as a third composite reality → millennia of reciprocal human–Beast/world co-development → Blood/Matrix/Generated Beasts/Dynasties/Academy as historical consequences → original predator eventually reaches the refuge again.**
 
 Current protagonist route:
 
 **main lived arc begins around fifteen → first Direct Concession since the Founders during the first coordinated Fissure campaign → continued training, defeat, relationships, Academy, campaigns and institutional growth → eventual adult Director.**
 
-The protagonist does not cause the predator to find the refuge. Direct Concession does not grant instant mastery.
-
-The cousin remains the legitimate designated successor and an independently formidable combatant, not an automatic jealous villain.
+The protagonist does not cause the predator to find the refuge. Direct Concession does not grant instant mastery. The cousin remains the legitimate designated successor and an independently formidable combatant.
 
 Current structural thematic opposition:
-
-**reciprocal/negotiated co-development vs forced/extractive incorporation**, without turning entire populations into moral symbols.
+**reciprocal/negotiated co-development vs forced/extractive incorporation**, without turning whole populations into moral symbols.
 
 ## 3. Semantic rehydration is mandatory
 
-A conversation that can recite the premise is **not yet rehydrated**.
-
-It must preserve, among other current distinctions:
+A conversation that can recite the premise is **not yet rehydrated**. Preserve at minimum:
 
 - original Beast World = broad lost ecology, not four mascot species;
 - deep entities retain personhood, numinous presence and world integration;
-- humans already had civilization, warfare, medicine, tools, language, embodied disciplines and cumulative culture before accessible magic;
-- humans and Beast life contribute different survival capacities; neither is a simple upgrade for an inferior other;
+- humans already possessed civilization, medicine, tools, martial traditions, language and cumulative culture before accessible magic;
 - Sangue/Matriz/Bestas Geradas are bodily, developmental and relational rather than loot/purity systems;
 - when historical Core Engine mechanics are reopened, do not collapse `spectral`, `humanoid`, `material`, `mature` and `biologically autonomous` into one evolution ladder;
 - protagonist begins dangerous/talented but incomplete, can lose, be hurt, need help and keep growing after Concession;
-- his desire for power/challenge can coexist with protecting the Living World and its lives;
-- Academy is a civilizational learning engine with research, medicine, intelligence, logistics, alchemy, artifacts, competition, friendship, romance, humor and ordinary life;
+- cousin is not an automatic jealous villain;
+- Academy is a civilizational learning engine and social place;
 - combat remains physically legible even at extreme supernatural scale;
 - Fissures are interworld frontiers, not generic dungeon generators;
 - enemy remains an adaptive civilization, not monster waves;
 - tone includes beauty, brutality, humor, romance, friendship, family, ordinary life, wonder, horror, discovery and war.
 
-Full semantic recovery lives in `AUTHORIAL_FIDELITY_PACKET_2026-09-05.md` and Notion `07 — MEMÓRIA AUTORAL`.
+Full recovery: `AUTHORIAL_FIDELITY_PACKET_2026-09-05.md` and Notion `07 — MEMÓRIA AUTORAL`.
 
 ## 4. Writer-room terminology that must not disappear
 
-Pass 58 recovered an exact phrase that had been softened in the current Wiki:
-
 ### `ontologia metabiológica`
-Writer-room meaning: consciousness, biology, Quintessence, ecology and world-function are continuous enough that a deep entity is **not a spirit piloting flesh**. It is a living intelligence integrated with a Living World that may, under still-unresolved constraints, **metabolize the world and construct/condense a real material aspect**.
+Writer-room meaning: consciousness, biology, Quintessence, ecology and world-function are continuous enough that a deep entity is **not a spirit piloting flesh**. It is a Living-World-integrated intelligence that may, under unresolved limits, **metabolize the world and construct/condense a real material aspect**.
 
-This is **construction vocabulary**, not automatically final in-world terminology.
+Related writer-room terms include Mundo Vivo, world-core, world-function, regulator/archive as partial ecological lenses, material aspect/embodiment, bounded throughput/functional load, symbiogenesis, cautious holobiont analogy, niche construction, cumulative culture, reciprocal coevolution/Red Queen, adaptive continuity and calibration/coherence/ecological memory/lineage pattern where causally justified.
 
-Related writer-room terms include:
-
-- `Mundo Vivo / Living World`;
-- `núcleo do mundo / world-core`;
-- `função do mundo / world-function`;
-- regulator/archive as partial ecological lenses;
-- material aspect / embodiment;
-- bounded throughput / functional load;
-- symbiogenesis;
-- cautious holobiont analogy;
-- niche construction / ecological inheritance;
-- cumulative culture;
-- reciprocal coevolution / Red-Queen-type dynamics;
-- adaptive continuity;
-- calibration/coherence/ecological memory/lineage pattern where causally justified.
-
-Do not use technical vocabulary as decorative pseudo-science. Every term must protect a real distinction.
+Writer-room vocabulary is not automatically final in-world vocabulary.
 
 ## 5. Author-facing explanation rule
 
-Do not make strong ideas feel weak by writing them as sterile specifications. Do not make weak ideas look strong with empty adjectives.
+Preferred movement:
 
-Preferred composition:
+**make the idea visible → explain the machinery → show constraint/consequence/status → add a compact research/reference backstage note when useful.**
 
-1. **make the idea visible** in clear, controlled, evocative prose;
-2. **show the machinery** — cause, mechanism, term, limit, consequence and status;
-3. when useful, add a compact **backstage note** — research/reference lens, what transfers and where the analogy stops.
-
-The prose can be beautiful. Beauty must carry information.
-
-Technical terms should be explained in normal language when first introduced.
-
-Research and references belong backstage unless the story naturally needs their in-world descendants.
+Avoid sterile specification, empty hype, unexplained jargon and poetic prose that hides mechanism/status.
 
 Full protocol:
 `docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md`.
 
-## 6. Research/reference scaffold
+## 6. Pass 59 — reference engineering route
 
-Pass 55 remains WARM evidence, not canon.
+Jujutsu Kaisen is now explicitly treated as a **whole narrative-engineering reference**, not merely a fight/design reference. Study its interaction among individual techniques, shared fundamentals, relationships, institutions, irreversible consequences and the strategic gravity created by Gojo-level power.
 
-Scientific lenses currently useful include:
+Important BeastWorld research questions include:
 
-- symbiogenesis/endosymbiosis;
-- niche construction/ecological inheritance;
-- human cumulative culture;
-- host–microbiome/holobiont literature with explicit caveats;
-- reciprocal coevolution / Red Queen;
-- planetary-scale intelligence as analogy.
+- how can power become character identity rather than identical spell lists?
+- how can rules manufacture choices and situations rather than only explain lore?
+- how does an apex protagonist alter enemy strategy and institutions?
+- how does the ensemble remain indispensable without constantly removing the strongest character?
+- how do institutions create wounds, reformers, failures and relationships?
 
-Rule:
+Fog Hill remains especially useful for body/weapon/personality/terrain and legible supernatural speed. Solo Leveling remains useful for visible progression and earned presence. Nano Machine for competence acquisition. Fullmetal for **few deep rules generating many consequences**.
 
-**science supplies constraints, analogies and questions; fantasy supplies the fictional mechanism.**
+Strong Pass 59 hypotheses such as `progression by verbs`, `biomecânica bestial`, `three choreography regimes`, `ensemble competence ecology`, `strongest-character systemic pressure` and time-skip models remain **RESEARCH / HYPOTHESIS, not canon**.
 
-Reference-study rule:
+## 7. Complexity budget
 
-**what to study → why it helps → what must not be copied → how BeastWorld remains different.**
+Before expanding a technical question, ask:
 
-Pass 55 contains the detailed comparative matrix, including World Trigger, Kaiju No. 8, TBATE, One-Punch Man, Solo Leveling, Nano Machine, Fog Hill of Five Elements, Hunter × Hunter, Goku/Beerus, Final Fantasy VII, Nausicaä, Princess Mononoke, Xenoblade Chronicles 3 and others.
+> **What can this rule make a character do, choose, discover, fear, lose, build, fight or change that the story could not do as well without it?**
 
-## 7. Known capture correction
+Classify questions as:
+- story-critical now;
+- structural but deferrable;
+- flavor/detail;
+- speculative edge case.
 
-**`Fei` / `anciã da Fei` was a capture/reconstruction error. Correct referent: Fênix.**
+Do not let speculative edge cases halt story development unless they reveal a true structural contradiction.
 
-Do not invent a `Fei` culture, faction, surname or character.
+## 8. Known capture correction
 
-Safe provisional forms include `Fênix Anciã Gerada` / `anciã da Fênix`. This correction does not canonize final identity, office, age, romance or configuration.
+**`Fei` / `anciã da Fei` was a capture error. Correct referent: Fênix.**
+Do not invent `Fei` as lore. This correction does not canonize final character identity/configuration.
 
-## 8. Status discipline
+## 9. Status discipline
 
 - `CANON` — consolidated decision;
 - `WORKING-CANON` — adopted current rule, revisable through explicit regression control;
@@ -158,23 +128,33 @@ Safe provisional forms include `Fênix Anciã Gerada` / `anciã da Fênix`. This
 - `MYSTERY` — author-side truth deliberately withheld in-world;
 - `SUPERSEDED` — historical version replaced by a newer route;
 - `REJECTED` — consciously refused direction;
-- `AUTHOR SOURCE` — author evidence, which may contain brainstorm, contradiction or transcription noise;
+- `AUTHOR SOURCE` — author evidence, possibly containing brainstorm/transcription noise;
 - `AI RATIONALE / RESEARCH ANALOGY` — analysis/evidence only.
 
-**Presence is not promotion. Repetition is not promotion. Detail is not promotion. A useful writer-room term is not automatically an in-world term.**
+**Presence is not promotion. Repetition is not promotion. Detail is not promotion. Reference admiration is not promotion.**
 
-## 9. Current P0 creative gate
+## 10. Current P0 creative gate
 
 No sequence/scene until these are explicit and stress-tested:
+1. `BW-Q-V5-BOOK1-INCITING-001`
+2. `BW-Q-V5-PROT-ENTITY-001`
+3. `BW-Q-V5-ENEMY-CONSTRAINT-001`
+4. `BW-Q-V5-ENSEMBLE-001`
 
-1. `BW-Q-V5-BOOK1-INCITING-001` — concrete Book 1 inciting incident;
-2. `BW-Q-V5-PROT-ENTITY-001` — actionable protagonist–entity relationship;
-3. `BW-Q-V5-ENEMY-CONSTRAINT-001` — concrete enemy champion/agent/strategic constraint;
-4. `BW-Q-V5-ENSEMBLE-001` — minimum peer/adult ensemble with independent wants.
+Test against ADR-0006 + Authorial Fidelity + Explanation/Technical Lexicon + Pass 50D. Use Pass 59 WARM when solving character/ensemble/combat/story-architecture aspects of those gates.
 
-Test against ADR-0006 + Authorial Fidelity + Explanation/Technical Lexicon + Pass 50D before scene work.
+## 11. Adult Director / time skip
 
-## 10. Current Notion human route
+Adult Director remains a strong future horizon, but exact chronology is **OPEN**.
+
+Pass 59 preserves three models for later stress-test:
+- extended youth phase;
+- Book 1 youth → major Book 2 jump;
+- phased aging / shorter jumps.
+
+No model is selected. Do not silently infer a time skip merely because the adult version is iconic.
+
+## 12. Current Notion human route
 
 Root: `🌒 BEASTWORLD — Segundo Cérebro / HOME`
 
@@ -182,37 +162,20 @@ Root: `🌒 BEASTWORLD — Segundo Cérebro / HOME`
 - `01 — ENCICLOPÉDIA ATUAL`
 - `02 — AUTORIDADE & CÂNONE`
 - `03 — LABORATÓRIO`
+  - `LAB — Atlas de Referências — Fog Hill, JJK, Solo Leveling, Nano Machine e Fullmetal`
 - `04 — ARQUIVO HISTÓRICO`
 - `05 — FONTES AUTORAIS`
 - `06 — GRAFO & REGISTROS`
 - `07 — MEMÓRIA AUTORAL`
   - `07A — LINGUAGEM DE CONSTRUÇÃO — Tom, termos técnicos e referências`
 
-The current Entity article `C — Entidades Profundas / Primordiais` now explicitly preserves `ontologia metabiológica` as writer-room vocabulary.
-
-## 11. Historical contamination guards
+## 13. Historical contamination guards
 
 Root `HANDOFF.md` and `PROJECT_STATE.md` are redirects. Their complete old bodies are archived under `docs/00_governance/history/`.
 
-Do not revive by habit:
+Do not revive by habit: literal bastardy; mandatory static adult-Director opening; succession/court drama as whole premise; old Five Primordial Seats/Guardian package; four elemental mascot nations; instant-mastery Concession; purity-percentage ladder; unlimited entity war avatars; protagonist causing enemy return; detached Oceanic training vacation; universal free flight; generic portal monster-of-the-week loop; automatic consume-world/bigger-god escalation; rejected Pass 50A–50C rescue vehicles.
 
-- literal bastardy;
-- mandatory static adult-Director opening;
-- succession/court drama as the whole premise;
-- old Five Primordial Seats / Primordial Guardian package;
-- four elemental mascot nations;
-- instant-mastery Concession;
-- purity-percentage power ladder;
-- unlimited entity war avatars;
-- protagonist causing enemy return;
-- detached Oceanic training vacation;
-- native allied Beast hunting as generic Academy activity;
-- universal free flight;
-- generic portal monster-of-the-week loop;
-- automatic `win → consume world → bigger god` escalation;
-- rejected Pass 50A–50C Academy rescue vehicles.
-
-## 12. Provenance depths
+## 14. Provenance depths
 
 ### QUICK
 Pointer → Manifest → Dashboard → ADR-0006 → Bible.
@@ -220,14 +183,16 @@ Pointer → Manifest → Dashboard → ADR-0006 → Bible.
 ### CREATIVE-FIDELITY
 QUICK + Authorial Fidelity + Explanation/Technical Lexicon + current Wiki/graph/questions.
 
+### REFERENCE-ENGINEERING
+CREATIVE-FIDELITY + Pass 59 atlas, only when the task involves character/ensemble/action/progression/Academy/Director/time skip.
+
 ### RESEARCH-RATIONALE
-CREATIVE-FIDELITY + Pass 55 + relevant research/reference record.
+CREATIVE-FIDELITY + relevant research pass such as Pass 55 or Pass 59 + directly relevant sources.
 
 ### SOURCE-EXACT
-RESEARCH-RATIONALE + semantic author source + raw/verbatim source + only the directly relevant historical cluster.
+Relevant layers + semantic author source + raw/verbatim source + only directly relevant historical cluster.
 
 Never load the entire archive by default. Never use selective loading as permission to invent omitted nuance.
 
-## 13. Operational drift
-
+## 15. Operational drift
 GitHub currently reports the BeastWorld repository as **PUBLIC**, while older governance text described it as private. No visibility change is performed automatically; author intent is required.
