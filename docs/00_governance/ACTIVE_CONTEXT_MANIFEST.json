@@ -64,7 +64,7 @@
     "Fissures are interworld frontiers not generic dungeon generators",
     "Enemy is an adaptive civilization not a monster wave",
     "Tone includes beauty brutality humor romance friendship ordinary life wonder and war",
-    "Known transcription correction Fei means Fenix and must not be invented as a new proper noun"
+    "Known transcription correction Fei means Fênix and must not be invented as a new proper noun"
   ],
   "preserved_strong_directions_not_auto_promoted": [
     "Broad Beast biodiversity beyond four heraldic motifs",
@@ -81,15 +81,15 @@
     "Field and invader research should visibly change medicine weapons doctrine infrastructure and later enemy responses",
     "Combat remains physically legible and grounded while scaling to extreme supernatural expression; universal free flight is blocked",
     "Other Worlds return durable consequences home",
-    "The provisional ancient or sacred Generated-Beast Fenix Ancia Gerada / ancia da Fenix concept remains preserved not canonized",
+    "The provisional ancient or sacred Generated-Beast Fênix Anciã Gerada / anciã da Fênix concept remains preserved not canonized",
     "Romance flirtation humor friendship ordinary life and strong ensemble relevance remain required",
     "Resonant notation or magical formal language may emerge from nonhuman patterns plus human abstraction",
     "Dominance remains a provisional power concept beyond simple killing intent"
   ],
   "known_corrections": [
     {
-      "wrong": "Fei / ancia da Fei",
-      "correct": "Fenix / Fenix Ancia Gerada / ancia da Fenix",
+      "wrong": "Fei / anciã da Fei",
+      "correct": "Fênix / Fênix Anciã Gerada / anciã da Fênix",
       "type": "speech-to-text or reconstruction capture error",
       "promotion_effect": "none"
     }
@@ -141,14 +141,14 @@
     "external-AI claims without source and status separation"
   ],
   "notion_current_lanes": [
-    "00 AGORA",
-    "01 ENCICLOPEDIA ATUAL",
-    "02 AUTORIDADE & CANONE",
-    "03 LABORATORIO",
-    "04 ARQUIVO HISTORICO",
-    "05 FONTES AUTORAIS",
-    "06 GRAFO & REGISTROS",
-    "07 MEMORIA AUTORAL"
+    "00 — AGORA",
+    "01 — ENCICLOPÉDIA ATUAL",
+    "02 — AUTORIDADE & CÂNONE",
+    "03 — LABORATÓRIO",
+    "04 — ARQUIVO HISTÓRICO",
+    "05 — FONTES AUTORAIS",
+    "06 — GRAFO & REGISTROS",
+    "07 — MEMÓRIA AUTORAL"
   ],
   "next_action": "Define one concrete inciting incident one actionable protagonist-entity relationship one enemy champion or strategic constraint and a minimum ensemble; stress-test against ADR-0006 Authorial Fidelity Packet and Pass 50D before sequence or scene design",
   "scene_status": "BLOCKED_UNTIL_P0_INCIDENT_ENTITY_RELATIONSHIP_ENEMY_CONSTRAINT_AND_MINIMUM_ENSEMBLE_PASS_FIDELITY_AND_50D",
