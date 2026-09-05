@@ -1,27 +1,32 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "generated_at": "2026-09-05",
-  "session_id": "BW-SESSION-2026-09-05-019",
+  "session_id": "BW-SESSION-2026-09-05-020",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "mode": "WORKING_CANON_ORIGIN_ROUTE_CONCRETE_BOOK1_GATE",
-  "epistemic_state": "AUTHOR_VALIDATED_STRUCTURAL_ROUTE_WORKING_CANON_FINE_MECHANISMS_OPEN_NO_SCENE",
-  "task": "Continue from the promoted origin/graft route; define one concrete Book 1 incident, one protagonist-entity relationship, one enemy champion or strategic constraint and a minimum ensemble before scene work",
-  "output_type": "working_canon_route_plus_concrete_story_gate",
+  "mode": "WORKING_CANON_ORIGIN_ROUTE_SECOND_BRAIN_FIDELITY_READY_FOR_CONCRETE_BOOK1_GATE",
+  "epistemic_state": "AUTHOR_VALIDATED_STRUCTURAL_ROUTE_WORKING_CANON_FINE_MECHANISMS_OPEN_NO_SCENE_SEMANTIC_FIDELITY_REQUIRED",
+  "task": "Continue from the promoted origin/graft route; solve the four concrete Book 1 P0 gates before scene work without losing authorial semantics or reactivating superseded V3/V4 material",
+  "output_type": "working_canon_route_plus_fidelity_aware_concrete_story_gate",
   "primary_axis": "direct_concession_during_first_coordinated_fissure_campaign_reveals_return_of_original_predator",
   "axis_status": "WORKING_CANON_AUTHOR_VALIDATED",
   "series_premise": "A surviving Beast ecology grafted into an initially non-magical human world; three millennia later its original predator finds the composite refuge, forcing reciprocal development to confront forced incorporation",
   "include": [
     "docs/00_governance/CURRENT_SESSION_POINTER.json",
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
-    "docs/08_sources/conversations/2026-09-05-author-promotion-second-brain-cleanup-source-record.md",
     "docs/07_decisions/ADR-0006-WORKING-CANON-ORIGIN-GRAFT-YOUNG-PROTAGONIST-ROUTE.md",
     "docs/01_bible/CURRENT_ORIGIN_AND_WORLD_GRAFT_WORKING_CANON.md",
-    "docs/09_reviews/chatgpt/2026-09-05/56_AUTHOR_VALIDATION_WORKING_CANON_PROMOTION_AND_SECOND_BRAIN_REBUILD.md",
+    "docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md",
+    "docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md",
+    "docs/07_decisions/ADR-0007-SECOND-BRAIN-HUMAN-WIKI-RELATIONAL-GRAPH.md",
     "docs/00_governance/CREATIVE_SCENE_GATE.md",
     "docs/09_reviews/chatgpt/2026-09-04/50D_CREATIVE_RESET_AND_INCIDENT_SELECTION_GATE.md"
   ],
   "warm_on_demand": [
     "docs/08_sources/conversations/2026-09-05-author-origin-world-graft-symbiogenesis-young-protagonist-source-record.md",
+    "docs/08_sources/conversations/2026-09-05-author-promotion-second-brain-cleanup-source-record.md",
+    "docs/08_sources/conversations/2026-09-05-author-second-brain-full-qa-relational-graph-source-record.md",
+    "docs/08_sources/conversations/2026-09-05-author-finalize-second-brain-fidelity-phoenix-correction-source-record.md",
+    "docs/09_reviews/chatgpt/2026-09-05/56_AUTHOR_VALIDATION_WORKING_CANON_PROMOTION_AND_SECOND_BRAIN_REBUILD.md",
     "docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md",
     "docs/09_reviews/chatgpt/2026-09-04/54_PREMISE_FAILURE_AUDIT_PORTAL_WAR_DIRECTOR_PURPOSE_AND_ACTION_RESET.md",
     "docs/09_reviews/chatgpt/2026-09-04/53_FULL_SPECTRUM_EVOLUTION_PRIMORDIAL_EMBODIMENT_AND_COUNCIL_RESET.md",
@@ -30,6 +35,7 @@
   ],
   "cold_provenance_only": [
     "docs/08_sources/conversations/2026-09-05-author-origin-brainstorm-verbatim.md",
+    "docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-source-record.md",
     "docs/09_reviews/chatgpt/2026-08-22/01-AUTHOR-RAW-ACADEMIA-PRIMORDIAIS-GUERRA-INTERMUNDOS.md",
     "docs/09_reviews/claude/2026-09-04/CLAUDE_ROUND02_FAILURE_POSTMORTEM.md",
     "docs/09_reviews/external-council/2026-09-04/ROUND_02_FULL_INDEPENDENT_RESEARCH_COPY_PASTE_PROMPT.md"
@@ -37,51 +43,84 @@
   "working_canon": [
     "Present BeastWorld is the composite created by a surviving remnant of an older Beast-inhabited Living World grafting into an initially non-magical human world",
     "The older Beast World was nearly destroyed by a predatory interworld civilization and real living continuity escaped",
-    "Humans and Beast life contribute different capacities and co-develop biologically, culturally and institutionally across millennia",
+    "Humans and Beast life contribute different capacities and co-develop biologically culturally and institutionally across millennia",
     "The old predator eventually finds or reaches the refuge again independently of the protagonist's existence",
     "The protagonist's main arc begins around age fifteen and the adult Director is a future state to be earned",
     "The Direct Concession during the first coordinated Fissure campaign is the current Book 1 axis",
-    "The cousin remains the legitimate designated successor, independently formidable and not an automatic jealous rival",
-    "Reciprocal development/integration versus forced/extractive incorporation is the current structural thematic opposition"
+    "The cousin remains the legitimate designated successor independently formidable and not an automatic jealous rival",
+    "Reciprocal development or integration versus forced or extractive incorporation is the current structural thematic opposition"
+  ],
+  "semantic_fidelity_required": [
+    "Original Beast World is broad ecology not four heraldic mascot species",
+    "Deep entities retain numinous person-like agency and are not flattened to technical world-functions",
+    "Human host already had civilization martial culture tools medicine and cumulative knowledge before accessible magic",
+    "Sangue Matrix and Generated Beasts are bodily developmental relational systems not loot or purity meters",
+    "When reopening CE morphology mechanics preserve spectral != immature humanoid != more evolved material density != developmental age unless later explicitly revised",
+    "Protagonist begins powerful but incomplete can lose be hurt need help and continue learning after Concession",
+    "Protagonist can desire power challenge and worthy opposition while protecting the Living World and its lives",
+    "Cousin is legitimate formidable successor not automatic jealous villain",
+    "Academy is a living civilizational engine with research medicine intelligence logistics alchemy competition social life romance humor and ordinary routines",
+    "Combat remains physically readable while supernatural expression can become extreme",
+    "Fissures are interworld frontiers not generic dungeon generators",
+    "Enemy is an adaptive civilization not a monster wave",
+    "Tone includes beauty brutality humor romance friendship ordinary life wonder and war",
+    "Known transcription correction Fei means Fenix and must not be invented as a new proper noun"
   ],
   "preserved_strong_directions_not_auto_promoted": [
     "Broad Beast biodiversity beyond four heraldic motifs",
+    "Possible Year Zero calendar and graft-era environmental phenomena",
     "Original bodies of deep entities died; present aspects may be real but partial and world-anchored",
     "Possible semantic or resonant entity communication later formalized by cumulative human culture",
     "Generated Beasts can mature toward autonomous organic personhood",
-    "Mother remains present; possible Oceanic maternal lineage and powerful father/uncle generation remain live",
+    "Mother remains present; possible Oceanic maternal lineage and powerful father or uncle generation remain live",
     "Possible political marriage of the parents becoming genuine love",
     "Possible bounded Oceanic formation with maternal grandfather or master and another deep entity",
     "Possible entity familiarity with the protagonist since childhood",
     "Possible numinous or world-scale manifestations around Direct Concession",
-    "Academy includes Coliseum and social life as well as defense, medicine, research, intelligence, alchemy and artifacts",
-    "Field and invader research should visibly change medicine, weapons, doctrine and later enemy responses",
+    "Academy includes Coliseum and social life as well as defense medicine research intelligence alchemy logistics and artifacts",
+    "Field and invader research should visibly change medicine weapons doctrine infrastructure and later enemy responses",
     "Combat remains physically legible and grounded while scaling to extreme supernatural expression; universal free flight is blocked",
     "Other Worlds return durable consequences home",
-    "The provisional ancient or sacred Generated-Beast 'anciã da Fei' concept remains preserved, not canonized",
-    "Romance, flirtation, humor, friendship, ordinary life and strong ensemble relevance remain required",
-    "Resonant notation or magical formal language may emerge from nonhuman patterns plus human abstraction"
+    "The provisional ancient or sacred Generated-Beast Fenix Ancia Gerada / ancia da Fenix concept remains preserved not canonized",
+    "Romance flirtation humor friendship ordinary life and strong ensemble relevance remain required",
+    "Resonant notation or magical formal language may emerge from nonhuman patterns plus human abstraction",
+    "Dominance remains a provisional power concept beyond simple killing intent"
+  ],
+  "known_corrections": [
+    {
+      "wrong": "Fei / ancia da Fei",
+      "correct": "Fenix / Fenix Ancia Gerada / ancia da Fenix",
+      "type": "speech-to-text or reconstruction capture error",
+      "promotion_effect": "none"
+    }
   ],
   "unresolved": [
     "exact remnant form mass travel physics and terminology",
     "exact number domains names forms and ontology of deep entities",
-    "exact Blood Matrix and Direct-Concession mechanics",
-    "exact protagonist limitation and protagonist-entity relationship",
-    "exact Fissure chronology and interworld compatibility rules",
+    "exact Blood Matrix Generated-Beast and Direct-Concession mechanics",
+    "exact protagonist limitation and actionable protagonist-entity relationship",
+    "exact Fissure chronology stabilization and interworld compatibility rules",
     "exact maternal or Oceanic genealogy and formation duration",
     "exact Dynastic count titles borders and governance",
     "exact ethics and mechanics of future world integration liberation salvage or absorption",
     "one concrete Book 1 inciting incident",
-    "one enemy champion or strategic constraint",
+    "one enemy champion agent or strategic constraint",
     "minimum peer and adult ensemble",
     "Book 1 climax and ending"
   ],
+  "p0_open_questions": [
+    "BW-Q-V5-BOOK1-INCITING-001",
+    "BW-Q-V5-PROT-ENTITY-001",
+    "BW-Q-V5-ENEMY-CONSTRAINT-001",
+    "BW-Q-V5-ENSEMBLE-001"
+  ],
   "explicitly_withdrawn_or_blocked": [
     "literal bastardy",
-    "adult Director as the automatically preferred opening chronology",
+    "adult Director as mandatory opening chronology",
     "succession or court drama as the whole Book 1 premise",
+    "old Five Primordial Seats or Primordial Guardian system as current truth",
     "instant mastery from Direct Concession",
-    "four elemental mascot nations or four entities as automatic creators of all life",
+    "four elemental mascot nations or four or five entities as automatic creators of all life",
     "unlimited Primordial battle avatars that can solve the war",
     "visible blood-purity percentages",
     "protagonist causes the enemy's return by existing",
@@ -90,19 +129,29 @@
     "universal free flight",
     "automatic win-consume-world-meet-bigger-god escalation",
     "generic portal monster-of-the-week structure",
+    "rejected Pass 50A-50C Academy rescue vehicles",
     "external council restart before a concrete gate requires it",
-    "scene selection before concrete incident and ensemble stress-test"
+    "scene selection before concrete incident entity relationship enemy constraint and ensemble stress-test"
   ],
   "excluded_context": [
     "Passes 50A-50C except regression checks",
-    "rejected Academy projectile or wing rescue",
-    "full V5 accumulation",
-    "raw transcripts unless wording or provenance is disputed",
-    "external-AI claims without source and status separation",
-    "old V3-V4 Notion encyclopedia as current authority"
+    "old V3-V4 Notion encyclopedia as current authority",
+    "old V4 relational nodes as current truth unless explicitly reconciled",
+    "raw transcripts unless wording provenance or semantic fidelity is disputed",
+    "external-AI claims without source and status separation"
   ],
-  "next_action": "Define one concrete inciting incident, one actionable protagonist-entity relationship, one enemy champion or strategic constraint and a minimum ensemble; stress-test against ADR-0006 and Pass 50D before sequence or scene design",
-  "scene_status": "BLOCKED_UNTIL_CONCRETE_INCIDENT_ENTITY_RELATIONSHIP_ENEMY_CONSTRAINT_AND_MINIMUM_ENSEMBLE_PASS_50D",
+  "notion_current_lanes": [
+    "00 AGORA",
+    "01 ENCICLOPEDIA ATUAL",
+    "02 AUTORIDADE & CANONE",
+    "03 LABORATORIO",
+    "04 ARQUIVO HISTORICO",
+    "05 FONTES AUTORAIS",
+    "06 GRAFO & REGISTROS",
+    "07 MEMORIA AUTORAL"
+  ],
+  "next_action": "Define one concrete inciting incident one actionable protagonist-entity relationship one enemy champion or strategic constraint and a minimum ensemble; stress-test against ADR-0006 Authorial Fidelity Packet and Pass 50D before sequence or scene design",
+  "scene_status": "BLOCKED_UNTIL_P0_INCIDENT_ENTITY_RELATIONSHIP_ENEMY_CONSTRAINT_AND_MINIMUM_ENSEMBLE_PASS_FIDELITY_AND_50D",
   "promoted": true,
-  "promotion_level": "WORKING-CANON"
+  "promotion_level": "WORKING-CANON_STRUCTURAL_ONLY"
 }
