@@ -1,15 +1,13 @@
 # BeastWorld — START HERE FOR AI
 
 **Updated:** 2026-09-05  
-**Current route:** Pass 57 / ADR-0006 + ADR-0007  
-**Branch:** discover and verify the current remote branch; expected working branch is `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Epistemic state:** `WORKING-CANON STRUCTURAL ROUTE / SEMANTIC-FIDELITY REQUIRED / FINE MECHANISMS OPEN / NO SCENE YET`
+**Current route:** Pass 58 / ADR-0006 + ADR-0007  
+**Expected branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
+**Epistemic state:** `STRUCTURAL WORKING-CANON / SEMANTIC + COMMUNICATION FIDELITY REQUIRED / FINE MECHANISMS OPEN / NO SCENE YET`
 
-> This file is a **door**, not a substitute for the Bible, author source or semantic memory. Do not rehydrate by stacking old passes. Load the current route, then only the cluster required by the task.
+> **This is the current door.** Do not reconstruct BeastWorld by stacking old handoffs or by trusting chat memory. Summary routes; source proves; the Fidelity Packet preserves meaning; the Explanation/Technical-Lexicon packet preserves how the project must be reasoned about and explained.
 
-## 1. Mandatory current read order
-
-For any deep creative or structural work, read:
+## 1. Mandatory read order for deep creative work
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
@@ -17,194 +15,219 @@ For any deep creative or structural work, read:
 4. `docs/07_decisions/ADR-0006-WORKING-CANON-ORIGIN-GRAFT-YOUNG-PROTAGONIST-ROUTE.md`
 5. `docs/01_bible/CURRENT_ORIGIN_AND_WORLD_GRAFT_WORKING_CANON.md`
 6. `docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`
-7. `docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md`
-8. only the current Notion/GitHub domain cluster actually needed.
+7. `docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md`
+8. `docs/09_reviews/chatgpt/2026-09-05/58_AUTHOR_EXPLANATION_TONE_TECHNICAL_LEXICON_AND_RESEARCH_SCAFFOLD_QA.md`
+9. `V5_CONTEXT_ROUTER.md`
+10. only the current Notion/GitHub domain cluster needed for the task.
 
-Before sequence/scene design, also load:
+Before sequence/scene design additionally read:
 
 - `docs/00_governance/CREATIVE_SCENE_GATE.md`
 - `docs/09_reviews/chatgpt/2026-09-04/50D_CREATIVE_RESET_AND_INCIDENT_SELECTION_GATE.md`
 
-Load the 05/09 semantic author source and Pass 55 **WARM on demand** when rationale/nuance is needed. Load the 05/09 raw/verbatim brainstorm **COLD for provenance** when exact wording, omission or fidelity is disputed.
+For origin/entity/science/reference rationale, WARM-load:
 
-`HANDOFF.md`, `PROJECT_STATE.md`, the 23/08 V3/V4 encyclopedia and older “current route” pass headers are historical unless the current router explicitly routes to them.
+- `docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md`
+- `docs/08_sources/conversations/2026-09-05-author-origin-world-graft-symbiogenesis-young-protagonist-source-record.md`
 
-## 2. Current structural truth
+Use the raw 05/09 brainstorm only when exact wording, omission or semantic dispute matters.
 
-The author explicitly validated the current path on 05/09/2026. ADR-0006 promotes the structural route to `WORKING-CANON`, not final `CANON`.
+## 2. Current structural route — WORKING-CANON
 
-Current causal spine:
+The current causal spine is:
 
-**Older Beast World → predatory near-extinction → living survival remnant → graft into an initially non-magical human world → present composite BeastWorld → millennia of human–Beast/world co-development → Blood/Matrix/Generated Beasts/Dynasties/Academy → the old predator reaches the refuge again.**
+**older Beast-inhabited Living World → predatory interworld near-extinction → real living survival remnant → graft into an initially non-magical but already civilized human world → present BeastWorld as a third composite reality → millennia of reciprocal human–Beast/world co-development → Blood/Matrix/Generated Beasts/Dynasties/Academy as historical consequences → the original predator eventually reaches the refuge again.**
 
 Current protagonist route:
 
-**begin around age fifteen → Direct Concession during the first coordinated Fissure campaign → continued training/defeat/relationships/Academy/war → eventually earn the adult Director.**
+**main lived arc begins around fifteen → first Direct Concession since the Founders during the first coordinated Fissure campaign → continued training, defeat, relationships, Academy, campaigns and institutional growth → eventual adult Director.**
 
-The cousin remains the legitimate designated successor and an independently formidable combatant.
+The protagonist does not cause the predator to find the refuge. Direct Concession does not grant instant mastery.
 
-The current thematic opposition is reciprocal/negotiated development versus forced/extractive incorporation. Do not flatten whole populations into moral symbols.
+The cousin remains the legitimate designated successor and an independently formidable combatant, not an automatic jealous villain.
 
-## 3. Semantic fidelity is part of rehydration
+Current structural thematic opposition:
 
-A new conversation is **not rehydrated** merely because it can repeat the paragraph above.
+**reciprocal/negotiated co-development vs forced/extractive incorporation**, without turning entire populations into moral symbols.
 
-It must preserve the distinctions in `AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`, especially:
+## 3. Semantic rehydration is mandatory
 
-- the original Beast World is broad ecology, not four heraldic mascot species;
-- deep entities retain numinous/person-like agency and are not merely gods or databases;
-- the human host already had civilization, martial culture, medicine, tools and cumulative knowledge before accessible magic;
-- humans and bestial life contribute different capacities to reciprocal co-development;
-- Blood, Matrix and Generated Beasts are bodily/developmental/relational, not loot or purity meters;
-- when reopening the older Core Engine mechanics, preserve the discovered distinction `spectral ≠ immature`, `humanoid ≠ more evolved`, `material density ≠ developmental age` unless later evidence explicitly revises it;
-- the protagonist begins dangerous/talented but incomplete, can lose and continue learning after Concession;
-- the cousin is not an automatic jealous villain;
-- Academy is a living civilizational engine, not only a tournament school;
-- combat remains physically readable even when supernatural expression becomes extreme;
+A conversation that can recite the premise is **not yet rehydrated**.
+
+It must preserve, among other current distinctions:
+
+- original Beast World = broad lost ecology, not four mascot species;
+- deep entities retain personhood, numinous presence and world integration;
+- humans already had civilization, warfare, medicine, tools, language, embodied disciplines and cumulative culture before accessible magic;
+- humans and Beast life contribute different survival capacities; neither is a simple upgrade for an inferior other;
+- Sangue/Matriz/Bestas Geradas are bodily, developmental and relational rather than loot/purity systems;
+- when historical Core Engine mechanics are reopened, do not collapse `spectral`, `humanoid`, `material`, `mature` and `biologically autonomous` into one evolution ladder;
+- protagonist begins dangerous/talented but incomplete, can lose, be hurt, need help and keep growing after Concession;
+- his desire for power/challenge can coexist with protecting the Living World and its lives;
+- Academy is a civilizational learning engine with research, medicine, intelligence, logistics, alchemy, artifacts, competition, friendship, romance, humor and ordinary life;
+- combat remains physically legible even at extreme supernatural scale;
 - Fissures are interworld frontiers, not generic dungeon generators;
-- the enemy is an adaptive civilization, not a monster wave;
-- tone includes beauty, brutality, humor, romance, friendship, ordinary life, wonder and war.
+- enemy remains an adaptive civilization, not monster waves;
+- tone includes beauty, brutality, humor, romance, friendship, family, ordinary life, wonder, horror, discovery and war.
 
-If a clean summary and a source feel meaningfully different, **reopen the source before deciding**.
+Full semantic recovery lives in `AUTHORIAL_FIDELITY_PACKET_2026-09-05.md` and Notion `07 — MEMÓRIA AUTORAL`.
 
-## 4. Known semantic correction
+## 4. Writer-room terminology that must not disappear
 
-**`Fei` / `anciã da Fei` was a 05/09 reconstruction/capture error. Correct referent: Fênix.**
+Pass 58 recovered an exact phrase that had been softened in the current Wiki:
 
-Do not invent `Fei` as a new culture, surname, faction or character.
+### `ontologia metabiológica`
+Writer-room meaning: consciousness, biology, Quintessence, ecology and world-function are continuous enough that a deep entity is **not a spirit piloting flesh**. It is a living intelligence integrated with a Living World that may, under still-unresolved constraints, **metabolize the world and construct/condense a real material aspect**.
 
-Safe provisional wording where needed:
+This is **construction vocabulary**, not automatically final in-world terminology.
 
-- `Fênix Anciã Gerada`;
-- `anciã da Fênix`;
-- `Besta Gerada antiga/poderosa associada à Fênix/Dinastia Fênix`.
+Related writer-room terms include:
 
-This correction changes the referent only. It does not canonize final name, age, office, romance or exact configuration.
+- `Mundo Vivo / Living World`;
+- `núcleo do mundo / world-core`;
+- `função do mundo / world-function`;
+- regulator/archive as partial ecological lenses;
+- material aspect / embodiment;
+- bounded throughput / functional load;
+- symbiogenesis;
+- cautious holobiont analogy;
+- niche construction / ecological inheritance;
+- cumulative culture;
+- reciprocal coevolution / Red-Queen-type dynamics;
+- adaptive continuity;
+- calibration/coherence/ecological memory/lineage pattern where causally justified.
 
-Source:
-`docs/08_sources/conversations/2026-09-05-author-finalize-second-brain-fidelity-phoenix-correction-source-record.md`
+Do not use technical vocabulary as decorative pseudo-science. Every term must protect a real distinction.
 
-## 5. What is NOT automatically decided
+## 5. Author-facing explanation rule
 
-Do not invent or silently canonize:
+Do not make strong ideas feel weak by writing them as sterile specifications. Do not make weak ideas look strong with empty adjectives.
 
-- exact mass/form/travel mechanism or in-world name of the survival remnant;
-- exact number/domains/names/material limits of deep entities;
-- exact Blood, Matrix, Generated-Beast or Direct-Concession mechanics;
-- exact protagonist pre-Concession limitation;
-- exact audiovisual manifestation of the Concession;
-- exact maternal/Oceanic genealogy or formation duration;
-- exact Dynastic count, map, titles or government;
-- exact Fissure chronology, stabilization or interworld compatibility rules;
-- exact rules/ethics for later world integration, liberation, salvage or absorption;
-- specific romance configuration;
-- Book 1 opening incident, enemy champion/constraint, climax, ending or scene.
+Preferred composition:
 
-These remain `HYPOTHESIS`, `UNRESOLVED` or preserved strong directions until separately promoted.
+1. **make the idea visible** in clear, controlled, evocative prose;
+2. **show the machinery** — cause, mechanism, term, limit, consequence and status;
+3. when useful, add a compact **backstage note** — research/reference lens, what transfers and where the analogy stops.
 
-## 6. Current P0 creative gate
+The prose can be beautiful. Beauty must carry information.
 
-Do **not** reopen the whole premise by default. Before sequence/scene work, resolve and stress-test:
+Technical terms should be explained in normal language when first introduced.
 
-1. `BW-Q-V5-BOOK1-INCITING-001` — one concrete Book 1 inciting incident;
-2. `BW-Q-V5-PROT-ENTITY-001` — one actionable protagonist–entity relationship;
-3. `BW-Q-V5-ENEMY-CONSTRAINT-001` — one concrete enemy champion/agent/strategic constraint;
-4. `BW-Q-V5-ENSEMBLE-001` — minimum peer/adult ensemble with independent wants;
-5. test all four against ADR-0006, the Fidelity Packet and Pass 50D;
-6. only then write sequence/scene candidates.
+Research and references belong backstage unless the story naturally needs their in-world descendants.
 
-## 7. Authority rules
+Full protocol:
+`docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md`.
 
-- `CANON`: consolidated current decision.
-- `WORKING-CANON`: adopted current rule; revisable only with explicit regression control.
-- `HYPOTHESIS`: active model under test.
-- `UNRESOLVED`: known gap; never fill silently.
-- `MYSTERY`: author-side truth deliberately withheld in-world.
-- `SUPERSEDED`: preserved historical version replaced by a newer one.
-- `REJECTED`: consciously refused direction; do not regenerate by habit.
-- `AUTHOR SOURCE`: what the author actually said; may contain brainstorm, contradiction or transcription noise.
-- `AI RATIONALE / EXTERNAL AI`: analysis only, never automatic authorial truth.
+## 6. Research/reference scaffold
 
-**Draft is not canon. Repetition is not promotion. Detail is not promotion. Notion presence is not authority by itself.**
+Pass 55 remains WARM evidence, not canon.
 
-## 8. Current Notion route
+Scientific lenses currently useful include:
 
-Human root:
-**`🌒 BEASTWORLD — Segundo Cérebro / HOME`**
+- symbiogenesis/endosymbiosis;
+- niche construction/ecological inheritance;
+- human cumulative culture;
+- host–microbiome/holobiont literature with explicit caveats;
+- reciprocal coevolution / Red Queen;
+- planetary-scale intelligence as analogy.
 
-Current lanes:
+Rule:
 
-- `00 — AGORA — Estado Atual e Próximo Passo`
-- `01 — ENCICLOPÉDIA ATUAL — Wiki Humana`
-- `02 — AUTORIDADE & CÂNONE — O que vale hoje`
-- `03 — LABORATÓRIO — Hipóteses, Passos e Pesquisa`
-- `04 — ARQUIVO HISTÓRICO — Versões antigas e caminhos superados`
-- `05 — FONTES AUTORAIS — Brainstorms, transcrições e proveniência`
-- `06 — GRAFO & REGISTROS — Nós, tags e relações`
-- `07 — MEMÓRIA AUTORAL — Visão, nuances e anti-drift`
+**science supplies constraints, analogies and questions; fantasy supplies the fictional mechanism.**
 
-Pass 57 reactivated the existing relational databases with current V5 nodes, edges, decisions, sources and open questions. The old V3/V4 encyclopedia remains archive/history.
+Reference-study rule:
 
-GitHub remains the versioned/auditable control plane. Notion is the detailed human-readable Wiki, graph and cognitive interface. If they drift, name the drift and repair it.
+**what to study → why it helps → what must not be copied → how BeastWorld remains different.**
 
-## 9. Regression blocks that still matter
+Pass 55 contains the detailed comparative matrix, including World Trigger, Kaiju No. 8, TBATE, One-Punch Man, Solo Leveling, Nano Machine, Fog Hill of Five Elements, Hunter × Hunter, Goku/Beerus, Final Fantasy VII, Nausicaä, Princess Mononoke, Xenoblade Chronicles 3 and others.
 
-Do not regress to:
+## 7. Known capture correction
+
+**`Fei` / `anciã da Fei` was a capture/reconstruction error. Correct referent: Fênix.**
+
+Do not invent a `Fei` culture, faction, surname or character.
+
+Safe provisional forms include `Fênix Anciã Gerada` / `anciã da Fênix`. This correction does not canonize final identity, office, age, romance or configuration.
+
+## 8. Status discipline
+
+- `CANON` — consolidated decision;
+- `WORKING-CANON` — adopted current rule, revisable through explicit regression control;
+- `HYPOTHESIS` — live model under test;
+- `UNRESOLVED` — known gap, never fill silently;
+- `MYSTERY` — author-side truth deliberately withheld in-world;
+- `SUPERSEDED` — historical version replaced by a newer route;
+- `REJECTED` — consciously refused direction;
+- `AUTHOR SOURCE` — author evidence, which may contain brainstorm, contradiction or transcription noise;
+- `AI RATIONALE / RESEARCH ANALOGY` — analysis/evidence only.
+
+**Presence is not promotion. Repetition is not promotion. Detail is not promotion. A useful writer-room term is not automatically an in-world term.**
+
+## 9. Current P0 creative gate
+
+No sequence/scene until these are explicit and stress-tested:
+
+1. `BW-Q-V5-BOOK1-INCITING-001` — concrete Book 1 inciting incident;
+2. `BW-Q-V5-PROT-ENTITY-001` — actionable protagonist–entity relationship;
+3. `BW-Q-V5-ENEMY-CONSTRAINT-001` — concrete enemy champion/agent/strategic constraint;
+4. `BW-Q-V5-ENSEMBLE-001` — minimum peer/adult ensemble with independent wants.
+
+Test against ADR-0006 + Authorial Fidelity + Explanation/Technical Lexicon + Pass 50D before scene work.
+
+## 10. Current Notion human route
+
+Root: `🌒 BEASTWORLD — Segundo Cérebro / HOME`
+
+- `00 — AGORA`
+- `01 — ENCICLOPÉDIA ATUAL`
+- `02 — AUTORIDADE & CÂNONE`
+- `03 — LABORATÓRIO`
+- `04 — ARQUIVO HISTÓRICO`
+- `05 — FONTES AUTORAIS`
+- `06 — GRAFO & REGISTROS`
+- `07 — MEMÓRIA AUTORAL`
+  - `07A — LINGUAGEM DE CONSTRUÇÃO — Tom, termos técnicos e referências`
+
+The current Entity article `C — Entidades Profundas / Primordiais` now explicitly preserves `ontologia metabiológica` as writer-room vocabulary.
+
+## 11. Historical contamination guards
+
+Root `HANDOFF.md` and `PROJECT_STATE.md` are redirects. Their complete old bodies are archived under `docs/00_governance/history/`.
+
+Do not revive by habit:
 
 - literal bastardy;
-- succession/court drama as the entire premise;
 - mandatory static adult-Director opening;
+- succession/court drama as the whole premise;
+- old Five Primordial Seats / Primordial Guardian package;
+- four elemental mascot nations;
 - instant-mastery Concession;
-- visible Blood-purity percentages as character worth;
-- four elemental mascot nations or automatic four/five creators of all life;
-- old Five Primordial Seats / Primordial Guardian system as current truth;
-- unlimited entity avatars that solve wars;
-- protagonist causing the old enemy to return merely by existing;
+- purity-percentage power ladder;
+- unlimited entity war avatars;
+- protagonist causing enemy return;
 - detached Oceanic training vacation;
-- native allied Bestas as generic Academy hunting fodder;
+- native allied Beast hunting as generic Academy activity;
 - universal free flight;
-- generic portal monster-of-the-week loops;
-- rejected Pass 50A–50C Academy rescue vehicles;
+- generic portal monster-of-the-week loop;
 - automatic `win → consume world → bigger god` escalation;
-- external AI conclusions as authorial truth;
-- scenes before the current P0 gate passes.
+- rejected Pass 50A–50C Academy rescue vehicles.
 
-## 10. Provenance ladder
+## 12. Provenance depths
 
 ### QUICK
-Pointer → Manifest → Dashboard → ADR-0006 → current Bible.
+Pointer → Manifest → Dashboard → ADR-0006 → Bible.
 
 ### CREATIVE-FIDELITY
-QUICK + Fidelity Packet + current Encyclopedia module + relevant current graph/Open Questions.
+QUICK + Authorial Fidelity + Explanation/Technical Lexicon + current Wiki/graph/questions.
+
+### RESEARCH-RATIONALE
+CREATIVE-FIDELITY + Pass 55 + relevant research/reference record.
 
 ### SOURCE-EXACT
-CREATIVE-FIDELITY + semantic author source + raw/verbatim source + only the directly relevant historical cluster.
+RESEARCH-RATIONALE + semantic author source + raw/verbatim source + only the directly relevant historical cluster.
 
-Do not load the whole archive by default. Do not use selective loading as permission to invent what was not loaded.
+Never load the entire archive by default. Never use selective loading as permission to invent omitted nuance.
 
-## 11. Current key files
+## 13. Operational drift
 
-Current state:
-`V5_RECONCILIATION_STATE.md`
-
-Current router:
-`V5_CONTEXT_ROUTER.md`
-
-Current decision:
-`docs/07_decisions/ADR-0006-WORKING-CANON-ORIGIN-GRAFT-YOUNG-PROTAGONIST-ROUTE.md`
-
-Second Brain architecture:
-`docs/07_decisions/ADR-0007-SECOND-BRAIN-HUMAN-WIKI-RELATIONAL-GRAPH.md`
-
-Current Bible:
-`docs/01_bible/CURRENT_ORIGIN_AND_WORLD_GRAFT_WORKING_CANON.md`
-
-Semantic recovery:
-`docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`
-
-Pass 57 audit:
-`docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md`
-
-## 12. Access/security drift
-
-Current GitHub repository metadata reports BeastWorld as **PUBLIC**, while older governance text described it as private. No visibility change has been made automatically. This remains an explicit access/security drift requiring author intent.
+GitHub currently reports the BeastWorld repository as **PUBLIC**, while older governance text described it as private. No visibility change is performed automatically; author intent is required.
