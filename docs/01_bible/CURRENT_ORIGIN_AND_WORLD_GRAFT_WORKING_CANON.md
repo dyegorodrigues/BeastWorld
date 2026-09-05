@@ -1,14 +1,14 @@
 ---
 id: BW-BIBLE-ORIGIN-GRAFT-CURRENT
 status: WORKING-CANON
-version: 0.1.0
+version: 0.1.1
 last_reviewed: 2026-09-05
 adr: ADR-0006
 ---
 
 # Current origin and world-graft — WORKING-CANON
 
-> This file is the concise GitHub production-bible expression of the current structural route. For raw nuance, consult the 05/09 author source and semantic record. For detailed human reading, use the current Notion Second Brain encyclopedia.
+> This file is the concise GitHub production-bible expression of the current structural route. For semantic intent and anti-drift nuance, read `docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`. For raw nuance, consult the 05/09 author source and semantic record. For detailed human reading, use the current Notion Second Brain encyclopedia.
 
 ## 1. Origin
 Before present BeastWorld, an older Beast-inhabited Living World existed. Its biodiversity already embodied Quintessence as part of life rather than as a human-discovered external spell system.
@@ -43,7 +43,7 @@ It is not:
 
 It is a contested composite whose biology, cultures and institutions have continued to change for approximately three millennia.
 
-The graft is a candidate foundation for an `Year Zero` calendar, but the calendar itself remains unresolved.
+The graft is a candidate foundation for a `Year Zero` calendar, but the calendar itself remains unresolved.
 
 ## 6. Long co-development
 Across millennia:
@@ -106,12 +106,14 @@ The following remain live and should not be lost:
 - entity familiarity with the protagonist since childhood;
 - numinous/world-scale signs around Direct Concession;
 - Coliseum/competition as part of a living Academy;
-- generated-Beast autonomous personhood, including the provisional ancient/sacred `anciã da Fei` concept;
+- Generated-Beast autonomous personhood, including the provisional ancient/sacred **Fênix Anciã Gerada / anciã da Fênix** concept;
 - romance, flirtation, humor, friendship, ordinary life and ensemble relevance;
 - martial combat that remains grounded in mass, weapon, terrain and injury while scaling to extreme supernatural speed and expression;
 - no universal free flight;
 - Other Worlds producing durable consequences at home;
 - possible resonant notation/language emerging from nonhuman patterns plus human cumulative culture.
+
+`Fei` was a 05/09 reconstruction/transcription error for `Fênix`; it is not a new proper noun. See the final fidelity correction source record.
 
 These are `HYPOTHESIS / STRONG DIRECTION / PRESERVED POSSIBILITY` unless separately promoted.
 
