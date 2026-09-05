@@ -1,3 +1,18 @@
+## Current route — Pass 55 — 05/09/2026
+
+For current creative work, load only:
+
+1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
+2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
+3. `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`
+4. `docs/08_sources/conversations/2026-09-05-author-origin-world-graft-symbiogenesis-young-protagonist-source-record.md`
+5. `docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md`
+6. Pass 50D only as the creative-quality guardrail.
+
+The 05/09 verbatim brainstorm is preserved COLD and the original Notion page remains untouched. Pass 55 selects one Book 1 axis for stress-test: the first Direct Concession since the Founders occurs during the first coordinated Fissure campaign and exposes the return of the predator that destroyed the original Beast World. The refined refugee-world graft, young chronology, reciprocal-versus-forced incorporation and Book 1 axis all await author validation. Pass 54 is WARM/superseded as active route. Passes 50A–50C remain COLD except to prevent regression. Do not write a scene. Nothing promoted.
+
+---
+
 ## Current route — Pass 54 — 04/09/2026
 
 For current creative work, load only:

@@ -1,92 +1,116 @@
 # BeastWorld — Current Project Dashboard
 
-**Updated:** 2026-09-04  
+**Updated:** 2026-09-05  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Mode:** `PREMISE RECONSTRUCTION / PORTAL-ACTION GATE / NOT-CANON`
+**Mode:** `ORIGIN RECONSTRUCTION / YOUNG-PROTAGONIST SINGLE-AXIS GATE / NOT-CANON`
 
 ## Read first
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
 3. this dashboard
-4. `docs/08_sources/conversations/2026-09-04-author-purpose-portals-progression-and-council-failure-source-record.md`
-5. `docs/09_reviews/chatgpt/2026-09-04/54_PREMISE_FAILURE_AUDIT_PORTAL_WAR_DIRECTOR_PURPOSE_AND_ACTION_RESET.md`
-6. Pass 50D as the creative-quality guardrail.
+4. `docs/08_sources/conversations/2026-09-05-author-origin-world-graft-symbiogenesis-young-protagonist-source-record.md`
+5. `docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md`
+6. Pass 50D as creative-quality guardrail.
 
-Passes 50A–50C remain COLD except to prevent regression. Do not write a scene. Nothing promoted.
+The 90 KB verbatim brainstorm is preserved but remains COLD unless wording/provenance is disputed. Passes 50A–50C remain COLD except to prevent regression. Do not write a scene. Nothing promoted.
 
-## Current correction
+## Integrity receipt
 
-Round 02 was structurally biased toward succession, cousin/Oceanic material and Primordial embodiment. Claude and Grok therefore reconstructed a dynastic-court work with no sufficient outward engine. Claude's post-mortem correctly identified the omission but then overcorrected by treating an author-raw 22/08 `NOT-CANON` brainstorm as definitive.
+The author's attached export and the current Notion page `Beastworld origem brainstorm` contain exactly the same semantic text after whitespace and Notion escape normalization. This proves no loss between those current copies. It cannot prove whether anything was deleted before both copies existed. The raw Notion page remains untouched.
 
-Both frames are blocked:
+## Major current source correction
 
-- not `palace drama as the whole book`;
-- not `automatic restoration of every old demon-war idea`.
+The 05/09 author brainstorm supplies a new causal origin:
 
-Pass 54 is the current premise reset.
+1. an older Beast-inhabited Living World is nearly consumed by a predatory/assimilative World/civilization;
+2. its surviving world-functions sacrifice their original bodies and preserve an ecological core, patterns, memory and living substrate;
+3. this refugee remnant grafts into a younger non-magical human world;
+4. the graft creates the composite BeastWorld and accessible Quintessence;
+5. humans and Beast life coevolve through Blood, Matrix, Generated Beasts, culture and institutions;
+6. founder compacts become Dynasties and eventually an inter-dynastic Academy;
+7. the old predator finds the refuge again.
 
-## Three required engines
+This is a major author brainstorm and leading reconstruction, not canon.
 
-- **operational/action:** portals, missions, incursions, monsters, investigation, infiltration, discovery and interworld contact;
-- **personal:** the Director protects the Living Star and its life, desires power and worthy challenge, and may confront the void of becoming unnecessary;
-- **saga/civilizational:** the Director, ensemble, Beasts, enemies, institutions, civilization and Living Worlds continue to evolve through contact and conflict.
+## Honest project verdict
 
-## Single current axis leader — hypothesis only
+The new origin is the first current model that can causally join Beasts, humans, magic, Blood, Matrix, Generated Beasts, Dynasties, Academy, portals, war, exploration and civilizational progression. It substantially repairs the apparent premise void exposed by Round 02.
 
-> A veteran protector and the Academy he leads confront a new phase of the portal conflict: the enemy is no longer merely crossing the frontier; it is learning to evolve through BeastWorld.
+It still requires control. The raw version would fail if it locks a literal planetary fragment, treats evolution as inevitable upward progress, makes four entities creators of all life, turns the Concession into instant mastery, reduces the enemy to metaphysical evil or creates an infinite world-consumption ladder.
 
-This is the one axis to test. No incident, antagonist, portal mechanism or scene has been selected.
+## Leading refined origin model — not promoted
 
-## Current author locks
+- a `refugee world-seed` is a backstage model for a compressed ecological kernel using the interworld medium, not a literal half-planet meteor;
+- the present world is a genuine graft/holobiont-like composite whose cooperation remains contested;
+- the surviving entities are differentiated, load-bearing world-functions/archives; four may be historical rather than cosmic;
+- their original bodies died; material aspects are real but bounded by ecological anchors;
+- Blood is synthesized through living pattern + host matter + Quintessence + active calibration;
+- Direct Concession differs through recognition/reciprocal calibration, not a visible purity percentage;
+- humans contribute cumulative culture, abstraction, logistics and institutions; Beast life contributes Quintessence embodiment, ecological memory and transformative biology;
+- the enemy represents forced/extractive incorporation rather than automatically `dark equals evil`;
+- its return results from a long search/campaign, not the protagonist accidentally summoning it.
 
-- the Director's outward purpose is protection of the Star, ecosystems, Beasts, humans and other life;
-- he continues gaining real power and capability after the adolescent Concession;
-- other characters, opponents, Beasts, institutions and civilization evolve too;
-- portals and other Worlds are foundational, not decorative late escalation;
-- the work requires fast supernatural martial action, creatures, opponents and major events as well as relationships, politics and civilization;
-- politics may pressure the story but does not automatically define its premise;
-- age 15–16 is an origin event, not the end of progression;
-- the author has not yet finished reading or validating the previous integrator response and may correct this route.
+## Single series premise under development
 
-## Open models
+> BeastWorld is a refugee ecology born when the remains of a destroyed Beast World grafted into a human world. Three millennia later, the predatory civilization that caused the first extinction has found the refuge, forcing humans, Beasts and their institutions to prove whether reciprocal evolution can out-adapt conquest without becoming conquest.
 
-### Portal cosmology
+## Single Book 1 axis under stress-test
 
-1. resonant wound network;
-2. predatory anchoring by a dying/corrupted/expansionist World;
-3. ecological collision between incompatible Living-World survival strategies.
+> During the first coordinated campaign of Fissures, a fifteen-year-old heir receives the first Direct Concession since the founders and must gain agency over a power everyone else reads as destiny, while evidence reveals that the attackers are the civilization that hunted the original Beast World into this refuge.
 
-First stress-test only: A as mechanism, B as apparent attack, C as possible deeper truth.
+No inciting incident, enemy champion, ending battle or scene has been selected.
 
-### Director progression
+## Chronology leader
 
-Body/integration, martial technique, magic, foreign counterplay, joint combat, command, knowledge and ethical maturity. Each gain must create consequences without replacing real power growth.
+Begin around age fifteen and earn the adult Director. Use age sixteen as the full Academy-entry horizon. Keep a bounded Oceanic/maternal stabilization and formation period story-active. Reveal ancient history through present evidence rather than front-loading a complete cosmology lecture.
 
-### Combat
+This supersedes the adult-present chronology as current leader; it remains an author-validation item.
 
-Real physical substrate plus fast supernatural expression. The old realistic combat note is usable for weapon geometry, injury and bodily consequence only; it no longer controls pacing or tone.
+## Current strong author intent
 
-## Suspended
+- real reciprocal human–Beast coevolution;
+- original Beast World plus initially non-magical human host;
+- governing entities beyond giant animal gods, with sacrificed original bodies;
+- continued growth of protagonist, peers, enemies, Beasts, institutions and civilization;
+- fast, brutal and legible supernatural martial combat;
+- a broad magic grammar beyond elements, percentages and videogame UI;
+- grounded geography/mass/injury, without universal free flight;
+- protagonist can lose, be injured, retreat, need help and adapt;
+- cousin/heir remains just, formidable, independent and supported by the protagonist;
+- literal bastardy is withdrawn;
+- possible maternal Oceanic lineage and mixed-pattern interference remain live hypotheses;
+- Academy is martial, military, scientific, medical, intelligence and civilizational—not a school-House premise;
+- native allied Beasts are not generic hunting fodder;
+- other Worlds must return consequences home rather than become loot floors;
+- ensemble, romance, humor, friendship, exploration, war and ordinary life all matter.
 
-- fractured dynastic legitimacy as Book 1 leader;
-- ownership/control as assumed saga engine;
-- Round 02 prompt and reports as a valid creative basis;
-- automatic restoration of five demon kings, generic monster lists, pure-evil Infernal Star or any other 22/08 brainstorm detail;
-- external council restart;
+## Blocked regressions
+
+- succession/court drama as the whole premise;
+- static adult strongest who no longer develops;
+- instant-mastery Concession;
+- purity percentage as character worth;
+- four elemental mascot nations;
+- literal gods who can solve the war;
+- pure-evil enemy ecology without persons or internal conflict;
+- `win → consume world → meet bigger god` as series engine;
+- generic portal monster-of-the-week structure;
+- protagonist causing the enemy's return by existing;
+- cousin incompetence/jealousy as shortcut;
+- detached training vacation;
+- external-council restart before author validation;
 - scene work.
 
-## Real unresolved development gaps
+## Author validation gate
 
-- present Book 1 incident;
-- named opponent constellation and enemy agency;
-- students, teachers and adult allied peers with independent arcs;
-- portal mechanics and first antagonist World's moral/ecological structure;
-- exact role of cousin/family/Oceanic material inside—not above—the outward engine;
-- chronology frame for adult present, adolescence and founders' history.
+Validate or correct, in order:
 
-## Next action
+1. refugee world-seed/graft as the refined origin;
+2. beginning around fifteen and earning the adult Director;
+3. reciprocal versus forced incorporation as the thematic opposition;
+4. Direct Concession during the first coordinated Fissure campaign as the Book 1 axis.
 
-The author reads and responds to the previous answer and Pass 54. After validation, choose one incident, one opponent constellation, one portal-cosmology model and one chronology frame. Only then design sequence and scene.
+After validation, choose one concrete inciting incident, one protagonist–entity relationship model, one enemy champion/constraint and a minimum peer ensemble. Only then design sequences and scenes.
 
 **PROMOTED:** nothing.

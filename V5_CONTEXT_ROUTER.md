@@ -1,3 +1,13 @@
+## Pass 55 current route — 05/09/2026
+
+**HOT:** current pointer → active manifest → current dashboard → 05/09 semantic author source → Pass 55 → Pass 50D as guardrail.  
+**WARM on demand:** Pass 54's surviving purpose/action/adaptive-enemy analysis; Pass 53 only for directly relevant Primordial/evolution provenance; one mechanics, character or institution cluster.  
+**COLD:** the 90 KB verbatim source unless wording is disputed; Passes 50A–50C; rejected Academy scenes; Round 02 reports and the full V5 accumulation.
+
+Active task: author validates or corrects the refugee-world graft, start around age fifteen, reciprocal-versus-forced incorporation and the single Book 1 axis. No incident or scene is selected. Nothing promoted.
+
+---
+
 ## Pass 54 current route — 04/09/2026
 
 **HOT:** current pointer → active manifest → current dashboard → current author purpose/portals source → Pass 54 → Pass 50D as guardrail.  

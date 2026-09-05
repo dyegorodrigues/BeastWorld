@@ -1,3 +1,13 @@
+## Pass 55 current state — 05/09/2026
+
+The new primary author source reconstructs BeastWorld as a composite refuge: an original Beast ecology is nearly destroyed by a predatory/assimilative civilization; surviving world-functions sacrifice their bodies and carry an ecological kernel into an initially non-magical human world; graft, Blood, Matrix, Generated Beasts, founder compacts, Dynasties and Academy become consequences of reciprocal human–Beast coevolution; the old predator eventually finds the refuge.
+
+Leading repairs remain NOT-CANON: a refugee world-seed through the interworld medium rather than a literal planet fragment; four surviving load-bearing world-functions rather than creators of all life; synthesized Blood through living pattern, composite matter, Quintessence and active calibration; Direct Concession through reciprocal recognition rather than purity percentage; enemy return through a long constrained search rather than the protagonist causing it.
+
+One Book 1 axis is selected for stress-test: during the first coordinated Fissure campaign, the fifteen-year-old protagonist receives the first Direct Concession since the Founders and must gain agency over it while evidence exposes the original predator's return. Starting young and earning the adult Director is the chronology leader. Author validation is still required. No scene and nothing promoted.
+
+---
+
 ## PASS 54 — PREMISE FAILURE AUDIT + PORTAL/ACTION RESET — 04/09/2026
 
 Round 02 is invalid as a creative basis because its packet over-weighted succession, cousin/Oceanic material and Primordial embodiment while under-specifying portals, adversaries, Academy action, magic spectacle and continued progression. Claude's post-mortem identified that real failure, then overcorrected by treating an author-raw 22/08 `NOT-CANON` brainstorm as definitive. Both frames are blocked.
