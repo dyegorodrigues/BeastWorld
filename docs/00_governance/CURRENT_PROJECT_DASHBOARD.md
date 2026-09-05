@@ -2,115 +2,118 @@
 
 **Updated:** 2026-09-05  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Mode:** `ORIGIN RECONSTRUCTION / YOUNG-PROTAGONIST SINGLE-AXIS GATE / NOT-CANON`
+**Mode:** `WORKING-CANON ORIGIN ROUTE / SECOND-BRAIN REBUILD / NO SCENE`
 
 ## Read first
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
 3. this dashboard
-4. `docs/08_sources/conversations/2026-09-05-author-origin-world-graft-symbiogenesis-young-protagonist-source-record.md`
-5. `docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md`
-6. Pass 50D as creative-quality guardrail.
+4. `docs/08_sources/conversations/2026-09-05-author-promotion-second-brain-cleanup-source-record.md`
+5. `docs/07_decisions/ADR-0006-WORKING-CANON-ORIGIN-GRAFT-YOUNG-PROTAGONIST-ROUTE.md`
+6. `docs/01_bible/CURRENT_ORIGIN_AND_WORLD_GRAFT_WORKING_CANON.md`
+7. `docs/09_reviews/chatgpt/2026-09-05/56_AUTHOR_VALIDATION_WORKING_CANON_PROMOTION_AND_SECOND_BRAIN_REBUILD.md`
+8. Pass 50D as creative-quality guardrail before any scene work.
 
-The 90 KB verbatim brainstorm is preserved but remains COLD unless wording/provenance is disputed. Passes 50A–50C remain COLD except to prevent regression. Do not write a scene. Nothing promoted.
+The 05/09 verbatim brainstorm and semantic source remain preserved for nuance/provenance. Pass 55 is now WARM rationale/history behind the accepted route. Passes 50A–50C remain COLD except for regression checks.
 
-## Integrity receipt
+## Author validation received
 
-The author's attached export and the current Notion page `Beastworld origem brainstorm` contain exactly the same semantic text after whitespace and Notion escape normalization. This proves no loss between those current copies. It cannot prove whether anything was deleted before both copies existed. The raw Notion page remains untouched.
+After the Pass 55 reconstruction and the human-language second audit, the author explicitly stated that **this is the path the project will follow** and asked for promotion plus a full Notion second-brain cleanup.
 
-## Major current source correction
+Under `CANON_POLICY.md`, the structural route is therefore promoted to **WORKING-CANON**, not final CANON. Fine mechanisms and unvalidated details remain HYPOTHESIS/UNRESOLVED.
 
-The 05/09 author brainstorm supplies a new causal origin:
+## Current WORKING-CANON spine
 
-1. an older Beast-inhabited Living World is nearly consumed by a predatory/assimilative World/civilization;
-2. its surviving world-functions sacrifice their original bodies and preserve an ecological core, patterns, memory and living substrate;
-3. this refugee remnant grafts into a younger non-magical human world;
-4. the graft creates the composite BeastWorld and accessible Quintessence;
-5. humans and Beast life coevolve through Blood, Matrix, Generated Beasts, culture and institutions;
-6. founder compacts become Dynasties and eventually an inter-dynastic Academy;
-7. the old predator finds the refuge again.
+1. An older Beast-inhabited Living World existed whose biodiversity already embodied Quintessence.
+2. A predatory interworld civilization nearly destroyed/assimilated it.
+3. A real living continuity escaped: enough ecological pattern, Quintessence, matter/substrate, memory and surviving deep intelligences/functions to continue.
+4. That remnant reached an initially non-magical human world possessing culture, tools, martial traditions and institutions.
+5. The remnant grafted into the human world; present BeastWorld is the **new composite born from both histories**.
+6. Human cumulative culture and Beast/Quintessence biology co-develop across millennia, creating the conditions for Blood, Matrix, Generated Beasts, martial magic, alchemy, medicine, Dynasties and Academy.
+7. The civilization connected to the original near-extinction eventually finds/reaches the refuge again.
+8. The protagonist’s main arc begins around age fifteen; the adult Director is a future state earned through the saga.
+9. During the first coordinated Fissure campaign he receives the first Direct Concession since the Founders; the Concession does not grant instant mastery and does not cause the enemy’s return.
+10. The cousin remains the legitimate designated successor, independently formidable and not an automatic jealous rival.
+11. Reciprocal development/integration versus forced/extractive incorporation is the current structural thematic opposition without reducing entire peoples to moral allegories.
 
-This is a major author brainstorm and leading reconstruction, not canon.
+## Nuance that must remain visible
 
-## Honest project verdict
+- The original Beast World had broad biodiversity beyond Dragon/Phoenix/Qilin/Oceanic motifs.
+- `Beast` can include oceanic, aerial, predatory, plant-like and other nonstandard forms.
+- The human host already had civilization and martial culture before accessible magic.
+- Year Zero, environmental transformation, auroras/tremors/new materials and similar manifestations remain live possibilities, not closed facts.
+- Deep entities must retain numinous/person-like presence; `world-function/archive` is backstage utility language, not the whole creative image.
+- Their original bodies died; present aspects can be real but partial and world-anchored.
+- Semantic/resonant communication and later human formalization of magical notation remain live.
+- Sangue is a living bodily/lineage/calibration problem, not a visible purity percentage.
+- Generated Beasts can mature toward autonomous organic personhood.
+- Mother remains present; possible Oceanic lineage, powerful father/uncle generation and political-marriage-to-love history remain live hypotheses.
+- A bounded Oceanic formation period, maternal grandfather/master and a lighter regional entity remain live hypotheses.
+- Academy needs Coliseum/competition, friendship, romance, humor and ordinary life alongside research, medicine, intelligence, alchemy and defense.
+- Invader anatomy/material research should feed concrete countermeasures and civilizational change.
+- Combat remains grounded in weapon/mass/terrain/injury while scaling to extreme supernatural speed and expression; universal free flight remains blocked.
+- Other Worlds must create durable consequences at home.
+- The provisional ancient/sacred Generated-Beast `anciã da Fei` concept, multiple later romances and resonant notation remain preserved possibilities, not canonized details.
 
-The new origin is the first current model that can causally join Beasts, humans, magic, Blood, Matrix, Generated Beasts, Dynasties, Academy, portals, war, exploration and civilizational progression. It substantially repairs the apparent premise void exposed by Round 02.
+## Still HYPOTHESIS / UNRESOLVED
 
-It still requires control. The raw version would fail if it locks a literal planetary fragment, treats evolution as inevitable upward progress, makes four entities creators of all life, turns the Concession into instant mastery, reduces the enemy to metaphysical evil or creates an infinite world-consumption ladder.
+- exact remnant form, mass, travel physics and in-world terminology;
+- exact number, names, domains and ontology of the deep entities;
+- exact Sangue/Matrix/Direct-Concession mechanism;
+- exact manifestation of Direct Concession;
+- exact maternal/Oceanic genealogy and training duration;
+- exact Dynastic count, titles, borders and governance;
+- exact Fissure chronology and interworld compatibility rules;
+- exact rules/ethics for future integration, liberation, salvage or absorption of other Worlds;
+- concrete Book 1 inciting incident;
+- protagonist–entity relationship in sufficient detail for scenes;
+- one enemy champion/strategic constraint;
+- minimum peer/adult ensemble;
+- Book 1 climax and ending.
 
-## Leading refined origin model — not promoted
+## Current Notion human route
 
-- a `refugee world-seed` is a backstage model for a compressed ecological kernel using the interworld medium, not a literal half-planet meteor;
-- the present world is a genuine graft/holobiont-like composite whose cooperation remains contested;
-- the surviving entities are differentiated, load-bearing world-functions/archives; four may be historical rather than cosmic;
-- their original bodies died; material aspects are real but bounded by ecological anchors;
-- Blood is synthesized through living pattern + host matter + Quintessence + active calibration;
-- Direct Concession differs through recognition/reciprocal calibration, not a visible purity percentage;
-- humans contribute cumulative culture, abstraction, logistics and institutions; Beast life contributes Quintessence embodiment, ecological memory and transformative biology;
-- the enemy represents forced/extractive incorporation rather than automatically `dark equals evil`;
-- its return results from a long search/campaign, not the protagonist accidentally summoning it.
+The new human-first entry is `🌒 BEASTWORLD — Segundo Cérebro / HOME`.
 
-## Single series premise under development
+Its structure is:
 
-> BeastWorld is a refugee ecology born when the remains of a destroyed Beast World grafted into a human world. Three millennia later, the predatory civilization that caused the first extinction has found the refuge, forcing humans, Beasts and their institutions to prove whether reciprocal evolution can out-adapt conquest without becoming conquest.
+- `00 — AGORA — Estado Atual e Próximo Passo`
+- `01 — ENCICLOPÉDIA ATUAL — Wiki Humana`
+- `02 — AUTORIDADE & CÂNONE — O que vale hoje`
+- `03 — LABORATÓRIO — Hipóteses, Passos e Pesquisa`
+- `04 — ARQUIVO HISTÓRICO — Versões antigas e caminhos superados`
+- `05 — FONTES AUTORAIS — Brainstorms, transcrições e proveniência`
 
-## Single Book 1 axis under stress-test
-
-> During the first coordinated campaign of Fissures, a fifteen-year-old scion of a founding Dynasty receives the first Direct Concession since the founders and must gain agency over a power everyone else reads as destiny, while evidence reveals that the attackers are the civilization that hunted the original Beast World into this refuge.
-
-No inciting incident, enemy champion, ending battle or scene has been selected.
-
-## Chronology leader
-
-Begin around age fifteen and earn the adult Director. Use age sixteen as the full Academy-entry horizon. Keep a bounded Oceanic/maternal stabilization and formation period story-active. Reveal ancient history through present evidence rather than front-loading a complete cosmology lecture.
-
-This supersedes the adult-present chronology as current leader; it remains an author-validation item.
-
-## Current strong author intent
-
-- real reciprocal human–Beast coevolution;
-- original Beast World plus initially non-magical human host;
-- governing entities beyond giant animal gods, with sacrificed original bodies;
-- continued growth of protagonist, peers, enemies, Beasts, institutions and civilization;
-- fast, brutal and legible supernatural martial combat;
-- a broad magic grammar beyond elements, percentages and videogame UI;
-- grounded geography/mass/injury, without universal free flight;
-- protagonist can lose, be injured, retreat, need help and adapt;
-- cousin/heir remains just, formidable, independent and supported by the protagonist;
-- literal bastardy is withdrawn;
-- possible maternal Oceanic lineage and mixed-pattern interference remain live hypotheses;
-- Academy is martial, military, scientific, medical, intelligence and civilizational—not a school-House premise;
-- native allied Beasts are not generic hunting fodder;
-- other Worlds must return consequences home rather than become loot floors;
-- ensemble, romance, humor, friendship, exploration, war and ordinary life all matter.
+The old 23/08 V3/V4 encyclopedia has been preserved and visually demoted to historical archive rather than deleted.
 
 ## Blocked regressions
 
 - succession/court drama as the whole premise;
-- static adult strongest who no longer develops;
+- static adult strongest as mandatory opening;
 - instant-mastery Concession;
-- purity percentage as character worth;
-- four elemental mascot nations;
-- literal gods who can solve the war;
-- pure-evil enemy ecology without persons or internal conflict;
-- `win → consume world → meet bigger god` as series engine;
+- blood-purity percentages as power/character worth;
+- four elemental mascot nations or four automatic creators of all life;
+- unlimited entity battle avatars that solve the war;
+- protagonist causing the enemy return by existing;
+- native allied Beasts as generic Academy hunting fodder;
+- detached Oceanic training vacation;
+- universal free flight;
 - generic portal monster-of-the-week structure;
-- protagonist causing the enemy's return by existing;
-- cousin incompetence/jealousy as shortcut;
-- detached training vacation;
-- external-council restart before author validation;
-- scene work.
+- automatic `win → consume world → bigger god` escalation;
+- flattening references into originality-police constraints;
+- scene writing before the next concrete gate passes.
 
-## Author validation gate
+## Next creative gate
 
-Validate or correct, in order:
+Do **not** reopen the macro-premise by default. The next task is concrete:
 
-1. refugee world-seed/graft as the refined origin;
-2. beginning around fifteen and earning the adult Director;
-3. reciprocal versus forced incorporation as the thematic opposition;
-4. Direct Concession during the first coordinated Fissure campaign as the Book 1 axis.
+1. select one Book 1 inciting incident;
+2. define one protagonist–entity relationship model at actionable detail;
+3. define one enemy champion or strategic constraint;
+4. define a minimum peer/adult ensemble with independent wants;
+5. stress-test those against ADR-0006 and Pass 50D;
+6. only then move into sequence/scene design.
 
-After validation, choose one concrete inciting incident, one protagonist–entity relationship model, one enemy champion/constraint and a minimum peer ensemble. Only then design sequences and scenes.
-
-**PROMOTED:** nothing.
+**PROMOTED:** structural route to WORKING-CANON via ADR-0006.  
+**NOT PROMOTED:** exact mechanisms, names, counts, scene choices and preserved possibilities.
