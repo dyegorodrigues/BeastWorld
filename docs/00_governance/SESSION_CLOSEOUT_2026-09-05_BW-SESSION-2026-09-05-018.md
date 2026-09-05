@@ -3,7 +3,8 @@
 **Date:** 2026-09-05  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
 **Previous HEAD:** `a2ccd9b9047a78a3a5e1dd37a32731f4aab10bde`  
-**Content commit:** `4b396f09b7e1dca829288aa4eb7a4804ad7ca7e3`  
+**Initial content commit:** `4b396f09b7e1dca829288aa4eb7a4804ad7ca7e3`  
+**Content/QA commit:** `8cfd2c28fa05934e9e414864b6952d008d5b9c19`  
 **State:** `WAITING FOR AUTHOR VALIDATION / NOT-CANON / NO SCENE / NO PROMOTION`
 
 ## Mission
@@ -19,6 +20,7 @@ Preserve and reconstruct the author's 05/09 origin brainstorm without losing det
 - researched symbiogenesis, endosymbiosis, niche construction, cumulative culture, holobiont criticism, Red Queen coevolution and planetary-scale intelligence;
 - compared the model functionally with *World Trigger*, *Kaiju No. 8*, *The Beginning After the End*, *One-Punch Man*, *Solo Leveling*, *Nano Machine*, *Fog Hill of Five Elements*, *Final Fantasy VII*, *Nausicaä*, *Princess Mononoke*, *Xenoblade Chronicles 3*, *I Am an Evil God* and *The Expanse*;
 - identified the new causal spine and major originality collisions;
+- re-audited the atomized capture and restored explicit receipts for the childhood entity relationship, numinous Concession signs, ordinary/mythical Beast materials, offerings, parental marriage variants, father/uncle parity and the Jin-Woo/Beru, Goku/Beerus, Hunter × Hunter and World Trigger functions;
 - modeled a refugee world-seed/graft, load-bearing world-functions, calibrated synthesized Blood and reciprocal human–Beast coevolution;
 - selected one series premise and one Book 1 axis for stress-test without promotion;
 - recommended starting around fifteen and earning the adult Director;

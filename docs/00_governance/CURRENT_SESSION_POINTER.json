@@ -101,11 +101,12 @@
     "VERIFIED",
     "SYNCED"
   ],
-  "content_commit": "4b396f09b7e1dca829288aa4eb7a4804ad7ca7e3",
+  "initial_content_commit": "4b396f09b7e1dca829288aa4eb7a4804ad7ca7e3",
+  "content_commit": "8cfd2c28fa05934e9e414864b6952d008d5b9c19",
   "notion_session_ledger": "https://app.notion.com/p/3d242424cdbc81c3990fc7a691b12659",
   "verification": {
     "result": "PASS",
-    "verified_remote_head_before_pointer_update": "4b396f09b7e1dca829288aa4eb7a4804ad7ca7e3",
+    "verified_remote_head_before_pointer_update": "8cfd2c28fa05934e9e414864b6952d008d5b9c19",
     "source_integrity": "ATTACHMENT_EQUALS_CURRENT_NOTION_AFTER_WHITESPACE_AND_MARKDOWN_ESCAPE_NORMALIZATION",
     "json_parsed": [
       "docs/00_governance/CURRENT_SESSION_POINTER.json",
