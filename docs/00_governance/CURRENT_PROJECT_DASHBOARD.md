@@ -1,9 +1,9 @@
 # BeastWorld — Current Project Dashboard
 
 **Updated:** 2026-09-05  
-**Current pass:** 59  
+**Current pass:** 60  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Mode:** `STRUCTURAL WORKING-CANON / RELATIONAL + SEMANTIC + COMMUNICATION FIDELITY / WARM REFERENCE ATLAS / NO SCENE`
+**Mode:** `STRUCTURAL WORKING-CANON / STORY-READY SKELETON IN DEVELOPMENT / SEMANTIC + COMMUNICATION FIDELITY / WARM REFERENCE ATLAS / NO SCENE`
 
 ## Read first
 
@@ -14,7 +14,7 @@
 5. current Bible
 6. `docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`
 7. `docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md`
-8. Pass 58
+8. `docs/00_governance/STORY_READY_AUTHOR_ROOM_WORKFLOW.md`
 9. only the relevant current domain cluster.
 
 Pass 59 reference atlas is **WARM/task-specific**, not mandatory HOT:
@@ -22,7 +22,7 @@ Pass 59 reference atlas is **WARM/task-specific**, not mandatory HOT:
 
 ## Current authority
 
-ADR-0006 remains the lore-promotion boundary. **Pass 59 promotes no new lore.**
+ADR-0006 remains the lore-promotion boundary. **Passes 59–60 promote no new lore.**
 
 Current spine:
 
@@ -30,90 +30,60 @@ Current spine:
 
 The protagonist's main lived story begins around fifteen. The adult Director is earned. Direct Concession occurs during the first coordinated Fissure campaign but does not install mastery. The cousin is the legitimate formidable successor. The enemy's return is independent of the protagonist.
 
-## Pass 58 — communication/technical fidelity
+## Pass 60 — Story-Ready Skeleton
 
-Recovered writer-room term: **`ontologia metabiológica`**.
+The project no longer treats the four existing P0 questions as the author's entire interface. They remain **mandatory scene gates**, but first we build the minimum interoperable skeleton needed to answer them intelligently.
 
-Deep entities are not spirits piloting bodies or external gods detached from nature. The construction model treats consciousness, biology, Quintessence, ecology and world-function as continuous enough that a world-integrated intelligence may, under unresolved limits, metabolize the Living World and form a real bounded material aspect.
+### Human-facing questions
+1. **How does this world work?**
+2. **Who lives in it and what do they want?**
+3. **What happens first that cannot be taken back?**
+4. **How does that first story grow into the larger saga?**
 
-Author-facing explanation rule:
-**make it visible → explain machinery → show constraint/consequence/status → add compact research/reference backstage note when useful.**
+### Round order
+1. **Power & Combat** — few deep rules, learned skill, Beast relationship, costs, counterplay and visible growth.
+2. **Society & Naming** — define Dynasty/House/lineage/state/order/Academy meanings before proper names.
+3. **Protagonist & Relationship Web** — minimum ensemble with independent wants and competence ecology.
+4. **Three Book 1 Architectures** — full causal spines, not isolated opening scenes.
+5. **Select/Fuse** — choose/hybridize and close incident, entity relation, enemy constraint and ensemble gates.
+6. **Youth → Adult Director Bridge** — only then decide time-skip model.
+7. **Sequence Map** — chapters, subplots, reveals, quiet life, research, Academy, travel and battles.
+8. **Scenes** — use `CREATIVE_SCENE_GATE.md`.
+
+Current round: **ROUND 1 — POWER & COMBAT STORY-READY**.
+
+For each major round, normally generate **3 structurally different options**, show image + mechanism + consequences + risks + reference lessons + copying hazards, let the author choose/reject/hybridize, stress-test, and promote only explicitly accepted pieces.
+
+Full process:
+`docs/00_governance/STORY_READY_AUTHOR_ROOM_WORKFLOW.md`
 
 ## Pass 59 — reference engineering atlas
 
-The latest author directive expands reference study from fight choreography to **whole narrative engineering**.
+Jujutsu Kaisen is a primary **whole-story engineering** reference: individualized power identity, rules that generate situations, relationships, institutional pressure, irreversible consequences, Gojo-level strategic gravity and ensemble relevance.
 
-Permanent GitHub research:
-`docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md`
+Fog Hill is studied for body/weapon/personality/terrain and legible extreme action. Solo Leveling for visible progression and earned presence, with the caution that an excessively protagonist-centered structure can become monotonous. Nano Machine for competence-acquisition pleasure. Fullmetal Alchemist for **few deep rules → many personal/civilizational consequences**.
 
-Human Notion mirror:
-`03 — LABORATÓRIO → LAB — Atlas de Referências — Fog Hill, JJK, Solo Leveling, Nano Machine e Fullmetal`
-
-### Jujutsu Kaisen is now a primary whole-story reference
-Study:
-- individualized techniques/power as character identity;
-- rules/conditions that manufacture choices and situations;
-- relationship dynamics and character pairs/trios;
-- institutional pressure shaping personal arcs;
-- irreversible turns with meaningful residue;
-- **Gojo as strongest-character strategic gravity**;
-- how an ensemble remains necessary despite an apex figure.
-
-Do **not** import curses, cursed energy, Reverse Cursed Technique, Domains, Binding Vows or Culling Game as a renamed BeastWorld system.
-
-### Fog Hill of Five Elements
-Study body/weapon/personality/terrain, information-gathering inside fights and high speed that remains spatially legible. Do not import five-element guardian architecture, xianxia package or ink-wash identity wholesale.
-
-### Solo Leveling
-Study visible progression and earned presence. Avoid System/stats and an ensemble that exists mainly to witness the protagonist.
-
-### Nano Machine
-Study pleasure of technical competence acquisition. Avoid literal nanotech/cultivation scaffold.
-
-### Fullmetal Alchemist
-Study **few deep rules → many personal/civilizational consequences**. This is the strongest current antidote to BeastWorld overengineering.
-
-## Pass 59 hypotheses — NOT CANON
-
-Preserved for future stress tests:
-
-- scene-yield test / complexity budget;
-- progression by verbs;
-- biomecânica bestial;
-- corporal → hybrid → extraordinary choreography regimes as staging tool;
-- strongest-character systemic pressure;
-- ensemble competence ecology;
-- Academy field → research → medicine/weapons/doctrine → deployment → enemy-adapts loop;
-- enemy adaptation visible in scenes;
-- character design through relationship edges;
-- moment design = character want + rule pressure + relationship pressure + irreversible residue;
-- important fights must alter/reveal character, relationship, enemy model, rule, institution or plot state;
-- modern manhwa/anime clarity + Fog Hill kinetic intelligence as visual-development direction.
+Hypotheses preserved but not canonized include progression by verbs, biomecânica bestial, choreography regimes, competence ecology, strongest-character systemic pressure, Academy feedback loop and enemy adaptation loop.
 
 ## Complexity-budget rule
 
-Before opening another technical research cluster ask:
+Before deepening a mechanic ask:
 
-> **What can this rule make a character do, choose, discover, fear, lose, build, fight or change that the story could not do as well without it?**
+> **What can this rule make a character do, choose, discover, fear, lose, build, fight, teach or change that the story could not do as well without it?**
 
-Then classify as:
-- story-critical now;
-- structural but deferrable;
-- flavor/detail;
-- speculative edge case.
-
-Do not let speculative edge cases stop current story development unless they expose a genuine structural contradiction.
+Prefer few deep generative rules with many consequences. Do not let speculative edge cases block story development unless they expose a genuine contradiction.
 
 ## Adult Director / time skip
 
-The adult Director remains a strong future horizon. Exact chronology remains **OPEN**.
+The adult Director remains a strong future horizon. Exact chronology is **OPEN**.
 
-Research models:
+Models retained for later comparison:
 1. extended youth phase;
 2. Book 1 youth → major Book 2 jump;
-3. phased aging / smaller selective jumps.
+3. phased aging / smaller selective jumps;
+4. optional future-fragment model if it improves promise without destroying uncertainty.
 
-No model selected. The decision should wait until the four P0 Book 1 gates make clear what development a jump would erase.
+Do not choose until Book 1 architecture shows what a jump would preserve or erase.
 
 ## Semantic fidelity still required
 
@@ -128,6 +98,7 @@ Do not lose broad Beast biodiversity; numinous/person-like deep entities; civili
 Root: `🌒 BEASTWORLD — Segundo Cérebro / HOME`
 
 - `00 — AGORA`
+  - `ROTA DE CRIAÇÃO — Esqueleto Story-Ready → Livro 1 → Saga`
 - `01 — ENCICLOPÉDIA ATUAL`
 - `02 — AUTORIDADE & CÂNONE`
 - `03 — LABORATÓRIO`
@@ -136,21 +107,20 @@ Root: `🌒 BEASTWORLD — Segundo Cérebro / HOME`
 - `05 — FONTES AUTORAIS`
 - `06 — GRAFO & REGISTROS`
 - `07 — MEMÓRIA AUTORAL`
-  - `07A — LINGUAGEM DE CONSTRUÇÃO — Tom, termos técnicos e referências`
 
-## Current P0 creative gate
+## Existing scene gates
 
-Before sequence/scene:
+Before prose, still close:
 1. `BW-Q-V5-BOOK1-INCITING-001`
 2. `BW-Q-V5-PROT-ENTITY-001`
 3. `BW-Q-V5-ENEMY-CONSTRAINT-001`
 4. `BW-Q-V5-ENSEMBLE-001`
 
-Stress-test against ADR-0006, Authorial Fidelity, Explanation/Technical Lexicon and Pass 50D. Use Pass 59 where character/ensemble/action/story architecture benefits from the atlas.
+Pass 60 places these after enough Story-Ready work exists to answer them intelligently.
 
 ## Historical contamination guard
 
-Root `HANDOFF.md` and `PROJECT_STATE.md` are current redirects. Former bodies live in `docs/00_governance/history/`. Old V3/V4 material remains archive/provenance unless explicitly reconciled.
+Root `HANDOFF.md` and `PROJECT_STATE.md` remain redirects. Old V3/V4 material remains archive/provenance unless explicitly reconciled. Do not revive rejected packages by habit.
 
 ## Access drift
 
