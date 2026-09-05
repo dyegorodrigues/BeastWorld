@@ -220,7 +220,7 @@ This is the only series premise Pass 55 develops. Succession, Oceanic lineage, r
 
 ## 8. One Book 1 narrative axis — selected for stress-test, not promoted
 
-> **During the first coordinated campaign of Fissures, a fifteen-year-old heir receives the first Direct Concession since the founders and must gain agency over a power everyone else reads as destiny, while evidence reveals that the attackers are the civilization that hunted the original Beast World into this refuge.**
+> **During the first coordinated campaign of Fissures, a fifteen-year-old scion of a founding Dynasty receives the first Direct Concession since the founders and must gain agency over a power everyone else reads as destiny, while evidence reveals that the attackers are the civilization that hunted the original Beast World into this refuge.**
 
 Plain formulation:
 
