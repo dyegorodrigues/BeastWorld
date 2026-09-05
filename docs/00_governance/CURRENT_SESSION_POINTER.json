@@ -1,10 +1,10 @@
 {
-  "schema_version": 8,
-  "session_id": "BW-SESSION-2026-09-05-021",
-  "status": "PASS58_COMMUNICATION_FIDELITY_LEXICON_RESEARCH_SCAFFOLD_READY_FOR_P0_BOOK1_GATE",
+  "schema_version": 9,
+  "session_id": "BW-SESSION-2026-09-05-022",
+  "status": "PASS59_REFERENCE_ENGINEERING_ATLAS_SAVED_READY_FOR_P0_BOOK1_GATE",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "active_cluster": "Pass 58: Working Canon + relational Second Brain + Authorial Fidelity + author explanation/technical lexicon",
-  "epistemic_state": "STRUCTURAL_WORKING_CANON / SEMANTIC_AND_COMMUNICATION_FIDELITY_REQUIRED / FINE_MECHANISMS_OPEN / NO_SCENE",
+  "active_cluster": "Pass 59: current Working Canon + semantic/communication fidelity + WARM reference engineering atlas",
+  "epistemic_state": "STRUCTURAL_WORKING_CANON / SEMANTIC_AND_COMMUNICATION_FIDELITY_REQUIRED / REFERENCE_ATLAS_RESEARCH_ONLY / FINE_MECHANISMS_OPEN / NO_SCENE",
   "mandatory_read_order": [
     "START_HERE_FOR_AI.md",
     "docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json",
@@ -16,6 +16,22 @@
     "docs/09_reviews/chatgpt/2026-09-05/58_AUTHOR_EXPLANATION_TONE_TECHNICAL_LEXICON_AND_RESEARCH_SCAFFOLD_QA.md",
     "V5_CONTEXT_ROUTER.md"
   ],
+  "warm_reference_atlas": {
+    "atlas": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
+    "pass": "docs/09_reviews/chatgpt/2026-09-05/59_REFERENCE_ENGINEERING_ATLAS_JJK_FOG_HILL_ENSEMBLE_ACTION_AND_COMPLEXITY_BUDGET.md",
+    "author_source": "docs/08_sources/conversations/2026-09-05-author-reference-atlas-jjk-fog-hill-solo-leveling-nano-machine-fma-source-record.md",
+    "load_when": [
+      "character creation and character relationships",
+      "ensemble design",
+      "combat and progression",
+      "Academy narrative engineering",
+      "strongest-character or adult-Director pressure",
+      "book or time-skip architecture",
+      "audiovisual action direction",
+      "reference comparison"
+    ],
+    "not_mandatory_hot": true
+  },
   "working_canon_structural_spine": [
     "Older Beast-inhabited Living World with broad biodiversity",
     "Predatory interworld near-extinction",
@@ -30,16 +46,42 @@
     "Cousin remains legitimate independently formidable designated successor",
     "Reciprocal or negotiated development versus forced or extractive incorporation as structural thematic opposition"
   ],
-  "communication_fidelity": {
-    "target": "Make the idea visible, then expose construction logic, then add compact research/reference backstage note when useful",
-    "avoid": [
-      "sterile specification that makes the intended world feel weak",
-      "empty superlatives or praise without mechanism",
-      "jargon without plain-language translation",
-      "poetic prose that obscures status or causality",
-      "scientific analogy presented as literal proof",
-      "reference transplantation instead of functional study"
+  "pass59_research_only_design_candidates": [
+    "scene-yield test and complexity budget",
+    "few deep generative rules producing many consequences",
+    "progression by verbs",
+    "biomecânica bestial",
+    "corporal hybrid extraordinary choreography regimes as staging tool",
+    "strongest-character systemic pressure or strategic gravity",
+    "ensemble competence ecology",
+    "Academy field-to-research-to-doctrine-to-enemy-response loop",
+    "enemy adaptation loop",
+    "relationship-first character construction",
+    "moment design using character want rule pressure relationship pressure irreversible residue",
+    "important fights changing or revealing story state",
+    "modern manhwa/anime visual clarity combined with Fog Hill-level kinetic intelligence"
+  ],
+  "reference_roles": {
+    "Jujutsu Kaisen": "whole narrative engineering: individualized power identity, rules generating situations, relationships, institutional pressure, brutality with residue, Gojo strongest-character strategic gravity and ensemble problem",
+    "Fog Hill of Five Elements": "body weapon personality terrain and legible supernatural speed; changing choreography grammar",
+    "Solo Leveling": "visible progression and earned presence",
+    "Nano Machine": "pleasure of technical competence acquisition within martial/institutional pressure",
+    "Fullmetal Alchemist": "few deep rules generating broad personal and civilizational consequence graph",
+    "Hunter x Hunter": "conditions information and matchup intelligence",
+    "World Trigger": "specialists teams positional tactics and interworld organizational response",
+    "One-Punch Man": "apex-power meaning problem beyond ability to win fights"
+  },
+  "adult_director_time_skip": {
+    "status": "OPEN",
+    "models": [
+      "extended youth phase before adult transition",
+      "Book 1 youth then major Book 2 time jump",
+      "phased aging with smaller selective jumps"
     ],
+    "decision_rule": "Do not select until the four Book 1 P0 gates make visible what development a jump would preserve or erase"
+  },
+  "communication_fidelity": {
+    "target": "Make the idea visible, expose construction logic, then add compact research/reference backstage note when useful",
     "primary_file": "docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md"
   },
   "writer_room_lexicon": [
@@ -56,23 +98,8 @@
     "cultura cumulativa",
     "coevolução / Red-Queen-type dynamics",
     "continuidade adaptativa",
-    "calibração / coerência / memória ecológica / padrão de linhagem where causally justified",
-    "integração recíproca versus incorporação forçada or extrativa"
+    "calibração / coerência / memória ecológica / padrão de linhagem where causally justified"
   ],
-  "metabiological_ontology_definition": "Writer-room model in which consciousness biology Quintessence ecology and world-function are materially continuous enough that a deep entity is not a spirit piloting flesh; it is a Living-World-integrated intelligence that may under unresolved limits metabolize the world and construct or condense a real material aspect.",
-  "research_scaffold": {
-    "primary": "docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md",
-    "scientific_lenses": [
-      "symbiogenesis and endosymbiosis",
-      "niche construction and ecological inheritance",
-      "human cumulative culture",
-      "host microbiome and holobiont with critical caveats",
-      "reciprocal coevolution and Red Queen",
-      "planetary-scale intelligence as analogy"
-    ],
-    "rule": "Research supplies constraints analogies and questions; fantasy supplies the fictional mechanism"
-  },
-  "reference_study_rule": "For every reference preserve what to study, why it helps, what must not be copied, and how BeastWorld remains distinct",
   "known_corrections": [
     {
       "wrong": "Fei / anciã da Fei",
@@ -80,19 +107,15 @@
       "promotion_effect": "NONE"
     }
   ],
-  "semantic_fidelity_minimum": [
-    "Original Beast World is broad ecology not mascot taxonomy",
-    "Deep entities retain numinous person-like agency and world integration",
-    "Humans already possessed civilization and cumulative culture before accessible magic",
-    "Sangue Matriz and Bestas Geradas are bodily developmental relational rather than loot mechanics",
-    "Spectral humanoid material maturity and autonomy are not automatically one ladder when historical CE mechanics are reopened",
-    "Protagonist begins talented and dangerous but incomplete and can keep growing after Concession",
-    "Cousin remains legitimate formidable successor not automatic jealous villain",
-    "Academy remains civilizational learning engine and social place",
-    "Combat remains physically readable",
-    "Fissures remain interworld frontiers",
-    "Enemy remains adaptive civilization",
-    "Tone retains beauty brutality humor romance friendship family ordinary life wonder horror discovery and war"
+  "source_records_added": [
+    "docs/08_sources/conversations/2026-09-05-author-reference-atlas-jjk-fog-hill-solo-leveling-nano-machine-fma-source-record.md"
+  ],
+  "passes": [
+    "docs/09_reviews/chatgpt/2026-09-05/59_REFERENCE_ENGINEERING_ATLAS_JJK_FOG_HILL_ENSEMBLE_ACTION_AND_COMPLEXITY_BUDGET.md",
+    "docs/09_reviews/chatgpt/2026-09-05/58_AUTHOR_EXPLANATION_TONE_TECHNICAL_LEXICON_AND_RESEARCH_SCAFFOLD_QA.md",
+    "docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md",
+    "docs/09_reviews/chatgpt/2026-09-05/56_AUTHOR_VALIDATION_WORKING_CANON_PROMOTION_AND_SECOND_BRAIN_REBUILD.md",
+    "docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md"
   ],
   "p0_open_questions": [
     "BW-Q-V5-BOOK1-INCITING-001",
@@ -103,19 +126,11 @@
   "scene_status": "BLOCKED_UNTIL_FOUR_P0_GATES_PASS_ADR0006_FIDELITY_EXPLANATION_PROTOCOL_AND_PASS50D",
   "notion_current": {
     "root": "https://app.notion.com/p/3d242424cdbc81ecacf8e5be9f6f2375",
+    "laboratory": "https://app.notion.com/p/3d242424cdbc81fdaf6af97ec84cfe62",
+    "reference_atlas": "https://app.notion.com/p/3d242424cdbc8149a3a6c802c15872e9",
     "authorial_memory": "https://app.notion.com/p/3d242424cdbc81568061d223942631a2",
-    "construction_language": "https://app.notion.com/p/3d242424cdbc81bf9896f4f3f54aac88",
-    "deep_entities": "https://app.notion.com/p/3d242424cdbc81418547e5e87aa4cee7"
+    "construction_language": "https://app.notion.com/p/3d242424cdbc81bf9896f4f3f54aac88"
   },
-  "source_records_added": [
-    "docs/08_sources/conversations/2026-09-05-author-explanation-tone-technical-lexicon-research-scaffold-source-record.md"
-  ],
-  "passes": [
-    "docs/09_reviews/chatgpt/2026-09-05/58_AUTHOR_EXPLANATION_TONE_TECHNICAL_LEXICON_AND_RESEARCH_SCAFFOLD_QA.md",
-    "docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md",
-    "docs/09_reviews/chatgpt/2026-09-05/56_AUTHOR_VALIDATION_WORKING_CANON_PROMOTION_AND_SECOND_BRAIN_REBUILD.md",
-    "docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md"
-  ],
   "blocked_as_current": [
     "old V3 V4 Notion encyclopedia",
     "legacy HANDOFF and PROJECT_STATE bodies",
@@ -129,12 +144,13 @@
     "universal free flight",
     "generic dungeon portal loop",
     "automatic win consume world bigger god escalation",
+    "reference-derived mechanics promoted by resemblance alone",
     "scene work before four P0 gates"
   ],
   "open_operational_drift": [
     "GitHub repository metadata reports PUBLIC while older governance said private; no visibility change was made automatically"
   ],
-  "next_action": "Continue the existing creative conversation from the current problem, using Pass 58 communication fidelity; resolve the four P0 Book 1 gates before scene work without reopening superseded macro models",
+  "next_action": "Continue existing creative work from the four P0 Book 1 gates; WARM-load Pass 59 whenever character, ensemble, combat, progression, Academy, apex protagonist or time-skip engineering is relevant",
   "promotion_level": "WORKING-CANON_STRUCTURAL_ONLY",
-  "previous_session": "BW-SESSION-2026-09-05-020"
+  "previous_session": "BW-SESSION-2026-09-05-021"
 }
