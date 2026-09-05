@@ -1,10 +1,10 @@
 {
-  "schema_version": 3,
+  "schema_version": 4,
   "generated_at": "2026-09-05",
-  "session_id": "BW-SESSION-2026-09-05-021",
+  "session_id": "BW-SESSION-2026-09-05-022",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "mode": "WORKING_CANON_PLUS_SEMANTIC_AND_COMMUNICATION_FIDELITY_READY_FOR_P0_BOOK1_GATE",
-  "epistemic_state": "AUTHOR_VALIDATED_STRUCTURAL_WORKING_CANON_FINE_MECHANISMS_OPEN_NO_SCENE",
+  "mode": "WORKING_CANON_PLUS_SEMANTIC_COMMUNICATION_FIDELITY_AND_WARM_REFERENCE_ATLAS_READY_FOR_P0_BOOK1_GATE",
+  "epistemic_state": "AUTHOR_VALIDATED_STRUCTURAL_WORKING_CANON_FINE_MECHANISMS_OPEN_REFERENCE_DERIVATIONS_RESEARCH_ONLY_NO_SCENE",
   "include": [
     "docs/00_governance/CURRENT_SESSION_POINTER.json",
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
@@ -16,12 +16,22 @@
     "V5_CONTEXT_ROUTER.md"
   ],
   "warm_on_demand": [
+    "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
+    "docs/09_reviews/chatgpt/2026-09-05/59_REFERENCE_ENGINEERING_ATLAS_JJK_FOG_HILL_ENSEMBLE_ACTION_AND_COMPLEXITY_BUDGET.md",
+    "docs/08_sources/conversations/2026-09-05-author-reference-atlas-jjk-fog-hill-solo-leveling-nano-machine-fma-source-record.md",
     "docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md",
     "docs/08_sources/conversations/2026-09-05-author-origin-world-graft-symbiogenesis-young-protagonist-source-record.md",
     "docs/08_sources/conversations/2026-09-05-author-explanation-tone-technical-lexicon-research-scaffold-source-record.md",
     "docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md",
     "docs/05_visual/COMBAT_LANGUAGE.md"
   ],
+  "warm_reference_routing": {
+    "character_ensemble_combat_progression": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
+    "academy_story_engine": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
+    "adult_director_strongest_character": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
+    "time_skip_book_architecture": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
+    "audiovisual_action": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md"
+  },
   "cold_provenance_only": [
     "docs/08_sources/conversations/2026-09-05-author-origin-brainstorm-verbatim.md",
     "docs/00_governance/history/HANDOFF_LEGACY_PRE_PASS57.md",
@@ -52,30 +62,35 @@
   ],
   "communication_fidelity_required": [
     "felt image before or alongside technical abstraction",
-    "construction logic must identify cause mechanism constraint consequence and status",
+    "construction logic identifies cause mechanism constraint consequence and status",
     "technical terms translated into normal language on first use",
     "no empty praise or superlatives as substitutes for analysis",
     "compact backstage scientific or reference note when useful",
-    "research analogy must state its boundary",
-    "reference study must state what to study and what not to copy",
+    "research analogy states its boundary",
+    "reference study states what to study and what not to copy",
     "writer-room term does not automatically become reader-facing or in-world vocabulary"
   ],
-  "writer_room_terms_to_preserve": [
-    "ontologia metabiológica",
-    "Mundo Vivo",
-    "world-core or núcleo do mundo",
-    "world-function or função do mundo",
-    "regulador or arquivo ecológico as partial lenses",
-    "aspecto material or embodiment",
-    "bounded throughput or carga funcional",
-    "simbiogênese",
-    "holobionte as cautious analogy",
-    "construção de nicho",
-    "cultura cumulativa",
-    "coevolução or Red Queen",
-    "continuidade adaptativa",
-    "calibração coerência memória ecológica padrão de linhagem",
-    "integração recíproca versus incorporação forçada or extrativa"
+  "pass59_research_only": [
+    "progression by verbs",
+    "biomecânica bestial",
+    "corporal hybrid extraordinary choreography regimes",
+    "strongest-character strategic gravity",
+    "ensemble competence ecology",
+    "Academy civilizational feedback loop",
+    "enemy adaptation loop",
+    "relationship-edge character design",
+    "moment design with irreversible residue",
+    "complexity budget and scene-yield test",
+    "adult Director time-skip models A B C"
+  ],
+  "reference_roles": [
+    "JJK: whole narrative engineering, Gojo strategic gravity, individualized power, relationships, institutions and rule-generated situations",
+    "Fog Hill: body weapon personality terrain and legible kinetic choreography",
+    "Solo Leveling: visible progression and earned presence",
+    "Nano Machine: competence-acquisition pleasure",
+    "Fullmetal: causal compression through few deep rules and many consequences",
+    "HxH and World Trigger: matchup information and ensemble specialization",
+    "OPM: apex-power purpose problem"
   ],
   "known_corrections": [
     {
@@ -90,18 +105,20 @@
     "BW-Q-V5-ENEMY-CONSTRAINT-001",
     "BW-Q-V5-ENSEMBLE-001"
   ],
+  "adult_director_time_skip_status": "OPEN_RESEARCH_MODELS_ONLY",
   "notion_current_lanes": [
     "00 AGORA",
     "01 ENCICLOPEDIA ATUAL",
     "02 AUTORIDADE & CANONE",
     "03 LABORATORIO",
+    "03/LAB ATLAS DE REFERENCIAS",
     "04 ARQUIVO HISTORICO",
     "05 FONTES AUTORAIS",
     "06 GRAFO & REGISTROS",
     "07 MEMORIA AUTORAL",
     "07A LINGUAGEM DE CONSTRUCAO"
   ],
-  "next_action": "Continue the prior creative conversation using the recovered Pass 58 communication and semantic fidelity; resolve the four P0 Book 1 gates before sequence or scene work",
+  "next_action": "Continue the prior creative conversation from the four P0 Book 1 gates; load Pass 59 only when character, ensemble, combat, progression, Academy, strongest-character, time-skip or audiovisual reference engineering materially helps",
   "scene_status": "BLOCKED_UNTIL_FOUR_P0_GATES_PASS_ADR0006_FIDELITY_EXPLANATION_PROTOCOL_AND_PASS50D",
   "promotion_level": "WORKING-CANON_STRUCTURAL_ONLY"
 }
