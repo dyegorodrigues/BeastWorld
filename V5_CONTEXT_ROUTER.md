@@ -1,11 +1,11 @@
 # BeastWorld — V5 Context Router
 
 **Updated:** 2026-09-05  
-**Current pass:** 59  
-**Status:** `HOT ROUTER / STRUCTURAL WORKING-CANON / SEMANTIC + COMMUNICATION FIDELITY / WARM REFERENCE ATLAS / NO SCENE`  
+**Current pass:** 60  
+**Status:** `HOT ROUTER / STRUCTURAL WORKING-CANON / STORY-READY SKELETON / SEMANTIC + COMMUNICATION FIDELITY / WARM REFERENCE ATLAS / NO SCENE`  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`
 
-> **Preserve everything; load selectively. Summary routes. Source proves. Fidelity preserves meaning. Technical lexicon preserves useful distinctions. Research enters when it answers a concrete design question.**
+> **Preserve everything; load selectively. Summary routes. Source proves. Fidelity preserves meaning. Story-Ready tells you what to solve next. Research enters when it answers a concrete design question.**
 
 ## 1. Minimal HOT load
 
@@ -16,7 +16,7 @@
 5. current Bible
 6. `docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`
 7. `docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md`
-8. Pass 58
+8. `docs/00_governance/STORY_READY_AUTHOR_ROOM_WORKFLOW.md`
 9. only the domain cluster required by the task.
 
 **Pass 59 is WARM/task-specific, not mandatory HOT.**
@@ -41,7 +41,27 @@ Before sequence/scene work also load `CREATIVE_SCENE_GATE.md` and Pass 50D.
 
 Fine mechanisms, exact names/counts, time-skip structure and scenes remain separately gated.
 
-## 3. Communication fidelity
+## 3. Pass 60 — Story-Ready routing
+
+The four old P0 questions remain **scene gates**, not the author's full mental model.
+
+Before prose, build the minimum Story-Ready Skeleton:
+
+1. **Power & Combat** — few deep laws, learned skill, costs, counterplay, Beast relationship and visible growth;
+2. **Society & Naming** — define what Dynasty/House/lineage/state/order/Academy mean before naming them;
+3. **Protagonist & Relationship Web** — independent wants, competencies and behavior-changing relationships;
+4. **Book 1 Engine** — opening situation, inciting event, escalation, Concession placement, climax and irreversible end state;
+5. **Saga Bridge** — only after Book 1 decide what youth→adult jump preserves or erases.
+
+Human-facing round order:
+
+**Round 1 Power/Combat → Round 2 Society/Naming → Round 3 Protagonist/Relationships → Round 4 three Book 1 architectures → Round 5 select/fuse → Round 6 youth/adult bridge → Round 7 sequence map → Round 8 scenes.**
+
+Each major round normally presents **3 genuinely different models** with felt image, mechanism, consequences, risks, reference lessons and copying hazards. Author may choose, reject or hybridize. Promote only explicitly accepted pieces.
+
+Current round: **ROUND1_POWER_AND_COMBAT_STORY_READY**.
+
+## 4. Communication fidelity
 
 For author-facing development use:
 
@@ -51,7 +71,7 @@ Avoid sterile specification, flattering decoration without mechanism, jargon wit
 
 Full protocol: `AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md`.
 
-## 4. Recovered Entity vocabulary
+## 5. Recovered Entity vocabulary
 
 ### Ontologia metabiológica
 Preserve as writer-room concept:
@@ -62,7 +82,7 @@ Related terms: Mundo Vivo, world-core, world-function, regulator/archive as part
 
 Do not promote these labels into in-world vocabulary automatically.
 
-## 5. Research routing — origin/science
+## 6. Research routing — origin/science
 
 For origin, graft, entities, adaptive enemy, human/Beast contribution or scientific analogy, WARM-load Pass 55:
 
@@ -71,7 +91,7 @@ For origin, graft, entities, adaptive enemy, human/Beast contribution or scienti
 Rule:
 **research supplies constraints, analogies and questions; fantasy supplies the fictional mechanism.**
 
-## 6. Reference engineering — Pass 59
+## 7. Reference engineering — Pass 59
 
 When the task concerns **characters, relationships, ensemble, combat, progression, Academy story-engine, apex protagonist, Director/time skip, book architecture or audiovisual action**, WARM-load:
 
@@ -114,7 +134,7 @@ HxH: conditions/information/matchup.
 World Trigger: specialists/team roles/interworld tactical organization.  
 One-Punch Man: apex-power meaning problem beyond winning fights.
 
-## 7. Pass 59 hypotheses — RESEARCH ONLY
+## 8. Pass 59 hypotheses — RESEARCH ONLY
 
 Do not treat these as current mechanics merely because they are useful:
 
@@ -129,7 +149,7 @@ Do not treat these as current mechanics merely because they are useful:
 - important fights changing/revealing character, relationship, enemy model, rule, institution or plot state;
 - modern manhwa/anime visual clarity + Fog Hill kinetic intelligence as visual-development direction.
 
-## 8. Complexity budget
+## 9. Complexity budget
 
 Before opening another technical cluster ask:
 
@@ -141,7 +161,7 @@ Classify:
 - flavor/detail → develop when story requests it;
 - speculative edge case → do not halt the project unless it exposes a true structural contradiction.
 
-## 9. Domain routing
+## 10. Domain routing
 
 ### Origin / graft / Living World
 HOT: ADR-0006 + Bible + Fidelity + Explanation Lexicon.  
@@ -151,52 +171,54 @@ WARM: Pass 55 + semantic origin source.
 Current Wiki C + node/question. Preserve `ontologia metabiológica`. Exact count/domains/limits remain open.
 
 ### Sangue / Matriz / Generated Beasts
-Current Wiki D–E. Load historical CE selectively. Preserve morphology/materialization/maturity/autonomy distinction.
+Current Wiki D–E. For current Round 1 additionally load combat-language and Pass 59 selectively. Preserve morphology/materialization/maturity/autonomy distinction and do not canonize historical CE packages wholesale.
 
 ### Dynasties / society
-Current Wiki F. Older A/B/V4 models remain research/history unless reconciled.
+Current Wiki F. This becomes primary in Round 2. Older A/B/V4 models remain research/history unless reconciled.
 
 ### Academy
 Current Wiki G. For Academy as narrative engine, ensemble and institutional pressure additionally load Pass 59.
 
 ### Protagonist / family / ensemble
-Current Wiki H + ADR-0006. For character construction, Gojo strategic-gravity question, relationships or supporting-cast relevance additionally load Pass 59.
+Current Wiki H + ADR-0006. This becomes primary in Round 3. For character construction, Gojo strategic-gravity question, relationships or supporting-cast relevance additionally load Pass 59.
 
 ### Combat / progression / notation
-Current Wiki I + combat-language. For choreography/progression/audiovisual direction additionally load Pass 59.
+Current Wiki I + combat-language. **Primary domain for current Round 1.** Load Pass 59 for choreography/progression/audiovisual direction.
 
 ### Enemy / other Worlds
 Current Wiki J. Enemy = adaptive civilization, not monster species. Pass 59 can support enemy-learning and multi-front design.
 
 ### Book 1 / time skip / Director
-Current Wiki K + four P0 questions. For architecture load Pass 59.
+Current Wiki K + existing scene-gate questions. Round 4 will create three full Book 1 architectures before selecting/fusing. Round 6 handles the youth/adult bridge.
 
 Adult Director/time-skip status remains **OPEN**. Models preserved for later stress-test:
 - extended youth phase;
 - Book 1 youth → major Book 2 jump;
-- phased aging/smaller jumps.
+- phased aging/smaller jumps;
+- optional future fragment if useful.
 
 No model selected.
 
-## 10. Current P0 gate
+## 11. Existing scene gates
 
-No sequence/scene before:
+Before sequence/scene, still close:
 1. `BW-Q-V5-BOOK1-INCITING-001`
 2. `BW-Q-V5-PROT-ENTITY-001`
 3. `BW-Q-V5-ENEMY-CONSTRAINT-001`
 4. `BW-Q-V5-ENSEMBLE-001`
 
-Then stress-test against ADR-0006 + Fidelity + Explanation Lexicon + Pass 50D. Use Pass 59 only where it materially helps.
+Pass 60 places these after enough Story-Ready work exists to answer them intelligently. Then stress-test against ADR-0006 + Fidelity + Explanation Lexicon + Pass 50D.
 
-## 11. Known correction
+## 12. Known correction
 
 `Fei / anciã da Fei` = capture error. Correct referent: **Fênix**. Do not invent `Fei` as lore.
 
-## 12. Notion current human route
+## 13. Notion current human route
 
 Root: `🌒 BEASTWORLD — Segundo Cérebro / HOME`
 
 - 00 AGORA
+  - ROTA DE CRIAÇÃO — Esqueleto Story-Ready → Livro 1 → Saga
 - 01 ENCICLOPÉDIA ATUAL
 - 02 AUTORIDADE & CÂNONE
 - 03 LABORATÓRIO
@@ -207,17 +229,17 @@ Root: `🌒 BEASTWORLD — Segundo Cérebro / HOME`
 - 07 MEMÓRIA AUTORAL
   - 07A LINGUAGEM DE CONSTRUÇÃO
 
-## 13. Historical contamination guard
+## 14. Historical contamination guard
 
 Root `HANDOFF.md` and `PROJECT_STATE.md` are redirects. Legacy bodies are preserved under `docs/00_governance/history/`. Old V3/V4 pages/nodes are not current authority merely because they are detailed.
 
-## 14. Provenance depths
+## 15. Provenance depths
 
 ### QUICK
 Pointer → Manifest → Dashboard → ADR-0006 → Bible.
 
 ### CREATIVE-FIDELITY
-QUICK + Authorial Fidelity + Explanation/Technical Lexicon + relevant current Wiki/graph/questions.
+QUICK + Authorial Fidelity + Explanation/Technical Lexicon + Story-Ready Workflow + relevant current Wiki/graph/questions.
 
 ### REFERENCE-ENGINEERING
 CREATIVE-FIDELITY + Pass 59 atlas, only for relevant character/ensemble/action/progression/Academy/Director/time-skip questions.
@@ -225,5 +247,5 @@ CREATIVE-FIDELITY + Pass 59 atlas, only for relevant character/ensemble/action/p
 ### SOURCE-EXACT
 Relevant layers + semantic author source + raw/verbatim source + only directly relevant historical cluster.
 
-## 15. Open operational drift
+## 16. Open operational drift
 GitHub currently reports the repository as PUBLIC while older governance said private. No automatic visibility change; author intent required.
