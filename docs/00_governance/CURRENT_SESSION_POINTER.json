@@ -58,7 +58,7 @@
     "chronology begins around age fifteen, crosses a story-active Oceanic formation and reaches full Academy entry near sixteen",
     "ancient history is revealed through present evidence rather than a complete exposition prologue"
   ],
-  "single_axis_for_stress_test": "During the first coordinated campaign of Fissures, a fifteen-year-old heir receives the first Direct Concession since the founders and must gain agency over a power everyone else reads as destiny, while evidence reveals that the attackers are the civilization that hunted the original Beast World into this refuge",
+  "single_axis_for_stress_test": "During the first coordinated campaign of Fissures, a fifteen-year-old scion of a founding Dynasty receives the first Direct Concession since the founders and must gain agency over a power everyone else reads as destiny, while evidence reveals that the attackers are the civilization that hunted the original Beast World into this refuge",
   "axis_status": "SELECTED_FOR_STRESS_TEST_NOT_PROMOTED_PENDING_AUTHOR_VALIDATION",
   "withdrawn_or_blocked": [
     "literal bastardy",
@@ -102,11 +102,12 @@
     "SYNCED"
   ],
   "initial_content_commit": "4b396f09b7e1dca829288aa4eb7a4804ad7ca7e3",
-  "content_commit": "8cfd2c28fa05934e9e414864b6952d008d5b9c19",
+  "no_loss_qa_commit": "8cfd2c28fa05934e9e414864b6952d008d5b9c19",
+  "content_commit": "c52bd7347eb6c74da88d567c1ab9992f65653d79",
   "notion_session_ledger": "https://app.notion.com/p/3d242424cdbc81c3990fc7a691b12659",
   "verification": {
     "result": "PASS",
-    "verified_remote_head_before_pointer_update": "8cfd2c28fa05934e9e414864b6952d008d5b9c19",
+    "verified_remote_head_before_pointer_update": "c52bd7347eb6c74da88d567c1ab9992f65653d79",
     "source_integrity": "ATTACHMENT_EQUALS_CURRENT_NOTION_AFTER_WHITESPACE_AND_MARKDOWN_ESCAPE_NORMALIZATION",
     "json_parsed": [
       "docs/00_governance/CURRENT_SESSION_POINTER.json",

@@ -4,7 +4,8 @@
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
 **Previous HEAD:** `a2ccd9b9047a78a3a5e1dd37a32731f4aab10bde`  
 **Initial content commit:** `4b396f09b7e1dca829288aa4eb7a4804ad7ca7e3`  
-**Content/QA commit:** `8cfd2c28fa05934e9e414864b6952d008d5b9c19`  
+**No-loss QA commit:** `8cfd2c28fa05934e9e414864b6952d008d5b9c19`  
+**Content/terminology QA commit:** `c52bd7347eb6c74da88d567c1ab9992f65653d79`  
 **State:** `WAITING FOR AUTHOR VALIDATION / NOT-CANON / NO SCENE / NO PROMOTION`
 
 ## Mission
@@ -21,6 +22,7 @@ Preserve and reconstruct the author's 05/09 origin brainstorm without losing det
 - compared the model functionally with *World Trigger*, *Kaiju No. 8*, *The Beginning After the End*, *One-Punch Man*, *Solo Leveling*, *Nano Machine*, *Fog Hill of Five Elements*, *Final Fantasy VII*, *Nausicaä*, *Princess Mononoke*, *Xenoblade Chronicles 3*, *I Am an Evil God* and *The Expanse*;
 - identified the new causal spine and major originality collisions;
 - re-audited the atomized capture and restored explicit receipts for the childhood entity relationship, numinous Concession signs, ordinary/mythical Beast materials, offerings, parental marriage variants, father/uncle parity and the Jin-Woo/Beru, Goku/Beerus, Hunter × Hunter and World Trigger functions;
+- removed the ambiguous phrase `fifteen-year-old heir`; the protagonist is a scion/member of a founding Dynasty, while the cousin remains the designated successor;
 - modeled a refugee world-seed/graft, load-bearing world-functions, calibrated synthesized Blood and reciprocal human–Beast coevolution;
 - selected one series premise and one Book 1 axis for stress-test without promotion;
 - recommended starting around fifteen and earning the adult Director;
@@ -31,7 +33,7 @@ Preserve and reconstruct the author's 05/09 origin brainstorm without losing det
 
 ## Current axis
 
-> During the first coordinated campaign of Fissures, a fifteen-year-old heir receives the first Direct Concession since the founders and must gain agency over a power everyone else reads as destiny, while evidence reveals that the attackers are the civilization that hunted the original Beast World into this refuge.
+> During the first coordinated campaign of Fissures, a fifteen-year-old scion of a founding Dynasty receives the first Direct Concession since the founders and must gain agency over a power everyone else reads as destiny, while evidence reveals that the attackers are the civilization that hunted the original Beast World into this refuge.
 
 Status: `SELECTED FOR STRESS-TEST / PENDING AUTHOR VALIDATION / NOT PROMOTED`.
 
