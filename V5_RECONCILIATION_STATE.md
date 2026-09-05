@@ -1,465 +1,142 @@
-## Pass 55 current state — 05/09/2026
-
-The new primary author source reconstructs BeastWorld as a composite refuge: an original Beast ecology is nearly destroyed by a predatory/assimilative civilization; surviving world-functions sacrifice their bodies and carry an ecological kernel into an initially non-magical human world; graft, Blood, Matrix, Generated Beasts, founder compacts, Dynasties and Academy become consequences of reciprocal human–Beast coevolution; the old predator eventually finds the refuge.
-
-Leading repairs remain NOT-CANON: a refugee world-seed through the interworld medium rather than a literal planet fragment; four surviving load-bearing world-functions rather than creators of all life; synthesized Blood through living pattern, composite matter, Quintessence and active calibration; Direct Concession through reciprocal recognition rather than purity percentage; enemy return through a long constrained search rather than the protagonist causing it.
-
-One Book 1 axis is selected for stress-test: during the first coordinated Fissure campaign, the fifteen-year-old protagonist receives the first Direct Concession since the Founders and must gain agency over it while evidence exposes the original predator's return. Starting young and earning the adult Director is the chronology leader. Author validation is still required. No scene and nothing promoted.
-
----
-
-## PASS 54 — PREMISE FAILURE AUDIT + PORTAL/ACTION RESET — 04/09/2026
-
-Round 02 is invalid as a creative basis because its packet over-weighted succession, cousin/Oceanic material and Primordial embodiment while under-specifying portals, adversaries, Academy action, magic spectacle and continued progression. Claude's post-mortem identified that real failure, then overcorrected by treating an author-raw 22/08 `NOT-CANON` brainstorm as definitive. Both frames are blocked.
-
-Current author intent: the Director protects the Living Star and its lives; desires power, growth and worthy opposition; may confront the void of becoming unnecessary; and continues gaining real capability after the age-15/16 Concession. The ensemble, enemies, Beasts, institutions, civilization and Living Worlds also evolve. Portals/interworld contact are foundational. Politics remains a consequential layer, not an automatic whole-book engine.
-
-One axis only is active for stress-test: **the portal conflict has entered an adaptive/infiltrative phase—the enemy is learning through BeastWorld.** This remains a hypothesis awaiting author validation. Exact incident, antagonist, cosmology and chronology are open. Pass 53 survives only as WARM evolution/Primordial research. Pass 50D remains the quality guardrail. No scene. Nothing promoted.
-
----
-
-## PASS 53 — FULL-SPECTRUM EVOLUTION + PRIMORDIAL EMBODIMENT + COUNCIL RESET — 04/09/2026
-
-Pass 52 recovered the Book 1 axis; Pass 53 restores the larger saga architecture. The adolescent Choice remains the origin wound and one adult consequence remains the Book 1 gate. The broader engine is coevolution among the Director, ensemble, Bestas, institutions, civilization, Primordials and Living Star while political systems attempt to own, freeze or weaponize living relations. Other Living Worlds are an epic horizon of different evolutionary strategies, not a ladder of stronger gods.
-
-The cousin/heir is now reinforced by current author direction as good, just, prepared, formidable and a possible lifelong ally. The relationship leader is mutual loyalty with non-automatic agreement; minor adolescent envy may exist as a specific human wound, not villainy. A clean talent model preserves the cousin as the more complete orthodox dynastic talent and the Director as exceptional in body, combat and adaptation but ressonantly constrained.
-
-Oceanic maternal lineage, mixed-pattern interference and foreign formation were recovered from Laboratory 07 and remain hypotheses. First chronology to investigate: Academy entry/Choice → crisis → bounded Academy-affiliated Oceanic residence/formation → return. Literal bastardy remains withdrawn by the 29/08 author correction; the current colloquial reuse is logged as ambiguity, not a silent reversal.
-
-Primordials are being tested as numinous, metabiological world-functions: distributed domains capable of real bounded Aspects and rare sovereign embodiments. Primordial Blood is tested as matter + Quintessence + living pattern + agency, not a portable Gota, purity meter or automatic mastery. Fog Hill enters only as combat-language reference; its official five-family/Qilin lore is quarantined for originality risk.
-
-Council Round 01 by exclusive roles is superseded. Round 02 gives every external AI the same complete, self-contained mission. No scene. Nothing promoted.
-
----
-
-## PASS 52 — AGE-15–16 CHOICE + RECIPROCAL EVOLUTION + EXTERNAL COUNCIL — 04/09/2026
-
-Source recovery confirms: a Primordial manifestation/Aspect could assume human form; it observed and partially interacted with the future Director during childhood/adolescence without fully revealing itself; the Choice/direct concession occurred around age 15–16 at Academy entry; and the deeper model under investigation is reciprocal evolution among Living Star, Beasts and humans. The old bastard path is superseded by the author's 29/08 correction; maternal lineage and marriage configuration remain open.
-
-Temporal architecture: the adolescent Choice is the founding wound. Book 1 requires a new adult variable that makes the old containment impossible to maintain. Current working sentence: **The Choice made at 15–16 produced an authority that human succession never absorbed; in the present, one consequence of that act makes it impossible to keep pretending the problem ended.**
-
-`fractured dynastic legitimacy` is retained only as a technical backstage diagnosis, not a story-facing name. Four adult incident architectures remain separate candidates: war mandate, Academy inversion, limited evolutionary proof and external recognition. Evolutionary proof is first to investigate, not selected.
-
-Representative cross-media research and scaling controls are recorded in Pass 52. External council responses must be independent, read-only, source-receipted and reduced to proposal cards before integration. No scene. Nothing promoted.
-
----
-
-## PASS 51 — BOOK 1 DYNASTIC LEGITIMACY + CONTEXT COMPILER — 04/09/2026
-
-Author correction: prefer a simplified prototype in which each founding Dynasty is itself a sovereign territorial State. `Crown` is comparative/backstage language, not a separate superior government. `Seat` is retired as an independent third jurisdiction in the preferred prototype. A narrow inter-dynastic pact may sustain the Academy and defined joint crises without becoming a super-State.
-
-Director: son of the sovereign's brother, nephew of the sovereign and cousin of the competent principal heir. His father is the Dynasty's principal political/military pillar; final title remains open. The Director truly does not want to govern, although he values power, autonomy and temporary command. Direct Primordial concession is qualitatively distinct from inherited/processed Beast blood and may make him appear as a possible second founder; it does not install mastery or confer office.
-
-Active Book 1 axis: fractured dynastic legitimacy. Next gate: choose the present-tense incident that reopens the old succession wound in the adult Director's life. No scene yet.
-
-Creative execution now follows `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json` and `docs/00_governance/CONTEXT_COMPILER_PROTOCOL_V3_2026-09-04.md`. Nothing promoted.
-
----
-
-## PASS 50D CREATIVE RESET — 04/09/2026
-
-The Pass 50C projectile/divided-defense/dense-wing Academy rescue is REJECTED in full and belongs to COLD history. The Academy remains selective, martial and competent; no Academy rescue candidate is active. Do not patch or regenerate that vehicle.
-
-Preserved: Dominance spectrum including submission, suppression, collapse and exceptional destructive/lethal overload; morphology as affordances rather than prohibitions; either humanoid or bestial form may execute sophisticated or large-scale magic; autonomous-body adaptation after mature birth.
-
-Current HOT route: pointer → dashboard → Pass 50D → Creative Scene Gate. Choose one actual narrative layer before creating a scene. Never mark a scene repaired or validated before explicit author acceptance. Nothing promoted.
-
----
-
-## PASS 50B ACTIVE CORRECTION — 03/09/2026
-
-Pass 50A overcorrected. The Academy emergency remains a strong scene candidate; its first explanation, dialogue and overloaded consequences failed. Working term is **Dominance**. Generated Beast remains a new person with no donor memory/personality and no baby autonomous body. Natural Mythic passage is irreversible; later humanoid modulation is reversible and optional. Feedback must be classified by idea/mechanism/staging/language/canon before changing state. Visual proof is active. Nothing promoted.
-
----
-
-## PASS 50A ACTIVE CORRECTION — 03/09/2026
-
-Pass 50's Academy emergency and candidate dialogue are REJECTED/COLD. Current HOT direction: readiness is not Mythic status; completed Mythic passage is an irreversible qualitative reorganization; reversible humanoid modulation becomes an intrinsic capability afterward and its use is optional. Natural Mythic bestial form remains home/native. Generated Beast humanoid and bestial forms are both native. Separate identity age, cognition, field control and autonomous-body maturity. Round 51 is paused; next proof is concrete and visual (beat map → beatboard → animatic). Nothing promoted.
-
----
-
-## Pass 50 — Director × Phoenix character proof — 03/09/2026
-
-A character-proof leader is identified. During an Academy maturation emergency, the Director releases a minimal pulse of Primordial precedence to arrest a destabilizing young Generated-Beast manifestation for one heartbeat. The pulse does not command; it imposes salience and resonant/autonomic cost. Movement, technical reading and care complete the rescue.
-
-The Phoenix is present under a bounded extraordinary House mandate over maturation safety, representation and negotiation. She resists the pressure, confronts collateral effects and forces safeguards without becoming subordinate or claiming ownership of Generated persons. Their attraction remains reciprocal and is explicitly distinguished from involuntary bodily response.
-
-Mythic competence may be delayed or refused; Mythic condition and humanoid morphology remain independent. Combat horizon now preserves sustained readable exchange plus selective acceleration peaks, with Wen Ren Yu Xuan vs Wrath and Rider vs Saber Alter confirmed as strong references.
-
-Next action: Round 51 formative human × Generated Beast proof. Nothing promoted.
-
----
-
-## Pass 49 — Core Engine v0.9 unified — 03/09/2026
-
-CE-01→CE-05 are reconciled into one non-canon laboratory engine. Current chain: Matrix → Mark → Germination → protected development → integrated or autonomous adulthood → definitive dual-morph organism → chosen Resonance. Distance attacks cooperation before existence; regeneration is graded competence; one organism carries one wound map and one death.
-
-Pass 48 is SUPERSEDED-IN-PART on Mythic. The current leader is a real qualitative Natural-Beast metamorphosis involving Matrix, biology, Quintessence regulation and ecological function. Ancient remains age/history; sovereignty remains office/recognition.
-
-New forward hypotheses: bounded Primordial precedence for the Director; Phoenix diplomatic/representative authority; visual intake indexed with image 05 leading and explicit anti-references preserved.
-
-Next action: Round 50 Director × Phoenix character proof. Nothing promoted.
-
----
-
-## Pass 48 — CE-05 narrative closure — 03/09/2026
-
-CE-05 passed reader-facing and narrative proof. Deep Body mass is explainable without exposition dump; Full Form is opened for concrete biomechanics. Regeneration now separates automatic repair, directed regeneration and exceptional reconstitution. Organs may regrow under stabilization; high power does not automatically confer healing mastery.
-
-A possible mythic Natural-Beast condition is routed as a rare coherence/ecological state independent of age, office, morphology and combat capacity. The Phoenix’s strongest provisional institutional function is non-sovereign stewardship of maturation and ecological continuity; final title remains open. Director combat horizon: breach → traversal → dominion. Visual horizon includes epic Western/late-antique/neo-ronin synthesis and hair length as physical chronology.
-
-Next action: Round 49 Core Engine v0.9 synthesis. Nothing promoted.
-
----
-
-## Pass 47 — CE-05 physical leader — 03/09/2026
-
-Current non-canon leader: normal humanoid local weight; locally opened anatomy alone carries gravity/inertia; no free momentum multiplication; last locally expressed morphology remains as visible corpse; brief coupling interval is the transformation vulnerability; anti-resonance suppresses organization without deleting flesh; graded regeneration depends on retained pattern, viable tissue, matter, Quintessence, time and control; descendants inherit developmental capacity rather than adult mass/personality/power; maximum scale is grown, controlled and ecological.
-
-Latest author corrections: Director seed 35; Phoenix may be a high institutional Elder while remaining a Generated Beast; natural Beasts may acquire humanoid biology through a distinct route. Next action is Round 48 story proof. No promotion.
-
----
-
 # BeastWorld — V5 Reconciliation State
 
-## Pass 46 + clean current-state dashboard — 02/09/2026
+**Updated:** 2026-09-05  
+**Current pass:** 57  
+**Status:** `STRUCTURAL ROUTE WORKING-CANON / SECOND-BRAIN RELATIONAL QA / FINE MECHANISMS OPEN / NO SCENE`  
+**Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`
 
-The second creative synthesis explicitly approved by the author is now preserved both verbatim and as a structured model. It adds:
+> This file is a **current reconciliation door**, not an accumulating transcript of every former HOT state. Earlier Pass 43–55 formulations remain preserved in Git history and in their individual source/review files. They do not override the current pointer, ADRs or Bible.
 
-- humanoid morphology as authentic Generated-Beast life, not merely an economical mode;
-- age as accumulated opportunity rather than automatic power rank;
-- transformation grammar: **magic anticipates; anatomy follows**;
-- pain as failure/haste/interference, not a universal transformation tax;
-- Director battlefield entry as a martial, spatial and strategic proof scene;
-- living imagination → composition → structural revision as the anti-filler workflow;
-- an authorial signature requiring spectacle with consequence, bodily intelligible progression, deep foundations without exposition overload and active critical co-creation.
+## 1. Current authority
 
-Clean front door: `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md` and [Notion dashboard](https://app.notion.com/p/3cf42424cdbc81088a9dfd653674ae24).  
-Structured synthesis: `docs/09_reviews/chatgpt/2026-09-02/46_CE05_CREATIVE_SYNTHESIS_SPECIES_TRANSFORMATION_COMBAT_AUTHORIAL_SIGNATURE.md` and [Notion Laboratory 16](https://app.notion.com/p/3cf42424cdbc81f0b96dc93a8df736e5).  
-Verbatim approved assistant output: `docs/08_sources/conversations/2026-09-02-session-005-assistant-second-synthesis-verbatim.md`.
+The author explicitly validated the Pass 55 reconstruction on 05/09/2026. `ADR-0006` promotes the structural route to `WORKING-CANON`.
 
-Older hypotheses remain historical evidence but no longer lead current retrieval. Nothing is promoted.
+Current causal spine:
 
-## CE-05 active correction — 02/09/2026 — Pass 45
+1. an older Beast-inhabited Living World existed with broad biodiversity already integrated with Quintessence;
+2. a predatory interworld civilization nearly destroyed/assimilated it;
+3. real living continuity escaped as a survival remnant;
+4. that remnant grafted into an initially non-magical human world that already possessed civilization, martial traditions, tools and cumulative culture;
+5. present BeastWorld is the new composite born from both histories, not a restoration of either parent;
+6. human culture, Beast biology, Quintessence and the environment co-develop over millennia;
+7. Blood, Matrix, Generated Beasts, Dynasties, Academy, martial magic, medicine, alchemy and interworld institutions emerge as consequences of that history;
+8. the old predator eventually reaches the refuge again independently of the protagonist's existence.
 
-This section supersedes conflicting Pass 44 claims while remaining `NOT-CANON / NOT-PROMOTED`:
+Narrative route:
 
-- mature integration inside the human does not universally stall growth, create regulatory competition or reduce joint efficiency;
-- integrated adulthood and autonomous adulthood are both valid completed modes;
-- autonomy is elected for independent geography, reproduction, embodiment and personal history—not forced by pathological symbiosis;
-- reader-facing mass language leads with `Deep Body / Full Form`; `reentrant living anatomy` remains scholarly/backstage;
-- the Phoenix Elder is a **Generated Beast** from an older/important generation, not a primordial natural Beast or a millennia-old creature;
-- `Elder` denotes house standing, maturity and power; exact generation, age, rank and possible matriarch/Sovereign origin remain open;
-- the proposed Phoenix attraction-test transformation scene is rejected and must not return by drift;
-- story-mother + medium-specific adaptation views and a separate non-canon Creative Horizon Map now guide transmedia development.
+- begin the protagonist's main lived arc around age fifteen;
+- the adult Director is a future state to be earned;
+- during the first coordinated Fissure campaign he receives the first Direct Concession since the Founders;
+- Concession opens potential/relationship but does not install mastery;
+- the cousin remains the legitimate designated successor and an independently formidable combatant;
+- reciprocal development/integration versus forced/extractive incorporation is the current structural thematic opposition without making whole populations moral symbols.
 
-Load:
-1. `docs/00_governance/CURRENT_SESSION_POINTER.json`;
-2. `docs/08_sources/conversations/2026-09-02-author-delta-ce05-phoenix-transmedia-source-record.md`;
-3. `docs/09_reviews/chatgpt/2026-09-02/45_CORE_ENGINE_V0_9_CE05_AUTHOR_CORRECTIONS_TWO_ADULT_MODES_DEEP_BODY_TRANSMEDIA.md`;
-4. `docs/00_governance/CREATIVE_HORIZON_MAP.md`.
+## 2. What remains unresolved
 
-Notion mirrors: Laboratory 15, current checkpoint, [Creative Horizon Map](https://app.notion.com/p/3cf42424cdbc811fa049c5286e2a379f) and [author delta source](https://app.notion.com/p/3cf42424cdbc81a1b903c29ae9e728df).
+Do not silently decide:
 
-Next gate remains gravity/inertia, death remains, interruption, reproduction, anti-Quintessence and maximum scale. Nothing is promoted.
+- exact form, mass, travel mechanism or in-world name of the survival remnant;
+- exact count, names, domains, ontology or material limits of deep entities;
+- exact Blood, Matrix, Generated-Beast and Direct-Concession mechanics;
+- exact pre-Concession limitation of the protagonist;
+- exact Fissure chronology, stabilization or interworld compatibility rules;
+- exact maternal/Oceanic genealogy or duration/function of the 15–16 formation period;
+- exact Dynastic count, titles, borders and government;
+- exact rules/ethics for integration, liberation, salvage or absorption of other Worlds;
+- concrete Book 1 inciting incident;
+- actionable protagonist–entity relationship;
+- concrete enemy champion/agent/strategic constraint;
+- minimum peer/adult ensemble;
+- Book 1 climax and ending.
 
-**Data:** 31/08/2026  
-**Branch ativa:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Base:** V4 ChatGPT `34fabdb98875bdcb680bb77e4b0492459fc93f44`  
-**Estado:** `RECONCILIATION / NOT-CANON`
+## 3. Second Brain state — Pass 57
 
-> **Se você é uma IA retomando o projeto nesta branch, leia este arquivo imediatamente depois de `START_HERE_FOR_AI.md`. A V5 está à frente dos checkpoints HOT históricos, mas ainda NÃO promoveu novo lore a cânone.**
+The human-readable Notion Second Brain was re-audited after Pass 56.
 
-## Raw transcript recovery override — 01/09/2026 — Pass 43
+### Human Wiki
 
-A user-supplied 71-page PDF now preserves the visible CE-01→CE-04 exchange, including author and assistant messages. Fidelity for that exact span is `RAW-AVAILABLE`; outside it remains separately classified.
+Current root: `BEASTWORLD — Segundo Cérebro / HOME`.
 
-Read for active recovery context:
-1. `docs/08_sources/conversations/2026-09-01-ce01-ce04-full-conversation-backup-pdf-source-record.md`;
-2. `docs/09_reviews/chatgpt/2026-09-01/43_BACKUP_RECOVERY_COVERAGE_AUDIT_CE01_CE04.md`;
-3. current pointer.
+Current lanes:
 
-The 155 KB extracted transcript is **COLD/on-demand**: load it only for exact wording, attribution or nuance disputes. Pass 43 reopens immediate-versus-delayed autonomous birth and post-birth human/Beast morphology asymmetry for CE-05. It also upgrades the workflow to preserve every available substantive author and assistant message verbatim.
+- `00 — AGORA — Estado Atual e Próximo Passo`
+- `01 — ENCICLOPÉDIA ATUAL — Wiki Humana`
+- `02 — AUTORIDADE & CÂNONE — O que vale hoje`
+- `03 — LABORATÓRIO — Hipóteses, Passos e Pesquisa`
+- `04 — ARQUIVO HISTÓRICO — Versões antigas e caminhos superados`
+- `05 — FONTES AUTORAIS — Brainstorms, transcrições e proveniência`
+- `06 — GRAFO & REGISTROS — Nós, tags e relações`
 
-Nothing is promoted.
+The current encyclopedia still contains twelve detailed modules A–L. Pass 57 adds explicit cross-module `Conexões no Segundo Cérebro` so each article shows upstream causes, downstream consequences and direct navigation targets.
 
-## CE-05 active override — 01/09/2026 — Pass 44
+### Relational layer
 
-CE-05 now has a laboratory leader, still `NOT-CANON / NOT-PROMOTED`:
+`ADR-0007` defines the architecture:
 
-- mature continuity gains capacity for elective autonomous birth; remaining host-protected has real developmental tradeoffs rather than an arbitrary instant deadline;
-- definitive birth constructs one biological organism at efficient humanoid scale from real matter;
-- post-birth humanoid↔bestial forms belong to one dual-morph organism; injury and death remain shared across the body map;
-- three-account economy: matter/substrate, Quintessence capacity/flow, organization/control;
-- direct energy-to-flesh conversion and transformation-as-healing are rejected as baseline;
-- large mass differences currently lead with an OPEN `reentrant living anatomy / folded owned biomass` hinge;
-- human/Beast morphology remains asymmetric;
-- ChatGPT's operational role includes coauthor, creative codirector, researcher, analyst, orchestrator, builder, archivist and governance/continuity operator.
+- Wiki = rich human explanation;
+- Lore Registry = atomic semantic nodes;
+- tags = retrieval vocabulary only;
+- Edge Registry = typed structural relations;
+- Decision Log = why a direction was adopted;
+- Research & Open Questions = unresolved gates;
+- Source Library = provenance and authority;
+- GitHub = versioned/auditable control plane.
 
-Next subpass: gravity/inertia, death remains, interrupted transformation, reproduction, anti-Quintessence interaction and maximum scale.
+Current V5 overlay created in the existing registries:
 
-Trace: `docs/09_reviews/chatgpt/2026-09-01/44_CORE_ENGINE_V0_9_CE05_AUTONOMOUS_BIRTH_MASS_ECONOMY_BIOLOGICAL_TRANSFORMATION.md`.
+- 20 `v5-current` Lore nodes covering the structural route from original Beast World through Book 1 axis;
+- 30 typed current relations, `BW-EDGE-041..070`;
+- ADR-0006 and ADR-0007 mirrored into Decision Log;
+- Pass 56 promotion source and Pass 57 QA source mirrored into Source Library;
+- current Book 1 and mechanics gates represented as queryable Open Questions;
+- high-risk V4 nodes that conflict with the current route explicitly marked `SUPERSEDED`, never deleted or silently repurposed.
 
-## Active override — 01/09/2026 — Passes 41–42
+## 4. Current P0 creative gates
 
-A source-provenance audit corrected Passes 39–40 and Notion Laboratory 13. The author did **not** propose a mixed body or temporary biological soma. Active direction:
+Before any sequence/scene work, resolve and stress-test:
 
-- pre-birth: light/dense field manifestations, with bestial and humanoid morphology as horizontal choices;
-- completed cycle: one definitive autonomous biological organism, initially efficient humanoid-sized, later adapting stable biological bestial transformation;
-- post-birth: finite field projection is possible, but the true body does not become a ghost;
-- routine return into the former host is removed; somatic Convergence is parked as a possible unprecedented late-saga event;
-- regeneration is graded by continuity + pattern + competent tissue/interface + regulation + substrate + capacity/time;
-- no numerical mana bar; `Fôlego` and `high coherence` are not final public ranks;
-- nothing in this wave is canonized.
+1. `BW-Q-V5-BOOK1-INCITING-001` — one concrete inciting incident;
+2. `BW-Q-V5-PROT-ENTITY-001` — one actionable protagonist–entity relationship;
+3. `BW-Q-V5-ENEMY-CONSTRAINT-001` — one concrete enemy champion/agent/strategic constraint;
+4. `BW-Q-V5-ENSEMBLE-001` — minimum peer/adult ensemble with independent wants.
 
-Mandatory continuation package:
+Pass 50D remains the creative-quality guardrail.
+
+## 5. Regression blocks
+
+Do not regress to:
+
+- literal bastardy;
+- mandatory static adult-Director opening;
+- succession/court drama as the entire premise;
+- instant-mastery Concession;
+- visible Blood-purity percentages as worth/power score;
+- four elemental mascot nations or four/five automatic creators of all life;
+- old V4 Five Primordial Seats / Primordial Guardian system as current truth;
+- unlimited entity avatars that solve wars;
+- protagonist causing the enemy's return by existing;
+- detached Oceanic training vacation;
+- native allied Beast hunting as generic Academy activity;
+- universal free flight;
+- generic portal-monster-of-the-week structure;
+- automatic `win → consume world → bigger god` escalation;
+- scene work before the current P0 gate passes.
+
+## 6. Minimal current read order
+
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
-2. `docs/08_sources/conversations/2026-09-01-author-regeneration-incarnation-context-workflow-source-record.md`
-3. `docs/09_reviews/chatgpt/2026-09-01/41_AUTHOR_CORRECTIONS_REGENERATION_INCARNATION_PROJECTION_CONVERGENCE.md`
-4. `docs/09_reviews/chatgpt/2026-09-01/42_CORE_ENGINE_V0_9_CE04_REGENERATION_INJURY_CONTINUITY_TRUE_DEATH.md`
-5. `docs/00_governance/CONTEXT_ENGINEERING_OPERATING_SYSTEM_V2_2026-09-01.md`
+2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
+3. `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`
+4. `docs/07_decisions/ADR-0006-WORKING-CANON-ORIGIN-GRAFT-YOUNG-PROTAGONIST-ROUTE.md`
+5. `docs/01_bible/CURRENT_ORIGIN_AND_WORLD_GRAFT_WORKING_CANON.md`
+6. `docs/07_decisions/ADR-0007-SECOND-BRAIN-HUMAN-WIKI-RELATIONAL-GRAPH.md` for knowledge architecture
+7. `docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md`
+8. only the domain/source cluster required by the current task.
 
-Next gate: autonomous incarnation, mass economy and biological humanoid↔bestial transformation.
+## 7. Operational drift still open
 
-## Leia nesta ordem para a V5
+GitHub remote metadata was observed reporting the BeastWorld repository as **PUBLIC**, while older governance text described it as private. No visibility change is made automatically. Treat this as an explicit access/security drift requiring author intent.
 
-1. `docs/08_sources/conversations/2026-08-26-author-v5-reconciliation-verbatim.md`
-2. `docs/09_reviews/chatgpt/2026-08-26/01-INTAKE-AUTORAL-V5-MATRIZ-DE-NUANCES.md`
-3. `docs/09_reviews/chatgpt/2026-08-26/02-PONTE-V4-V5-RECONCILIACAO.md`
-4. `docs/09_reviews/chatgpt/2026-08-26/03-PESQUISA-EXTERNA-SELECTIVA.md`
-5. `docs/09_reviews/chatgpt/2026-08-26/04-DIRECAO-VISUAL-DRAGAO-PRIMORDIAL-SERPENTINO.md`
-6. `docs/09_reviews/chatgpt/2026-08-26/05-GATES-V5-PRIORIZADOS.md`
-7. `docs/09_reviews/chatgpt/2026-08-27/10_INTEGRATOR_AUDIT_META_ANALYSIS_V5.md`
-8. `docs/09_reviews/chatgpt/2026-08-27/11_CIVILIZATIONAL_CLUSTER_REVISED_PLAN.md`
-9. `docs/09_reviews/chatgpt/2026-08-27/12_COUNCIL_MISSIONS_CIVILIZATIONAL_CLUSTER.md` quando houver agentes auxiliares.
-10. `docs/09_reviews/chatgpt/2026-08-27/13_CREATIVE_OPERATING_DIRECTIVE_STORY_FIRST.md`
+## 8. History rule
 
-Para tarefas de **Core Engine / magia marcial / Diretor / Primordiais / Fendas / Mundos Vivos**, depois da entrada mínima leia também, nesta ordem:
-
-11. `docs/09_reviews/chatgpt/2026-08-28/24_MARTIAL_MAGIC_OPERATIONAL_MODEL_FIRST_PASS.md`
-12. `docs/09_reviews/chatgpt/2026-08-29/28_THIRD_PASS_QUINTESSENCE_BOND_LINEAGE_PROTAGONIST_META_RED_TEAM.md`
-13. `docs/09_reviews/chatgpt/2026-08-30/29_CORE_ENGINE_PLAIN_LANGUAGE_AND_NEXT_GATES.md`
-14. `docs/09_reviews/chatgpt/2026-08-31/30_COMBAT_CORE_ENGINE_PRIMORDIALS_LIVING_WORLDS_PASS.md`
-15. `docs/08_sources/conversations/2026-08-31-author-martial-magic-primordials-cosmology-source.md` quando precisar recuperar nuance/proveniência da rodada de 30–31/08.
-
-Depois reancore normalmente no HOT histórico definido por `START_HERE_FOR_AI.md` quando precisar de causalidade antiga.
-
-## Não faça
-
-- não use a branch Claude como ancestral da V5;
-- não mergeie Claude/Manus;
-- não mergeie automaticamente a branch consultora de meta-análise como sequência da V5;
-- não transforme cada frase da fonte de 26/08 ou 30–31/08 em decisão;
-- não transforme conclusões de pesquisa/referência em decisão por repetição;
-- não atualize Lore Registry para WORKING-CANON/CANON antes dos gates;
-- não reutilize imagens atuais do Dragão Primordial como model sheet aprovado;
-- não trate “Gota Primordial” como nomenclatura/unidade válida;
-- não trate `Quintessência`, quatro Primordiais funcionais, predominância local, origem proposta do Diretor, taxonomia de outros Mundos Vivos ou cosmologia das Fendas como cânone por estarem bem articulados.
-
-## Correção explícita — Sangue Primordial
-
-**A rejeição se aplica ao termo/unidade “Gota Primordial”, não ao mecanismo de Sangue Primordial.**
-
-A fonte autoral preserva como hipótese forte que uma Primordial pode ceder Sangue/Essência à sua Casa; esse material pode ser administrado/diluído para fortalecer humanos sem Vínculo e, sob regras ainda abertas, também Bestas. Isso se soma à herança biológica/Eco das linhagens. A concessão direta durante Consagração/Vínculo continua qualitativamente distinta de sangue cedido, armazenado ou diluído. Quantidade simples não deve reproduzir o vínculo Primordial.
-
-Referências de normalização: `V5-INTAKE-042` a `V5-INTAKE-045` e Gate `BW-V5-G02-PRIMORDIAL-BLOOD-LAYERS`.
-
-### Correção de escala — 27/08/2026
-
-O stress-test populacional que tratava Sangue Primordial como se pudesse funcionar como recurso amplo da população partiu de uma premissa excessivamente abrangente e **não deve ser reutilizado como modelo do BeastWorld**.
-
-A clarificação autoral desta rodada é:
-
-- humanidade comum continua sendo a base populacional;
-- Primordiais elegeram fundadores humanos associados ao nascimento das Dinastias/Casas;
-- entrar/ascender dentro de uma Casa pode representar um salto social e sobrenatural extraordinário;
-- o acesso a Sangue/Essência e a recursos de fortalecimento é **estratificado dentro das Casas**, não universal;
-- servos, funcionários, dependentes e demais ligados à Casa não precisam receber o mesmo acesso;
-- mérito, função, linhagem, necessidade militar, escassez e estratégia específica de cada Casa podem modular acesso;
-- doses diluídas, alquimia, poções, pílulas, derivados ou materiais de Bestas são **espaço de design ainda aberto**, não nomenclatura/mecânica decidida;
-- Consagração/Vínculo Primordial direto permanece qualitativamente excepcional e não pode ser reproduzido pela simples acumulação de doses.
-
-Portanto, G20 deve testar primeiro um **modelo dinástico/estratificado de acesso**, e não Sangue Primordial como utilidade pública nem doação direta recorrente em massa.
-
-## Diretriz operacional criativa — Story-First — 27/08/2026
-
-A reconciliação V5 ganhou uma regra de processo explícita em `docs/09_reviews/chatgpt/2026-08-27/13_CREATIVE_OPERATING_DIRECTIVE_STORY_FIRST.md`.
-
-Ela **não é lore**. É governança criativa para impedir que a engenharia do mundo engula a obra.
-
-Princípios de operação:
-
-1. **História e experiência do público lideram.** Personagens, relações, desejo, conflito, descoberta, maravilhamento, medo, viagem, Casas, Bestas e consequências são a superfície principal da obra.
-2. **Leis do mundo sustentam.** Metafísica, Sangue, Vínculo, ecologia, Fendas e demais fundamentos precisam ser coerentes o bastante para não quebrar a narrativa.
-3. **Engenharia civilizacional fica majoritariamente invisível.** Política, demografia, logística, capacidade estatal, urbanismo e números continuam sendo testados, mas devem aparecer ao autor principalmente como consequências criativas compreensíveis, salvo quando uma decisão realmente exigir a mecânica bruta.
-4. **Profundidade por baixo; simplicidade de compreensão por cima.** Não confundir densidade de documentação com qualidade narrativa.
-5. **GitHub/Notion são memória, proveniência, QA e coordenação — não uma prisão criativa.** Material versionado pode ser reaberto, corrigido, substituído ou descartado conforme nova fonte autoral, pesquisa ou raciocínio mais forte.
-6. **Pesquisa é adaptativa.** O Integrador pode estudar história, biologia, ecologia, instituições, arquitetura, guerra, cultura, linguagem, além de livros, séries, filmes, games, manga, manhua, webnovels, críticas, fandom e recepção pública; pode convocar agentes em blind review; nenhuma influência externa vira verdade por autoridade, popularidade ou repetição.
-7. **Comparações estruturais devem virar mundos concretos.** Antes de pedir decisão autoral em A × B, traduzir os modelos em sensação de mundo, relações, conflitos, viagens, guerra, mobilidade social, Academia, Casas, Bestas e oportunidades narrativas.
-8. **O autor decide apenas bifurcações reais.** Hipóteses não são promovidas para reduzir ansiedade documental.
-
-Princípio compacto:
-
-> **Story leads. World laws constrain. Invisible engineering supports. Research challenges. The author decides only real forks. Canon comes last.**
-
-## Estado dos agentes externos
-
-Claude/Manus e quaisquer outras IAs são, por padrão, **consultores READ-ONLY** para brainstorm/pesquisa quando convocados. Respostas de cada agente devem permanecer separadas; ChatGPT atua como integrador autorizado somente após revisão.
-
-Seguir:
-
-- `docs/00_governance/EXTERNAL_AGENT_QUARANTINE.md`;
-- `docs/00_governance/PARALLEL_CHAT_COUNCIL_PLAYBOOK.md`.
-
-Especialmente o modo de **blind review**: cada agente recebe a fonte autoral + estado atual + gate, produz análise independente sem ler inicialmente as propostas dos outros; só depois há comparação/síntese.
-
-## P0 atual da V5
-
-1. Coroa × Casas × Assentos e capacidade estatal.
-2. Geografia/demografia e composição militar.
-3. Sucessão Primordial.
-4. Camadas/governança/escala do Sangue Primordial.
-5. Taxonomia do mundo inimigo.
-6. Fendas/Interstício e travessia de entidades de ápice.
-7. Metabolismo/capacidade de suporte das Primordiais e Bestas de ápice, porque agora interfere diretamente no sanity check civilizacional.
-8. Core Engine / Magia Marcial / teto não-dinástico / relação Primordiais–Mundo Vivo, agora enriquecidos pelo delta 30–31/08 e ainda sujeitos a stress-test.
-
-## Estado da captura da fonte de 26/08
-
-- **CAPTURED:** fonte autoral integral preservada em verbatim.
-- **NORMALIZED:** primeira passagem de alta fidelidade concluída em 95 registros `V5-INTAKE-*`.
-- **RECONCILED:** ponte macro V4→V5 concluída como hipótese/reconciliação.
-- **CROSS-LINKED:** parcial. Os principais gates, Source Library, Visual Atlas e perguntas reabertas já estão ligados; ainda falta a auditoria exaustiva de cada um dos 95 registros contra todo o Lore Registry, Decision Log, Timeline, Entity Atlas e fontes históricas relacionadas.
-- **PROMOTED:** nada desta rodada foi promovido automaticamente a WORKING-CANON/CANON.
-
-Portanto, nunca afirmar que “todo o documento já foi totalmente cruzado com todo o projeto”. A fonte não foi perdida; o cruzamento exaustivo é uma etapa explícita da reconciliação.
-
-## Auditoria paralela de 27/08 — novo contexto obrigatório
-
-O autor anexou três documentos para auditoria adicional:
-
-- uma meta-análise extensa de originalidade, poder, narrativa, personagens, ecologia, fandom e estratégia de IP;
-- a retomada civilizacional feita em uma conversa nova;
-- a fonte autoral V5 de 22 páginas reapresentada como controle de fidelidade.
-
-Também foi localizada a branch consultora `chatgpt/review-parallel-meta-analysis-2026-08-27`, que **não estava vazia**: ela possui um pacote substancial de review, evidence ledger, urbanismo/infraestrutura, handoff e estratégia de IP.
-
-### Decisão operacional
-
-A branch consultora fica **preservada em quarentena como fonte de revisão**, não como nova ancestral da V5 e não como lore.
-
-O Integrador registrou:
-
-- `docs/09_reviews/chatgpt/2026-08-27/10_INTEGRATOR_AUDIT_META_ANALYSIS_V5.md`;
-- `docs/09_reviews/chatgpt/2026-08-27/11_CIVILIZATIONAL_CLUSTER_REVISED_PLAN.md`;
-- `docs/09_reviews/chatgpt/2026-08-27/12_COUNCIL_MISSIONS_CIVILIZATIONAL_CLUSTER.md`;
-- `docs/09_reviews/chatgpt/2026-08-27/13_CREATIVE_OPERATING_DIRECTIVE_STORY_FIRST.md`;
-- `docs/00_governance/PARALLEL_CHAT_COUNCIL_PLAYBOOK.md`.
-
-### Efeito da auditoria
-
-A V5 **não reinicia**. A pesquisa acrescenta constraints que agora precisam estar presentes nos gates:
-
-- instituições devem ser story engines, não apenas organogramas plausíveis;
-- a escala do Sangue deve ser testada no modelo autoral correto: acesso dinástico/estratificado nas Casas; não modelar Sangue Primordial como utilidade populacional nem doação direta recorrente em massa;
-- metabolismo/carrying capacity das Bestas entra no mesmo cluster de demografia e logística;
-- Magia Marcial precisa preservar causalidade corpo/Fonte/Ressonância/Intenção/Forma/arma/ambiente;
-- urbanismo e infraestrutura precisam ser consequência de ecologia, risco, clima, logística, poder e história — não “cidade medieval + criatura”;
-- o mundo inimigo precisa continuar sendo civilização densa, não horda;
-- World Bible, Series Bible, Novel Architecture, Adaptation Bible, Visual Development e Rights/Localization permanecem superfícies distintas.
-
-## Delta criativo integrado — 30–31/08/2026
-
-A rodada de 30–31/08 foi preservada em duas camadas versionadas:
-
-- **fonte/proveniência:** `docs/08_sources/conversations/2026-08-31-author-martial-magic-primordials-cosmology-source.md`;
-- **síntese de laboratório:** `docs/09_reviews/chatgpt/2026-08-31/30_COMBAT_CORE_ENGINE_PRIMORDIALS_LIVING_WORLDS_PASS.md`.
-
-Ela parte de referências funcionais (*Jujutsu Kaisen*, *Solo Leveling*, *Nano Machine*, *Avatar*, *Bleach*, *Fullmetal Alchemist*) para testar um motor próprio do BeastWorld, sem importar conteúdo/IP.
-
-### Convergências de trabalho — ainda NOT-CANON
-
-- uma única física/substrato universal provisoriamente chamada **Quintessência**;
-- Mundos Vivos como assinaturas organizadas desse substrato;
-- Primordiais como possíveis manifestações biológicas profundamente coerentes do próprio Mundo Vivo, não meras baterias elementais;
-- quatro Primordiais podem ser testadas como funções fundamentais (transformação, propagação, continuidade, estrutura), mas **número e mapeamento continuam abertos**;
-- Sangue/Bênção altera hardware/interface; não deve monopolizar o teto nem instalar domínio;
-- poder efetivo depende da interseção corpo + Ressonância + Forma + compreensão + arma/interface + experiência/contexto;
-- Diretor pode ter se tornado marcialmente monstruoso antes da plena integração ressonante; Bênção Primordial pode reorganizar coerência sem entregar maestria pronta;
-- elementos são manifestações de mecanismos mais profundos, não “classes” rígidas;
-- alto domínio pode produzir **predominância local/campo contestado**, sem copiar Domain Expansion e sem acerto garantido;
-- regeneração, armas, alquimia e materiais estrangeiros devem obedecer causalidade concreta/custos;
-- outros Mundos Vivos podem usar o mesmo substrato por interfaces cultivadoras, infernais, celestiais, tecnológicas ou biológicas distintas;
-- Fendas podem ser acoplamentos bilaterais entre Mundos Vivos, não simples portais;
-- BeastWorld pode ser especial pela **coerência/completude da assinatura**, não por ser literalmente o maior ou centro cósmico;
-- saga futura deve escalar por assimetria de conhecimento e interfaces, não por “nível 300”.
-
-### Guardrail
-
-Nenhuma dessas convergências entra em cânone por elegância ou repetição. Próximos passos são scene-proofs e stress-tests: quatro Primordiais vs alternativas; teto não-dinástico; Diretor antes/depois da Bênção; campo contestado; primeiro contato com Mundo Vivo estrangeiro; luta de alto nível ainda marcial/legível.
-
-## Próxima missão recomendada — revisada
-
-Atacar o cluster **Existência Civilizacional do Mundo Vivo** como um sistema acoplado, não uma fila rígida de perguntas, enquanto o novo Core Engine é testado em paralelo apenas quando necessário à história.
-
-### Núcleo
-
-- G01 — capacidade estatal e arquitetura Coroa/Casas/Assentos;
-- G02 — geografia/demografia mínima;
-- G07 — composição e logística militar;
-- G19 — metabolismo/capacidade de suporte de Bestas de ápice;
-- G20 — governança e escala do Sangue/Essência.
-
-### Constraints transversais
-
-- sucessão Primordial;
-- Academia;
-- G21 — Magia Marcial/Campo;
-- G22 — story engine institucional;
-- G23 — urbanismo/habitação/infraestrutura;
-- mundo inimigo;
-- Fendas;
-- novo delta 30–31/08 sobre teto não-dinástico, Primordiais–Mundo Vivo e interfaces intermundos.
-
-A missão deve comparar, no mínimo, **Modelo A — Monarquia Composta** e **Modelo B — Coroas Pactuadas + Assentos**, sem promover B apenas porque é o líder atual de pesquisa.
-
-Executar o mesmo stress-test em ambos:
-
-1. guerra externa prolongada;
-2. rebelião de Casa;
-3. recusa de Consagrado/Primordial;
-4. crise de sucessão;
-5. ruptura logística;
-6. mobilização intermundos;
-7. escândalo/mercado negro de Sangue;
-8. colapso ecológico/Santuário;
-9. conflito de jurisdição na Academia;
-10. desastre urbano/reconstrução;
-11. teste narrativo com personagens concretos.
-
-Usar pesquisa externa profunda, sanity checks quantitativos e Impact Cones. Números como 8M/18M/35M de habitantes ou 1.000 ingressantes/ano continuam **valores de laboratório**, nunca fatos por repetição.
-
-**Regra de apresentação:** esses sanity checks permanecem majoritariamente backstage. O retorno autoral deve priorizar o que cada estrutura faz o mundo sentir, quais conflitos/relacionamentos produz e por que uma opção fortalece ou enfraquece a obra.
-
-## Notion
-
-Command Center possui a página `V5 — Ponte de Reconciliação — 26/08/2026`.
-
-Sob a Ponte V5 foram adicionadas em 31/08:
-
-- `Laboratório 08 — Combate, Core Engine, Primordiais e Mundos Vivos — 31/08/2026`;
-- `Fonte de Conversa — Magia Marcial, Gojo estrutural, Primordiais e Cosmologia — 30–31/08/2026`.
-
-Essas páginas espelham respectivamente a síntese de laboratório e a proveniência da rodada no GitHub. Nenhum lore foi promovido.
-
-## Retomada em conversa nova
-
-Prompt mínimo recomendado agora:
-
-`Reancore o BeastWorld no GitHub/Notion. Leia START_HERE_FOR_AI.md, V5_RECONCILIATION_STATE.md e V5_CONTEXT_ROUTER.md na branch chatgpt/beastworld-v5-reconciliation-2026-08-26. Para Core Engine/magia/Primordiais/Fendas, leia também os passes 24, 28, 29 e 30 e a fonte autoral de 31/08. Não promova hipótese. Preserve Story-First. Retome com stress-tests do Core Engine e do cluster civilizacional antes de pedir decisão autoral.`
-
-A conversa nova não deve depender da memória do chat anterior; deve provar reidratação lendo as fontes versionadas.
-
-## Princípio de operação
-
-> **Fonte preserva. Intake classifica. Pesquisa testa. Gate compara. ADR decide. Lore promove. Story leads.**
+Pass 55 and earlier material is not erased. Use Git history, individual Pass files and source records for provenance, exact wording or regression analysis. Do not copy old `current state` headers back into this file.
