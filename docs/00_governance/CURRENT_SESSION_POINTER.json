@@ -1,10 +1,10 @@
 {
-  "schema_version": 10,
-  "session_id": "BW-SESSION-2026-09-05-023",
-  "status": "PASS60_STORY_READY_AUTHOR_ROOM_READY_FOR_ROUND1_POWER_COMBAT",
+  "schema_version": 11,
+  "session_id": "BW-SESSION-2026-09-05-024",
+  "status": "PASS61_ROUND1_REFRAMED_ENTITY_GRAFT_HYPOTHESES_CAPTURED_READY_FOR_POWER_COMBAT_V2",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "active_cluster": "Pass 60: structural Working Canon + semantic/communication fidelity + WARM reference atlas + Story-Ready Author Room workflow",
-  "epistemic_state": "STRUCTURAL_WORKING_CANON / STORY_READY_SKELETON_IN_DEVELOPMENT / REFERENCE_RESEARCH_ONLY / FINE_MECHANISMS_OPEN / NO_SCENE",
+  "active_cluster": "Pass 61: Story-Ready Round 1 v2 + author entity/star-graft hypothesis reservoir + reference engineering WARM",
+  "epistemic_state": "STRUCTURAL_WORKING_CANON / STORY_READY_SKELETON_IN_DEVELOPMENT / NEW_ENTITY_GRAFT_MATERIAL_HYPOTHESIS_ONLY / NO_SCENE",
   "mandatory_read_order": [
     "START_HERE_FOR_AI.md",
     "docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json",
@@ -16,30 +16,30 @@
     "docs/00_governance/STORY_READY_AUTHOR_ROOM_WORKFLOW.md",
     "V5_CONTEXT_ROUTER.md"
   ],
-  "working_canon_structural_spine": [
-    "Older Beast-inhabited Living World with broad biodiversity",
-    "Predatory interworld near-extinction",
-    "Real living survival remnant",
-    "Graft into an initially non-magical but already civilized human world",
-    "Present BeastWorld as a third composite reality",
-    "Millennia of reciprocal human-Beast-world co-development",
-    "Blood Matrix Generated Beasts Dynasties Academy and related systems as historical consequences",
-    "Old predator eventually reaches the refuge independently of protagonist",
-    "Main protagonist route begins around age fifteen and adult Director is earned",
-    "Direct Concession during first coordinated Fissure campaign as current Book 1 axis",
-    "Cousin remains legitimate independently formidable designated successor",
-    "Reciprocal or negotiated development versus forced or extractive incorporation as structural thematic opposition"
+  "round1_correction": {
+    "withdrawn_framing": "Corpo Vivo / Ressonância / Gramática Pessoal as three mutually exclusive systems",
+    "reason": "They answer partly different questions and can coexist",
+    "new_method": "Compare three genuinely different central power engines and test body, resonance and personal grammar as dimensions inside each, using the same concrete combat/character scenario"
+  },
+  "new_author_source": "docs/08_sources/conversations/2026-09-05-author-round1-entities-star-graft-sacrifice-interface-source-record.md",
+  "new_pass": "docs/09_reviews/chatgpt/2026-09-05/61_ROUND1_AUTHOR_HYPOTHESIS_CAPTURE_ENTITY_STAR_GRAFT_AND_MODEL_REFRAME.md",
+  "new_notion_hypothesis_reservoir": "https://app.notion.com/p/3d242424cdbc8130a936fc04dc767169",
+  "new_hypotheses_preserved_not_promoted": [
+    "Deep Entities experienced as near-civilizational gods while remaining metabiological Living-World-integrated persons",
+    "resonant or semantic Entity-human communication that can warn advise or dialogue without becoming a literal game System",
+    "preserved primordial biological material associated with a Deep Entity may participate in protagonist history",
+    "world-scale sacrificial Quintessence/alchemical transmutation using original Entity bodies to open an interworld Fissure and preserve real ecological continuity",
+    "Fissure crossing may be short while the long millennial interval belongs after the graft",
+    "young host world or author-term estrela may be life-rich but pre-awakened in world-consciousness terms",
+    "host Quintessence or vital potential may function as a resonant anchor for the escaping remnant",
+    "graft may be physically harmonious but generationally transformative for fauna flora materials biology culture and institutions",
+    "possible non-Dynastic shamanic or magic-heavy region/continent remains deferred"
   ],
+  "semantic_guard": "Author term estrela remains ambiguous; do not normalize prematurely to astronomical star, planet, world-core or another physical category",
+  "working_canon_structural_spine_unchanged": true,
+  "warm_reference_atlas": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
   "story_ready_workflow": {
-    "primary_file": "docs/00_governance/STORY_READY_AUTHOR_ROOM_WORKFLOW.md",
-    "pass": "docs/09_reviews/chatgpt/2026-09-05/60_STORY_READY_SKELETON_AND_DYNAMIC_AUTHOR_ROOM_WORKFLOW.md",
-    "author_source": "docs/08_sources/conversations/2026-09-05-author-story-ready-skeleton-dynamic-workflow-source-record.md",
-    "human_questions": [
-      "How does the world work?",
-      "Who lives in it and what do they want?",
-      "What happens first that cannot be taken back?",
-      "How does that first story grow into the larger saga?"
-    ],
+    "current_round": "ROUND1_POWER_AND_COMBAT_STORY_READY_V2",
     "rounds": [
       "Round 1 Power and combat skeleton",
       "Round 2 Society Dynasties Houses and naming architecture",
@@ -49,67 +49,11 @@
       "Round 6 Youth to adult Director bridge",
       "Round 7 Sequence map",
       "Round 8 Scene creation"
-    ],
-    "current_round": "ROUND1_POWER_AND_COMBAT_STORY_READY"
+    ]
   },
-  "warm_reference_atlas": {
-    "atlas": "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
-    "pass": "docs/09_reviews/chatgpt/2026-09-05/59_REFERENCE_ENGINEERING_ATLAS_JJK_FOG_HILL_ENSEMBLE_ACTION_AND_COMPLEXITY_BUDGET.md",
-    "load_when": [
-      "character creation and character relationships",
-      "ensemble design",
-      "combat and progression",
-      "Academy narrative engineering",
-      "strongest-character or adult-Director pressure",
-      "book or time-skip architecture",
-      "audiovisual action direction",
-      "reference comparison"
-    ],
-    "not_mandatory_hot": true
-  },
-  "adult_director_time_skip": {
-    "status": "OPEN",
-    "models": [
-      "extended youth phase before adult transition",
-      "Book 1 youth then major Book 2 time jump",
-      "phased aging with smaller selective jumps",
-      "optional future-fragment model if it improves promise without destroying uncertainty"
-    ],
-    "decision_rule": "Do not select until Book 1 architecture reveals what the jump would preserve or erase"
-  },
-  "existing_scene_gates": [
-    "BW-Q-V5-BOOK1-INCITING-001",
-    "BW-Q-V5-PROT-ENTITY-001",
-    "BW-Q-V5-ENEMY-CONSTRAINT-001",
-    "BW-Q-V5-ENSEMBLE-001"
-  ],
   "scene_status": "BLOCKED_UNTIL_STORY_READY_SKELETON_AND_FOUR_EXISTING_SCENE_GATES_ARE_STRESS_TESTED",
-  "notion_current": {
-    "root": "https://app.notion.com/p/3d242424cdbc81ecacf8e5be9f6f2375",
-    "now": "https://app.notion.com/p/3d242424cdbc81439c9eee519e8a9148",
-    "story_ready_route": "https://app.notion.com/p/3d242424cdbc8176b407d80e09494d31",
-    "laboratory": "https://app.notion.com/p/3d242424cdbc81fdaf6af97ec84cfe62",
-    "reference_atlas": "https://app.notion.com/p/3d242424cdbc8149a3a6c802c15872e9"
-  },
-  "blocked_as_current": [
-    "old V3 V4 Notion encyclopedia",
-    "literal bastardy",
-    "mandatory static adult Director opening",
-    "old Five Primordial Seats or Guardian package",
-    "four elemental mascot nations",
-    "instant mastery Direct Concession",
-    "purity percentage ladder",
-    "unlimited entity battle avatars",
-    "universal free flight",
-    "generic portal monster loop",
-    "reference-derived mechanics promoted by resemblance alone",
-    "solving speculative edge cases before story-critical rules",
-    "scene prose before story-ready and scene gates"
-  ],
-  "open_operational_drift": [
-    "GitHub repository metadata reports PUBLIC while older governance said private; no visibility change was made automatically"
-  ],
-  "next_action": "Run Author Room Round 1: generate and compare three story-producing Power and Combat skeletons for Quintessence Blood Matrix learned martial skill Beast relationship progression cost counterplay and Concession, then stress-test with character and Book 1 consequences",
+  "context_hygiene": "Capture high-value chat insights, keep current state compact, and proactively recommend a clean handoff when a new conversation becomes safer; do not claim access to hidden token/cache internals",
+  "next_action": "Run Round 1 v2: compare three genuinely different central Power and Combat engines through the same character/combat scenario, covering Quintessence, Blood, Matrix, Beast, martial learning, weapon, Entity interface, progression, costs, counterplay and Direct Concession",
   "promotion_level": "WORKING-CANON_STRUCTURAL_ONLY",
-  "previous_session": "BW-SESSION-2026-09-05-022"
+  "previous_session": "BW-SESSION-2026-09-05-023"
 }
