@@ -2,10 +2,10 @@
 
 **Updated:** 2026-09-05  
 **Current pass:** 57  
-**Status:** `STRUCTURAL ROUTE WORKING-CANON / SECOND-BRAIN RELATIONAL QA / FINE MECHANISMS OPEN / NO SCENE`  
+**Status:** `STRUCTURAL ROUTE WORKING-CANON / SECOND-BRAIN RELATIONAL + SEMANTIC-FIDELITY QA / FINE MECHANISMS OPEN / NO SCENE`  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`
 
-> This file is a **current reconciliation door**, not an accumulating transcript of every former HOT state. Earlier Pass 43–55 formulations remain preserved in Git history and in their individual source/review files. They do not override the current pointer, ADRs or Bible.
+> This file is a **current reconciliation door**, not an accumulating transcript of every former HOT state. Earlier Pass 43–56 formulations remain preserved in Git history and in their individual source/review files. They do not override the current pointer, ADRs, Bible or fidelity packet.
 
 ## 1. Current authority
 
@@ -31,7 +31,23 @@ Narrative route:
 - the cousin remains the legitimate designated successor and an independently formidable combatant;
 - reciprocal development/integration versus forced/extractive incorporation is the current structural thematic opposition without making whole populations moral symbols.
 
-## 2. What remains unresolved
+## 2. Semantic-fidelity correction — Pass 57
+
+The second author QA exposed a real reconstruction error: `Fei` / `anciã da Fei` was introduced into new summaries even though the underlying concept is **Fênix**.
+
+Current rule:
+
+**`Fei → Fênix` is a known transcription/capture correction, not a lore rename.**
+
+Do not invent `Fei` as a culture, surname, faction or new character. Where the provisional concept is relevant, use `Fênix Anciã Gerada`, `anciã da Fênix` or equivalent neutral wording. This does not canonize final name, age, office, romance or character configuration.
+
+Source:
+`docs/08_sources/conversations/2026-09-05-author-finalize-second-brain-fidelity-phoenix-correction-source-record.md`
+
+Semantic recovery:
+`docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`
+
+## 3. What remains unresolved
 
 Do not silently decide:
 
@@ -49,7 +65,7 @@ Do not silently decide:
 - minimum peer/adult ensemble;
 - Book 1 climax and ending.
 
-## 3. Second Brain state — Pass 57
+## 4. Second Brain state — Pass 57
 
 The human-readable Notion Second Brain was re-audited after Pass 56.
 
@@ -66,8 +82,11 @@ Current lanes:
 - `04 — ARQUIVO HISTÓRICO — Versões antigas e caminhos superados`
 - `05 — FONTES AUTORAIS — Brainstorms, transcrições e proveniência`
 - `06 — GRAFO & REGISTROS — Nós, tags e relações`
+- `07 — MEMÓRIA AUTORAL — Visão, nuances e anti-drift`
 
-The current encyclopedia still contains twelve detailed modules A–L. Pass 57 adds explicit cross-module `Conexões no Segundo Cérebro` so each article shows upstream causes, downstream consequences and direct navigation targets.
+The current encyclopedia contains twelve detailed modules A–L. Pass 57 adds explicit cross-module `Conexões no Segundo Cérebro` so each article shows upstream causes, downstream consequences and direct navigation targets.
+
+`07 — MEMÓRIA AUTORAL` preserves the authorial mental model, later recovered nuances, known transcription corrections and a rehydration test for new conversations.
 
 ### Relational layer
 
@@ -80,18 +99,42 @@ The current encyclopedia still contains twelve detailed modules A–L. Pass 57 a
 - Decision Log = why a direction was adopted;
 - Research & Open Questions = unresolved gates;
 - Source Library = provenance and authority;
-- GitHub = versioned/auditable control plane.
+- GitHub = versioned/auditable control plane;
+- Fidelity Packet = semantic anti-drift layer between compressed state and raw source.
 
-Current V5 overlay created in the existing registries:
+Current V5 overlay in existing registries:
 
 - 20 `v5-current` Lore nodes covering the structural route from original Beast World through Book 1 axis;
 - 30 typed current relations, `BW-EDGE-041..070`;
 - ADR-0006 and ADR-0007 mirrored into Decision Log;
-- Pass 56 promotion source and Pass 57 QA source mirrored into Source Library;
+- promotion, QA and final fidelity/Fênix correction sources mirrored into Source Library;
 - current Book 1 and mechanics gates represented as queryable Open Questions;
 - high-risk V4 nodes that conflict with the current route explicitly marked `SUPERSEDED`, never deleted or silently repurposed.
 
-## 4. Current P0 creative gates
+## 5. Semantic rehydration requirement
+
+A future conversation is not considered rehydrated merely because it can recite the causal spine.
+
+Before making structural creative changes it must preserve at least these distinctions:
+
+- original Beast World = broad ecology, not four heraldic mascot species;
+- deep entities = numinous/person-like world-integrated intelligences, not only gods or technical archives;
+- host humans already had civilization and cumulative culture before accessible magic;
+- Sangue/Matriz/Bestas Geradas are bodily/developmental/relational rather than loot mechanics;
+- when reopening the older Core Engine cluster, preserve `spectral ≠ immature`, `humanoid ≠ more evolved`, `material density ≠ developmental age` unless later evidence explicitly revises it;
+- protagonist begins dangerous/talented but incomplete, can lose, be hurt, need help and continue learning after Concession;
+- cousin is a legitimate formidable successor, not an automatic jealous villain;
+- Academy is a civilizational learning engine with social life, not merely tournament school or barracks;
+- combat remains physically readable even at extreme supernatural scale;
+- Fissures are interworld frontiers rather than generic dungeon generators;
+- enemy is an adaptive civilization rather than monster waves;
+- tone retains beauty, brutality, humor, romance, friendship, ordinary life, wonder and war;
+- `Fei` is known error; correct referent is Fênix.
+
+Full layer:
+`docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`
+
+## 6. Current P0 creative gates
 
 Before any sequence/scene work, resolve and stress-test:
 
@@ -102,7 +145,7 @@ Before any sequence/scene work, resolve and stress-test:
 
 Pass 50D remains the creative-quality guardrail.
 
-## 5. Regression blocks
+## 7. Regression blocks
 
 Do not regress to:
 
@@ -119,24 +162,26 @@ Do not regress to:
 - native allied Beast hunting as generic Academy activity;
 - universal free flight;
 - generic portal-monster-of-the-week structure;
+- rejected Pass 50A–50C Academy rescue vehicles;
 - automatic `win → consume world → bigger god` escalation;
 - scene work before the current P0 gate passes.
 
-## 6. Minimal current read order
+## 8. Minimal current read order
 
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
 2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
 3. `docs/00_governance/CURRENT_PROJECT_DASHBOARD.md`
 4. `docs/07_decisions/ADR-0006-WORKING-CANON-ORIGIN-GRAFT-YOUNG-PROTAGONIST-ROUTE.md`
 5. `docs/01_bible/CURRENT_ORIGIN_AND_WORLD_GRAFT_WORKING_CANON.md`
-6. `docs/07_decisions/ADR-0007-SECOND-BRAIN-HUMAN-WIKI-RELATIONAL-GRAPH.md` for knowledge architecture
-7. `docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md`
-8. only the domain/source cluster required by the current task.
+6. `docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`
+7. `docs/07_decisions/ADR-0007-SECOND-BRAIN-HUMAN-WIKI-RELATIONAL-GRAPH.md` for knowledge architecture
+8. `docs/09_reviews/chatgpt/2026-09-05/57_SECOND_BRAIN_FULL_QA_RELATIONAL_REACTIVATION_AND_DRIFT_REPAIR.md`
+9. only the domain/source cluster required by the current task.
 
-## 7. Operational drift still open
+## 9. Operational drift still open
 
-GitHub remote metadata was observed reporting the BeastWorld repository as **PUBLIC**, while older governance text described it as private. No visibility change is made automatically. Treat this as an explicit access/security drift requiring author intent.
+GitHub remote metadata currently reports the BeastWorld repository as **PUBLIC**, while older governance text described it as private. No visibility change is made automatically. Treat this as an explicit access/security drift requiring author intent.
 
-## 8. History rule
+## 10. History rule
 
-Pass 55 and earlier material is not erased. Use Git history, individual Pass files and source records for provenance, exact wording or regression analysis. Do not copy old `current state` headers back into this file.
+Pass 56 and earlier material is not erased. Use Git history, individual Pass files and source records for provenance, exact wording or regression analysis. Do not copy old `current state` headers back into this file.
