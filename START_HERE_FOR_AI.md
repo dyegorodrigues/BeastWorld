@@ -1,11 +1,11 @@
 # BeastWorld — START HERE FOR AI
 
-**Updated:** 2026-09-05  
-**Current route:** Pass 62 / ADR-0006 + ADR-0007  
+**Updated:** 2026-09-06  
+**Current route:** Pass 63 / ADR-0006 + ADR-0007  
 **Expected branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Epistemic state:** `STRUCTURAL WORKING-CANON / STORY-READY ROUND 1 / SYSTEM HYPOTHESES STRESS-TESTED / NO NEW LORE PROMOTION / NO SCENE LOCK`
+**Epistemic state:** `STRUCTURAL WORKING-CANON / STORY-READY ROUND 1 / LIVING-WORLD + QUINTESSENCE + MATRIX REPAIR / NO NEW LORE PROMOTION / NO SCENE LOCK`
 
-> **This is the current door.** Do not reconstruct BeastWorld from old handoffs or chat memory. Load current state, preserve authorial meaning, then load only the research needed for the design problem.
+> **This is the current door.** Never reconstruct BeastWorld by stacking legacy summaries. Current state routes; author sources prove; Fidelity preserves meaning; archive remains archive.
 
 ## 1. Mandatory HOT read order
 1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
@@ -16,166 +16,163 @@
 6. `docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`
 7. `docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md`
 8. `docs/00_governance/STORY_READY_AUTHOR_ROOM_WORKFLOW.md`
-9. `docs/09_reviews/chatgpt/2026-09-05/62_ROUND1_LAYERED_SYSTEM_MATRIX_BLOOD_ENTITIES_AND_PROTAGONIST_STRESS_TESTS.md`
-10. `V5_CONTEXT_ROUTER.md`
-11. only the task-relevant current Wiki/round/source cluster.
+9. `docs/09_reviews/chatgpt/2026-09-06/63_ROUND1_LIVING_WORLD_QUINTESSENCE_MATRIX_AND_ELEMENTAL_GRAMMAR_REPAIR.md`
+10. `docs/06_research/2026-09-06-round1-living-world-quintessence-matrix-elemental-architecture.md`
+11. `V5_CONTEXT_ROUTER.md`
+12. only the relevant current Wiki/source cluster.
 
-## 2. Current structural Working Canon
-**Older Beast Living World → predatory interworld near-extinction → real living remnant → graft into an initially non-magical but already civilized human world → present BeastWorld as a third composite reality → millennia of reciprocal human–Beast/world co-development → Blood/Matrix/Generated Beasts/Dynasties/Academy → original predator eventually reaches refuge again.**
+## 2. Structural Working Canon — unchanged
+ADR-0006 remains the promotion boundary:
 
-Protagonist's main lived arc begins around 15. Adult Director is earned. First Direct Concession since Founders occurs during the first coordinated Fissure campaign and does not grant instant mastery. Cousin remains legitimate designated successor and independently formidable. Enemy return is independent of protagonist.
+**older Beast Living World → predatory near-extinction → living remnant → graft into an initially non-magical but already civilized human world → third composite BeastWorld → millennia of reciprocal human–Beast/world co-development → Blood/Matrix/Generated Beasts/Dynasties/Academy → original predator eventually reaches refuge again.**
 
-ADR-0006 remains the promotion boundary. **Pass 62 promotes no new mechanism.**
+Protagonist begins main lived arc around 15; adult Director is earned. First Direct Concession since Founders occurs during the first coordinated Fissure campaign and does not grant instant mastery. Cousin remains legitimate designated successor and independently formidable. Enemy return is independent of protagonist.
 
-## 3. Current creative workflow
-Human rounds:
+**Pass 63 promotes no fine mechanic.**
 
-**1 Power/Combat → 2 Society/Naming → 3 Protagonist/Relationships → 4 three Book 1 architectures → 5 select/fuse → 6 youth/adult bridge → 7 sequence map → 8 scenes.**
+## 3. Current human workflow
+**Round 1 Power/Combat → Round 2 Society/Naming → Round 3 Protagonist/Relationships → Round 4 three Book 1 architectures → Round 5 select/fuse → Round 6 youth/adult bridge → Round 7 sequence map → Round 8 scenes.**
 
-Current round: **ROUND 1 — POWER & COMBAT**.
+Current: **ROUND 1 — POWER & COMBAT**.
 
-The process is braided: mechanics are solved only far enough to create character choice, conflict and consequence.
+## 4. Critical Pass63 semantic clarification — Mundo Vivo
+`Mundo Vivo` does **not** mean merely `planet with life`.
 
-## 4. Current strongest Round 1 candidate — HYPOTHESIS ONLY
-> **Quintessence provides the field. Blood/Matrix define living capacity. Training writes personal martial grammar. Concordance governs relationships with other living intelligences. Alchemy externalizes/formalizes processes into civilization.**
+Current strong author direction:
+- an inhabited planet can contain abundant biological life without being a Living World;
+- a Living World is a planet whose matter + biosphere + Quintessence have reached planetary-scale metabiological organization/agency;
+- it can preserve continuity, react, adapt, learn/reorganize and pursue continued development without possessing a human-like monologue;
+- Deep Entities may function as persistent individuated centers of this planetary agency.
 
-Do not call this canon yet.
+Backstage terms such as `agência planetária metabiológica`, `consciência distribuída/policêntrica` or cautious `teleonomia planetária` are reasoning tools, not final vocabulary.
 
-Important division:
-- Blood = living pattern/material/history;
-- Matrix = integration/coherence/regulation;
-- body = remodeled organism;
-- training = competence;
-- concordance = another real life/system actively participating;
-- alchemy = civilization making processes reproducible outside one body.
+## 5. Deep Entities — author clarification
+Do not flatten them into `organs that later became people`.
 
-`Resonance` must not become a universal handwave.
+Strong current hypothesis:
+**they are persistent individuated persons focalized from the Living World's own planetary life — simultaneously the World and themselves.**
 
-## 5. Matrix/Blood leading candidates — NOT CANON
-Matrix currently favors an **anchored distributed** model: body-wide coherence with possible deep renewal anchors associated with marrow-rich axial skeleton. This is inspired by marrow niches and distributed developmental signaling, not asserted real-world science.
+They can have memory, temperament, agency and relationships while remaining fully continuous with the Living World. Original biological bodies may have given greater autonomy before the catastrophe/sacrifice; present material aspects can be real without being the Entity's totality.
 
-Blood currently favors:
-> living material carrying bestial pattern potential; Matrix determines whether/how it becomes a stable part of the organism.
+Four remains a strong author image for the **old specific World**, not universal law. Do not infer four mascot species or four-progenitor total biosphere without testing.
 
-Distinguish inherited Dynastic Blood, acquired Beast material and primordial Entity material + active calibration.
+## 6. Quintessence — current highest-value hypothesis
+The old `mana vs aether` question is being simplified.
 
-Do not turn Beast hunting into XP.
+Current best research architecture, NOT CANON:
+1. **free/cosmic Quintessence** — universal substrate;
+2. **world-organized Quintessence** — Living Worlds concentrate/modulate/cycle it into local signatures;
+3. **assimilated/bound Quintessence** — organisms/materials integrate and store it in persistent architecture.
 
-## 6. Deep Entities — recovered authorial direction
-The original brainstorm already contained a family of ideas involving **four Entities, Living-World/`estrela` language, primordial material and Matrix/Dynasty formation**.
+Potential consequence: permanent altered physiology persists in foreign/poor environments; active amplification can use internal reserves; large external magic relies more on ambient/world-organized supply; foreign Worlds alter recharge/efficiency/compatibility instead of toggling power off.
 
-Current recovered direction, still hypothesis unless promoted:
-- old Beast World specifically may have had four Deep Entities;
-- four is not a universal cosmic law;
-- each is a conscious metabiological organ/manifestation of that Living World with real personality;
-- material aspect is physically the Entity but not its totality;
-- cultures may experience them as civilizational gods;
-- Draconic, Phoenix, Qilin and Oceanic/Draconic-Turtle motifs remain live;
-- Entity ecology may be best modeled as niche architecture + bounded seeding of broad living-pattern families rather than four mascot progenitors of all life.
+The author's remembered reference is **The Beginning After the End** (Arthur Leywin/Sylvie). Study internal augmentation + external magic + deeper substrate as a design problem; do not copy Mana/Aether duality.
 
-Recent author clarification: `estrela` here means approximately **planet/Mundo Vivo**, not astronomical Sun.
+## 7. Matrix — Pass63 repair
+Strong laboratory distinction:
+- **external integration geometry/ritual** = alchemical procedure that induces/recalibrates transformation;
+- **internal living Matrix** = distributed developmental/metabiological organization left in the organism.
 
-## 7. Founders — recovered hypothesis
-Each Entity may have recognized/selected one early human Founder, supplied primordial biological material and actively calibrated a new Matrix. Founder receives **capacity**, not downloaded martial mastery. Human cumulative culture later builds schools, medicine, alchemy, institutions and a Dynastic state.
+Distributed Matrix + possible marrow/axial renewal anchors remains a strong hypothesis, not canon. It may mature/remodel with growth, training, injury, medicine and Concession.
 
-This is being reconciled with current Working Canon `first Direct Concession since Founders`.
+`Loss of coherence` means parts of the transformed organism temporarily stop coordinating the same integrated pattern under load. It does **not** mean generic cultivation crippling.
 
-Final Founder title remains open. Avoid generic `Chosen`/`Guardian`.
+Severe regeneration, including limb reconstruction, remains possible in principle through living pattern + matter + Quintessence + time/medicine/alchemy; costs and true-death boundary remain open.
 
-## 8. Entity communication
-Useful current writer-room model:
-1. Presence
-2. Impression / semantic warning-image
-3. Directed contact / dialogue
-4. Material embodiment
+## 8. Combat / elemental grammar — preserve the actual image
+Martial arts + magic are foundational.
 
-Entity is not a System assistant. It is an independent living intelligence that can refuse, disagree, warn or act according to its own priorities.
+Keep:
+**transformed body → active internal amplification → weapon conduction → contact emission → projection → environmental modeling → rarer high-order expressions.**
 
-## 9. Enemy correction
-Author's baseline enemy concept remains closer to **vitality/living-energy predation by an interworld/demonic civilization/world** than automatic ability copying.
+These are interfaces, not ranks.
 
-Later biological research/adaptation is possible but not baseline. Do not silently give the enemy stolen swordsmanship, memories or voluntary Entity bonds.
+Recognizable elements remain important. Current research model uses deeper modes under visible surfaces:
+- transformation/release → Fire/heat/pressure/impulse; Lightning candidate at high mastery;
+- flow/continuity → Water/pressure/phase; Ice candidate;
+- propagation/movement → Air/wind/sound/vibration;
+- structure/cohesion → Earth/mineral/mass; plant/growth still open.
 
-## 10. Human access — current question
-Current promising zone, still open:
-- baseline Matrix/Quintessence adaptation widespread after millennia;
-- strong deliberate use requires maturation/training;
-- advanced integrations may require medicine/alchemy;
-- Dynastic lineages inherit specialized/stable patterns and historical advantages;
-- common-born excellence remains possible.
+Do not create `Fire Nation`, `Dragon Dynasty = only fire spells`, or a Chinese five-element package by default.
 
-## 11. Protagonist limitation — current leading hypothesis
-Possible paternal + maternal/Oceanic architectures are both legitimate, but existing traditions know them separately better than they understand this rare combined Matrix. High-load integration may create a coherence/coordination bottleneck.
+The author's close-range Fire impact / one-inch-punch-like scene remains a key proof of martial magic integration.
 
-This must **not** become `mixed blood is defective` or `hybrid is automatically superior`.
+## 9. Protagonist correction — hard withdrawal
+**DO NOT ROUTE through the Pass62 `cross-lineage coherence bottleneck / seam` model.** The author rejected it.
 
-It could make Oceanic formation narratively necessary and Direct Concession an opening of new coherent possibility rather than instant power download.
+Blocked as preferred direction:
+- inherent mixed-lineage defect;
+- protagonist under-optimized relative to cousin;
+- Oceanic training as repair of broken half;
+- future enemy exploiting a memorized fixed transition seam.
 
-## 12. Sacrifice/Fissure hypothesis
-WARM:
-`docs/06_research/2026-09-05-sacrificial-graft-living-geometry-hypothesis.md`
+Current better HYPOTHESIS:
+**bilingual/compositional two-lineage repertoire.** Both heritages are legitimate. Protagonist is already unusually trained, dangerous, adaptive and improvisational. Oceanic formation can deepen the maternal tradition because that culture knows it best; progression becomes composition, innovation and experience rather than repair.
 
-High-value image: **the old Living World itself becomes the final sacrificial circuit**; original Entity bodies act as anchors; a Fissure carries real ecological continuity. Human alchemy later formalizes smaller controllable pieces of those Living-World processes.
+Cousin remains formidable independently.
 
-Not promoted.
+## 10. Self perception versus relationship
+Own enhanced senses/reflex/threat detection = self/body/Matrix capability.
 
-## 13. Scene seed — not chronology
+A Besta/Entity noticing something and choosing to share perception/impression = relational channel involving another actual subject.
+
+Do not confuse them and do not make `resonance` a magic wildcard.
+
+## 11. Enemy correction
+Baseline remains closer to **vitality/living-resource consumption/parasitization** than automatic ability copying.
+
+Enemy civilization can later research BeastWorld, adapt biology, create aberrations, change doctrine and train new techniques. No `touch swordsman → swordsmanship.zip`.
+
+Against an improvisational apex protagonist, adaptation must remain dynamic: environment, strategy, doctrine, logistics, simultaneous fronts, specialized matchups and counter-counterplay.
+
+## 12. Scene seed — detailed and non-canon
 `docs/04_story/scene_seeds/OCEANIC_SOVEREIGN_FORBIDDEN_RESTORATION_SEED.md`
 
-Use only to stress-test:
-- emotional power regulation;
-- Entity contact;
-- Fissure pursuit;
-- forbidden life-transmutation;
-- genuine same-person restoration without cheap resurrection;
-- protagonist capable of moral atrocity.
+Expanded 06/09 to preserve the author's full audiovisual/moral vision, including formidable elder sovereign, late arrival, collapse, Entity/World contact, real enemy civilization, lucid atrocity, forbidden restoration and the protagonist's possible `does not hesitate` loyalty/brutality axis.
 
-Continuity-window restoration is hypothesis only.
+Still `NOT CANON / NOT TIMELINE`.
 
-## 14. Reference engineering
-Full method:
+Separate from older Director death/return exploration:
+`docs/09_reviews/chatgpt/2026-08-28/16_ACTION_WRITING_REFERENCE_PASS_DIRECTOR_DEATH_RETURN.md`.
+
+## 13. Reference engineering
+Method:
 `docs/06_research/REFERENCE_FULL_SPECTRUM_DECOMPOSITION_METHOD.md`
 
-Reference atlas:
+Atlas:
 `docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md`
 
-**Do not reduce a reference to one trick.** Shorthand is routing only. When relevant, study whole-work premise, lived world, geography, institutions, characters, relationships, enemies, arcs, power, combat/choreography, visual design, emotion, adaptation and failures.
+Do not reduce references to one trick. When relevant study whole-work premise, world, geography, society, system, characters, relationships, enemies, arcs, combat, audiovisual language, progression, emotional rhythm and failures.
 
-Research supplies constraints/analogies/questions. Fantasy supplies BeastWorld's mechanism.
-
-## 15. Communication rule
-Author-facing movement:
-**make the idea visible → explain machinery → show constraint/consequence/status → add compact research note when useful.**
-
-Do not revert to sterile system-report language. Do not hide weak mechanisms behind poetic hype.
-
-## 16. Planning scale
+## 14. Author-facing explanation/layout
 Use:
-**saga vector → book spine → sequences → scenes → chapters**.
+**felt image → mechanism → consequence/status → compact research note.**
 
-Do not choose number of books/chapters before natural story-state transitions exist.
+Also: **avoid excessive one-sentence-per-line verticalization.** The author works on tablet and loses continuity when one idea consumes multiple screens. Prefer compact paragraphs, tables and efficient headings. Lists are tools, not default layout.
 
-## 17. Next task
-Before asking author to approve the whole system, make one compact synthesis round:
-1. show the candidate through concrete characters/scenes;
-2. compare the leading Matrix/access alternatives;
-3. stress protagonist+cousin+Concession;
-4. identify the **smallest 4–7 rules** worth author approval now;
-5. leave everything else open.
+## 15. Legacy quarantine — HARD
+`Five Seats`, `Four Crowns`, historical `Great Consciousness` packages and other V3/V4 assemblies are **ARCHIVE/PROVENANCE ONLY**.
 
-## 18. Current safeguards
-- broad biodiversity, not four mascot species;
-- no old Five Seats/Four Crowns revival;
-- `Fei` = Fênix correction;
-- no purity-percentage ladder;
-- no instant mastery;
-- no unlimited Entity avatars;
-- no universal free flight;
-- no generic portal monster loop;
-- no scene prose before Story-Ready + scene gates.
+Do not revive them because a current concept shares words such as Entity, World, Crown, primordial or consciousness. Reopen only when a current author source explicitly requests the exact package.
 
-## 19. Historical contamination guard
-Root `HANDOFF.md` and `PROJECT_STATE.md` are redirects. Old V3/V4 pages/nodes are provenance/history unless explicitly reconciled.
+Root `HANDOFF.md` and `PROJECT_STATE.md` remain redirects.
 
-## 20. Operational drift
-GitHub still reports repository as PUBLIC while older governance said private. No visibility change has been made automatically.
+## 16. Current next task
+Do **not** demand canon decisions from the author immediately.
+
+Stress-test the Pass63 architecture against:
+- low/incompatible Quintessence foreign World;
+- ordinary/non-Dynastic human;
+- limb loss/regeneration;
+- Founder integration ritual;
+- Generated Beast;
+- Direct Concession;
+- Lightning derivative;
+- healer/alchemist;
+- vitality-predatory enemy;
+- adult apex protagonist.
+
+Goal: determine whether the same few laws survive. Only then ask for the smallest author approval needed to close Round 1.
+
+## 17. Operational drift
+GitHub still reports repository as PUBLIC while older governance described private. No visibility change has been made automatically.
