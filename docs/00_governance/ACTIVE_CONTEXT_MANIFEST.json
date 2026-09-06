@@ -1,10 +1,10 @@
 {
-  "schema_version": 6,
+  "schema_version": 7,
   "generated_at": "2026-09-05",
-  "session_id": "BW-SESSION-2026-09-05-024",
+  "session_id": "BW-SESSION-2026-09-05-025",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "mode": "WORKING_CANON_PLUS_STORY_READY_AUTHOR_ROOM_ROUND1_V2_ENTITY_GRAFT_HYPOTHESIS_RESERVOIR",
-  "epistemic_state": "AUTHOR_VALIDATED_STRUCTURAL_WORKING_CANON / STORY_READY_SKELETON_IN_DEVELOPMENT / NEW_ENTITY_GRAFT_MATERIAL_HYPOTHESIS_ONLY / NO_SCENE",
+  "mode": "WORKING_CANON_PLUS_STORY_READY_ROUND1_LAYERED_SYSTEM_SYNTHESIS",
+  "epistemic_state": "STRUCTURAL_WORKING_CANON / ROUND1_SYSTEM_HYPOTHESES_STRESS_TESTED / NO_NEW_LORE_PROMOTION / NO_SCENE_LOCK",
   "include": [
     "docs/00_governance/CURRENT_SESSION_POINTER.json",
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
@@ -13,15 +13,22 @@
     "docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md",
     "docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md",
     "docs/00_governance/STORY_READY_AUTHOR_ROOM_WORKFLOW.md",
+    "docs/09_reviews/chatgpt/2026-09-05/62_ROUND1_LAYERED_SYSTEM_MATRIX_BLOOD_ENTITIES_AND_PROTAGONIST_STRESS_TESTS.md",
     "V5_CONTEXT_ROUTER.md"
   ],
   "warm_on_demand": [
-    "docs/09_reviews/chatgpt/2026-09-05/61_ROUND1_AUTHOR_HYPOTHESIS_CAPTURE_ENTITY_STAR_GRAFT_AND_MODEL_REFRAME.md",
-    "docs/08_sources/conversations/2026-09-05-author-round1-entities-star-graft-sacrifice-interface-source-record.md",
-    "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md",
-    "docs/09_reviews/chatgpt/2026-09-05/59_REFERENCE_ENGINEERING_ATLAS_JJK_FOG_HILL_ENSEMBLE_ACTION_AND_COMPLEXITY_BUDGET.md",
-    "docs/09_reviews/chatgpt/2026-09-05/55_ORIGIN_WORLD_GRAFT_SYMBIOGENESIS_AND_YOUNG_PROTAGONIST_RECONSTRUCTION.md",
-    "docs/05_visual/COMBAT_LANGUAGE.md"
+    "docs/08_sources/conversations/2026-09-05-author-round1-entity-organs-dynastic-founders-taboo-scene-source-record.md",
+    "docs/06_research/2026-09-05-round1-v3-layered-power-system-stress-tests.md",
+    "docs/06_research/2026-09-05-round1-v4-three-matrix-models.md",
+    "docs/06_research/2026-09-05-round1-v5-blood-roles-and-primordial-concession.md",
+    "docs/06_research/2026-09-05-round1-v6-four-entity-ecology-models.md",
+    "docs/06_research/2026-09-05-round1-v7-human-access-models-and-scene-yield-tests.md",
+    "docs/06_research/2026-09-05-round1-v8-matrix-anchor-anatomy.md",
+    "docs/06_research/2026-09-05-round1-v9-protagonist-pre-concession-limitations.md",
+    "docs/06_research/2026-09-05-sacrificial-graft-living-geometry-hypothesis.md",
+    "docs/04_story/scene_seeds/OCEANIC_SOVEREIGN_FORBIDDEN_RESTORATION_SEED.md",
+    "docs/06_research/REFERENCE_FULL_SPECTRUM_DECOMPOSITION_METHOD.md",
+    "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md"
   ],
   "working_canon_unchanged": [
     "Present BeastWorld is a third composite reality created by a living remnant of an older Beast World grafting into an initially non-magical but already civilized human world",
@@ -32,46 +39,32 @@
     "Cousin is legitimate designated successor and independently formidable",
     "Reciprocal negotiated co-development versus forced extractive incorporation is the current structural thematic opposition"
   ],
-  "round1_reframe": {
-    "old_labels_not_clean_alternatives": ["Corpo Vivo","Ressonância","Gramática Pessoal"],
-    "new_rule": "Compare three genuinely different central engines; test body, resonance and personal grammar as dimensions inside each",
-    "demonstration_rule": "Use the same concrete combat or character problem for all candidate engines so differences are visible rather than terminological"
+  "round1_strongest_candidates_not_promoted": {
+    "layered_power": "Quintessence provides field; Blood/Matrix define living capacity; training writes personal martial grammar; concordance governs relationships with other living intelligences; alchemy externalizes/formalizes processes into civilization",
+    "matrix": "anchored distributed Matrix; possible axial marrow renewal anchors plus body-wide coherence",
+    "blood": "living biological material carries bestial pattern potential; Matrix integrates/stabilizes it",
+    "entity_ecology": "four old-world Entity organs as ecological niche architects with bounded ability to seed foundational living-pattern families; four not universal cosmic law",
+    "human_access": "widespread baseline Matrix/Quintessence biology plus training/maturation for strong use and advanced integration for specialized capacities",
+    "protagonist_limit": "cross-lineage coherence bottleneck with bounded throughput consequence, not mixed-blood defect",
+    "founders": "each old-world Entity may recognize a human Founder and actively calibrate primordial biological material into a new human Matrix; capacity is given, mastery is learned"
   },
-  "pass61_hypotheses_not_promoted": [
-    "Deep Entities may function as near-civilizational gods in human experience while remaining metabiological Living-World-integrated persons",
-    "Entity-human communication may occur through semantic or resonant internal contact without becoming a literal System assistant",
-    "preserved primordial biological material may be part of protagonist history but is not automatically identical to Blood Matrix or Concession",
-    "sacrificial world-scale Quintessence/alchemical transmutation may use original Entity bodies to open a Fissure and carry real ecological continuity",
-    "Fissure crossing may be brief while the long evolutionary interval occurs after graft",
-    "host Living World may be life-rich yet pre-awakened in world-consciousness terms",
-    "host Quintessence or vital potential may provide resonant anchoring for the remnant",
-    "graft may be immediately harmonious yet generationally transformative",
-    "a non-Dynastic shamanic or magic-heavy region remains a deferred world-expansion possibility"
+  "author_clarifications": [
+    "recent estrela wording means planet/Living World rather than astronomical Sun",
+    "enemy baseline is vitality/living-energy predation rather than automatic technique copying",
+    "four Deep Entities are recalled as specific to the old Beast World and as conscious organs/manifestations of that Living World",
+    "Entity contact should remain independent-person relationship, not RPG/Nano-Machine assistant",
+    "Dynasties should ultimately be differentiated state/nation civilizations, not four identical Houses",
+    "reference studies should decompose whole works rather than assign one trick to each"
   ],
-  "semantic_guard": "The author's term estrela is currently ambiguous and must not be silently normalized to astronomical star planet world-core or another physical category",
-  "reference_roles": [
-    "JJK: whole narrative engineering, strongest-character strategic gravity, individualized power, relationships, institutions and rule-generated situations",
-    "Fog Hill: body weapon personality terrain and legible kinetic choreography",
-    "Solo Leveling: visible progression and earned presence",
-    "Nano Machine: competence-acquisition pleasure",
-    "Fullmetal: few deep rules generating many consequences",
-    "The Witcher and Assassin's Creed may be used selectively for living-world cultural/location/institutional flow when relevant rather than as automatic style templates"
-  ],
-  "current_round": "ROUND1_POWER_AND_COMBAT_STORY_READY_V2",
-  "round1_questions": [
-    "What physically makes Quintessence usable by a person?",
-    "What does Blood contribute without becoming purity score or installed technique?",
-    "What does Matrix do that Blood does not?",
-    "What role does Beast or Generated Beast play?",
-    "What must be learned through martial training?",
-    "How do weapon and body interact with magic?",
-    "Can and how does an Entity communicate with a person?",
-    "How does someone visibly progress?",
-    "What costs limits and counterplay prevent universal solutions?",
-    "What exactly does Direct Concession change without granting mastery?"
-  ],
-  "context_hygiene": "Capture high-value chat insights; maintain compact current routing; proactively recommend a clean new chat when it becomes safer; provide a concise rehydration handoff; never claim visibility into hidden token/cache internals",
-  "next_action": "Run Round 1 v2 with three genuinely different central Power and Combat engines demonstrated through the same scenario and compared for story consequences",
+  "scene_seed_not_canon": "docs/04_story/scene_seeds/OCEANIC_SOVEREIGN_FORBIDDEN_RESTORATION_SEED.md",
+  "scene_seed_function": "stress-test emotion without rage buff, Entity contact, Fissure pursuit, forbidden life-transmutation, same-person restoration and protagonist moral atrocity",
+  "continuity_window_hypothesis": "a coherent metabiological identity may persist briefly after biological collapse; if lost completely it cannot be rebuilt by energy alone",
+  "current_round": "ROUND1_POWER_AND_COMBAT_COMPACT_SYNTHESIS_BEFORE_AUTHOR_APPROVAL",
+  "next_action": "Present a compact vivid synthesis of the strongest Round 1 candidate, compare its nearest alternatives through concrete scenes, and identify the smallest set of system rules worth explicit author approval while leaving details open",
   "scene_status": "BLOCKED_UNTIL_STORY_READY_SKELETON_AND_EXISTING_SCENE_GATES_PASS",
-  "promotion_level": "WORKING-CANON_STRUCTURAL_ONLY"
+  "promotion_level": "WORKING-CANON_STRUCTURAL_ONLY",
+  "known_corrections": [
+    {"wrong":"Fei / anciã da Fei","correct":"Fênix","promotion_effect":"none"}
+  ],
+  "context_hygiene": "Keep chat as workshop, capture high-value author/AI insights, route current state compactly, and recommend a new chat only when coherence/retrieval signals make it safer; never claim hidden token/cache telemetry"
 }
