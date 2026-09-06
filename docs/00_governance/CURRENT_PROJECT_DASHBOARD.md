@@ -1,127 +1,177 @@
 # BeastWorld — Current Project Dashboard
 
 **Updated:** 2026-09-05  
-**Current pass:** 60  
+**Current pass:** 62  
 **Branch:** `chatgpt/beastworld-v5-reconciliation-2026-08-26`  
-**Mode:** `STRUCTURAL WORKING-CANON / STORY-READY SKELETON IN DEVELOPMENT / SEMANTIC + COMMUNICATION FIDELITY / WARM REFERENCE ATLAS / NO SCENE`
+**Mode:** `STRUCTURAL WORKING-CANON / STORY-READY ROUND 1 / SYSTEM HYPOTHESES STRESS-TESTED / NO NEW LORE PROMOTION / NO SCENE LOCK`
 
 ## Read first
-
-1. `docs/00_governance/CURRENT_SESSION_POINTER.json`
-2. `docs/00_governance/ACTIVE_CONTEXT_MANIFEST.json`
+1. `CURRENT_SESSION_POINTER.json`
+2. `ACTIVE_CONTEXT_MANIFEST.json`
 3. this dashboard
 4. ADR-0006
 5. current Bible
-6. `docs/00_governance/AUTHORIAL_FIDELITY_PACKET_2026-09-05.md`
-7. `docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md`
-8. `docs/00_governance/STORY_READY_AUTHOR_ROOM_WORKFLOW.md`
-9. only the relevant current domain cluster.
+6. Authorial Fidelity Packet
+7. Explanation Style / Technical Lexicon
+8. Story-Ready Author Room Workflow
+9. Pass 62
+10. only the relevant Round 1/Wiki/source material.
 
-Pass 59 reference atlas is **WARM/task-specific**, not mandatory HOT:
-`docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md`
+## What is actually current
+ADR-0006 remains the lore-promotion boundary.
 
-## Current authority
+**Older Beast Living World → predatory near-extinction → living remnant → graft into an initially non-magical but already civilized human world → third composite BeastWorld → millennia of reciprocal human–Beast/world development → Blood/Matrix/Generated Beasts/Dynasties/Academy → original predator reaches refuge again.**
 
-ADR-0006 remains the lore-promotion boundary. **Passes 59–60 promote no new lore.**
+Protagonist begins main lived arc around 15. Adult Director is earned. Direct Concession during first coordinated Fissure campaign is current Book 1 axis but not instant mastery. Cousin remains legitimate formidable successor.
 
-Current spine:
+## Where the creative room is
+Current round: **ROUND 1 — POWER & COMBAT**.
 
-**older Beast Living World → predatory near-extinction → living remnant → graft into an initially non-magical but civilized human world → third composite BeastWorld → millennia of reciprocal human–Beast/world development → current biological/civilizational systems → return of the original predator.**
+The goal is no longer `invent more rules`. It is to find the smallest rule cluster that produces:
+- different fighters;
+- training;
+- Bestas as people;
+- medicine/alchemy;
+- Founders;
+- Direct Concession;
+- enemy counterplay;
+- common-born and Dynastic careers;
+- future apex protagonist;
+without exceptions multiplying.
 
-The protagonist's main lived story begins around fifteen. The adult Director is earned. Direct Concession occurs during the first coordinated Fissure campaign but does not install mastery. The cousin is the legitimate formidable successor. The enemy's return is independent of the protagonist.
+## Strongest current layered candidate — HYPOTHESIS
+> **Quintessence provides the field. Blood/Matrix define living capacity. Training writes personal martial grammar. Concordance governs relationships with other living intelligences. Alchemy externalizes/formalizes processes into civilization.**
 
-## Pass 60 — Story-Ready Skeleton
+Jobs:
+- Blood = living pattern/material/history;
+- Matrix = integration/coherence/regulation;
+- body = remodeled organism;
+- training = competence;
+- concordance = another real life/system participating;
+- alchemy = civilization making processes persistent/reproducible outside one body.
 
-The project no longer treats the four existing P0 questions as the author's entire interface. They remain **mandatory scene gates**, but first we build the minimum interoperable skeleton needed to answer them intelligently.
+This is not promoted yet.
 
-### Human-facing questions
-1. **How does this world work?**
-2. **Who lives in it and what do they want?**
-3. **What happens first that cannot be taken back?**
-4. **How does that first story grow into the larger saga?**
+## Matrix candidate — HYPOTHESIS
+Leading model: **anchored distributed Matrix**.
 
-### Round order
-1. **Power & Combat** — few deep rules, learned skill, Beast relationship, costs, counterplay and visible growth.
-2. **Society & Naming** — define Dynasty/House/lineage/state/order/Academy meanings before proper names.
-3. **Protagonist & Relationship Web** — minimum ensemble with independent wants and competence ecology.
-4. **Three Book 1 Architectures** — full causal spines, not isolated opening scenes.
-5. **Select/Fuse** — choose/hybridize and close incident, entity relation, enemy constraint and ensemble gates.
-6. **Youth → Adult Director Bridge** — only then decide time-skip model.
-7. **Sequence Map** — chapters, subplots, reveals, quiet life, research, Academy, travel and battles.
-8. **Scenes** — use `CREATIVE_SCENE_GATE.md`.
+Potential physical implementation: deep renewal/anchor architecture associated with marrow-rich axial skeleton plus body-wide coherence.
 
-Current round: **ROUND 1 — POWER & COMBAT STORY-READY**.
+Why it is promising:
+- avoids mana-core/dantian;
+- connects Blood production/integration to a physical biology;
+- gives medicine/injury real handles;
+- supports Concession without installing technique;
+- supports Generated Beast autonomy;
+- does not reduce identity to one removable `core`.
 
-For each major round, normally generate **3 structurally different options**, show image + mechanism + consequences + risks + reference lessons + copying hazards, let the author choose/reject/hybridize, stress-test, and promote only explicitly accepted pieces.
+## Blood candidate — HYPOTHESIS
+> **Sangue carries living bestial pattern potential; Matrix decides whether/how that potential becomes a stable part of an organism.**
 
-Full process:
-`docs/00_governance/STORY_READY_AUTHOR_ROOM_WORKFLOW.md`
+Distinguish:
+1. inherited Dynastic Blood;
+2. acquired Beast biological material;
+3. primordial Entity material + active Entity calibration.
 
-## Pass 59 — reference engineering atlas
+Killing a rare Besta is not automatic leveling.
 
-Jujutsu Kaisen is a primary **whole-story engineering** reference: individualized power identity, rules that generate situations, relationships, institutional pressure, irreversible consequences, Gojo-level strategic gravity and ensemble relevance.
+## Deep Entities — recovered direction, still controlled
+The author clarified/recovered a prior intended image already present in the origin brainstorm:
+- old Beast World may specifically have had **four** Deep Entities;
+- four is not universal cosmic law;
+- each is a conscious metabiological organ/manifestation of that Living World with its own personhood;
+- Draconic, Phoenix, Qilin and Oceanic/Draconic-Turtle motifs remain live;
+- material aspect is really the Entity but not all of it;
+- cultures may experience them as civilizational gods.
 
-Fog Hill is studied for body/weapon/personality/terrain and legible extreme action. Solo Leveling for visible progression and earned presence, with the caution that an excessively protagonist-centered structure can become monotonous. Nano Machine for competence-acquisition pleasure. Fullmetal Alchemist for **few deep rules → many personal/civilizational consequences**.
+Current ecology candidate:
+**Entity as ecological niche architect + bounded living-pattern seeder**, allowing broad biodiversity beyond four mascots.
 
-Hypotheses preserved but not canonized include progression by verbs, biomecânica bestial, choreography regimes, competence ecology, strongest-character systemic pressure, Academy feedback loop and enemy adaptation loop.
+`estrela` in this recent author usage means approximately **planet/Mundo Vivo**, not the Sun.
 
-## Complexity-budget rule
+## Founders — HYPOTHESIS
+Each Entity may have recognized one early human Founder, given primordial biological material and actively calibrated a Matrix. Founder gains capacity, then humans spend generations building technique, medicine, alchemy, institutions and a Dynastic state.
 
-Before deepening a mechanic ask:
+Final Founder title remains open. Avoid weak placeholders like `Chosen` or generic `Guardian`.
 
-> **What can this rule make a character do, choose, discover, fear, lose, build, fight, teach or change that the story could not do as well without it?**
+## Human access — HYPOTHESIS
+Current promising zone:
+- baseline Matrix/Quintessence adaptation widespread after millennia;
+- high-performance use still requires maturation/training;
+- advanced integrations may require medicine/alchemy;
+- Dynastic lineages inherit specialized/stable high-value patterns and historical advantages;
+- common-born excellence remains possible.
 
-Prefer few deep generative rules with many consequences. Do not let speculative edge cases block story development unless they expose a genuine contradiction.
+## Enemy correction
+Baseline concept remains closer to **predation/consumption of vitality/living energy** than automatic ability copying.
 
-## Adult Director / time skip
+Enemy can study, adapt, experiment and potentially learn to exploit BeastWorld biology later. It does not automatically steal swordsmanship, memory or voluntary relationships.
 
-The adult Director remains a strong future horizon. Exact chronology is **OPEN**.
+## Protagonist pre-Concession — HYPOTHESIS
+Current strongest candidate:
+**cross-lineage coherence bottleneck + bounded throughput consequence**.
 
-Models retained for later comparison:
-1. extended youth phase;
-2. Book 1 youth → major Book 2 jump;
-3. phased aging / smaller selective jumps;
-4. optional future-fragment model if it improves promise without destroying uncertainty.
+Possible paternal and maternal/Oceanic architectures are both legitimate. Existing traditions understand each separately better than they understand this rare combined Matrix. That creates a training/research problem, not `mixed blood is defective`.
 
-Do not choose until Book 1 architecture shows what a jump would preserve or erase.
+This can make Oceanic formation meaningful and Direct Concession an opening of new coherent capacity rather than a power download.
 
-## Semantic fidelity still required
+## Scene seed preserved, not timeline
+`docs/04_story/scene_seeds/OCEANIC_SOVEREIGN_FORBIDDEN_RESTORATION_SEED.md`
 
-Do not lose broad Beast biodiversity; numinous/person-like deep entities; civilized pre-magic humans; reciprocal human/Beast contribution; bodily/developmental Sangue/Matriz/Bestas Geradas; morphology/materialization/maturity/autonomy distinction; powerful-but-incomplete protagonist; family/cousin nuance; Academy as civilizational/social engine; physically readable combat; Fissures as interworld frontiers; enemy as adaptive civilization; resonant notation; and the tonal bandwidth of beauty, brutality, humor, romance, family, friendship, everyday life, wonder, horror, discovery and war.
+Purpose: test whether the same rules can support extreme grief, Entity contact, Fissure pursuit, forbidden life-transmutation, real same-person restoration and a protagonist who crosses a moral abyss.
 
-## Known transcription correction
+Continuity-window restoration remains a dangerous hypothesis, not established lore.
 
-`Fei` / `anciã da Fei` was a capture error. Correct referent: **Fênix**. This does not promote a final character configuration.
+## Sacrificial graft candidate
+Strong preserved image:
+**the old Living World itself becomes the final sacrificial circuit**. Terrain/ecology/Quintessence networks + original Entity bodies converge to preserve real ecological continuity through a Fissure.
 
-## Current Notion route
+Human alchemy may later formalize smaller controllable fragments of processes already performed by the Living World/Entities.
 
-Root: `🌒 BEASTWORLD — Segundo Cérebro / HOME`
+Not promoted.
 
-- `00 — AGORA`
-  - `ROTA DE CRIAÇÃO — Esqueleto Story-Ready → Livro 1 → Saga`
-- `01 — ENCICLOPÉDIA ATUAL`
-- `02 — AUTORIDADE & CÂNONE`
-- `03 — LABORATÓRIO`
-  - `LAB — Atlas de Referências — Fog Hill, JJK, Solo Leveling, Nano Machine e Fullmetal`
-- `04 — ARQUIVO HISTÓRICO`
-- `05 — FONTES AUTORAIS`
-- `06 — GRAFO & REGISTROS`
-- `07 — MEMÓRIA AUTORAL`
+## Fissures
+Keep future possibility of learned/stabilized artificial Fissures, but only with serious cost, destination knowledge/anchor, specialists, limited windows and risk. Portals cannot erase geography/logistics.
 
-## Existing scene gates
+## Reference engineering
+References are now governed by:
+`docs/06_research/REFERENCE_FULL_SPECTRUM_DECOMPOSITION_METHOD.md`
 
-Before prose, still close:
-1. `BW-Q-V5-BOOK1-INCITING-001`
-2. `BW-Q-V5-PROT-ENTITY-001`
-3. `BW-Q-V5-ENEMY-CONSTRAINT-001`
-4. `BW-Q-V5-ENSEMBLE-001`
+Shorthand like `Fog Hill = choreography` is only routing. When a work matters to a design problem, study whole relevant dimensions: premise, lived world, geography, institutions, characters, relationships, enemies, arcs, power, combat, visual design, emotional rhythm, adaptation and failures.
 
-Pass 60 places these after enough Story-Ready work exists to answer them intelligently.
+## Planning scale
+**saga vector → book spine → sequences → scenes → chapters**.
 
-## Historical contamination guard
+Do not decide series length/chapter count before natural state transitions exist.
 
-Root `HANDOFF.md` and `PROJECT_STATE.md` remain redirects. Old V3/V4 material remains archive/provenance unless explicitly reconciled. Do not revive rejected packages by habit.
+## What is still NOT decided
+- exact Matrix anatomy;
+- exact Blood mechanics;
+- four Entities as final current truth;
+- exact ecological families/elements;
+- Founder procedure/title;
+- population-wide magic access;
+- protagonist limitation;
+- Fissure engineering;
+- restoration taboo;
+- enemy final ontology/species;
+- Dynastic state names;
+- time-skip model;
+- Book 1 incident/ensemble/antagonist/climax.
+
+## Next Author Room step
+Do a **compact synthesis before approval**, not another hundred-page branch:
+1. make the current system visible through characters;
+2. compare the leading Matrix/access alternatives in concrete scenes;
+3. show what changes for protagonist + cousin + Concession;
+4. identify the smallest 4–7 rules worth author approval now;
+5. leave everything else open.
+
+## Notion route
+`00 — AGORA → ROTA DE CRIAÇÃO` now contains the Round 1 v3–v9 laboratory pages plus the Oceanic scene seed.
+
+## Safeguards
+No old Five Seats/Four Crowns revival. No four mascot species. No purity percentage. No instant mastery. No universal free flight. No portal monster-of-the-week. `Fei` remains corrected to **Fênix**.
 
 ## Access drift
-
-GitHub currently reports BeastWorld as **PUBLIC**, while older governance text described it as private. No visibility change has been made automatically.
+Repository metadata still reports PUBLIC while older governance described private. No automatic visibility change.
