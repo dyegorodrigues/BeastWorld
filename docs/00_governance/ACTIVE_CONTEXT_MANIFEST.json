@@ -1,10 +1,10 @@
 {
-  "schema_version": 7,
+  "schema_version": 8,
   "generated_at": "2026-09-05",
   "session_id": "BW-SESSION-2026-09-05-025",
   "branch": "chatgpt/beastworld-v5-reconciliation-2026-08-26",
-  "mode": "WORKING_CANON_PLUS_STORY_READY_ROUND1_LAYERED_SYSTEM_SYNTHESIS",
-  "epistemic_state": "STRUCTURAL_WORKING_CANON / ROUND1_SYSTEM_HYPOTHESES_STRESS_TESTED / NO_NEW_LORE_PROMOTION / NO_SCENE_LOCK",
+  "mode": "WORKING_CANON_PLUS_STORY_READY_ROUND1_COMPACT_SYNTHESIS",
+  "epistemic_state": "STRUCTURAL_WORKING_CANON / SIX_GENERATIVE_SYSTEM_LAWS_PROPOSED_NOT_PROMOTED / IMPLEMENTATION_HYPOTHESES_OPEN / NO_SCENE",
   "include": [
     "docs/00_governance/CURRENT_SESSION_POINTER.json",
     "docs/00_governance/CURRENT_PROJECT_DASHBOARD.md",
@@ -14,6 +14,7 @@
     "docs/00_governance/AUTHOR_EXPLANATION_STYLE_AND_TECHNICAL_LEXICON_2026-09-05.md",
     "docs/00_governance/STORY_READY_AUTHOR_ROOM_WORKFLOW.md",
     "docs/09_reviews/chatgpt/2026-09-05/62_ROUND1_LAYERED_SYSTEM_MATRIX_BLOOD_ENTITIES_AND_PROTAGONIST_STRESS_TESTS.md",
+    "docs/06_research/2026-09-05-round1-v10-compact-author-synthesis.md",
     "V5_CONTEXT_ROUTER.md"
   ],
   "warm_on_demand": [
@@ -31,40 +32,41 @@
     "docs/06_research/2026-09-05-reference-engineering-atlas-fog-hill-jjk-solo-leveling-nano-machine-fma.md"
   ],
   "working_canon_unchanged": [
-    "Present BeastWorld is a third composite reality created by a living remnant of an older Beast World grafting into an initially non-magical but already civilized human world",
-    "Old predatory interworld civilization eventually reaches the refuge independently of protagonist",
-    "Human cumulative culture and Beast Quintessence biology co-develop across millennia",
-    "Main protagonist route begins around age fifteen and adult Director is earned",
+    "Present BeastWorld is the composite born from graft of a surviving old Beast Living World continuity into an initially non-magical but already civilized human world",
+    "Old predator eventually reaches refuge independently of protagonist",
+    "Human cumulative culture and Beast/Quintessence biology co-develop across millennia",
+    "Main protagonist lived arc begins around age fifteen and adult Director is earned",
     "Direct Concession during first coordinated Fissure campaign is current Book 1 axis but not instant mastery",
-    "Cousin is legitimate designated successor and independently formidable",
-    "Reciprocal negotiated co-development versus forced extractive incorporation is the current structural thematic opposition"
+    "Cousin remains legitimate designated successor and independently formidable",
+    "Reciprocal co-development versus forced/extractive incorporation remains structural thematic opposition"
   ],
-  "round1_strongest_candidates_not_promoted": {
-    "layered_power": "Quintessence provides field; Blood/Matrix define living capacity; training writes personal martial grammar; concordance governs relationships with other living intelligences; alchemy externalizes/formalizes processes into civilization",
-    "matrix": "anchored distributed Matrix; possible axial marrow renewal anchors plus body-wide coherence",
-    "blood": "living biological material carries bestial pattern potential; Matrix integrates/stabilizes it",
-    "entity_ecology": "four old-world Entity organs as ecological niche architects with bounded ability to seed foundational living-pattern families; four not universal cosmic law",
-    "human_access": "widespread baseline Matrix/Quintessence biology plus training/maturation for strong use and advanced integration for specialized capacities",
-    "protagonist_limit": "cross-lineage coherence bottleneck with bounded throughput consequence, not mixed-blood defect",
-    "founders": "each old-world Entity may recognize a human Founder and actively calibrate primordial biological material into a new human Matrix; capacity is given, mastery is learned"
-  },
+  "six_candidate_rules_not_promoted": [
+    "Quintessence is Living-World field/substrate rather than videogame mana inventory",
+    "Blood carries living bestial pattern potential and Matrix makes integration coherent",
+    "capacity is distinct from learned mastery",
+    "Besta/Entity relational phenomena are categorically different because another actual living subject participates",
+    "alchemy/medicine/ritual/artifact/Fissure engineering are civilizational externalizations/formalizations of deeper living processes",
+    "growth is multidimensional rather than one universal number"
+  ],
+  "leading_implementation_hypotheses_not_promoted": [
+    "anchored distributed Matrix with possible marrow-rich axial renewal anchors",
+    "widespread baseline human Matrix adaptation with trained high-performance use",
+    "four old-world Deep Entities as conscious Living-World organs/niche architects with bounded pattern seeding",
+    "one Founder per Entity through primordial material plus active calibration",
+    "protagonist cross-lineage coherence bottleneck with bounded throughput consequence",
+    "continuity-window genuine restoration",
+    "bounded artificial Fissures"
+  ],
   "author_clarifications": [
-    "recent estrela wording means planet/Living World rather than astronomical Sun",
+    "estrela in recent author wording means approximately planet/Mundo Vivo rather than astronomical Sun",
     "enemy baseline is vitality/living-energy predation rather than automatic technique copying",
-    "four Deep Entities are recalled as specific to the old Beast World and as conscious organs/manifestations of that Living World",
-    "Entity contact should remain independent-person relationship, not RPG/Nano-Machine assistant",
-    "Dynasties should ultimately be differentiated state/nation civilizations, not four identical Houses",
-    "reference studies should decompose whole works rather than assign one trick to each"
+    "Entity contact is an independent-person relationship rather than System assistant",
+    "Dynasties should ultimately be culturally distinct state/nation civilizations",
+    "references must be studied as whole works when relevant"
   ],
-  "scene_seed_not_canon": "docs/04_story/scene_seeds/OCEANIC_SOVEREIGN_FORBIDDEN_RESTORATION_SEED.md",
-  "scene_seed_function": "stress-test emotion without rage buff, Entity contact, Fissure pursuit, forbidden life-transmutation, same-person restoration and protagonist moral atrocity",
-  "continuity_window_hypothesis": "a coherent metabiological identity may persist briefly after biological collapse; if lost completely it cannot be rebuilt by energy alone",
-  "current_round": "ROUND1_POWER_AND_COMBAT_COMPACT_SYNTHESIS_BEFORE_AUTHOR_APPROVAL",
-  "next_action": "Present a compact vivid synthesis of the strongest Round 1 candidate, compare its nearest alternatives through concrete scenes, and identify the smallest set of system rules worth explicit author approval while leaving details open",
+  "current_round": "ROUND1_AWAIT_AUTHOR_REACTION_TO_COMPACT_SYNTHESIS",
+  "next_action": "Take the author's organic reactions to the six rules, reject/modify/retain them, promote only explicitly accepted abstractions, then solve only the minimum implementation details required to close Round 1",
   "scene_status": "BLOCKED_UNTIL_STORY_READY_SKELETON_AND_EXISTING_SCENE_GATES_PASS",
   "promotion_level": "WORKING-CANON_STRUCTURAL_ONLY",
-  "known_corrections": [
-    {"wrong":"Fei / anciã da Fei","correct":"Fênix","promotion_effect":"none"}
-  ],
-  "context_hygiene": "Keep chat as workshop, capture high-value author/AI insights, route current state compactly, and recommend a new chat only when coherence/retrieval signals make it safer; never claim hidden token/cache telemetry"
+  "context_hygiene": "Current chat is coherent; keep capturing high-value insights and recommend clean handoff only when retrieval/contradiction load materially rises"
 }
